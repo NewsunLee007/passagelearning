@@ -76,7 +76,17 @@ export function ReadingMainRoute() {
   const [refreshFavs, setRefreshFavs] = useState(0);
 
   const sentences = useMemo(() => (data?.sentences ?? []) as Sentence[], [data?.sentences]);
-  const lexicon = data?.lexicon as Record<string, LexiconItem> | undefined;
+  const lexicon = useMemo(() => {
+    const next: Record<string, LexiconItem> = { ...(data?.lexicon ?? {}) };
+    for (const item of data?.vocabItems ?? []) {
+      const key = normalizeWord(item.term);
+      if (!key || next[key]) continue;
+      next[key] = {
+        meaningZh: item.meaningZh
+      };
+    }
+    return next;
+  }, [data?.lexicon, data?.vocabItems]);
   const questions = (data?.readingQuestions ?? []) as ReadingQuestion[];
 
   const byId = useMemo(() => {
@@ -315,6 +325,8 @@ export function ReadingMainRoute() {
   const coverUrl = data.article.coverUrl;
   const articleMeta = getTextbookArticle(data.article.id);
   const adjacent = getAdjacentArticles(data.article.id);
+  const sentenceAudioCount = sentences.filter((sentence) => sentence.audioUrl).length;
+  const hasNaturalAudio = sentenceAudioCount > 0;
 
   return (
     <div className="pb-[74vh]">
@@ -340,6 +352,14 @@ export function ReadingMainRoute() {
             <div className="mt-3 text-sm font-medium text-white/78">
               {[session.className, session.studentName].filter(Boolean).join(" · ")}
             </div>
+            <div className="mt-3 flex flex-wrap gap-2">
+              <span className="rounded-full bg-white/14 px-3 py-1 text-xs font-semibold text-white/92">
+                {hasNaturalAudio ? `真人句音频 ${sentenceAudioCount}/${sentences.length}` : "浏览器合成回退"}
+              </span>
+              <span className="rounded-full bg-white/10 px-3 py-1 text-xs text-white/82">
+                点击句子看解析，点击单词看词义与发音
+              </span>
+            </div>
           </div>
         </div>
 
@@ -360,7 +380,7 @@ export function ReadingMainRoute() {
                   onClick={onPlayAll}
                   className="rounded-full bg-secondary px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-secondary/92"
                 >
-                  {paused ? "继续播放" : "整篇朗读"}
+                  {paused ? "继续播放" : hasNaturalAudio ? "真人朗读" : "系统朗读"}
                 </button>
               ) : (
                 <button

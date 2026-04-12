@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "dev:fullstack": "vercel dev",
     "content:repair": "node scripts/repair_textbook_content.mjs",
-    "db:seed:textbook": "node scripts/seed_neon_articles.mjs"
+    "db:seed:textbook": "node scripts/seed_neon_articles.mjs",
+    "audio:import:html": "node scripts/import_classroom_audio_html.mjs"
   },
   "dependencies": {
     "@neondatabase/serverless": "^1.0.1",

@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { Link, Outlet, useLocation, useNavigate } from "react-router-dom";
+import { ArticleSubnav } from "../components/ArticleSubnav";
 import { getSession } from "../../features/auth/session";
 import { getTextbookArticle } from "../../features/content/catalog";
 
@@ -39,14 +40,6 @@ export function AppLayout() {
               <div className="font-display text-2xl text-secondary">互动阅读</div>
             </button>
 
-            {articleMeta && !isRead && (
-              <div className="hidden min-w-0 flex-1 rounded-full border border-white/70 bg-white/70 px-4 py-2 text-sm text-slate-600 lg:block">
-                <span className="font-medium text-secondary">{articleMeta.unitLabel}</span>
-                <span className="mx-2 text-slate-300">/</span>
-                <span>{articleMeta.title}</span>
-              </div>
-            )}
-
             <div className="ml-auto flex items-center gap-2 sm:gap-3">
               {session.studentName ? (
                 <div className="hidden rounded-full border border-white/70 bg-white/70 px-4 py-2 text-sm text-slate-600 md:block">
@@ -75,6 +68,8 @@ export function AppLayout() {
           </div>
         </header>
       )}
+
+      {showTopBar && articleMeta && <ArticleSubnav article={articleMeta} />}
 
       <main className={isRead ? "px-0 py-0" : "mx-auto max-w-6xl px-4 py-6 sm:px-6"}>{<Outlet />}</main>
     </div>
