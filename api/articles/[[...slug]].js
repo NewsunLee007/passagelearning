@@ -5,10 +5,20 @@ export default async function handler(req, res) {
   if (req.method !== "GET") return methodNotAllowed(res, ["GET"]);
 
   try {
-    const articleId = String(req.query.articleId || "").trim();
-    if (!articleId) return sendError(res, 400, "Article id is required.");
-
+    const slug = req.query.slug;
+    const articleId = Array.isArray(slug) ? String(slug[0] || "").trim() : "";
     const sql = getSql();
+
+    if (!articleId) {
+      const rows = await sql`
+        select id, title, unit
+        from articles
+        where published = true
+        order by created_at asc
+      `;
+      return sendJson(res, 200, rows);
+    }
+
     const rows = await sql`
       select id, title, unit, cover_url, content_json, active_version_id
       from articles
@@ -33,7 +43,6 @@ export default async function handler(req, res) {
 
     return sendJson(res, 200, mergeArticleContent(row, versionContent));
   } catch (error) {
-    return sendError(res, 500, error instanceof Error ? error.message : "Failed to load article.");
+    return sendError(res, 500, error instanceof Error ? error.message : "Failed to load articles.");
   }
 }
-

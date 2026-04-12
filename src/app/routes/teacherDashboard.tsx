@@ -47,7 +47,7 @@ export function TeacherDashboardRoute() {
     setLoading(true);
     setErr(null);
 
-    apiGet<{ studentsCount: number; attempts: AttemptRow[] }>(`/api/teacher/stats?classId=${encodeURIComponent(classId)}`, true)
+    apiGet<{ studentsCount: number; attempts: AttemptRow[] }>(`/api/teacher/classes?classId=${encodeURIComponent(classId)}`, true)
       .then((payload) => {
         if (cancelled) return;
         setStudentsCount(payload.studentsCount);
@@ -141,4 +141,3 @@ function Stat({ label, value }: { label: string; value: string }) {
     </div>
   );
 }
-
