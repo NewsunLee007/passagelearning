@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u3-article",
+    "title": "Your happy smile",
+    "unit": "Unit 3",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "u3-p1",
+        "sentenceIds": [
+          "u3-s1",
+          "u3-s2",
+          "u3-s3",
+          "u3-s4"
+        ]
+      },
+      {
+        "id": "u3-p2",
+        "sentenceIds": [
+          "u3-s5",
+          "u3-s6",
+          "u3-s7",
+          "u3-s8",
+          "u3-s9"
+        ]
+      },
+      {
+        "id": "u3-p3",
+        "sentenceIds": [
+          "u3-s10",
+          "u3-s11",
+          "u3-s12",
+          "u3-s13"
+        ]
+      },
+      {
+        "id": "u3-p4",
+        "sentenceIds": [
+          "u3-s14",
+          "u3-s15",
+          "u3-s16",
+          "u3-s17",
+          "u3-s18",
+          "u3-s19"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "u3-s1",
+      "text": "I put down Charlie and the Chocolate Factory.",
+      "paragraphId": "u3-p1"
+    },
+    {
+      "id": "u3-s2",
+      "text": "But I kept going over the exciting story in my mind.",
+      "paragraphId": "u3-p1"
+    },
+    {
+      "id": "u3-s3",
+      "text": "The book was full of magic.",
+      "paragraphId": "u3-p1"
+    },
+    {
+      "id": "u3-s4",
+      "text": "But Charlie's happy family was the most magical part of the story.",
+      "paragraphId": "u3-p1"
+    },
+    {
+      "id": "u3-s5",
+      "text": "Charlie's home was a small house at the side of a big town.",
+      "paragraphId": "u3-p2"
+    },
+    {
+      "id": "u3-s6",
+      "text": "His family was very poor.",
+      "paragraphId": "u3-p2"
+    },
+    {
+      "id": "u3-s7",
+      "text": "His four grandparents stayed in the only bed in the house.",
+      "paragraphId": "u3-p2"
+    },
+    {
+      "id": "u3-s8",
+      "text": "The family never had enough food.",
+      "paragraphId": "u3-p2"
+    },
+    {
+      "id": "u3-s9",
+      "text": "They always ate watery cabbage soup for dinner.",
+      "paragraphId": "u3-p2"
+    },
+    {
+      "id": "u3-s10",
+      "text": "In winter, the freezing wind swept across the floor all night long.",
+      "paragraphId": "u3-p3"
+    },
+    {
+      "id": "u3-s11",
+      "text": "To my surprise, the family were happy together.",
+      "paragraphId": "u3-p3"
+    },
+    {
+      "id": "u3-s12",
+      "text": "In the evenings, Charlie sat with his grandparents in bed and listened to their stories.",
+      "paragraphId": "u3-p3"
+    },
+    {
+      "id": "u3-s13",
+      "text": "Charlie's parents often joined in.",
+      "paragraphId": "u3-p3"
+    },
+    {
+      "id": "u3-s14",
+      "text": "Every night, the room became a happy place.",
+      "paragraphId": "u3-p4"
+    },
+    {
+      "id": "u3-s15",
+      "text": "The whole family forgot about their hungry and poor life.",
+      "paragraphId": "u3-p4"
+    },
+    {
+      "id": "u3-s16",
+      "text": "This touched me greatly.",
+      "paragraphId": "u3-p4"
+    },
+    {
+      "id": "u3-s17",
+      "text": "In some people's minds, happiness comes from things like money.",
+      "paragraphId": "u3-p4"
+    },
+    {
+      "id": "u3-s18",
+      "text": "But love, in fact, is the key to happiness.",
+      "paragraphId": "u3-p4"
+    },
+    {
+      "id": "u3-s19",
+      "text": "Oscar Wilde once said, \"Keep love in your heart. A life without it is like a sunless garden...\" There are so many reasons to be happy. I think love is the most important one. It can move us, change us and give us a life full of happiness.",
+      "paragraphId": "u3-p4"
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "u3-v1",
+      "term": "go over",
+      "meaningZh": "仔细思考，回顾",
+      "exampleSentenceId": "u3-s2",
+      "distractorsZh": [
+        "越过",
+        "检查",
+        "复习"
+      ]
+    },
+    {
+      "id": "u3-v2",
+      "term": "freezing wind",
+      "meaningZh": "刺骨的寒风",
+      "exampleSentenceId": "u3-s10",
+      "distractorsZh": [
+        "冰冻的风",
+        "微风",
+        "暖风"
+      ]
+    },
+    {
+      "id": "u3-v3",
+      "term": "swept across",
+      "meaningZh": "横扫，吹过",
+      "exampleSentenceId": "u3-s10",
+      "distractorsZh": [
+        "打扫",
+        "掠过",
+        "穿过"
+      ]
+    },
+    {
+      "id": "u3-v4",
+      "term": "join in",
+      "meaningZh": "加入，参与",
+      "exampleSentenceId": "u3-s13",
+      "distractorsZh": [
+        "连接",
+        "参加",
+        "进入"
+      ]
+    },
+    {
+      "id": "u3-v5",
+      "term": "touched",
+      "meaningZh": "感动",
+      "exampleSentenceId": "u3-s16",
+      "distractorsZh": [
+        "触摸",
+        "接触",
+        "触动"
+      ]
+    },
+    {
+      "id": "u3-v6",
+      "term": "key to",
+      "meaningZh": "关键，秘诀",
+      "exampleSentenceId": "u3-s18",
+      "distractorsZh": [
+        "钥匙",
+        "答案",
+        "方法"
+      ]
+    },
+    {
+      "id": "u3-v7",
+      "term": "sunless garden",
+      "meaningZh": "没有阳光的花园",
+      "exampleSentenceId": "u3-s19",
+      "distractorsZh": [
+        "阴暗的花园",
+        "无花的花园",
+        "荒芜的花园"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "u3-st1",
+      "sentenceId": "u3-s12",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u3-c1",
+          "text": "In the evenings",
+          "tag": "时间状语"
+        },
+        {
+          "id": "u3-c2",
+          "text": "Charlie sat with his grandparents in bed",
+          "tag": "主语和谓语"
+        },
+        {
+          "id": "u3-c3",
+          "text": "and listened to their stories",
+          "tag": "并列谓语"
+        }
+      ],
+      "correctOrder": [
+        "u3-c1",
+        "u3-c2",
+        "u3-c3"
+      ],
+      "focusPointsZh": [
+        "时间状语位置",
+        "并列谓语结构"
+      ]
+    },
+    {
+      "id": "u3-st2",
+      "sentenceId": "u3-s19",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u3-c4",
+          "text": "Oscar Wilde once said",
+          "tag": "主语和谓语"
+        },
+        {
+          "id": "u3-c5",
+          "text": "\"Keep love in your heart.",
+          "tag": "引语第一部分"
+        },
+        {
+          "id": "u3-c6",
+          "text": "A life without it is like a sunless garden...\"",
+          "tag": "引语第二部分"
+        },
+        {
+          "id": "u3-c7",
+          "text": "There are so many reasons to be happy.",
+          "tag": "独立句子"
+        },
+        {
+          "id": "u3-c8",
+          "text": "I think love is the most important one.",
+          "tag": "观点表达"
+        },
+        {
+          "id": "u3-c9",
+          "text": "It can move us, change us and give us a life full of happiness.",
+          "tag": "并列谓语"
+        }
+      ],
+      "correctOrder": [
+        "u3-c4",
+        "u3-c5",
+        "u3-c6",
+        "u3-c7",
+        "u3-c8",
+        "u3-c9"
+      ],
+      "focusPointsZh": [
+        "引语结构",
+        "并列句连接",
+        "观点表达顺序"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "u3-rq1",
+      "type": "single_choice",
+      "stem": "What was the most magical part of the story for the author?",
+      "options": [
+        "The chocolate factory",
+        "Charlie's happy family",
+        "The exciting adventures",
+        "The magical characters"
+      ],
+      "answer": "Charlie's happy family",
+      "rationaleZh": "文章第一段最后一句明确指出，查理幸福的家庭是故事中最神奇的部分。",
+      "evidenceSentenceIds": [
+        "u3-s4"
+      ]
+    },
+    {
+      "id": "u3-rq2",
+      "type": "single_choice",
+      "stem": "How did Charlie's family deal with their poor living conditions?",
+      "options": [
+        "They complained all the time",
+        "They were happy together",
+        "They tried to find more food",
+        "They moved to a bigger house"
+      ],
+      "answer": "They were happy together",
+      "rationaleZh": "第三段开头提到，令作者惊讶的是，这个家庭在一起很快乐，他们通过分享故事来忘记饥饿和贫穷。",
+      "evidenceSentenceIds": [
+        "u3-s11",
+        "u3-s15"
+      ]
+    },
+    {
+      "id": "u3-rq3",
+      "type": "single_choice",
+      "stem": "According to the author, what is the key to happiness?",
+      "options": [
+        "Money",
+        "Food",
+        "Love",
+        "Magic"
+      ],
+      "answer": "Love",
+      "rationaleZh": "文章最后一段明确说明，爱实际上是幸福的关键。",
+      "evidenceSentenceIds": [
+        "u3-s18"
+      ]
+    },
+    {
+      "id": "u3-rq4",
+      "type": "single_choice",
+      "stem": "What did the family usually eat for dinner?",
+      "options": [
+        "Bread and butter",
+        "Watery cabbage soup",
+        "Meat and vegetables",
+        "Chocolate"
+      ],
+      "answer": "Watery cabbage soup",
+      "rationaleZh": "第二段描述了他们总是吃稀薄的卷心菜汤作为晚餐。",
+      "evidenceSentenceIds": [
+        "u3-s9"
+      ]
+    },
+    {
+      "id": "u3-rq5",
+      "type": "single_choice",
+      "stem": "What does Oscar Wilde's quote suggest about a life without love?",
+      "options": [
+        "It is exciting",
+        "It is like a sunless garden",
+        "It is full of adventures",
+        "It is peaceful"
+      ],
+      "answer": "It is like a sunless garden",
+      "rationaleZh": "王尔德的引语将没有爱的生活比作没有阳光的花园，暗示其暗淡无光。",
+      "evidenceSentenceIds": [
+        "u3-s19"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "u3-s4",
+      "reasonZh": "这句话通过对比魔法和家庭幸福，突出了文章主题：真正的魔法在于爱和家庭。"
+    },
+    {
+      "sentenceId": "u3-s18",
+      "reasonZh": "这句话简洁有力地表达了文章的核心观点：爱是幸福的关键。"
+    },
+    {
+      "sentenceId": "u3-s19",
+      "reasonZh": "引用了王尔德的名言，用生动的比喻强调了爱的重要性，语言优美富有哲理。"
+    }
+  ]
+}

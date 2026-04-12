@@ -1,0 +1,514 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u10-article",
+    "title": "All work and no play makes Jack a dull boy",
+    "unit": "Unit 4 The art of having fun",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "u10-p1",
+        "sentenceIds": [
+          "u10-s1",
+          "u10-s2",
+          "u10-s3",
+          "u10-s4"
+        ]
+      },
+      {
+        "id": "u10-p2",
+        "sentenceIds": [
+          "u10-s5",
+          "u10-s6",
+          "u10-s7"
+        ]
+      },
+      {
+        "id": "u10-p3",
+        "sentenceIds": [
+          "u10-s8"
+        ]
+      },
+      {
+        "id": "u10-p4",
+        "sentenceIds": [
+          "u10-s9",
+          "u10-s10"
+        ]
+      },
+      {
+        "id": "u10-p5",
+        "sentenceIds": [
+          "u10-s11",
+          "u10-s12",
+          "u10-s13"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "u10-s1",
+      "text": "Imagine staying on an island alone.",
+      "paragraphId": "u10-p1",
+      "keywords": [
+        "imagine",
+        "island",
+        "alone"
+      ]
+    },
+    {
+      "id": "u10-s2",
+      "text": "You can only take five things with you.",
+      "paragraphId": "u10-p1",
+      "keywords": [
+        "take",
+        "five",
+        "things"
+      ]
+    },
+    {
+      "id": "u10-s3",
+      "text": "You might put food, water, tools and clothes on your list.",
+      "paragraphId": "u10-p1",
+      "keywords": [
+        "put",
+        "food",
+        "water",
+        "tools",
+        "clothes",
+        "list"
+      ]
+    },
+    {
+      "id": "u10-s4",
+      "text": "But what about the fifth one?",
+      "paragraphId": "u10-p1",
+      "keywords": [
+        "fifth",
+        "one"
+      ]
+    },
+    {
+      "id": "u10-s5",
+      "text": "Most people would choose something for fun, like a novel, a magazine or a solar media player.",
+      "paragraphId": "u10-p2",
+      "keywords": [
+        "choose",
+        "fun",
+        "novel",
+        "magazine",
+        "solar media player"
+      ]
+    },
+    {
+      "id": "u10-s6",
+      "text": "After all, no one wants to get bored!",
+      "paragraphId": "u10-p2",
+      "keywords": [
+        "after all",
+        "no one",
+        "get bored"
+      ]
+    },
+    {
+      "id": "u10-s7",
+      "text": "Fun can do away with bad feelings and lift our spirits.",
+      "paragraphId": "u10-p2",
+      "keywords": [
+        "do away with",
+        "bad feelings",
+        "lift",
+        "spirits"
+      ]
+    },
+    {
+      "id": "u10-s8",
+      "text": "Just picture yourself watching a funny film on that island.",
+      "paragraphId": "u10-p3",
+      "keywords": [
+        "picture",
+        "watching",
+        "funny film",
+        "island"
+      ]
+    },
+    {
+      "id": "u10-s9",
+      "text": "Sitting under the trees will not be boring at all.",
+      "paragraphId": "u10-p4",
+      "keywords": [
+        "sitting",
+        "trees",
+        "boring"
+      ]
+    },
+    {
+      "id": "u10-s10",
+      "text": "It becomes a moment of joy.",
+      "paragraphId": "u10-p4",
+      "keywords": [
+        "becomes",
+        "moment",
+        "joy"
+      ]
+    },
+    {
+      "id": "u10-s11",
+      "text": "Fun also keeps us feeling youthful.",
+      "paragraphId": "u10-p5",
+      "keywords": [
+        "keeps",
+        "feeling",
+        "youthful"
+      ]
+    },
+    {
+      "id": "u10-s12",
+      "text": "As George Bernard Shaw once said, \"We don't stop playing because we grow old; we grow old because we stop playing.\"",
+      "paragraphId": "u10-p5",
+      "keywords": [
+        "George Bernard Shaw",
+        "stop playing",
+        "grow old"
+      ]
+    },
+    {
+      "id": "u10-s13",
+      "text": "Research also shows that fun brings people closer.",
+      "paragraphId": "u10-p5",
+      "keywords": [
+        "research",
+        "shows",
+        "brings",
+        "closer"
+      ]
+    },
+    {
+      "id": "u10-s14",
+      "text": "No one is an island.",
+      "paragraphId": "u10-p5",
+      "keywords": [
+        "no one",
+        "island"
+      ]
+    },
+    {
+      "id": "u10-s15",
+      "text": "Having fun is a good way to connect with others.",
+      "paragraphId": "u10-p5",
+      "keywords": [
+        "good way",
+        "connect",
+        "others"
+      ]
+    },
+    {
+      "id": "u10-s16",
+      "text": "So, next time, invite your friends to enjoy live music together.",
+      "paragraphId": "u10-p5",
+      "keywords": [
+        "invite",
+        "friends",
+        "enjoy",
+        "live music"
+      ]
+    },
+    {
+      "id": "u10-s17",
+      "text": "It's not just about having fun - you will be closer because of the shared experience!",
+      "paragraphId": "u10-p5",
+      "keywords": [
+        "shared experience",
+        "closer"
+      ]
+    },
+    {
+      "id": "u10-s18",
+      "text": "Fun is important in a number of ways.",
+      "paragraphId": "u10-p5",
+      "keywords": [
+        "important",
+        "number of ways"
+      ]
+    },
+    {
+      "id": "u10-s19",
+      "text": "Don't forget to take some time out to have fun and enjoy life!",
+      "paragraphId": "u10-p5",
+      "keywords": [
+        "take time out",
+        "enjoy life"
+      ]
+    },
+    {
+      "id": "u10-s20",
+      "text": "We need to work hard.",
+      "paragraphId": "u10-p5",
+      "keywords": [
+        "work hard"
+      ]
+    },
+    {
+      "id": "u10-s21",
+      "text": "But we should be able to play hard, too.",
+      "paragraphId": "u10-p5",
+      "keywords": [
+        "play hard"
+      ]
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "u10-v1",
+      "term": "do away with",
+      "meaningZh": "消除",
+      "exampleSentenceId": "u10-s7",
+      "distractorsZh": [
+        "创造",
+        "增加",
+        "忽略"
+      ]
+    },
+    {
+      "id": "u10-v2",
+      "term": "lift our spirits",
+      "meaningZh": "振奋精神",
+      "exampleSentenceId": "u10-s7",
+      "distractorsZh": [
+        "降低情绪",
+        "分散注意力",
+        "保持冷静"
+      ]
+    },
+    {
+      "id": "u10-v3",
+      "term": "youthful",
+      "meaningZh": "年轻的",
+      "exampleSentenceId": "u10-s11",
+      "distractorsZh": [
+        "年老的",
+        "成熟的",
+        "疲惫的"
+      ]
+    },
+    {
+      "id": "u10-v4",
+      "term": "connect with others",
+      "meaningZh": "与他人联系",
+      "exampleSentenceId": "u10-s15",
+      "distractorsZh": [
+        "孤立自己",
+        "批评他人",
+        "忽视他人"
+      ]
+    },
+    {
+      "id": "u10-v5",
+      "term": "shared experience",
+      "meaningZh": "共享的经历",
+      "exampleSentenceId": "u10-s17",
+      "distractorsZh": [
+        "个人成就",
+        "秘密事件",
+        "独自旅行"
+      ]
+    },
+    {
+      "id": "u10-v6",
+      "term": "take some time out",
+      "meaningZh": "抽出时间",
+      "exampleSentenceId": "u10-s19",
+      "distractorsZh": [
+        "浪费时间",
+        "匆忙完成",
+        "推迟计划"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "u10-st1",
+      "sentenceId": "u10-s12",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u10-c1",
+          "text": "As George Bernard Shaw once said,",
+          "tag": "引言部分"
+        },
+        {
+          "id": "u10-c2",
+          "text": "\"We don't stop playing",
+          "tag": "主句开头"
+        },
+        {
+          "id": "u10-c3",
+          "text": "because we grow old;",
+          "tag": "原因状语1"
+        },
+        {
+          "id": "u10-c4",
+          "text": "we grow old",
+          "tag": "主句2"
+        },
+        {
+          "id": "u10-c5",
+          "text": "because we stop playing.\"",
+          "tag": "原因状语2"
+        }
+      ],
+      "correctOrder": [
+        "u10-c1",
+        "u10-c2",
+        "u10-c3",
+        "u10-c4",
+        "u10-c5"
+      ],
+      "focusPointsZh": [
+        "引言结构",
+        "because引导的原因状语从句",
+        "并列句对比"
+      ]
+    },
+    {
+      "id": "u10-st2",
+      "sentenceId": "u10-s17",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u10-c6",
+          "text": "It's not just about having fun -",
+          "tag": "主句1"
+        },
+        {
+          "id": "u10-c7",
+          "text": "you will be closer",
+          "tag": "主句2"
+        },
+        {
+          "id": "u10-c8",
+          "text": "because of the shared experience!",
+          "tag": "原因状语"
+        }
+      ],
+      "correctOrder": [
+        "u10-c6",
+        "u10-c7",
+        "u10-c8"
+      ],
+      "focusPointsZh": [
+        "破折号表示补充说明",
+        "because of引导的原因短语",
+        "句子逻辑关系"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "u10-rq1",
+      "type": "single_choice",
+      "stem": "What is the main purpose of the article?",
+      "options": [
+        "To list items for a trip",
+        "To explain the importance of fun",
+        "To describe an island adventure",
+        "To introduce George Bernard Shaw"
+      ],
+      "answer": "To explain the importance of fun",
+      "rationaleZh": "文章通过多个段落阐述乐趣在消除负面情绪、保持年轻、拉近人际关系等方面的重要性，因此主要目的是解释乐趣的重要性。",
+      "evidenceSentenceIds": [
+        "u10-s7",
+        "u10-s11",
+        "u10-s13",
+        "u10-s18"
+      ]
+    },
+    {
+      "id": "u10-rq2",
+      "type": "single_choice",
+      "stem": "According to the article, what can fun help to do?",
+      "options": [
+        "Make people bored",
+        "Do away with bad feelings",
+        "Stop people from growing old",
+        "Isolate individuals"
+      ],
+      "answer": "Do away with bad feelings",
+      "rationaleZh": "文章明确指出乐趣可以消除不良情绪并振奋精神，对应句子'Fun can do away with bad feelings and lift our spirits.'。",
+      "evidenceSentenceIds": [
+        "u10-s7"
+      ]
+    },
+    {
+      "id": "u10-rq3",
+      "type": "single_choice",
+      "stem": "What does the quote by George Bernard Shaw imply?",
+      "options": [
+        "Playing is only for children",
+        "We stop playing as we age naturally",
+        "Playing prevents aging",
+        "Aging is caused by stopping play"
+      ],
+      "answer": "Aging is caused by stopping play",
+      "rationaleZh": "萧伯纳的引言'We don't stop playing because we grow old; we grow old because we stop playing.'强调停止玩耍会导致变老，而不是变老导致停止玩耍。",
+      "evidenceSentenceIds": [
+        "u10-s12"
+      ]
+    },
+    {
+      "id": "u10-rq4",
+      "type": "single_choice",
+      "stem": "How does fun affect relationships according to the article?",
+      "options": [
+        "It has no effect",
+        "It brings people closer",
+        "It causes conflicts",
+        "It makes people independent"
+      ],
+      "answer": "It brings people closer",
+      "rationaleZh": "文章提到研究表明乐趣能拉近人们的距离，并且共享乐趣体验可以增进亲密关系，如'Research also shows that fun brings people closer.'和'you will be closer because of the shared experience!'。",
+      "evidenceSentenceIds": [
+        "u10-s13",
+        "u10-s17"
+      ]
+    },
+    {
+      "id": "u10-rq5",
+      "type": "single_choice",
+      "stem": "What is the author's final advice?",
+      "options": [
+        "Work hard only",
+        "Avoid fun activities",
+        "Balance work and play",
+        "Play hard without working"
+      ],
+      "answer": "Balance work and play",
+      "rationaleZh": "文章结尾建议既要努力工作，也要尽情玩耍，体现工作与娱乐的平衡，如'We need to work hard. But we should be able to play hard, too.'。",
+      "evidenceSentenceIds": [
+        "u10-s20",
+        "u10-s21"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "u10-s12",
+      "reasonZh": "这句引言语言优美，通过对比和因果倒置，深刻揭示了玩耍与年龄关系的哲理，富有启发性和韵律感。"
+    },
+    {
+      "sentenceId": "u10-s7",
+      "reasonZh": "句子简洁有力，使用'do away with'和'lift our spirits'等生动短语，清晰表达了乐趣对情绪的积极影响。"
+    },
+    {
+      "sentenceId": "u10-s17",
+      "reasonZh": "句子结构平衡，破折号巧妙连接两个相关观点，强调共享体验的价值，语言流畅且富有感染力。"
+    }
+  ]
+}

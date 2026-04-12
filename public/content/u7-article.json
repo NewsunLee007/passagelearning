@@ -1,0 +1,483 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u7-article",
+    "title": "The Steel Roses of China",
+    "unit": "Unit 7",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "u7-p1",
+        "sentenceIds": [
+          "u7-s1",
+          "u7-s2",
+          "u7-s3",
+          "u7-s4",
+          "u7-s5",
+          "u7-s6"
+        ]
+      },
+      {
+        "id": "u7-p2",
+        "sentenceIds": [
+          "u7-s7",
+          "u7-s8",
+          "u7-s9",
+          "u7-s10",
+          "u7-s11"
+        ]
+      },
+      {
+        "id": "u7-p3",
+        "sentenceIds": [
+          "u7-s12",
+          "u7-s13",
+          "u7-s14"
+        ]
+      },
+      {
+        "id": "u7-p4",
+        "sentenceIds": [
+          "u7-s15",
+          "u7-s16",
+          "u7-s17",
+          "u7-s18"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "u7-s1",
+      "text": "The 2022 Women's Asian Cup final was a difficult match.",
+      "paragraphId": "u7-p1",
+      "keywords": [
+        "Asian Cup",
+        "final",
+        "difficult"
+      ]
+    },
+    {
+      "id": "u7-s2",
+      "text": "At half-time, the Chinese team was losing 2-0.",
+      "paragraphId": "u7-p1",
+      "keywords": [
+        "half-time",
+        "losing"
+      ]
+    },
+    {
+      "id": "u7-s3",
+      "text": "Even worse, the team's best player hurt her foot badly.",
+      "paragraphId": "u7-p1",
+      "keywords": [
+        "hurt",
+        "foot",
+        "badly"
+      ]
+    },
+    {
+      "id": "u7-s4",
+      "text": "But she paid no attention to the pain and continued to play.",
+      "paragraphId": "u7-p1",
+      "keywords": [
+        "paid no attention",
+        "pain",
+        "continued"
+      ]
+    },
+    {
+      "id": "u7-s5",
+      "text": "Her brave actions encouraged the whole team.",
+      "paragraphId": "u7-p1",
+      "keywords": [
+        "brave",
+        "actions",
+        "encouraged"
+      ]
+    },
+    {
+      "id": "u7-s6",
+      "text": "None of the players lost heart.",
+      "paragraphId": "u7-p1",
+      "keywords": [
+        "lost heart"
+      ]
+    },
+    {
+      "id": "u7-s7",
+      "text": "They fought on and scored three goals in the last 25 minutes.",
+      "paragraphId": "u7-p1",
+      "keywords": [
+        "fought on",
+        "scored",
+        "goals"
+      ]
+    },
+    {
+      "id": "u7-s8",
+      "text": "The amazing victory led people to look back at the team's early days.",
+      "paragraphId": "u7-p2",
+      "keywords": [
+        "amazing",
+        "victory",
+        "look back",
+        "early days"
+      ]
+    },
+    {
+      "id": "u7-s9",
+      "text": "Those were years of great challenges.",
+      "paragraphId": "u7-p2",
+      "keywords": [
+        "years",
+        "great challenges"
+      ]
+    },
+    {
+      "id": "u7-s10",
+      "text": "In 1986, the China women's football team played its first international match.",
+      "paragraphId": "u7-p2",
+      "keywords": [
+        "1986",
+        "first international match"
+      ]
+    },
+    {
+      "id": "u7-s11",
+      "text": "Both of the teams played hard, but China lost 2-1 to the USA.",
+      "paragraphId": "u7-p2",
+      "keywords": [
+        "played hard",
+        "lost"
+      ]
+    },
+    {
+      "id": "u7-s12",
+      "text": "However, the players never gave up.",
+      "paragraphId": "u7-p2",
+      "keywords": [
+        "never gave up"
+      ]
+    },
+    {
+      "id": "u7-s13",
+      "text": "They took every chance to learn and improve.",
+      "paragraphId": "u7-p2",
+      "keywords": [
+        "took every chance",
+        "learn",
+        "improve"
+      ]
+    },
+    {
+      "id": "u7-s14",
+      "text": "For years, the team created many \"firsts\" in China's sporting history.",
+      "paragraphId": "u7-p3",
+      "keywords": [
+        "created",
+        "firsts",
+        "sporting history"
+      ]
+    },
+    {
+      "id": "u7-s15",
+      "text": "People wondered about the key to their success.",
+      "paragraphId": "u7-p3",
+      "keywords": [
+        "wondered",
+        "key",
+        "success"
+      ]
+    },
+    {
+      "id": "u7-s16",
+      "text": "A team member explained it with just one simple sentence: \"All of us love football and have the same goal.\"",
+      "paragraphId": "u7-p3",
+      "keywords": [
+        "explained",
+        "simple sentence",
+        "same goal"
+      ]
+    },
+    {
+      "id": "u7-s17",
+      "text": "Known as the Steel Roses of China, the team is close to many people's hearts.",
+      "paragraphId": "u7-p4",
+      "keywords": [
+        "Steel Roses",
+        "close to",
+        "hearts"
+      ]
+    },
+    {
+      "id": "u7-s18",
+      "text": "People love them for their courage and hard work.",
+      "paragraphId": "u7-p4",
+      "keywords": [
+        "love",
+        "courage",
+        "hard work"
+      ]
+    },
+    {
+      "id": "u7-s19",
+      "text": "There are still many difficulties ahead.",
+      "paragraphId": "u7-p4",
+      "keywords": [
+        "difficulties",
+        "ahead"
+      ]
+    },
+    {
+      "id": "u7-s20",
+      "text": "But they will rise to every challenge, thanks to their shining spirit.",
+      "paragraphId": "u7-p4",
+      "keywords": [
+        "rise to",
+        "challenge",
+        "shining spirit"
+      ]
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "u7-v1",
+      "term": "paid no attention to",
+      "meaningZh": "没有理会，不在意",
+      "exampleSentenceId": "u7-s4",
+      "distractorsZh": [
+        "非常关注",
+        "仔细研究",
+        "认真对待"
+      ]
+    },
+    {
+      "id": "u7-v2",
+      "term": "lost heart",
+      "meaningZh": "灰心，失去信心",
+      "exampleSentenceId": "u7-s6",
+      "distractorsZh": [
+        "获得勇气",
+        "找到方向",
+        "增强信心"
+      ]
+    },
+    {
+      "id": "u7-v3",
+      "term": "look back at",
+      "meaningZh": "回顾，回想",
+      "exampleSentenceId": "u7-s8",
+      "distractorsZh": [
+        "向前看",
+        "忽视过去",
+        "展望未来"
+      ]
+    },
+    {
+      "id": "u7-v4",
+      "term": "gave up",
+      "meaningZh": "放弃",
+      "exampleSentenceId": "u7-s12",
+      "distractorsZh": [
+        "坚持",
+        "努力",
+        "继续"
+      ]
+    },
+    {
+      "id": "u7-v5",
+      "term": "rise to",
+      "meaningZh": "迎接，应对",
+      "exampleSentenceId": "u7-s20",
+      "distractorsZh": [
+        "逃避",
+        "忽略",
+        "拒绝"
+      ]
+    },
+    {
+      "id": "u7-v6",
+      "term": "shining spirit",
+      "meaningZh": "闪耀的精神",
+      "exampleSentenceId": "u7-s20",
+      "distractorsZh": [
+        "暗淡的情绪",
+        "普通的态度",
+        "消极的心态"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "u7-st1",
+      "sentenceId": "u7-s16",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u7-c1",
+          "text": "A team member",
+          "tag": "主语"
+        },
+        {
+          "id": "u7-c2",
+          "text": "explained it",
+          "tag": "谓语+宾语"
+        },
+        {
+          "id": "u7-c3",
+          "text": "with just one simple sentence",
+          "tag": "方式状语"
+        },
+        {
+          "id": "u7-c4",
+          "text": "\"All of us love football and have the same goal.\"",
+          "tag": "直接引语"
+        }
+      ],
+      "correctOrder": [
+        "u7-c1",
+        "u7-c2",
+        "u7-c3",
+        "u7-c4"
+      ],
+      "focusPointsZh": [
+        "直接引语的用法",
+        "方式状语的位置"
+      ]
+    },
+    {
+      "id": "u7-st2",
+      "sentenceId": "u7-s17",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u7-c5",
+          "text": "Known as the Steel Roses of China",
+          "tag": "过去分词短语作状语"
+        },
+        {
+          "id": "u7-c6",
+          "text": "the team",
+          "tag": "主语"
+        },
+        {
+          "id": "u7-c7",
+          "text": "is close to many people's hearts",
+          "tag": "系表结构"
+        }
+      ],
+      "correctOrder": [
+        "u7-c5",
+        "u7-c6",
+        "u7-c7"
+      ],
+      "focusPointsZh": [
+        "过去分词短语作状语",
+        "系表结构"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "u7-rq1",
+      "type": "single_choice",
+      "stem": "What happened to the Chinese team's best player during the 2022 Asian Cup final?",
+      "options": [
+        "She scored the winning goal.",
+        "She hurt her foot badly.",
+        "She gave up playing.",
+        "She lost heart."
+      ],
+      "answer": "She hurt her foot badly.",
+      "rationaleZh": "文章第三句明确指出球队最好的球员脚部严重受伤。",
+      "evidenceSentenceIds": [
+        "u7-s3"
+      ]
+    },
+    {
+      "id": "u7-rq2",
+      "type": "single_choice",
+      "stem": "How did the Chinese team perform in the last 25 minutes of the match?",
+      "options": [
+        "They lost 2-0.",
+        "They scored three goals.",
+        "They gave up.",
+        "They played defensively."
+      ],
+      "answer": "They scored three goals.",
+      "rationaleZh": "文章第七句说明球队在最后25分钟进了三个球。",
+      "evidenceSentenceIds": [
+        "u7-s7"
+      ]
+    },
+    {
+      "id": "u7-rq3",
+      "type": "single_choice",
+      "stem": "When did the China women's football team play its first international match?",
+      "options": [
+        "2022",
+        "1986",
+        "1990",
+        "2000"
+      ],
+      "answer": "1986",
+      "rationaleZh": "文章第十句明确指出中国女足的第一场国际比赛是在1986年。",
+      "evidenceSentenceIds": [
+        "u7-s10"
+      ]
+    },
+    {
+      "id": "u7-rq4",
+      "type": "single_choice",
+      "stem": "According to a team member, what is the key to their success?",
+      "options": [
+        "Having the best players",
+        "Winning every match",
+        "Love for football and shared goal",
+        "Government support"
+      ],
+      "answer": "Love for football and shared goal",
+      "rationaleZh": "文章第十六句引用队员的话，说明成功的关键是热爱足球和拥有共同目标。",
+      "evidenceSentenceIds": [
+        "u7-s16"
+      ]
+    },
+    {
+      "id": "u7-rq5",
+      "type": "single_choice",
+      "stem": "What does \"rise to every challenge\" mean in the context?",
+      "options": [
+        "Avoid challenges",
+        "Face and overcome challenges",
+        "Ignore challenges",
+        "Create challenges"
+      ],
+      "answer": "Face and overcome challenges",
+      "rationaleZh": "结合上下文，\"rise to every challenge\" 表示迎接并克服每一个挑战。",
+      "evidenceSentenceIds": [
+        "u7-s20"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "u7-s4",
+      "reasonZh": "这句话生动展现了运动员的坚韧和奉献精神，用\"paid no attention to the pain\"简洁有力地表达了克服困难的决心。"
+    },
+    {
+      "sentenceId": "u7-s16",
+      "reasonZh": "这句直接引语简洁而深刻地揭示了团队成功的核心——对足球的热爱和共同的目标，具有很好的激励作用。"
+    },
+    {
+      "sentenceId": "u7-s20",
+      "reasonZh": "这句话用\"rise to every challenge\"和\"shining spirit\"的比喻，优美地表达了团队面对未来的积极态度和内在力量。"
+    }
+  ]
+}

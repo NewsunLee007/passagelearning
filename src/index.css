@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans",
+      "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  }
+
+  body {
+    @apply bg-background text-secondary;
+  }
+}
+
+@layer components {
+  .ir-word {
+    @apply cursor-pointer rounded px-0.5 transition-colors;
+  }
+  .ir-word:hover {
+    @apply bg-primary/10 text-primary;
+  }
+  .ir-word-collected {
+    @apply bg-accent/15;
+  }
+  .ir-sentence {
+    @apply cursor-pointer rounded transition-colors;
+  }
+  .ir-sentence-highlight {
+    @apply bg-primary/20;
+  }
+  .ir-sentence-collected {
+    @apply bg-primary/5;
+  }
+}
+
+/* 课堂大屏模式：整体字号更大、对比更强（可按需再调） */
+html[data-screen="classroom"] {
+  font-size: 20px;
+}

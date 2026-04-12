@@ -1,0 +1,506 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u8-article",
+    "title": "Delicious memories",
+    "unit": "Unit 3 Food matters",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "u8-p1",
+        "sentenceIds": [
+          "u8-s1"
+        ]
+      },
+      {
+        "id": "u8-p2",
+        "sentenceIds": [
+          "u8-s2",
+          "u8-s3",
+          "u8-s4",
+          "u8-s5",
+          "u8-s6"
+        ]
+      },
+      {
+        "id": "u8-p3",
+        "sentenceIds": [
+          "u8-s7",
+          "u8-s8",
+          "u8-s9",
+          "u8-s10"
+        ]
+      },
+      {
+        "id": "u8-p4",
+        "sentenceIds": [
+          "u8-s11",
+          "u8-s12",
+          "u8-s13"
+        ]
+      },
+      {
+        "id": "u8-p5",
+        "sentenceIds": [
+          "u8-s14"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "u8-s1",
+      "text": "The taste and smell of a certain food can often bring back memories.",
+      "paragraphId": "u8-p1",
+      "keywords": [
+        "taste",
+        "smell",
+        "bring back",
+        "memories"
+      ]
+    },
+    {
+      "id": "u8-s2",
+      "text": "Mine start with my mother.",
+      "paragraphId": "u8-p2",
+      "keywords": [
+        "mine",
+        "start with",
+        "mother"
+      ]
+    },
+    {
+      "id": "u8-s3",
+      "text": "She can do magic in the kitchen: tofu and beef become red, hot mapo tofu; carrots and mutton become lovely dumplings; a big fat hen becomes a pot of warm chicken soup; even eggs and green onions become wonderful pancakes.",
+      "paragraphId": "u8-p2",
+      "keywords": [
+        "do magic",
+        "kitchen",
+        "mapo tofu",
+        "dumplings",
+        "chicken soup",
+        "pancakes"
+      ]
+    },
+    {
+      "id": "u8-s4",
+      "text": "I always grow hungry thinking of them!",
+      "paragraphId": "u8-p2",
+      "keywords": [
+        "grow hungry",
+        "thinking of"
+      ]
+    },
+    {
+      "id": "u8-s5",
+      "text": "But my favourite food is porridge.",
+      "paragraphId": "u8-p2",
+      "keywords": [
+        "favourite",
+        "porridge"
+      ]
+    },
+    {
+      "id": "u8-s6",
+      "text": "I often wake up to the smell of porridge.",
+      "paragraphId": "u8-p2",
+      "keywords": [
+        "wake up",
+        "smell"
+      ]
+    },
+    {
+      "id": "u8-s7",
+      "text": "Sometimes, it's sweet eight-treasure porridge.",
+      "paragraphId": "u8-p3",
+      "keywords": [
+        "sometimes",
+        "sweet",
+        "eight-treasure porridge"
+      ]
+    },
+    {
+      "id": "u8-s8",
+      "text": "Other times, it's porridge with pork and thousand-year-old eggs.",
+      "paragraphId": "u8-p3",
+      "keywords": [
+        "other times",
+        "pork",
+        "thousand-year-old eggs"
+      ]
+    },
+    {
+      "id": "u8-s9",
+      "text": "Each kind of porridge tastes great in its own way.",
+      "paragraphId": "u8-p3",
+      "keywords": [
+        "each kind",
+        "tastes great",
+        "in its own way"
+      ]
+    },
+    {
+      "id": "u8-s10",
+      "text": "When I fall ill, my mother always makes plain rice porridge for me.",
+      "paragraphId": "u8-p3",
+      "keywords": [
+        "fall ill",
+        "makes",
+        "plain rice porridge"
+      ]
+    },
+    {
+      "id": "u8-s11",
+      "text": "That's the simplest food on any Chinese menu.",
+      "paragraphId": "u8-p4",
+      "keywords": [
+        "simplest",
+        "Chinese menu"
+      ]
+    },
+    {
+      "id": "u8-s12",
+      "text": "For me, however, it's the best food in the world.",
+      "paragraphId": "u8-p4",
+      "keywords": [
+        "best",
+        "in the world"
+      ]
+    },
+    {
+      "id": "u8-s13",
+      "text": "And it's better medicine than a pill!",
+      "paragraphId": "u8-p4",
+      "keywords": [
+        "better",
+        "medicine",
+        "pill"
+      ]
+    },
+    {
+      "id": "u8-s14",
+      "text": "Now I'm studying away from home.",
+      "paragraphId": "u8-p5",
+      "keywords": [
+        "studying",
+        "away from home"
+      ]
+    },
+    {
+      "id": "u8-s15",
+      "text": "But all the warm memories stay with me.",
+      "paragraphId": "u8-p5",
+      "keywords": [
+        "warm memories",
+        "stay with"
+      ]
+    },
+    {
+      "id": "u8-s16",
+      "text": "The old days still feel so sweet in my heart.",
+      "paragraphId": "u8-p5",
+      "keywords": [
+        "old days",
+        "feel",
+        "sweet",
+        "heart"
+      ]
+    },
+    {
+      "id": "u8-s17",
+      "text": "What food remains strong in your memory?",
+      "paragraphId": "u8-p5",
+      "keywords": [
+        "remains",
+        "strong",
+        "memory"
+      ]
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "u8-v1",
+      "term": "bring back memories",
+      "meaningZh": "唤起回忆",
+      "exampleSentenceId": "u8-s1",
+      "distractorsZh": [
+        "带来食物",
+        "带回物品",
+        "引起注意"
+      ]
+    },
+    {
+      "id": "u8-v2",
+      "term": "do magic",
+      "meaningZh": "施展魔法；做出神奇的事",
+      "exampleSentenceId": "u8-s3",
+      "distractorsZh": [
+        "做魔术表演",
+        "变魔术",
+        "创造奇迹"
+      ]
+    },
+    {
+      "id": "u8-v3",
+      "term": "grow hungry",
+      "meaningZh": "感到饥饿",
+      "exampleSentenceId": "u8-s4",
+      "distractorsZh": [
+        "种植饥饿",
+        "增长饥饿感",
+        "变得饥饿"
+      ]
+    },
+    {
+      "id": "u8-v4",
+      "term": "wake up to",
+      "meaningZh": "醒来闻到/意识到",
+      "exampleSentenceId": "u8-s6",
+      "distractorsZh": [
+        "醒来去做",
+        "醒来看到",
+        "醒来听到"
+      ]
+    },
+    {
+      "id": "u8-v5",
+      "term": "fall ill",
+      "meaningZh": "生病",
+      "exampleSentenceId": "u8-s10",
+      "distractorsZh": [
+        "跌倒生病",
+        "掉落疾病",
+        "陷入疾病"
+      ]
+    },
+    {
+      "id": "u8-v6",
+      "term": "plain rice porridge",
+      "meaningZh": "白米粥",
+      "exampleSentenceId": "u8-s10",
+      "distractorsZh": [
+        "平原米粥",
+        "简单米粥",
+        "普通米粥"
+      ]
+    },
+    {
+      "id": "u8-v7",
+      "term": "away from home",
+      "meaningZh": "离家在外",
+      "exampleSentenceId": "u8-s14",
+      "distractorsZh": [
+        "远离家园",
+        "离开家",
+        "在外地"
+      ]
+    },
+    {
+      "id": "u8-v8",
+      "term": "remains strong",
+      "meaningZh": "依然深刻；保持强烈",
+      "exampleSentenceId": "u8-s17",
+      "distractorsZh": [
+        "保持强壮",
+        "残留强烈",
+        "仍然强大"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "u8-st1",
+      "sentenceId": "u8-s3",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u8-c1",
+          "text": "She can do magic in the kitchen:",
+          "tag": "主句"
+        },
+        {
+          "id": "u8-c2",
+          "text": "tofu and beef become red, hot mapo tofu;",
+          "tag": "例子1"
+        },
+        {
+          "id": "u8-c3",
+          "text": "carrots and mutton become lovely dumplings;",
+          "tag": "例子2"
+        },
+        {
+          "id": "u8-c4",
+          "text": "a big fat hen becomes a pot of warm chicken soup;",
+          "tag": "例子3"
+        },
+        {
+          "id": "u8-c5",
+          "text": "even eggs and green onions become wonderful pancakes.",
+          "tag": "例子4"
+        }
+      ],
+      "correctOrder": [
+        "u8-c1",
+        "u8-c2",
+        "u8-c3",
+        "u8-c4",
+        "u8-c5"
+      ],
+      "focusPointsZh": [
+        "并列结构",
+        "冒号引出例子",
+        "分号分隔并列项"
+      ]
+    },
+    {
+      "id": "u8-st2",
+      "sentenceId": "u8-s10",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u8-c6",
+          "text": "When I fall ill,",
+          "tag": "时间状语从句"
+        },
+        {
+          "id": "u8-c7",
+          "text": "my mother",
+          "tag": "主语"
+        },
+        {
+          "id": "u8-c8",
+          "text": "always makes",
+          "tag": "谓语"
+        },
+        {
+          "id": "u8-c9",
+          "text": "plain rice porridge",
+          "tag": "宾语"
+        },
+        {
+          "id": "u8-c10",
+          "text": "for me.",
+          "tag": "目的状语"
+        }
+      ],
+      "correctOrder": [
+        "u8-c6",
+        "u8-c7",
+        "u8-c8",
+        "u8-c9",
+        "u8-c10"
+      ],
+      "focusPointsZh": [
+        "时间状语从句",
+        "主谓宾结构",
+        "介词短语作状语"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "u8-rq1",
+      "type": "single_choice",
+      "stem": "What is the main idea of the article?",
+      "options": [
+        "The author's favorite food is porridge.",
+        "Food can evoke personal memories and emotions.",
+        "The author's mother is a great cook.",
+        "The author misses home while studying away."
+      ],
+      "answer": "Food can evoke personal memories and emotions.",
+      "rationaleZh": "文章开篇即点明主题：食物的味道和气味能唤起回忆，后续内容围绕作者与母亲相关的食物记忆展开，强调了食物与情感的联系。",
+      "evidenceSentenceIds": [
+        "u8-s1",
+        "u8-s15",
+        "u8-s16"
+      ]
+    },
+    {
+      "id": "u8-rq2",
+      "type": "single_choice",
+      "stem": "Why does the author say his mother can do magic in the kitchen?",
+      "options": [
+        "Because she performs magic tricks.",
+        "Because she cooks very quickly.",
+        "Because she transforms simple ingredients into delicious dishes.",
+        "Because she uses magical recipes."
+      ],
+      "answer": "Because she transforms simple ingredients into delicious dishes.",
+      "rationaleZh": "文中列举了母亲将豆腐牛肉、胡萝卜羊肉等普通食材变成麻婆豆腐、饺子等美味菜肴的例子，说明她擅长烹饪，而非字面意义上的魔法。",
+      "evidenceSentenceIds": [
+        "u8-s3"
+      ]
+    },
+    {
+      "id": "u8-rq3",
+      "type": "single_choice",
+      "stem": "What does the author think of plain rice porridge when he is ill?",
+      "options": [
+        "It is too simple and not tasty.",
+        "It is the best food and better than medicine.",
+        "It is common but he dislikes it.",
+        "It is only good for sick people."
+      ],
+      "answer": "It is the best food and better than medicine.",
+      "rationaleZh": "作者明确表示，生病时母亲做的白米粥是世界上最好的食物，甚至比药片更好，体现了其情感价值。",
+      "evidenceSentenceIds": [
+        "u8-s12",
+        "u8-s13"
+      ]
+    },
+    {
+      "id": "u8-rq4",
+      "type": "single_choice",
+      "stem": "How does the author feel about his memories now that he is away from home?",
+      "options": [
+        "They make him sad and lonely.",
+        "They are warm and sweet.",
+        "He has forgotten most of them.",
+        "They are not important anymore."
+      ],
+      "answer": "They are warm and sweet.",
+      "rationaleZh": "文章结尾提到，尽管作者离家求学，但温暖的记忆依然陪伴着他，旧日时光在心中感觉甜蜜。",
+      "evidenceSentenceIds": [
+        "u8-s15",
+        "u8-s16"
+      ]
+    },
+    {
+      "id": "u8-rq5",
+      "type": "single_choice",
+      "stem": "What is the purpose of the last question in the article?",
+      "options": [
+        "To criticize the reader's memory.",
+        "To introduce a new topic.",
+        "To encourage the reader to reflect on their own food memories.",
+        "To end the article abruptly."
+      ],
+      "answer": "To encourage the reader to reflect on their own food memories.",
+      "rationaleZh": "最后一句提问“什么食物在你的记忆中依然深刻？”旨在引发读者共鸣，思考个人与食物相关的回忆，增强互动性。",
+      "evidenceSentenceIds": [
+        "u8-s17"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "u8-s1",
+      "reasonZh": "开篇点题，用简洁的语言表达了食物与记忆的深刻联系，富有哲理且易于引发共鸣。"
+    },
+    {
+      "sentenceId": "u8-s3",
+      "reasonZh": "生动描绘了母亲烹饪的魔力，通过一系列并列的转化例子，形象展现了家常菜的温馨与美味，语言富有画面感。"
+    },
+    {
+      "sentenceId": "u8-s16",
+      "reasonZh": "情感真挚，用“sweet”一词双关，既指回忆的甜美，又呼应食物主题，表达了离家后对过往时光的珍视。"
+    }
+  ]
+}

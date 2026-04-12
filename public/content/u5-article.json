@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u5-article",
+    "title": "Growing Happiness",
+    "unit": "Unit 5",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "u5-p1",
+        "sentenceIds": [
+          "u5-s1",
+          "u5-s2"
+        ]
+      },
+      {
+        "id": "u5-p2",
+        "sentenceIds": [
+          "u5-s3",
+          "u5-s4",
+          "u5-s5",
+          "u5-s6"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "u5-s1",
+      "text": "Dear Mr Zhou,",
+      "paragraphId": "u5-p1",
+      "keywords": [
+        "Mr Zhou"
+      ]
+    },
+    {
+      "id": "u5-s2",
+      "text": "Thank you for helping kids with cancer.",
+      "paragraphId": "u5-p1",
+      "keywords": [
+        "helping",
+        "kids",
+        "cancer"
+      ]
+    },
+    {
+      "id": "u5-s3",
+      "text": "This is enough hair for three wigs!",
+      "paragraphId": "u5-p2",
+      "keywords": [
+        "enough",
+        "hair",
+        "wigs"
+      ]
+    },
+    {
+      "id": "u5-s4",
+      "text": "The City Children's Hospital",
+      "paragraphId": "u5-p2",
+      "keywords": [
+        "City",
+        "Children's",
+        "Hospital"
+      ]
+    },
+    {
+      "id": "u5-s5",
+      "text": "Zhou Jian looked at the smart young man in the mirror.",
+      "paragraphId": "u5-p2",
+      "keywords": [
+        "Zhou Jian",
+        "looked",
+        "smart",
+        "mirror"
+      ]
+    },
+    {
+      "id": "u5-s6",
+      "text": "He remembered the words of Plato: \"Happiness springs from doing good and helping others.\"",
+      "paragraphId": "u5-p2",
+      "keywords": [
+        "remembered",
+        "Plato",
+        "Happiness",
+        "springs",
+        "helping"
+      ]
+    },
+    {
+      "id": "u5-s7",
+      "text": "He smiled and said to himself, \"It's time to grow happiness again.\"",
+      "paragraphId": "u5-p2",
+      "keywords": [
+        "smiled",
+        "said",
+        "grow",
+        "happiness"
+      ]
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "u5-v1",
+      "term": "helping kids with cancer",
+      "meaningZh": "帮助患癌症的孩子们",
+      "exampleSentenceId": "u5-s2",
+      "distractorsZh": [
+        "帮助孩子们学习",
+        "帮助孩子们玩耍",
+        "帮助孩子们吃饭"
+      ]
+    },
+    {
+      "id": "u5-v2",
+      "term": "enough hair for three wigs",
+      "meaningZh": "足够做三顶假发的头发",
+      "exampleSentenceId": "u5-s3",
+      "distractorsZh": [
+        "足够做三件衣服的布料",
+        "足够做三顿饭的食物",
+        "足够读三本书的时间"
+      ]
+    },
+    {
+      "id": "u5-v3",
+      "term": "looked at the smart young man in the mirror",
+      "meaningZh": "看着镜子中聪明的年轻人",
+      "exampleSentenceId": "u5-s5",
+      "distractorsZh": [
+        "看着镜子中美丽的女孩",
+        "看着镜子中高大的男人",
+        "看着镜子中可爱的孩子"
+      ]
+    },
+    {
+      "id": "u5-v4",
+      "term": "remembered the words of Plato",
+      "meaningZh": "记起柏拉图的话",
+      "exampleSentenceId": "u5-s6",
+      "distractorsZh": [
+        "记起莎士比亚的话",
+        "记起孔子的话",
+        "记起爱因斯坦的话"
+      ]
+    },
+    {
+      "id": "u5-v5",
+      "term": "Happiness springs from doing good and helping others",
+      "meaningZh": "幸福源于行善和帮助他人",
+      "exampleSentenceId": "u5-s6",
+      "distractorsZh": [
+        "幸福源于财富和成功",
+        "幸福源于健康和家庭",
+        "幸福源于知识和学习"
+      ]
+    },
+    {
+      "id": "u5-v6",
+      "term": "grow happiness again",
+      "meaningZh": "再次培育幸福",
+      "exampleSentenceId": "u5-s7",
+      "distractorsZh": [
+        "再次种植花朵",
+        "再次增长财富",
+        "再次提高技能"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "u5-st1",
+      "sentenceId": "u5-s6",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u5-c1",
+          "text": "He remembered the words of Plato:",
+          "tag": "主语和谓语"
+        },
+        {
+          "id": "u5-c2",
+          "text": "\"Happiness springs from",
+          "tag": "引语开头"
+        },
+        {
+          "id": "u5-c3",
+          "text": "doing good",
+          "tag": "动名词短语"
+        },
+        {
+          "id": "u5-c4",
+          "text": "and helping others.\"",
+          "tag": "并列结构"
+        }
+      ],
+      "correctOrder": [
+        "u5-c1",
+        "u5-c2",
+        "u5-c3",
+        "u5-c4"
+      ],
+      "focusPointsZh": [
+        "引语结构",
+        "动名词作宾语",
+        "并列连词and"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "u5-rq1",
+      "type": "single_choice",
+      "stem": "What is the main purpose of the letter to Mr Zhou?",
+      "options": [
+        "To ask for money",
+        "To thank him for helping children with cancer",
+        "To invite him to a hospital",
+        "To complain about a service"
+      ],
+      "answer": "To thank him for helping children with cancer",
+      "rationaleZh": "信件开头直接表达感谢，表明主要目的是感谢周先生帮助患癌症的孩子们。",
+      "evidenceSentenceIds": [
+        "u5-s2"
+      ]
+    },
+    {
+      "id": "u5-rq2",
+      "type": "single_choice",
+      "stem": "How many wigs can be made from the hair mentioned?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": "Three",
+      "rationaleZh": "文中明确提到头发足够做三顶假发。",
+      "evidenceSentenceIds": [
+        "u5-s3"
+      ]
+    },
+    {
+      "id": "u5-rq3",
+      "type": "single_choice",
+      "stem": "What does Zhou Jian see in the mirror?",
+      "options": [
+        "An old man",
+        "A smart young man",
+        "A child",
+        "A doctor"
+      ],
+      "answer": "A smart young man",
+      "rationaleZh": "句子描述周建看着镜子中聪明的年轻人。",
+      "evidenceSentenceIds": [
+        "u5-s5"
+      ]
+    },
+    {
+      "id": "u5-rq4",
+      "type": "single_choice",
+      "stem": "According to Plato, where does happiness come from?",
+      "options": [
+        "From wealth",
+        "From doing good and helping others",
+        "From fame",
+        "From health"
+      ],
+      "answer": "From doing good and helping others",
+      "rationaleZh": "引用的柏拉图话语指出幸福源于行善和帮助他人。",
+      "evidenceSentenceIds": [
+        "u5-s6"
+      ]
+    },
+    {
+      "id": "u5-rq5",
+      "type": "single_choice",
+      "stem": "What does Zhou Jian decide to do at the end?",
+      "options": [
+        "Stop helping others",
+        "Grow happiness again",
+        "Forget the words of Plato",
+        "Visit the hospital"
+      ],
+      "answer": "Grow happiness again",
+      "rationaleZh": "最后一句表明他微笑着说该再次培育幸福了。",
+      "evidenceSentenceIds": [
+        "u5-s7"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "u5-s6",
+      "reasonZh": "这句话引用了柏拉图的智慧，语言优美且富有哲理，强调了行善助人与幸福之间的深刻联系。"
+    },
+    {
+      "sentenceId": "u5-s7",
+      "reasonZh": "这句话以生动的隐喻'grow happiness'结尾，情感积极，鼓励读者反思和实践助人为乐。"
+    }
+  ]
+}

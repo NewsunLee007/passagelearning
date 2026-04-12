@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u1-article",
+    "title": "七年级下册英语教材语篇文本汇总",
+    "unit": "Unit 1",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "sentenceIds": [
+          "s1",
+          "s2",
+          "s3",
+          "s4",
+          "s5"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "s1",
+      "text": "The seventh-grade English textbook contains various interesting stories and articles.",
+      "paragraphId": "p1",
+      "keywords": [
+        "seventh-grade",
+        "textbook",
+        "stories"
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Students can improve their reading skills by practicing with these texts.",
+      "paragraphId": "p1",
+      "keywords": [
+        "students",
+        "reading skills",
+        "practicing"
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Each unit focuses on different themes, such as family, school, and hobbies.",
+      "paragraphId": "p1",
+      "keywords": [
+        "unit",
+        "themes",
+        "family"
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "By engaging with the material, learners build vocabulary and comprehension abilities.",
+      "paragraphId": "p1",
+      "keywords": [
+        "engaging",
+        "vocabulary",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "This interactive approach makes learning English enjoyable and effective.",
+      "paragraphId": "p1",
+      "keywords": [
+        "interactive",
+        "enjoyable",
+        "effective"
+      ]
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "v1",
+      "term": "textbook",
+      "meaningZh": "教科书",
+      "exampleSentenceId": "s1",
+      "distractorsZh": [
+        "笔记本",
+        "字典",
+        "杂志"
+      ]
+    },
+    {
+      "id": "v2",
+      "term": "reading skills",
+      "meaningZh": "阅读技能",
+      "exampleSentenceId": "s2",
+      "distractorsZh": [
+        "写作技巧",
+        "听力能力",
+        "口语表达"
+      ]
+    },
+    {
+      "id": "v3",
+      "term": "themes",
+      "meaningZh": "主题",
+      "exampleSentenceId": "s3",
+      "distractorsZh": [
+        "章节",
+        "练习",
+        "问题"
+      ]
+    },
+    {
+      "id": "v4",
+      "term": "vocabulary",
+      "meaningZh": "词汇",
+      "exampleSentenceId": "s4",
+      "distractorsZh": [
+        "语法",
+        "发音",
+        "拼写"
+      ]
+    },
+    {
+      "id": "v5",
+      "term": "interactive",
+      "meaningZh": "互动的",
+      "exampleSentenceId": "s5",
+      "distractorsZh": [
+        "被动的",
+        "传统的",
+        "复杂的"
+      ]
+    },
+    {
+      "id": "v6",
+      "term": "comprehension abilities",
+      "meaningZh": "理解能力",
+      "exampleSentenceId": "s4",
+      "distractorsZh": [
+        "记忆能力",
+        "创造能力",
+        "分析能力"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "st1",
+      "sentenceId": "s4",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "c1",
+          "text": "By engaging with the material",
+          "tag": "状语"
+        },
+        {
+          "id": "c2",
+          "text": "learners",
+          "tag": "主语"
+        },
+        {
+          "id": "c3",
+          "text": "build vocabulary and comprehension abilities",
+          "tag": "谓语"
+        }
+      ],
+      "correctOrder": [
+        "c1",
+        "c2",
+        "c3"
+      ],
+      "focusPointsZh": [
+        "状语从句结构",
+        "主谓一致"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "rq1",
+      "type": "single_choice",
+      "stem": "What is the main purpose of the seventh-grade English textbook?",
+      "options": [
+        "To teach math skills",
+        "To improve reading skills",
+        "To focus on science topics",
+        "To provide history lessons"
+      ],
+      "answer": "To improve reading skills",
+      "rationaleZh": "根据文章内容，教材旨在通过练习提高阅读技能。",
+      "evidenceSentenceIds": [
+        "s2"
+      ]
+    },
+    {
+      "id": "rq2",
+      "type": "single_choice",
+      "stem": "Which themes are mentioned in the units?",
+      "options": [
+        "Sports and music",
+        "Family, school, and hobbies",
+        "Technology and art",
+        "Travel and food"
+      ],
+      "answer": "Family, school, and hobbies",
+      "rationaleZh": "文章明确指出单元主题包括家庭、学校和爱好。",
+      "evidenceSentenceIds": [
+        "s3"
+      ]
+    },
+    {
+      "id": "rq3",
+      "type": "single_choice",
+      "stem": "How does the interactive approach affect learning?",
+      "options": [
+        "Makes it boring",
+        "Makes it enjoyable and effective",
+        "Makes it difficult",
+        "Makes it slow"
+      ],
+      "answer": "Makes it enjoyable and effective",
+      "rationaleZh": "文章最后一句说明互动方法使学习英语变得愉快和有效。",
+      "evidenceSentenceIds": [
+        "s5"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "s5",
+      "reasonZh": "这句话简洁地表达了互动学习的积极效果，语言优美且鼓舞人心。"
+    }
+  ]
+}

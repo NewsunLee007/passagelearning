@@ -1,0 +1,512 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u13-article",
+    "title": "The Dead Sea could die!",
+    "unit": "Unit 13",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "u13-p1",
+        "sentenceIds": [
+          "u13-s1",
+          "u13-s2",
+          "u13-s3",
+          "u13-s4",
+          "u13-s5",
+          "u13-s6"
+        ]
+      },
+      {
+        "id": "u13-p2",
+        "sentenceIds": [
+          "u13-s7",
+          "u13-s8",
+          "u13-s9",
+          "u13-s10",
+          "u13-s11",
+          "u13-s12"
+        ]
+      },
+      {
+        "id": "u13-p3",
+        "sentenceIds": [
+          "u13-s13",
+          "u13-s14",
+          "u13-s15",
+          "u13-s16",
+          "u13-s17",
+          "u13-s18"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "u13-s1",
+      "text": "The Dead Sea could die!",
+      "paragraphId": "u13-p1",
+      "keywords": [
+        "Dead Sea",
+        "die"
+      ]
+    },
+    {
+      "id": "u13-s2",
+      "text": "I'm not a sea but a lake, and I lie at the world's lowest surface.",
+      "paragraphId": "u13-p1",
+      "keywords": [
+        "lake",
+        "lowest surface"
+      ]
+    },
+    {
+      "id": "u13-s3",
+      "text": "I'm saltier than any sea.",
+      "paragraphId": "u13-p1",
+      "keywords": [
+        "saltier",
+        "sea"
+      ]
+    },
+    {
+      "id": "u13-s4",
+      "text": "You can even lie on my water and read a book!",
+      "paragraphId": "u13-p1",
+      "keywords": [
+        "lie on",
+        "read"
+      ]
+    },
+    {
+      "id": "u13-s5",
+      "text": "Rivers flow into me.",
+      "paragraphId": "u13-p1",
+      "keywords": [
+        "Rivers",
+        "flow into"
+      ]
+    },
+    {
+      "id": "u13-s6",
+      "text": "But now people are taking too much water from them.",
+      "paragraphId": "u13-p1",
+      "keywords": [
+        "taking",
+        "water"
+      ]
+    },
+    {
+      "id": "u13-s7",
+      "text": "Take less water, or I'll dry up within the next 100 years.",
+      "paragraphId": "u13-p1",
+      "keywords": [
+        "dry up",
+        "100 years"
+      ]
+    },
+    {
+      "id": "u13-s8",
+      "text": "Rainforest - forest ≠ rain",
+      "paragraphId": "u13-p2",
+      "keywords": [
+        "Rainforest",
+        "forest",
+        "rain"
+      ]
+    },
+    {
+      "id": "u13-s9",
+      "text": "I'm the rainforest of Madagascar.",
+      "paragraphId": "u13-p2",
+      "keywords": [
+        "rainforest",
+        "Madagascar"
+      ]
+    },
+    {
+      "id": "u13-s10",
+      "text": "As my name suggests, I make rain for my plants and animals, such as monkeys, snakes and many kinds of flowers.",
+      "paragraphId": "u13-p2",
+      "keywords": [
+        "make rain",
+        "plants",
+        "animals"
+      ]
+    },
+    {
+      "id": "u13-s11",
+      "text": "For 80% of them, I'm their only home in the world.",
+      "paragraphId": "u13-p2",
+      "keywords": [
+        "80%",
+        "only home"
+      ]
+    },
+    {
+      "id": "u13-s12",
+      "text": "However, people are cutting down my trees for wood and to make space for farming.",
+      "paragraphId": "u13-p2",
+      "keywords": [
+        "cutting down",
+        "trees",
+        "farming"
+      ]
+    },
+    {
+      "id": "u13-s13",
+      "text": "Please stop it.",
+      "paragraphId": "u13-p2",
+      "keywords": [
+        "stop"
+      ]
+    },
+    {
+      "id": "u13-s14",
+      "text": "I'm disappearing.",
+      "paragraphId": "u13-p2",
+      "keywords": [
+        "disappearing"
+      ]
+    },
+    {
+      "id": "u13-s15",
+      "text": "If Frozen turns into Waterworld...",
+      "paragraphId": "u13-p3",
+      "keywords": [
+        "Frozen",
+        "Waterworld"
+      ]
+    },
+    {
+      "id": "u13-s16",
+      "text": "I'm a glacier at the Glacier National Park in America.",
+      "paragraphId": "u13-p3",
+      "keywords": [
+        "glacier",
+        "Glacier National Park",
+        "America"
+      ]
+    },
+    {
+      "id": "u13-s17",
+      "text": "It's a land full of ice and snow.",
+      "paragraphId": "u13-p3",
+      "keywords": [
+        "land",
+        "ice",
+        "snow"
+      ]
+    },
+    {
+      "id": "u13-s18",
+      "text": "Do you want to explore the white world in the film Frozen?",
+      "paragraphId": "u13-p3",
+      "keywords": [
+        "explore",
+        "white world",
+        "film Frozen"
+      ]
+    },
+    {
+      "id": "u13-s19",
+      "text": "Then my home is the best choice.",
+      "paragraphId": "u13-p3",
+      "keywords": [
+        "home",
+        "best choice"
+      ]
+    },
+    {
+      "id": "u13-s20",
+      "text": "Two hundred years ago, there were about 150 glaciers.",
+      "paragraphId": "u13-p3",
+      "keywords": [
+        "200 years ago",
+        "150 glaciers"
+      ]
+    },
+    {
+      "id": "u13-s21",
+      "text": "But now, there are around 25.",
+      "paragraphId": "u13-p3",
+      "keywords": [
+        "now",
+        "25"
+      ]
+    },
+    {
+      "id": "u13-s22",
+      "text": "Please stop climate change.",
+      "paragraphId": "u13-p3",
+      "keywords": [
+        "stop",
+        "climate change"
+      ]
+    },
+    {
+      "id": "u13-s23",
+      "text": "I'm turning into Waterworld!",
+      "paragraphId": "u13-p3",
+      "keywords": [
+        "turning into",
+        "Waterworld"
+      ]
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "u13-v1",
+      "term": "dry up",
+      "meaningZh": "干涸",
+      "exampleSentenceId": "u13-s7",
+      "distractorsZh": [
+        "干燥",
+        "枯萎",
+        "蒸发"
+      ]
+    },
+    {
+      "id": "u13-v2",
+      "term": "cut down",
+      "meaningZh": "砍伐",
+      "exampleSentenceId": "u13-s12",
+      "distractorsZh": [
+        "切割",
+        "减少",
+        "修剪"
+      ]
+    },
+    {
+      "id": "u13-v3",
+      "term": "glacier",
+      "meaningZh": "冰川",
+      "exampleSentenceId": "u13-s16",
+      "distractorsZh": [
+        "冰山",
+        "冰河",
+        "雪地"
+      ]
+    },
+    {
+      "id": "u13-v4",
+      "term": "climate change",
+      "meaningZh": "气候变化",
+      "exampleSentenceId": "u13-s22",
+      "distractorsZh": [
+        "天气变化",
+        "季节变化",
+        "环境变化"
+      ]
+    },
+    {
+      "id": "u13-v5",
+      "term": "flow into",
+      "meaningZh": "流入",
+      "exampleSentenceId": "u13-s5",
+      "distractorsZh": [
+        "流出",
+        "流动",
+        "注入"
+      ]
+    },
+    {
+      "id": "u13-v6",
+      "term": "disappearing",
+      "meaningZh": "消失",
+      "exampleSentenceId": "u13-s14",
+      "distractorsZh": [
+        "出现",
+        "隐藏",
+        "减少"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "u13-st1",
+      "sentenceId": "u13-s10",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u13-c1",
+          "text": "As my name suggests,",
+          "tag": "状语从句"
+        },
+        {
+          "id": "u13-c2",
+          "text": "I make rain",
+          "tag": "主谓"
+        },
+        {
+          "id": "u13-c3",
+          "text": "for my plants and animals,",
+          "tag": "目的状语"
+        },
+        {
+          "id": "u13-c4",
+          "text": "such as monkeys, snakes and many kinds of flowers.",
+          "tag": "举例"
+        }
+      ],
+      "correctOrder": [
+        "u13-c1",
+        "u13-c2",
+        "u13-c3",
+        "u13-c4"
+      ],
+      "focusPointsZh": [
+        "状语从句结构",
+        "目的状语用法",
+        "举例表达"
+      ]
+    },
+    {
+      "id": "u13-st2",
+      "sentenceId": "u13-s12",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u13-c5",
+          "text": "However,",
+          "tag": "转折连词"
+        },
+        {
+          "id": "u13-c6",
+          "text": "people are cutting down my trees",
+          "tag": "主谓宾"
+        },
+        {
+          "id": "u13-c7",
+          "text": "for wood",
+          "tag": "目的状语"
+        },
+        {
+          "id": "u13-c8",
+          "text": "and to make space for farming.",
+          "tag": "并列目的状语"
+        }
+      ],
+      "correctOrder": [
+        "u13-c5",
+        "u13-c6",
+        "u13-c7",
+        "u13-c8"
+      ],
+      "focusPointsZh": [
+        "转折连词用法",
+        "现在进行时",
+        "并列目的状语"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "u13-rq1",
+      "type": "single_choice",
+      "stem": "What is the Dead Sea?",
+      "options": [
+        "A sea",
+        "A lake",
+        "A river",
+        "An ocean"
+      ],
+      "answer": "A lake",
+      "rationaleZh": "根据文章第一段第二句，死海自称不是海而是湖。",
+      "evidenceSentenceIds": [
+        "u13-s2"
+      ]
+    },
+    {
+      "id": "u13-rq2",
+      "type": "single_choice",
+      "stem": "Why is the Dead Sea in danger?",
+      "options": [
+        "Because it is too salty",
+        "Because people are taking too much water from rivers",
+        "Because it is at the lowest surface",
+        "Because it is drying up naturally"
+      ],
+      "answer": "Because people are taking too much water from rivers",
+      "rationaleZh": "文章第一段提到河流流入死海，但人们从河流取水过多，导致死海可能干涸。",
+      "evidenceSentenceIds": [
+        "u13-s5",
+        "u13-s6",
+        "u13-s7"
+      ]
+    },
+    {
+      "id": "u13-rq3",
+      "type": "single_choice",
+      "stem": "What percentage of plants and animals in the Madagascar rainforest have it as their only home?",
+      "options": [
+        "60%",
+        "70%",
+        "80%",
+        "90%"
+      ],
+      "answer": "80%",
+      "rationaleZh": "文章第二段明确指出，对于80%的动植物来说，该雨林是它们唯一的家园。",
+      "evidenceSentenceIds": [
+        "u13-s11"
+      ]
+    },
+    {
+      "id": "u13-rq4",
+      "type": "single_choice",
+      "stem": "How many glaciers were there at Glacier National Park 200 years ago?",
+      "options": [
+        "About 25",
+        "About 100",
+        "About 150",
+        "About 200"
+      ],
+      "answer": "About 150",
+      "rationaleZh": "文章第三段提到，200年前大约有150个冰川。",
+      "evidenceSentenceIds": [
+        "u13-s20"
+      ]
+    },
+    {
+      "id": "u13-rq5",
+      "type": "single_choice",
+      "stem": "What is the main message of the article?",
+      "options": [
+        "To describe natural wonders",
+        "To encourage tourism",
+        "To warn about environmental threats",
+        "To explain scientific facts"
+      ],
+      "answer": "To warn about environmental threats",
+      "rationaleZh": "文章通过三个自然景观的叙述，警告人类活动（如取水、砍伐、气候变化）对环境造成的威胁。",
+      "evidenceSentenceIds": [
+        "u13-s6",
+        "u13-s7",
+        "u13-s12",
+        "u13-s14",
+        "u13-s22",
+        "u13-s23"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "u13-s4",
+      "reasonZh": "生动形象地描绘了死海的高盐度特性，富有画面感和趣味性。"
+    },
+    {
+      "sentenceId": "u13-s10",
+      "reasonZh": "句子结构清晰，使用举例和目的状语，语言优美且信息丰富。"
+    },
+    {
+      "sentenceId": "u13-s18",
+      "reasonZh": "引用流行文化（电影《冰雪奇缘》），激发读者兴趣，语言富有吸引力。"
+    }
+  ]
+}

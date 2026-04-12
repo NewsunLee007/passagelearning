@@ -1,0 +1,526 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u15-article",
+    "title": "Reading for writing: Exploring the unexplored",
+    "unit": "Unit 15",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "u15-p1",
+        "sentenceIds": [
+          "u15-s1",
+          "u15-s2",
+          "u15-s3",
+          "u15-s4",
+          "u15-s5"
+        ]
+      },
+      {
+        "id": "u15-p2",
+        "sentenceIds": [
+          "u15-s6",
+          "u15-s7",
+          "u15-s8"
+        ]
+      },
+      {
+        "id": "u15-p3",
+        "sentenceIds": [
+          "u15-s9",
+          "u15-s10",
+          "u15-s11",
+          "u15-s12"
+        ]
+      },
+      {
+        "id": "u15-p4",
+        "sentenceIds": [
+          "u15-s13",
+          "u15-s14",
+          "u15-s15"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "u15-s1",
+      "text": "In 1640, a man was seriously ill.",
+      "paragraphId": "u15-p1",
+      "keywords": [
+        "seriously",
+        "ill"
+      ]
+    },
+    {
+      "id": "u15-s2",
+      "text": "He had to end the last trip of his life.",
+      "paragraphId": "u15-p1",
+      "keywords": [
+        "end",
+        "trip"
+      ]
+    },
+    {
+      "id": "u15-s3",
+      "text": "Back home, people asked him, \"You spent your whole life on the road.",
+      "paragraphId": "u15-p1",
+      "keywords": [
+        "spent",
+        "whole life",
+        "road"
+      ]
+    },
+    {
+      "id": "u15-s4",
+      "text": "Do you regret it?\"",
+      "paragraphId": "u15-p1",
+      "keywords": [
+        "regret"
+      ]
+    },
+    {
+      "id": "u15-s5",
+      "text": "\"I walked through many fantastic places in China,\" he replied.",
+      "paragraphId": "u15-p1",
+      "keywords": [
+        "walked through",
+        "fantastic places"
+      ]
+    },
+    {
+      "id": "u15-s6",
+      "text": "\"People say I'm as great as Zhang Qian and Xuanzang.",
+      "paragraphId": "u15-p2",
+      "keywords": [
+        "as great as",
+        "Zhang Qian",
+        "Xuanzang"
+      ]
+    },
+    {
+      "id": "u15-s7",
+      "text": "So I have no regrets at all.\"",
+      "paragraphId": "u15-p2",
+      "keywords": [
+        "no regrets"
+      ]
+    },
+    {
+      "id": "u15-s8",
+      "text": "This man was Xu Xiake, the greatest traveller in Chinese history.",
+      "paragraphId": "u15-p2",
+      "keywords": [
+        "Xu Xiake",
+        "greatest traveller",
+        "Chinese history"
+      ]
+    },
+    {
+      "id": "u15-s9",
+      "text": "From an early age, Xu dreamt of visiting China's seas and mountains.",
+      "paragraphId": "u15-p3",
+      "keywords": [
+        "early age",
+        "dreamt of",
+        "seas and mountains"
+      ]
+    },
+    {
+      "id": "u15-s10",
+      "text": "But at the time, it was very difficult to travel far.",
+      "paragraphId": "u15-p3",
+      "keywords": [
+        "difficult",
+        "travel far"
+      ]
+    },
+    {
+      "id": "u15-s11",
+      "text": "This didn't stop him, however.",
+      "paragraphId": "u15-p3",
+      "keywords": [
+        "stop",
+        "however"
+      ]
+    },
+    {
+      "id": "u15-s12",
+      "text": "At 22, he set out on his life's journey.",
+      "paragraphId": "u15-p3",
+      "keywords": [
+        "set out",
+        "life's journey"
+      ]
+    },
+    {
+      "id": "u15-s13",
+      "text": "He travelled for about 30 years, and achieved his dream.",
+      "paragraphId": "u15-p4",
+      "keywords": [
+        "travelled",
+        "30 years",
+        "achieved",
+        "dream"
+      ]
+    },
+    {
+      "id": "u15-s14",
+      "text": "Xu made many geographical discoveries during his journey.",
+      "paragraphId": "u15-p4",
+      "keywords": [
+        "geographical discoveries",
+        "journey"
+      ]
+    },
+    {
+      "id": "u15-s15",
+      "text": "Once, he visited Mount Huangshan.",
+      "paragraphId": "u15-p4",
+      "keywords": [
+        "visited",
+        "Mount Huangshan"
+      ]
+    },
+    {
+      "id": "u15-s16",
+      "text": "People then thought Tiandu Peak was higher than Lianhua Peak.",
+      "paragraphId": "u15-p4",
+      "keywords": [
+        "thought",
+        "Tiandu Peak",
+        "higher than",
+        "Lianhua Peak"
+      ]
+    },
+    {
+      "id": "u15-s17",
+      "text": "To find out the truth, Xu climbed both peaks.",
+      "paragraphId": "u15-p4",
+      "keywords": [
+        "find out",
+        "truth",
+        "climbed",
+        "peaks"
+      ]
+    },
+    {
+      "id": "u15-s18",
+      "text": "He discovered that Lianhua Peak gave a wider view, so it must be higher.",
+      "paragraphId": "u15-p4",
+      "keywords": [
+        "discovered",
+        "Lianhua Peak",
+        "wider view",
+        "higher"
+      ]
+    },
+    {
+      "id": "u15-s19",
+      "text": "He was right!",
+      "paragraphId": "u15-p4",
+      "keywords": [
+        "right"
+      ]
+    },
+    {
+      "id": "u15-s20",
+      "text": "Xu recorded his travel experiences in his diary.",
+      "paragraphId": "u15-p4",
+      "keywords": [
+        "recorded",
+        "travel experiences",
+        "diary"
+      ]
+    },
+    {
+      "id": "u15-s21",
+      "text": "This later became Xu Xiake's Travel Notes.",
+      "paragraphId": "u15-p4",
+      "keywords": [
+        "became",
+        "Xu Xiake's Travel Notes"
+      ]
+    },
+    {
+      "id": "u15-s22",
+      "text": "Thanks to this book, we can learn about China almost 400 years ago.",
+      "paragraphId": "u15-p4",
+      "keywords": [
+        "Thanks to",
+        "learn about",
+        "400 years ago"
+      ]
+    },
+    {
+      "id": "u15-s23",
+      "text": "\"Exploring the unexplored\" is the best description of Xu's life.",
+      "paragraphId": "u15-p4",
+      "keywords": [
+        "Exploring the unexplored",
+        "best description"
+      ]
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "u15-v1",
+      "term": "seriously ill",
+      "meaningZh": "病得很重",
+      "exampleSentenceId": "u15-s1",
+      "distractorsZh": [
+        "轻微生病",
+        "健康",
+        "疲劳"
+      ]
+    },
+    {
+      "id": "u15-v2",
+      "term": "regret",
+      "meaningZh": "后悔",
+      "exampleSentenceId": "u15-s4",
+      "distractorsZh": [
+        "高兴",
+        "忘记",
+        "期待"
+      ]
+    },
+    {
+      "id": "u15-v3",
+      "term": "fantastic places",
+      "meaningZh": "奇妙的地方",
+      "exampleSentenceId": "u15-s5",
+      "distractorsZh": [
+        "普通地点",
+        "危险区域",
+        "熟悉场所"
+      ]
+    },
+    {
+      "id": "u15-v4",
+      "term": "geographical discoveries",
+      "meaningZh": "地理发现",
+      "exampleSentenceId": "u15-s14",
+      "distractorsZh": [
+        "历史事件",
+        "科学实验",
+        "文化传统"
+      ]
+    },
+    {
+      "id": "u15-v5",
+      "term": "set out",
+      "meaningZh": "出发",
+      "exampleSentenceId": "u15-s12",
+      "distractorsZh": [
+        "返回",
+        "停留",
+        "计划"
+      ]
+    },
+    {
+      "id": "u15-v6",
+      "term": "achieved his dream",
+      "meaningZh": "实现了他的梦想",
+      "exampleSentenceId": "u15-s13",
+      "distractorsZh": [
+        "放弃目标",
+        "改变计划",
+        "忘记梦想"
+      ]
+    },
+    {
+      "id": "u15-v7",
+      "term": "wider view",
+      "meaningZh": "更广阔的视野",
+      "exampleSentenceId": "u15-s18",
+      "distractorsZh": [
+        "狭窄视角",
+        "模糊景象",
+        "相同景色"
+      ]
+    },
+    {
+      "id": "u15-v8",
+      "term": "Exploring the unexplored",
+      "meaningZh": "探索未知",
+      "exampleSentenceId": "u15-s23",
+      "distractorsZh": [
+        "重复已知",
+        "忽略冒险",
+        "保守生活"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "u15-st1",
+      "sentenceId": "u15-s18",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u15-c1",
+          "text": "He discovered",
+          "tag": "主语+谓语"
+        },
+        {
+          "id": "u15-c2",
+          "text": "that Lianhua Peak gave a wider view",
+          "tag": "宾语从句"
+        },
+        {
+          "id": "u15-c3",
+          "text": "so it must be higher",
+          "tag": "结果状语"
+        }
+      ],
+      "correctOrder": [
+        "u15-c1",
+        "u15-c2",
+        "u15-c3"
+      ],
+      "focusPointsZh": [
+        "宾语从句结构",
+        "结果状语从句"
+      ]
+    },
+    {
+      "id": "u15-st2",
+      "sentenceId": "u15-s22",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u15-c4",
+          "text": "Thanks to this book",
+          "tag": "原因状语"
+        },
+        {
+          "id": "u15-c5",
+          "text": "we can learn about China",
+          "tag": "主句"
+        },
+        {
+          "id": "u15-c6",
+          "text": "almost 400 years ago",
+          "tag": "时间状语"
+        }
+      ],
+      "correctOrder": [
+        "u15-c4",
+        "u15-c5",
+        "u15-c6"
+      ],
+      "focusPointsZh": [
+        "原因状语短语",
+        "时间状语位置"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "u15-rq1",
+      "type": "single_choice",
+      "stem": "What did people ask Xu Xiake when he returned home?",
+      "options": [
+        "How many places did you visit?",
+        "Do you regret spending your life traveling?",
+        "Who inspired you to travel?",
+        "What was your favorite discovery?"
+      ],
+      "answer": "Do you regret spending your life traveling?",
+      "rationaleZh": "文章第一段提到人们问他是否后悔一生在路上。",
+      "evidenceSentenceIds": [
+        "u15-s3",
+        "u15-s4"
+      ]
+    },
+    {
+      "id": "u15-rq2",
+      "type": "single_choice",
+      "stem": "How long did Xu Xiake travel to achieve his dream?",
+      "options": [
+        "About 10 years",
+        "About 20 years",
+        "About 30 years",
+        "About 40 years"
+      ],
+      "answer": "About 30 years",
+      "rationaleZh": "文章第三段明确指出他旅行了大约30年并实现了梦想。",
+      "evidenceSentenceIds": [
+        "u15-s13"
+      ]
+    },
+    {
+      "id": "u15-rq3",
+      "type": "single_choice",
+      "stem": "What did Xu Xiake discover about Mount Huangshan?",
+      "options": [
+        "Tiandu Peak is higher than Lianhua Peak.",
+        "Lianhua Peak is higher than Tiandu Peak.",
+        "Both peaks are the same height.",
+        "The view from Tiandu Peak is wider."
+      ],
+      "answer": "Lianhua Peak is higher than Tiandu Peak.",
+      "rationaleZh": "文章描述他发现莲花峰视野更广，因此一定更高，证明他纠正了人们的错误看法。",
+      "evidenceSentenceIds": [
+        "u15-s16",
+        "u15-s18"
+      ]
+    },
+    {
+      "id": "u15-rq4",
+      "type": "single_choice",
+      "stem": "What is the main purpose of Xu Xiake's Travel Notes?",
+      "options": [
+        "To describe his illnesses",
+        "To compare himself to other travelers",
+        "To record his geographical discoveries and experiences",
+        "To list all the mountains in China"
+      ],
+      "answer": "To record his geographical discoveries and experiences",
+      "rationaleZh": "文章说明他记录旅行经历成书，让我们了解400年前的中国。",
+      "evidenceSentenceIds": [
+        "u15-s20",
+        "u15-s21",
+        "u15-s22"
+      ]
+    },
+    {
+      "id": "u15-rq5",
+      "type": "single_choice",
+      "stem": "Which phrase best describes Xu Xiake's life according to the article?",
+      "options": [
+        "Staying safe at home",
+        "Exploring the unexplored",
+        "Following traditional routes",
+        "Writing many books"
+      ],
+      "answer": "Exploring the unexplored",
+      "rationaleZh": "文章最后一句直接指出这是对他一生的最佳描述。",
+      "evidenceSentenceIds": [
+        "u15-s23"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "u15-s5",
+      "reasonZh": "这句话生动描绘了徐霞客游历中国的奇妙经历，用词优美且富有画面感。"
+    },
+    {
+      "sentenceId": "u15-s8",
+      "reasonZh": "简洁有力地总结了徐霞客的历史地位，具有激励性。"
+    },
+    {
+      "sentenceId": "u15-s23",
+      "reasonZh": "作为文章标题和结尾，深刻概括了徐霞客一生的探索精神，寓意深远。"
+    }
+  ]
+}

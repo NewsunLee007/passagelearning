@@ -1,0 +1,500 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u12-article",
+    "title": "Colours of my hometown",
+    "unit": "Unit 5 Amazing nature",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "u12-p1",
+        "sentenceIds": [
+          "u12-s1",
+          "u12-s2",
+          "u12-s3",
+          "u12-s4"
+        ]
+      },
+      {
+        "id": "u12-p2",
+        "sentenceIds": [
+          "u12-s5",
+          "u12-s6"
+        ]
+      },
+      {
+        "id": "u12-p3",
+        "sentenceIds": [
+          "u12-s7",
+          "u12-s8",
+          "u12-s9"
+        ]
+      },
+      {
+        "id": "u12-p4",
+        "sentenceIds": [
+          "u12-s10",
+          "u12-s11",
+          "u12-s12",
+          "u12-s13"
+        ]
+      },
+      {
+        "id": "u12-p5",
+        "sentenceIds": [
+          "u12-s14",
+          "u12-s15",
+          "u12-s16",
+          "u12-s17",
+          "u12-s18"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "u12-s1",
+      "text": "My hometown is on the Qinghai-Tibet Plateau.",
+      "paragraphId": "u12-p1",
+      "keywords": [
+        "hometown",
+        "Qinghai-Tibet Plateau"
+      ]
+    },
+    {
+      "id": "u12-s2",
+      "text": "The geography here is amazing.",
+      "paragraphId": "u12-p1",
+      "keywords": [
+        "geography",
+        "amazing"
+      ]
+    },
+    {
+      "id": "u12-s3",
+      "text": "It is famous for the world's highest mountain.",
+      "paragraphId": "u12-p1",
+      "keywords": [
+        "famous",
+        "highest mountain"
+      ]
+    },
+    {
+      "id": "u12-s4",
+      "text": "But this area is also full of the most amazing colours in nature.",
+      "paragraphId": "u12-p1",
+      "keywords": [
+        "area",
+        "amazing colours",
+        "nature"
+      ]
+    },
+    {
+      "id": "u12-s5",
+      "text": "The colour white meets your eyes all around.",
+      "paragraphId": "u12-p2",
+      "keywords": [
+        "white",
+        "meets",
+        "eyes"
+      ]
+    },
+    {
+      "id": "u12-s6",
+      "text": "The clouds are clean and soft, like our white sheep.",
+      "paragraphId": "u12-p2",
+      "keywords": [
+        "clouds",
+        "clean",
+        "soft",
+        "white sheep"
+      ]
+    },
+    {
+      "id": "u12-s7",
+      "text": "The mountains shine brightly in the sun, like white sea waves.",
+      "paragraphId": "u12-p2",
+      "keywords": [
+        "mountains",
+        "shine",
+        "brightly",
+        "white sea waves"
+      ]
+    },
+    {
+      "id": "u12-s8",
+      "text": "The lovely blue of the sky always gives me a calm feeling.",
+      "paragraphId": "u12-p3",
+      "keywords": [
+        "blue",
+        "sky",
+        "calm feeling"
+      ]
+    },
+    {
+      "id": "u12-s9",
+      "text": "It is like a great sea above the plateau.",
+      "paragraphId": "u12-p3",
+      "keywords": [
+        "great sea",
+        "above",
+        "plateau"
+      ]
+    },
+    {
+      "id": "u12-s10",
+      "text": "And words can't express my love for the rivers and lakes.",
+      "paragraphId": "u12-p3",
+      "keywords": [
+        "words",
+        "express",
+        "love",
+        "rivers",
+        "lakes"
+      ]
+    },
+    {
+      "id": "u12-s11",
+      "text": "There are a hundred kinds of blue in the water.",
+      "paragraphId": "u12-p3",
+      "keywords": [
+        "hundred kinds",
+        "blue",
+        "water"
+      ]
+    },
+    {
+      "id": "u12-s12",
+      "text": "Our grasslands, forests and fields are all green.",
+      "paragraphId": "u12-p4",
+      "keywords": [
+        "grasslands",
+        "forests",
+        "fields",
+        "green"
+      ]
+    },
+    {
+      "id": "u12-s13",
+      "text": "That's my favourite colour.",
+      "paragraphId": "u12-p4",
+      "keywords": [
+        "favourite",
+        "colour"
+      ]
+    },
+    {
+      "id": "u12-s14",
+      "text": "It means hope because it is the colour of life.",
+      "paragraphId": "u12-p4",
+      "keywords": [
+        "means",
+        "hope",
+        "colour of life"
+      ]
+    },
+    {
+      "id": "u12-s15",
+      "text": "But green is not just the colour of nature now.",
+      "paragraphId": "u12-p4",
+      "keywords": [
+        "green",
+        "colour of nature"
+      ]
+    },
+    {
+      "id": "u12-s16",
+      "text": "Trains are running through the plateau.",
+      "paragraphId": "u12-p4",
+      "keywords": [
+        "trains",
+        "running",
+        "plateau"
+      ]
+    },
+    {
+      "id": "u12-s17",
+      "text": "They are this beautiful colour, too.",
+      "paragraphId": "u12-p4",
+      "keywords": [
+        "beautiful",
+        "colour"
+      ]
+    },
+    {
+      "id": "u12-s18",
+      "text": "The plateau is quieter than the big cities.",
+      "paragraphId": "u12-p5",
+      "keywords": [
+        "plateau",
+        "quieter",
+        "big cities"
+      ]
+    },
+    {
+      "id": "u12-s19",
+      "text": "We have fewer shops and restaurants.",
+      "paragraphId": "u12-p5",
+      "keywords": [
+        "fewer",
+        "shops",
+        "restaurants"
+      ]
+    },
+    {
+      "id": "u12-s20",
+      "text": "But we have the best presents from nature.",
+      "paragraphId": "u12-p5",
+      "keywords": [
+        "best presents",
+        "nature"
+      ]
+    },
+    {
+      "id": "u12-s21",
+      "text": "In my heart, it's better than any other place.",
+      "paragraphId": "u12-p5",
+      "keywords": [
+        "heart",
+        "better",
+        "any other place"
+      ]
+    },
+    {
+      "id": "u12-s22",
+      "text": "I'm proud to say that I'm from one of the most beautiful places in the world.",
+      "paragraphId": "u12-p5",
+      "keywords": [
+        "proud",
+        "most beautiful places",
+        "world"
+      ]
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "u12-v1",
+      "term": "Qinghai-Tibet Plateau",
+      "meaningZh": "青藏高原",
+      "exampleSentenceId": "u12-s1",
+      "distractorsZh": [
+        "黄土高原",
+        "云贵高原",
+        "内蒙古高原"
+      ]
+    },
+    {
+      "id": "u12-v2",
+      "term": "amazing",
+      "meaningZh": "令人惊叹的",
+      "exampleSentenceId": "u12-s2",
+      "distractorsZh": [
+        "普通的",
+        "无聊的",
+        "可怕的"
+      ]
+    },
+    {
+      "id": "u12-v3",
+      "term": "calm feeling",
+      "meaningZh": "平静的感觉",
+      "exampleSentenceId": "u12-s8",
+      "distractorsZh": [
+        "兴奋的感觉",
+        "紧张的感觉",
+        "悲伤的感觉"
+      ]
+    },
+    {
+      "id": "u12-v4",
+      "term": "express",
+      "meaningZh": "表达",
+      "exampleSentenceId": "u12-s10",
+      "distractorsZh": [
+        "隐藏",
+        "忽略",
+        "误解"
+      ]
+    },
+    {
+      "id": "u12-v5",
+      "term": "grasslands",
+      "meaningZh": "草原",
+      "exampleSentenceId": "u12-s12",
+      "distractorsZh": [
+        "沙漠",
+        "森林",
+        "山脉"
+      ]
+    },
+    {
+      "id": "u12-v6",
+      "term": "proud",
+      "meaningZh": "自豪的",
+      "exampleSentenceId": "u12-s22",
+      "distractorsZh": [
+        "羞愧的",
+        "冷漠的",
+        "嫉妒的"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "u12-st1",
+      "sentenceId": "u12-s22",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u12-c1",
+          "text": "I'm proud to say",
+          "tag": "主语和谓语"
+        },
+        {
+          "id": "u12-c2",
+          "text": "that I'm from",
+          "tag": "宾语从句引导词和部分"
+        },
+        {
+          "id": "u12-c3",
+          "text": "one of the most beautiful places",
+          "tag": "宾语从句剩余部分"
+        },
+        {
+          "id": "u12-c4",
+          "text": "in the world.",
+          "tag": "地点状语"
+        }
+      ],
+      "correctOrder": [
+        "u12-c1",
+        "u12-c2",
+        "u12-c3",
+        "u12-c4"
+      ],
+      "focusPointsZh": [
+        "宾语从句结构",
+        "形容词最高级"
+      ]
+    },
+    {
+      "id": "u12-st2",
+      "sentenceId": "u12-s10",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u12-c5",
+          "text": "And words can't express",
+          "tag": "主语和谓语"
+        },
+        {
+          "id": "u12-c6",
+          "text": "my love",
+          "tag": "宾语"
+        },
+        {
+          "id": "u12-c7",
+          "text": "for the rivers and lakes.",
+          "tag": "介词短语作定语"
+        }
+      ],
+      "correctOrder": [
+        "u12-c5",
+        "u12-c6",
+        "u12-c7"
+      ],
+      "focusPointsZh": [
+        "情态动词否定式",
+        "介词短语修饰名词"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "u12-rq1",
+      "type": "single_choice",
+      "stem": "What is the author's hometown famous for?",
+      "options": [
+        "The world's highest mountain.",
+        "The most amazing colours in nature.",
+        "Both A and B.",
+        "Neither A nor B."
+      ],
+      "answer": "Both A and B.",
+      "rationaleZh": "文章第一段提到家乡以世界最高山闻名，但也充满最惊人的自然色彩，因此两者都是正确的。",
+      "evidenceSentenceIds": [
+        "u12-s3",
+        "u12-s4"
+      ]
+    },
+    {
+      "id": "u12-rq2",
+      "type": "single_choice",
+      "stem": "Why does the author like the colour green?",
+      "options": [
+        "Because it is the colour of the trains.",
+        "Because it means hope and is the colour of life.",
+        "Because it is the only colour in nature.",
+        "Because it is the colour of the sky."
+      ],
+      "answer": "Because it means hope and is the colour of life.",
+      "rationaleZh": "文章第四段明确指出绿色意味着希望，因为它是生命的颜色。",
+      "evidenceSentenceIds": [
+        "u12-s14"
+      ]
+    },
+    {
+      "id": "u12-rq3",
+      "type": "single_choice",
+      "stem": "How does the author feel about the plateau compared to big cities?",
+      "options": [
+        "It is noisier.",
+        "It has more shops and restaurants.",
+        "It is quieter and has fewer shops and restaurants.",
+        "It is exactly the same."
+      ],
+      "answer": "It is quieter and has fewer shops and restaurants.",
+      "rationaleZh": "文章最后一段提到高原比大城市更安静，商店和餐馆更少。",
+      "evidenceSentenceIds": [
+        "u12-s18",
+        "u12-s19"
+      ]
+    },
+    {
+      "id": "u12-rq4",
+      "type": "single_choice",
+      "stem": "What does the author compare the blue sky to?",
+      "options": [
+        "White sheep.",
+        "A great sea.",
+        "Green fields.",
+        "Trains."
+      ],
+      "answer": "A great sea.",
+      "rationaleZh": "文章第三段将蓝天比作高原上方的大海。",
+      "evidenceSentenceIds": [
+        "u12-s9"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "u12-s6",
+      "reasonZh": "运用生动的比喻，将云朵比作白羊，形象描绘了高原的纯净与柔和。"
+    },
+    {
+      "sentenceId": "u12-s11",
+      "reasonZh": "诗意地表达了水色之丰富，用“百种蓝色”突显自然色彩的多样性。"
+    },
+    {
+      "sentenceId": "u12-s22",
+      "reasonZh": "情感真挚，自豪地表达了对家乡的热爱，语言优美且富有感染力。"
+    }
+  ]
+}

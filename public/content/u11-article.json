@@ -1,0 +1,528 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u11-article",
+    "title": "The time-eating monster",
+    "unit": "Unit 11",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "u11-p1",
+        "sentenceIds": [
+          "u11-s1",
+          "u11-s2",
+          "u11-s3",
+          "u11-s4"
+        ]
+      },
+      {
+        "id": "u11-p2",
+        "sentenceIds": [
+          "u11-s5",
+          "u11-s6",
+          "u11-s7",
+          "u11-s8"
+        ]
+      },
+      {
+        "id": "u11-p3",
+        "sentenceIds": [
+          "u11-s9",
+          "u11-s10",
+          "u11-s11"
+        ]
+      },
+      {
+        "id": "u11-p4",
+        "sentenceIds": [
+          "u11-s12",
+          "u11-s13"
+        ]
+      },
+      {
+        "id": "u11-p5",
+        "sentenceIds": [
+          "u11-s14",
+          "u11-s15",
+          "u11-s16",
+          "u11-s17",
+          "u11-s18",
+          "u11-s19"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "u11-s1",
+      "text": "Have you ever noticed a monster around us?",
+      "paragraphId": "u11-p1",
+      "keywords": [
+        "noticed",
+        "monster",
+        "around"
+      ]
+    },
+    {
+      "id": "u11-s2",
+      "text": "It's not big or scary, but it's very dangerous.",
+      "paragraphId": "u11-p1",
+      "keywords": [
+        "scary",
+        "dangerous"
+      ]
+    },
+    {
+      "id": "u11-s3",
+      "text": "This monster comes in many forms – games, social media and TV shows.",
+      "paragraphId": "u11-p1",
+      "keywords": [
+        "forms",
+        "games",
+        "social media",
+        "TV shows"
+      ]
+    },
+    {
+      "id": "u11-s4",
+      "text": "You may ask, “It brings us so much fun. So why do you say it's a monster?”",
+      "paragraphId": "u11-p1",
+      "keywords": [
+        "brings",
+        "fun",
+        "monster"
+      ]
+    },
+    {
+      "id": "u11-s5",
+      "text": "At first, we may all think, \"I'll just have a little fun.\"",
+      "paragraphId": "u11-p2",
+      "keywords": [
+        "at first",
+        "think",
+        "little fun"
+      ]
+    },
+    {
+      "id": "u11-s6",
+      "text": "We turn on the computer and start a game.",
+      "paragraphId": "u11-p2",
+      "keywords": [
+        "turn on",
+        "computer",
+        "start",
+        "game"
+      ]
+    },
+    {
+      "id": "u11-s7",
+      "text": "But soon the monster takes over.",
+      "paragraphId": "u11-p2",
+      "keywords": [
+        "soon",
+        "monster",
+        "takes over"
+      ]
+    },
+    {
+      "id": "u11-s8",
+      "text": "It starts to eat away our time, minute by minute.",
+      "paragraphId": "u11-p2",
+      "keywords": [
+        "starts",
+        "eat away",
+        "time",
+        "minute by minute"
+      ]
+    },
+    {
+      "id": "u11-s9",
+      "text": "But we just sit there and look at the screen without noticing it at all.",
+      "paragraphId": "u11-p3",
+      "keywords": [
+        "sit",
+        "look",
+        "screen",
+        "noticing"
+      ]
+    },
+    {
+      "id": "u11-s10",
+      "text": "We often get lost in the monster's world like this.",
+      "paragraphId": "u11-p3",
+      "keywords": [
+        "get lost",
+        "monster's world"
+      ]
+    },
+    {
+      "id": "u11-s11",
+      "text": "We become couch potatoes with sore necks and dry eyes.",
+      "paragraphId": "u11-p3",
+      "keywords": [
+        "become",
+        "couch potatoes",
+        "sore necks",
+        "dry eyes"
+      ]
+    },
+    {
+      "id": "u11-s12",
+      "text": "We miss out on sweet moments with loved ones.",
+      "paragraphId": "u11-p4",
+      "keywords": [
+        "miss out",
+        "sweet moments",
+        "loved ones"
+      ]
+    },
+    {
+      "id": "u11-s13",
+      "text": "We are deaf to the real world.",
+      "paragraphId": "u11-p4",
+      "keywords": [
+        "deaf",
+        "real world"
+      ]
+    },
+    {
+      "id": "u11-s14",
+      "text": "Just remember, too much fun also makes Jack a dull boy!",
+      "paragraphId": "u11-p5",
+      "keywords": [
+        "remember",
+        "too much fun",
+        "dull boy"
+      ]
+    },
+    {
+      "id": "u11-s15",
+      "text": "The time-eating monster will always be there.",
+      "paragraphId": "u11-p5",
+      "keywords": [
+        "time-eating monster",
+        "always",
+        "there"
+      ]
+    },
+    {
+      "id": "u11-s16",
+      "text": "But we can keep it away by having fun in a balanced way.",
+      "paragraphId": "u11-p5",
+      "keywords": [
+        "keep away",
+        "balanced way"
+      ]
+    },
+    {
+      "id": "u11-s17",
+      "text": "So, stand up and leave the screens!",
+      "paragraphId": "u11-p5",
+      "keywords": [
+        "stand up",
+        "leave",
+        "screens"
+      ]
+    },
+    {
+      "id": "u11-s18",
+      "text": "Go outside, feel the sun on your face, and jog in the fresh air.",
+      "paragraphId": "u11-p5",
+      "keywords": [
+        "go outside",
+        "feel",
+        "sun",
+        "jog",
+        "fresh air"
+      ]
+    },
+    {
+      "id": "u11-s19",
+      "text": "Play tennis or go hiking with your friends.",
+      "paragraphId": "u11-p5",
+      "keywords": [
+        "play tennis",
+        "go hiking",
+        "friends"
+      ]
+    },
+    {
+      "id": "u11-s20",
+      "text": "Talk about your day with your family.",
+      "paragraphId": "u11-p5",
+      "keywords": [
+        "talk about",
+        "day",
+        "family"
+      ]
+    },
+    {
+      "id": "u11-s21",
+      "text": "There is so much for you to do.",
+      "paragraphId": "u11-p5",
+      "keywords": [
+        "so much",
+        "do"
+      ]
+    },
+    {
+      "id": "u11-s22",
+      "text": "The choice is ours.",
+      "paragraphId": "u11-p5",
+      "keywords": [
+        "choice",
+        "ours"
+      ]
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "u11-v1",
+      "term": "monster",
+      "meaningZh": "怪物",
+      "exampleSentenceId": "u11-s1",
+      "distractorsZh": [
+        "怪兽",
+        "魔鬼",
+        "恶魔"
+      ]
+    },
+    {
+      "id": "u11-v2",
+      "term": "dangerous",
+      "meaningZh": "危险的",
+      "exampleSentenceId": "u11-s2",
+      "distractorsZh": [
+        "安全",
+        "可怕",
+        "有害"
+      ]
+    },
+    {
+      "id": "u11-v3",
+      "term": "social media",
+      "meaningZh": "社交媒体",
+      "exampleSentenceId": "u11-s3",
+      "distractorsZh": [
+        "社会媒体",
+        "社交网络",
+        "媒体平台"
+      ]
+    },
+    {
+      "id": "u11-v4",
+      "term": "couch potatoes",
+      "meaningZh": "沙发土豆（指长时间看电视或玩电子设备的人）",
+      "exampleSentenceId": "u11-s11",
+      "distractorsZh": [
+        "沙发豆",
+        "懒人",
+        "电视迷"
+      ]
+    },
+    {
+      "id": "u11-v5",
+      "term": "miss out on",
+      "meaningZh": "错过",
+      "exampleSentenceId": "u11-s12",
+      "distractorsZh": [
+        "失去",
+        "遗漏",
+        "忽略"
+      ]
+    },
+    {
+      "id": "u11-v6",
+      "term": "balanced way",
+      "meaningZh": "平衡的方式",
+      "exampleSentenceId": "u11-s16",
+      "distractorsZh": [
+        "公平方式",
+        "均衡方法",
+        "稳定途径"
+      ]
+    },
+    {
+      "id": "u11-v7",
+      "term": "jog",
+      "meaningZh": "慢跑",
+      "exampleSentenceId": "u11-s18",
+      "distractorsZh": [
+        "跑步",
+        "散步",
+        "快走"
+      ]
+    },
+    {
+      "id": "u11-v8",
+      "term": "choice",
+      "meaningZh": "选择",
+      "exampleSentenceId": "u11-s22",
+      "distractorsZh": [
+        "机会",
+        "决定",
+        "选项"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "u11-st1",
+      "sentenceId": "u11-s18",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u11-c1",
+          "text": "Go outside",
+          "tag": "动词短语"
+        },
+        {
+          "id": "u11-c2",
+          "text": "feel the sun on your face",
+          "tag": "动词短语"
+        },
+        {
+          "id": "u11-c3",
+          "text": "and jog in the fresh air",
+          "tag": "动词短语"
+        }
+      ],
+      "correctOrder": [
+        "u11-c1",
+        "u11-c2",
+        "u11-c3"
+      ],
+      "focusPointsZh": [
+        "并列动词短语结构"
+      ]
+    },
+    {
+      "id": "u11-st2",
+      "sentenceId": "u11-s11",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u11-c4",
+          "text": "We become couch potatoes",
+          "tag": "主语+谓语"
+        },
+        {
+          "id": "u11-c5",
+          "text": "with sore necks and dry eyes",
+          "tag": "介词短语"
+        }
+      ],
+      "correctOrder": [
+        "u11-c4",
+        "u11-c5"
+      ],
+      "focusPointsZh": [
+        "介词短语作状语"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "u11-rq1",
+      "type": "single_choice",
+      "stem": "What does the \"time-eating monster\" refer to in the article?",
+      "options": [
+        "A scary creature",
+        "Games, social media, and TV shows",
+        "A dangerous animal",
+        "A fun activity"
+      ],
+      "answer": "Games, social media, and TV shows",
+      "rationaleZh": "文章第一段明确指出这个怪物以多种形式出现，包括游戏、社交媒体和电视节目。",
+      "evidenceSentenceIds": [
+        "u11-s3"
+      ]
+    },
+    {
+      "id": "u11-rq2",
+      "type": "single_choice",
+      "stem": "What is one negative effect mentioned of spending too much time with the monster?",
+      "options": [
+        "Becoming more energetic",
+        "Missing out on time with loved ones",
+        "Improving eyesight",
+        "Feeling happier"
+      ],
+      "answer": "Missing out on time with loved ones",
+      "rationaleZh": "文章第四段提到，我们会错过与亲人共度的甜蜜时光。",
+      "evidenceSentenceIds": [
+        "u11-s12"
+      ]
+    },
+    {
+      "id": "u11-rq3",
+      "type": "single_choice",
+      "stem": "How can we keep the time-eating monster away according to the article?",
+      "options": [
+        "By playing more games",
+        "By having fun in a balanced way",
+        "By ignoring it",
+        "By watching more TV"
+      ],
+      "answer": "By having fun in a balanced way",
+      "rationaleZh": "文章第五段建议通过平衡娱乐的方式来远离这个怪物。",
+      "evidenceSentenceIds": [
+        "u11-s16"
+      ]
+    },
+    {
+      "id": "u11-rq4",
+      "type": "single_choice",
+      "stem": "What does the phrase \"couch potatoes\" imply in the context?",
+      "options": [
+        "People who eat potatoes on the couch",
+        "People who exercise a lot",
+        "People who spend too much time sitting and watching screens",
+        "People who are very active"
+      ],
+      "answer": "People who spend too much time sitting and watching screens",
+      "rationaleZh": "结合上下文，\"couch potatoes\" 指长时间坐着看电视或使用电子设备的人，导致脖子酸痛和眼睛干涩。",
+      "evidenceSentenceIds": [
+        "u11-s11"
+      ]
+    },
+    {
+      "id": "u11-rq5",
+      "type": "single_choice",
+      "stem": "What is the main message of the article?",
+      "options": [
+        "We should avoid all fun activities",
+        "We need to balance screen time with real-world activities",
+        "Monsters are real and dangerous",
+        "Technology is always harmful"
+      ],
+      "answer": "We need to balance screen time with real-world activities",
+      "rationaleZh": "文章强调过度使用电子设备的危害，并鼓励通过户外活动等方式平衡娱乐，选择权在我们手中。",
+      "evidenceSentenceIds": [
+        "u11-s16",
+        "u11-s17",
+        "u11-s22"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "u11-s14",
+      "reasonZh": "使用谚语生动地传达过度娱乐的危害，语言简洁有力。"
+    },
+    {
+      "sentenceId": "u11-s18",
+      "reasonZh": "描绘了积极的户外活动场景，鼓励读者体验真实世界的美好。"
+    },
+    {
+      "sentenceId": "u11-s22",
+      "reasonZh": "结尾句简洁明了，强调个人选择的重要性，具有启发性。"
+    }
+  ]
+}

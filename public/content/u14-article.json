@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u14-article",
+    "title": "Hot and cool",
+    "unit": "Unit 6 Hitting the road",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "u14-p1",
+        "sentenceIds": [
+          "u14-s1",
+          "u14-s2",
+          "u14-s3"
+        ]
+      },
+      {
+        "id": "u14-p2",
+        "sentenceIds": [
+          "u14-s4",
+          "u14-s5",
+          "u14-s6",
+          "u14-s7",
+          "u14-s8"
+        ]
+      },
+      {
+        "id": "u14-p3",
+        "sentenceIds": [
+          "u14-s9",
+          "u14-s10",
+          "u14-s11",
+          "u14-s12",
+          "u14-s13"
+        ]
+      },
+      {
+        "id": "u14-p4",
+        "sentenceIds": [
+          "u14-s14",
+          "u14-s15",
+          "u14-s16"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "u14-s1",
+      "text": "At last, I arrived in Chengdu.",
+      "paragraphId": "u14-p1",
+      "keywords": [
+        "arrived",
+        "Chengdu"
+      ]
+    },
+    {
+      "id": "u14-s2",
+      "text": "My friend Haoyu took me to a restaurant right from the airport.",
+      "paragraphId": "u14-p1",
+      "keywords": [
+        "friend",
+        "restaurant",
+        "airport"
+      ]
+    },
+    {
+      "id": "u14-s3",
+      "text": "I just couldn't wait to try Sichuan hot pot!",
+      "paragraphId": "u14-p1",
+      "keywords": [
+        "couldn't wait",
+        "Sichuan hot pot"
+      ]
+    },
+    {
+      "id": "u14-s4",
+      "text": "But the first taste made my mouth burn!",
+      "paragraphId": "u14-p2",
+      "keywords": [
+        "first taste",
+        "mouth burn"
+      ]
+    },
+    {
+      "id": "u14-s5",
+      "text": "The food was much hotter than I expected.",
+      "paragraphId": "u14-p2",
+      "keywords": [
+        "much hotter",
+        "expected"
+      ]
+    },
+    {
+      "id": "u14-s6",
+      "text": "I took a deep breath and drank a whole glass of iced lemon tea.",
+      "paragraphId": "u14-p2",
+      "keywords": [
+        "deep breath",
+        "iced lemon tea"
+      ]
+    },
+    {
+      "id": "u14-s7",
+      "text": "\"Do you want something less hot?\" Haoyu said.",
+      "paragraphId": "u14-p2",
+      "keywords": [
+        "something less hot"
+      ]
+    },
+    {
+      "id": "u14-s8",
+      "text": "\"No,\" I replied.",
+      "paragraphId": "u14-p2",
+      "keywords": [
+        "replied"
+      ]
+    },
+    {
+      "id": "u14-s9",
+      "text": "\"When in China, do as the Chinese do!\"",
+      "paragraphId": "u14-p3",
+      "keywords": [
+        "When in China",
+        "do as the Chinese do"
+      ]
+    },
+    {
+      "id": "u14-s10",
+      "text": "I carefully took a small mouthful.",
+      "paragraphId": "u14-p3",
+      "keywords": [
+        "carefully",
+        "small mouthful"
+      ]
+    },
+    {
+      "id": "u14-s11",
+      "text": "Surprisingly, I started to enjoy the taste.",
+      "paragraphId": "u14-p3",
+      "keywords": [
+        "Surprisingly",
+        "enjoy the taste"
+      ]
+    },
+    {
+      "id": "u14-s12",
+      "text": "And cooking hot pot was just as fun as eating it!",
+      "paragraphId": "u14-p3",
+      "keywords": [
+        "cooking hot pot",
+        "just as fun"
+      ]
+    },
+    {
+      "id": "u14-s13",
+      "text": "After lunch, things went from really hot to totally cool - we went to the new Sanxingdui Museum!",
+      "paragraphId": "u14-p3",
+      "keywords": [
+        "really hot",
+        "totally cool",
+        "Sanxingdui Museum"
+      ]
+    },
+    {
+      "id": "u14-s14",
+      "text": "The masks were fantastic.",
+      "paragraphId": "u14-p4",
+      "keywords": [
+        "masks",
+        "fantastic"
+      ]
+    },
+    {
+      "id": "u14-s15",
+      "text": "\"Why are their eyes and ears much bigger than normal ones? Were ancient Shu people able to see and hear further than us?\" I wondered.",
+      "paragraphId": "u14-p4",
+      "keywords": [
+        "eyes and ears",
+        "ancient Shu people",
+        "see and hear"
+      ]
+    },
+    {
+      "id": "u14-s16",
+      "text": "I wanted to stay in the museum for a week!",
+      "paragraphId": "u14-p4",
+      "keywords": [
+        "stay",
+        "museum",
+        "week"
+      ]
+    },
+    {
+      "id": "u14-s17",
+      "text": "My first day in China was full of fun: I tried new food and went to an exciting place.",
+      "paragraphId": "u14-p4",
+      "keywords": [
+        "first day",
+        "full of fun",
+        "exciting place"
+      ]
+    },
+    {
+      "id": "u14-s18",
+      "text": "I'm really looking forward to the rest of my trip around China!",
+      "paragraphId": "u14-p4",
+      "keywords": [
+        "looking forward",
+        "trip around China"
+      ]
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "u14-v1",
+      "term": "arrived in",
+      "meaningZh": "到达",
+      "exampleSentenceId": "u14-s1",
+      "distractorsZh": [
+        "离开",
+        "出发",
+        "错过"
+      ]
+    },
+    {
+      "id": "u14-v2",
+      "term": "couldn't wait to",
+      "meaningZh": "迫不及待要",
+      "exampleSentenceId": "u14-s3",
+      "distractorsZh": [
+        "等待",
+        "犹豫",
+        "拒绝"
+      ]
+    },
+    {
+      "id": "u14-v3",
+      "term": "much hotter than",
+      "meaningZh": "比...热得多",
+      "exampleSentenceId": "u14-s5",
+      "distractorsZh": [
+        "比...冷",
+        "和...一样热",
+        "稍微热一点"
+      ]
+    },
+    {
+      "id": "u14-v4",
+      "term": "took a deep breath",
+      "meaningZh": "深吸一口气",
+      "exampleSentenceId": "u14-s6",
+      "distractorsZh": [
+        "呼气",
+        "屏住呼吸",
+        "咳嗽"
+      ]
+    },
+    {
+      "id": "u14-v5",
+      "term": "When in China, do as the Chinese do",
+      "meaningZh": "入乡随俗",
+      "exampleSentenceId": "u14-s9",
+      "distractorsZh": [
+        "我行我素",
+        "随波逐流",
+        "坚持己见"
+      ]
+    },
+    {
+      "id": "u14-v6",
+      "term": "just as fun as",
+      "meaningZh": "和...一样有趣",
+      "exampleSentenceId": "u14-s12",
+      "distractorsZh": [
+        "比...无聊",
+        "不如...有趣",
+        "非常有趣"
+      ]
+    },
+    {
+      "id": "u14-v7",
+      "term": "looking forward to",
+      "meaningZh": "期待",
+      "exampleSentenceId": "u14-s18",
+      "distractorsZh": [
+        "担心",
+        "忘记",
+        "后悔"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "u14-st1",
+      "sentenceId": "u14-s13",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u14-c1",
+          "text": "After lunch,",
+          "tag": "时间状语"
+        },
+        {
+          "id": "u14-c2",
+          "text": "things went from really hot to totally cool -",
+          "tag": "主句"
+        },
+        {
+          "id": "u14-c3",
+          "text": "we went to the new Sanxingdui Museum!",
+          "tag": "同位语/补充说明"
+        }
+      ],
+      "correctOrder": [
+        "u14-c1",
+        "u14-c2",
+        "u14-c3"
+      ],
+      "focusPointsZh": [
+        "时间状语从句",
+        "主句结构",
+        "同位语用法"
+      ]
+    },
+    {
+      "id": "u14-st2",
+      "sentenceId": "u14-s15",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u14-c4",
+          "text": "\"Why are their eyes and ears much bigger than normal ones?",
+          "tag": "疑问句1"
+        },
+        {
+          "id": "u14-c5",
+          "text": "Were ancient Shu people able to see and hear further than us?\"",
+          "tag": "疑问句2"
+        },
+        {
+          "id": "u14-c6",
+          "text": "I wondered.",
+          "tag": "主句"
+        }
+      ],
+      "correctOrder": [
+        "u14-c4",
+        "u14-c5",
+        "u14-c6"
+      ],
+      "focusPointsZh": [
+        "直接引语",
+        "疑问句结构",
+        "主句位置"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "u14-rq1",
+      "type": "single_choice",
+      "stem": "What did the author do right after arriving in Chengdu?",
+      "options": [
+        "He went to a hotel.",
+        "He tried Sichuan hot pot.",
+        "He visited a museum.",
+        "He drank lemon tea."
+      ],
+      "answer": "He tried Sichuan hot pot.",
+      "rationaleZh": "文章第一段提到作者到达成都后，朋友直接从机场带他去餐厅，他迫不及待想尝试四川火锅。",
+      "evidenceSentenceIds": [
+        "u14-s1",
+        "u14-s2",
+        "u14-s3"
+      ]
+    },
+    {
+      "id": "u14-rq2",
+      "type": "single_choice",
+      "stem": "How did the author react when the hot pot was too hot?",
+      "options": [
+        "He stopped eating immediately.",
+        "He asked for less hot food.",
+        "He drank iced lemon tea and continued.",
+        "He left the restaurant."
+      ],
+      "answer": "He drank iced lemon tea and continued.",
+      "rationaleZh": "第二段描述作者觉得火锅太辣时，深吸一口气喝了一杯冰柠檬茶，并坚持入乡随俗继续尝试。",
+      "evidenceSentenceIds": [
+        "u14-s6",
+        "u14-s9",
+        "u14-s10"
+      ]
+    },
+    {
+      "id": "u14-rq3",
+      "type": "single_choice",
+      "stem": "What does \"things went from really hot to totally cool\" mean in the context?",
+      "options": [
+        "The weather changed.",
+        "The author's feelings shifted from spicy food to a museum visit.",
+        "The food became cold.",
+        "The museum was air-conditioned."
+      ],
+      "answer": "The author's feelings shifted from spicy food to a museum visit.",
+      "rationaleZh": "这句话是比喻，'hot'指辣的食物体验，'cool'指参观三星堆博物馆的酷炫经历，表示活动从餐饮转到文化参观。",
+      "evidenceSentenceIds": [
+        "u14-s13"
+      ]
+    },
+    {
+      "id": "u14-rq4",
+      "type": "single_choice",
+      "stem": "Why did the author want to stay in the museum for a week?",
+      "options": [
+        "Because it was very large.",
+        "Because the masks were fantastic and sparked curiosity.",
+        "Because he was tired from the trip.",
+        "Because the entrance fee was low."
+      ],
+      "answer": "Because the masks were fantastic and sparked curiosity.",
+      "rationaleZh": "作者觉得面具很棒，并对古代蜀人的眼睛和耳朵更大感到好奇，因此想多停留探索。",
+      "evidenceSentenceIds": [
+        "u14-s14",
+        "u14-s15",
+        "u14-s16"
+      ]
+    },
+    {
+      "id": "u14-rq5",
+      "type": "single_choice",
+      "stem": "What is the main idea of the article?",
+      "options": [
+        "A travel guide to Chengdu.",
+        "A story about adapting to new experiences in China.",
+        "A review of Sichuan hot pot.",
+        "A history lesson on Sanxingdui."
+      ],
+      "answer": "A story about adapting to new experiences in China.",
+      "rationaleZh": "文章通过作者尝试辣火锅和参观博物馆的经历，展现了适应中国新体验的主题，结尾表达了对后续旅行的期待。",
+      "evidenceSentenceIds": [
+        "u14-s9",
+        "u14-s17",
+        "u14-s18"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "u14-s9",
+      "reasonZh": "这句谚语'入乡随俗'文化内涵丰富，鼓励开放心态适应新环境。"
+    },
+    {
+      "sentenceId": "u14-s13",
+      "reasonZh": "比喻生动，从'hot'到'cool'巧妙连接饮食和文化体验，语言富有创意。"
+    },
+    {
+      "sentenceId": "u14-s18",
+      "reasonZh": "表达积极乐观的旅行期待，情感真挚，适合作为励志引用。"
+    }
+  ]
+}

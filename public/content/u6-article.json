@@ -1,0 +1,489 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u6-article",
+    "title": "Last but not least",
+    "unit": "Unit 2 Go for it!",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "u6-p1",
+        "sentenceIds": [
+          "u6-s1",
+          "u6-s2",
+          "u6-s3",
+          "u6-s4"
+        ]
+      },
+      {
+        "id": "u6-p2",
+        "sentenceIds": [
+          "u6-s5",
+          "u6-s6",
+          "u6-s7",
+          "u6-s8",
+          "u6-s9"
+        ]
+      },
+      {
+        "id": "u6-p3",
+        "sentenceIds": [
+          "u6-s10",
+          "u6-s11"
+        ]
+      },
+      {
+        "id": "u6-p4",
+        "sentenceIds": [
+          "u6-s12",
+          "u6-s13",
+          "u6-s14"
+        ]
+      },
+      {
+        "id": "u6-p5",
+        "sentenceIds": [
+          "u6-s15",
+          "u6-s16",
+          "u6-s17"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "u6-s1",
+      "text": "It was the last minute of the 2022 Beijing Marathon.",
+      "paragraphId": "u6-p1",
+      "keywords": [
+        "last minute",
+        "Beijing Marathon"
+      ]
+    },
+    {
+      "id": "u6-s2",
+      "text": "However, 86-year-old Zhang Shun was still about 100 metres from the finishing line.",
+      "paragraphId": "u6-p1",
+      "keywords": [
+        "86-year-old",
+        "finishing line"
+      ]
+    },
+    {
+      "id": "u6-s3",
+      "text": "People watched him move slowly.",
+      "paragraphId": "u6-p1",
+      "keywords": [
+        "move slowly"
+      ]
+    },
+    {
+      "id": "u6-s4",
+      "text": "All of them held their breath.",
+      "paragraphId": "u6-p1",
+      "keywords": [
+        "held their breath"
+      ]
+    },
+    {
+      "id": "u6-s5",
+      "text": "Would he make it?",
+      "paragraphId": "u6-p1",
+      "keywords": [
+        "make it"
+      ]
+    },
+    {
+      "id": "u6-s6",
+      "text": "Zhang felt confident before the race.",
+      "paragraphId": "u6-p2",
+      "keywords": [
+        "confident",
+        "before the race"
+      ]
+    },
+    {
+      "id": "u6-s7",
+      "text": "But he had a stomachache on the way.",
+      "paragraphId": "u6-p2",
+      "keywords": [
+        "stomachache",
+        "on the way"
+      ]
+    },
+    {
+      "id": "u6-s8",
+      "text": "This made him fall behind.",
+      "paragraphId": "u6-p2",
+      "keywords": [
+        "fall behind"
+      ]
+    },
+    {
+      "id": "u6-s9",
+      "text": "\"Shall I take a rest or stop?\" he thought.",
+      "paragraphId": "u6-p2",
+      "keywords": [
+        "take a rest",
+        "stop"
+      ]
+    },
+    {
+      "id": "u6-s10",
+      "text": "Either choice seemed fine for someone at his age.",
+      "paragraphId": "u6-p2",
+      "keywords": [
+        "either choice",
+        "at his age"
+      ]
+    },
+    {
+      "id": "u6-s11",
+      "text": "But Zhang chose neither of them.",
+      "paragraphId": "u6-p2",
+      "keywords": [
+        "chose neither"
+      ]
+    },
+    {
+      "id": "u6-s12",
+      "text": "He just ran on.",
+      "paragraphId": "u6-p2",
+      "keywords": [
+        "ran on"
+      ]
+    },
+    {
+      "id": "u6-s13",
+      "text": "With people cheering, he finally crossed the finishing line!",
+      "paragraphId": "u6-p2",
+      "keywords": [
+        "cheering",
+        "crossed the finishing line"
+      ]
+    },
+    {
+      "id": "u6-s14",
+      "text": "Marathon running is Zhang's lifelong dream.",
+      "paragraphId": "u6-p3",
+      "keywords": [
+        "lifelong dream"
+      ]
+    },
+    {
+      "id": "u6-s15",
+      "text": "\"In 1989, I saw Beijing Marathon runners go past my home.",
+      "paragraphId": "u6-p3",
+      "keywords": [
+        "go past"
+      ]
+    },
+    {
+      "id": "u6-s16",
+      "text": "I just wanted to become one of them,\" he said.",
+      "paragraphId": "u6-p3",
+      "keywords": [
+        "become one of them"
+      ]
+    },
+    {
+      "id": "u6-s17",
+      "text": "For years, he trained every morning in the park.",
+      "paragraphId": "u6-p4",
+      "keywords": [
+        "trained",
+        "every morning"
+      ]
+    },
+    {
+      "id": "u6-s18",
+      "text": "He filled over 30 notebooks with his running records.",
+      "paragraphId": "u6-p4",
+      "keywords": [
+        "filled",
+        "running records"
+      ]
+    },
+    {
+      "id": "u6-s19",
+      "text": "None of his family members worried or tried to stop him.",
+      "paragraphId": "u6-p4",
+      "keywords": [
+        "worried",
+        "stop him"
+      ]
+    },
+    {
+      "id": "u6-s20",
+      "text": "They knew he enjoyed every moment.",
+      "paragraphId": "u6-p4",
+      "keywords": [
+        "enjoyed every moment"
+      ]
+    },
+    {
+      "id": "u6-s21",
+      "text": "Zhang Shun was the oldest and the slowest runner to finish the 2022 Beijing Marathon.",
+      "paragraphId": "u6-p5",
+      "keywords": [
+        "oldest",
+        "slowest runner"
+      ]
+    },
+    {
+      "id": "u6-s22",
+      "text": "But it didn't matter to him.",
+      "paragraphId": "u6-p5",
+      "keywords": [
+        "didn't matter"
+      ]
+    },
+    {
+      "id": "u6-s23",
+      "text": "For Zhang, running isn't about winning - it's about enjoying the sport itself.",
+      "paragraphId": "u6-p5",
+      "keywords": [
+        "about winning",
+        "enjoying the sport"
+      ]
+    },
+    {
+      "id": "u6-s24",
+      "text": "He has no plans to stop.",
+      "paragraphId": "u6-p5",
+      "keywords": [
+        "no plans to stop"
+      ]
+    },
+    {
+      "id": "u6-s25",
+      "text": "\"If possible, I will keep running.\"",
+      "paragraphId": "u6-p5",
+      "keywords": [
+        "keep running"
+      ]
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "u6-v1",
+      "term": "finishing line",
+      "meaningZh": "终点线",
+      "exampleSentenceId": "u6-s2",
+      "distractorsZh": [
+        "起跑线",
+        "赛道",
+        "终点站"
+      ]
+    },
+    {
+      "id": "u6-v2",
+      "term": "stomachache",
+      "meaningZh": "胃痛",
+      "exampleSentenceId": "u6-s7",
+      "distractorsZh": [
+        "头痛",
+        "腹痛",
+        "牙痛"
+      ]
+    },
+    {
+      "id": "u6-v3",
+      "term": "fall behind",
+      "meaningZh": "落后",
+      "exampleSentenceId": "u6-s8",
+      "distractorsZh": [
+        "摔倒",
+        "落后于",
+        "落后于他人"
+      ]
+    },
+    {
+      "id": "u6-v4",
+      "term": "lifelong dream",
+      "meaningZh": "终身梦想",
+      "exampleSentenceId": "u6-s14",
+      "distractorsZh": [
+        "短期目标",
+        "人生目标",
+        "梦想成真"
+      ]
+    },
+    {
+      "id": "u6-v5",
+      "term": "running records",
+      "meaningZh": "跑步记录",
+      "exampleSentenceId": "u6-s18",
+      "distractorsZh": [
+        "跑步成绩",
+        "跑步数据",
+        "跑步日志"
+      ]
+    },
+    {
+      "id": "u6-v6",
+      "term": "enjoying the sport",
+      "meaningZh": "享受运动",
+      "exampleSentenceId": "u6-s23",
+      "distractorsZh": [
+        "热爱运动",
+        "参与运动",
+        "运动乐趣"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "u6-st1",
+      "sentenceId": "u6-s13",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u6-c1",
+          "text": "With people cheering",
+          "tag": "状语"
+        },
+        {
+          "id": "u6-c2",
+          "text": "he finally crossed",
+          "tag": "主语+谓语"
+        },
+        {
+          "id": "u6-c3",
+          "text": "the finishing line",
+          "tag": "宾语"
+        }
+      ],
+      "correctOrder": [
+        "u6-c1",
+        "u6-c2",
+        "u6-c3"
+      ],
+      "focusPointsZh": [
+        "with引导的伴随状语",
+        "动词短语cross the finishing line"
+      ]
+    },
+    {
+      "id": "u6-st2",
+      "sentenceId": "u6-s23",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u6-c4",
+          "text": "For Zhang",
+          "tag": "状语"
+        },
+        {
+          "id": "u6-c5",
+          "text": "running isn't about winning",
+          "tag": "主语+谓语+宾语"
+        },
+        {
+          "id": "u6-c6",
+          "text": "it's about enjoying the sport itself",
+          "tag": "主语+谓语+宾语"
+        }
+      ],
+      "correctOrder": [
+        "u6-c4",
+        "u6-c5",
+        "u6-c6"
+      ],
+      "focusPointsZh": [
+        "并列结构isn't about... it's about...",
+        "反身代词itself"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "u6-rq1",
+      "type": "single_choice",
+      "stem": "What happened to Zhang Shun during the 2022 Beijing Marathon?",
+      "options": [
+        "He felt confident throughout the race.",
+        "He had a stomachache and fell behind.",
+        "He stopped to take a rest.",
+        "He was the fastest runner."
+      ],
+      "answer": "He had a stomachache and fell behind.",
+      "rationaleZh": "根据文章第二段，张顺在比赛中胃痛，导致他落后。",
+      "evidenceSentenceIds": [
+        "u6-s7",
+        "u6-s8"
+      ]
+    },
+    {
+      "id": "u6-rq2",
+      "type": "single_choice",
+      "stem": "Why did Zhang Shun start marathon running?",
+      "options": [
+        "To win competitions.",
+        "Because his family encouraged him.",
+        "After seeing Beijing Marathon runners in 1989.",
+        "To improve his health."
+      ],
+      "answer": "After seeing Beijing Marathon runners in 1989.",
+      "rationaleZh": "文章第三段提到，张顺在1989年看到北京马拉松选手经过他家，从而想成为其中一员。",
+      "evidenceSentenceIds": [
+        "u6-s14",
+        "u6-s15",
+        "u6-s16"
+      ]
+    },
+    {
+      "id": "u6-rq3",
+      "type": "single_choice",
+      "stem": "What does Zhang Shun think about running?",
+      "options": [
+        "It is only about winning.",
+        "He plans to stop soon.",
+        "It is about enjoying the sport itself.",
+        "He runs to set records."
+      ],
+      "answer": "It is about enjoying the sport itself.",
+      "rationaleZh": "文章最后一段明确说明，对张顺来说，跑步不是关于获胜，而是享受运动本身。",
+      "evidenceSentenceIds": [
+        "u6-s23"
+      ]
+    },
+    {
+      "id": "u6-rq4",
+      "type": "single_choice",
+      "stem": "How did Zhang Shun's family react to his running?",
+      "options": [
+        "They worried and tried to stop him.",
+        "They didn't care about it.",
+        "They knew he enjoyed every moment.",
+        "They joined him in training."
+      ],
+      "answer": "They knew he enjoyed every moment.",
+      "rationaleZh": "文章第四段指出，他的家人没有担心或试图阻止他，因为他们知道他享受每一刻。",
+      "evidenceSentenceIds": [
+        "u6-s19",
+        "u6-s20"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "u6-s13",
+      "reasonZh": "这句话生动描绘了张顺在观众欢呼中冲过终点线的场景，体现了坚持和喜悦。"
+    },
+    {
+      "sentenceId": "u6-s23",
+      "reasonZh": "这句话传达了张顺对跑步的深刻理解，强调享受过程而非结果，富有哲理。"
+    },
+    {
+      "entenceId": "u6-s25",
+      "reasonZh": "这句话展示了张顺对跑步的持久热情和积极态度，激励人心。"
+    }
+  ]
+}

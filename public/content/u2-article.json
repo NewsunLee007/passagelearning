@@ -1,0 +1,249 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u2-article",
+    "title": "The secrets of happiness",
+    "unit": "Unit 1",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "u2-p1",
+        "sentenceIds": [
+          "u2-s1",
+          "u2-s2",
+          "u2-s3",
+          "u2-s4",
+          "u2-s5"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "u2-s1",
+      "text": "Holidays and having fun",
+      "paragraphId": "u2-p1",
+      "keywords": [
+        "holidays",
+        "fun"
+      ]
+    },
+    {
+      "id": "u2-s2",
+      "text": "Afternoons in the park",
+      "paragraphId": "u2-p1",
+      "keywords": [
+        "afternoons",
+        "park"
+      ]
+    },
+    {
+      "id": "u2-s3",
+      "text": "Playing games with friends",
+      "paragraphId": "u2-p1",
+      "keywords": [
+        "playing",
+        "games",
+        "friends"
+      ]
+    },
+    {
+      "id": "u2-s4",
+      "text": "Parties and birthday presents",
+      "paragraphId": "u2-p1",
+      "keywords": [
+        "parties",
+        "birthday",
+        "presents"
+      ]
+    },
+    {
+      "id": "u2-s5",
+      "text": "Starting out (Poem)",
+      "paragraphId": "u2-p1",
+      "keywords": [
+        "starting",
+        "poem"
+      ]
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "u2-v1",
+      "term": "holidays",
+      "meaningZh": "假期",
+      "exampleSentenceId": "u2-s1",
+      "distractorsZh": [
+        "节日",
+        "工作日",
+        "周末"
+      ]
+    },
+    {
+      "id": "u2-v2",
+      "term": "having fun",
+      "meaningZh": "玩得开心",
+      "exampleSentenceId": "u2-s1",
+      "distractorsZh": [
+        "努力工作",
+        "感到无聊",
+        "学习知识"
+      ]
+    },
+    {
+      "id": "u2-v3",
+      "term": "afternoons",
+      "meaningZh": "下午",
+      "exampleSentenceId": "u2-s2",
+      "distractorsZh": [
+        "上午",
+        "夜晚",
+        "中午"
+      ]
+    },
+    {
+      "id": "u2-v4",
+      "term": "playing games",
+      "meaningZh": "玩游戏",
+      "exampleSentenceId": "u2-s3",
+      "distractorsZh": [
+        "做作业",
+        "看电视",
+        "听音乐"
+      ]
+    },
+    {
+      "id": "u2-v5",
+      "term": "birthday presents",
+      "meaningZh": "生日礼物",
+      "exampleSentenceId": "u2-s4",
+      "distractorsZh": [
+        "生日蛋糕",
+        "生日派对",
+        "生日贺卡"
+      ]
+    },
+    {
+      "id": "u2-v6",
+      "term": "starting out",
+      "meaningZh": "开始",
+      "exampleSentenceId": "u2-s5",
+      "distractorsZh": [
+        "结束",
+        "继续",
+        "暂停"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "u2-st1",
+      "sentenceId": "u2-s3",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u2-c1",
+          "text": "Playing games",
+          "tag": "动名词短语"
+        },
+        {
+          "id": "u2-c2",
+          "text": "with friends",
+          "tag": "介词短语"
+        }
+      ],
+      "correctOrder": [
+        "u2-c1",
+        "u2-c2"
+      ],
+      "focusPointsZh": [
+        "动名词作主语",
+        "介词短语作状语"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "u2-rq1",
+      "type": "single_choice",
+      "stem": "What is the main topic of the article?",
+      "options": [
+        "The secrets of happiness",
+        "How to plan holidays",
+        "Types of games",
+        "Birthday party ideas"
+      ],
+      "answer": "The secrets of happiness",
+      "rationaleZh": "文章标题明确指出了主题是“幸福的秘密”。",
+      "evidenceSentenceIds": [
+        "u2-s1",
+        "u2-s2",
+        "u2-s3",
+        "u2-s4"
+      ]
+    },
+    {
+      "id": "u2-rq2",
+      "type": "single_choice",
+      "stem": "Which activity is mentioned as a source of happiness?",
+      "options": [
+        "Playing games with friends",
+        "Studying hard",
+        "Watching TV alone",
+        "Cleaning the house"
+      ],
+      "answer": "Playing games with friends",
+      "rationaleZh": "句子“Playing games with friends”直接提到了和朋友玩游戏是幸福的活动之一。",
+      "evidenceSentenceIds": [
+        "u2-s3"
+      ]
+    },
+    {
+      "id": "u2-rq3",
+      "type": "single_choice",
+      "stem": "Where might people spend afternoons according to the article?",
+      "options": [
+        "In the park",
+        "At school",
+        "In the office",
+        "At home"
+      ],
+      "answer": "In the park",
+      "rationaleZh": "句子“Afternoons in the park”明确指出下午可以在公园度过。",
+      "evidenceSentenceIds": [
+        "u2-s2"
+      ]
+    },
+    {
+      "id": "u2-rq4",
+      "type": "single_choice",
+      "stem": "What does the article suggest about parties?",
+      "options": [
+        "They are associated with birthday presents.",
+        "They are only for adults.",
+        "They are not fun.",
+        "They happen every day."
+      ],
+      "answer": "They are associated with birthday presents.",
+      "rationaleZh": "句子“Parties and birthday presents”将派对和生日礼物联系起来，暗示它们是幸福的一部分。",
+      "evidenceSentenceIds": [
+        "u2-s4"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "u2-s3",
+      "reasonZh": "这句话简洁地表达了与朋友共享快乐时光的温馨场景，富有感染力。"
+    },
+    {
+      "sentenceId": "u2-s2",
+      "reasonZh": "描绘了宁静愉快的午后公园时光，语言优美且意境轻松。"
+    }
+  ]
+}

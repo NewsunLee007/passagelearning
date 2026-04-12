@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u9-article",
+    "title": "Food across borders",
+    "unit": "Unit 9",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "u9-p1",
+        "sentenceIds": [
+          "u9-s1",
+          "u9-s2",
+          "u9-s3",
+          "u9-s4",
+          "u9-s5",
+          "u9-s6",
+          "u9-s7"
+        ]
+      },
+      {
+        "id": "u9-p2",
+        "sentenceIds": [
+          "u9-s8",
+          "u9-s9",
+          "u9-s10",
+          "u9-s11",
+          "u9-s12"
+        ]
+      },
+      {
+        "id": "u9-p3",
+        "sentenceIds": [
+          "u9-s13"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "u9-s1",
+      "text": "The history of food is never simple.",
+      "paragraphId": "u9-p1",
+      "keywords": [
+        "history",
+        "food",
+        "simple"
+      ]
+    },
+    {
+      "id": "u9-s2",
+      "text": "Think of ice cream.",
+      "paragraphId": "u9-p1",
+      "keywords": [
+        "think",
+        "ice cream"
+      ]
+    },
+    {
+      "id": "u9-s3",
+      "text": "Many people see it as a Western dessert.",
+      "paragraphId": "u9-p1",
+      "keywords": [
+        "people",
+        "see",
+        "Western",
+        "dessert"
+      ]
+    },
+    {
+      "id": "u9-s4",
+      "text": "However, this sweet treat actually came from China!",
+      "paragraphId": "u9-p1",
+      "keywords": [
+        "however",
+        "sweet treat",
+        "actually",
+        "came",
+        "China"
+      ]
+    },
+    {
+      "id": "u9-s5",
+      "text": "In the Zhou Dynasty, Chinese people began to store winter ice to enjoy in summer.",
+      "paragraphId": "u9-p1",
+      "keywords": [
+        "Zhou Dynasty",
+        "Chinese people",
+        "began",
+        "store",
+        "winter ice",
+        "enjoy",
+        "summer"
+      ]
+    },
+    {
+      "id": "u9-s6",
+      "text": "In the Song Dynasty, people started to make binglao - it just means \"ice cream\" in English.",
+      "paragraphId": "u9-p1",
+      "keywords": [
+        "Song Dynasty",
+        "people",
+        "started",
+        "make",
+        "binglao",
+        "means",
+        "ice cream",
+        "English"
+      ]
+    },
+    {
+      "id": "u9-s7",
+      "text": "It was a lot like modern ice cream.",
+      "paragraphId": "u9-p1",
+      "keywords": [
+        "lot",
+        "like",
+        "modern",
+        "ice cream"
+      ]
+    },
+    {
+      "id": "u9-s8",
+      "text": "Folk tales have it that Emperor Huizong suffered from stomach pains after eating too much ice.",
+      "paragraphId": "u9-p1",
+      "keywords": [
+        "folk tales",
+        "Emperor Huizong",
+        "suffered",
+        "stomach pains",
+        "eating",
+        "too much",
+        "ice"
+      ]
+    },
+    {
+      "id": "u9-s9",
+      "text": "In the Yuan Dynasty, Marco Polo tasted binglao and carried the idea all the way back to Europe.",
+      "paragraphId": "u9-p1",
+      "keywords": [
+        "Yuan Dynasty",
+        "Marco Polo",
+        "tasted",
+        "binglao",
+        "carried",
+        "idea",
+        "all the way",
+        "back",
+        "Europe"
+      ]
+    },
+    {
+      "id": "u9-s10",
+      "text": "People there added heavy cream and new tastes.",
+      "paragraphId": "u9-p1",
+      "keywords": [
+        "people",
+        "added",
+        "heavy cream",
+        "new tastes"
+      ]
+    },
+    {
+      "id": "u9-s11",
+      "text": "The rest is history!",
+      "paragraphId": "u9-p1",
+      "keywords": [
+        "rest",
+        "history"
+      ]
+    },
+    {
+      "id": "u9-s12",
+      "text": "Sometimes, totally different cultures have similar dishes.",
+      "paragraphId": "u9-p2",
+      "keywords": [
+        "sometimes",
+        "totally",
+        "different",
+        "cultures",
+        "have",
+        "similar",
+        "dishes"
+      ]
+    },
+    {
+      "id": "u9-s13",
+      "text": "Iranians love a kind of flat bread, sangak.",
+      "paragraphId": "u9-p2",
+      "keywords": [
+        "Iranians",
+        "love",
+        "kind",
+        "flat bread",
+        "sangak"
+      ]
+    },
+    {
+      "id": "u9-s14",
+      "text": "People in Shaanxi, China, love stone pancakes.",
+      "paragraphId": "u9-p2",
+      "keywords": [
+        "people",
+        "Shaanxi",
+        "China",
+        "love",
+        "stone pancakes"
+      ]
+    },
+    {
+      "id": "u9-s15",
+      "text": "These two look almost the same!",
+      "paragraphId": "u9-p2",
+      "keywords": [
+        "these",
+        "two",
+        "look",
+        "almost",
+        "same"
+      ]
+    },
+    {
+      "id": "u9-s16",
+      "text": "People often compare roujiamo to hamburgers, a symbol of American food.",
+      "paragraphId": "u9-p2",
+      "keywords": [
+        "people",
+        "often",
+        "compare",
+        "roujiamo",
+        "hamburgers",
+        "symbol",
+        "American food"
+      ]
+    },
+    {
+      "id": "u9-s17",
+      "text": "Many people call it the \"Chinese hamburger\".",
+      "paragraphId": "u9-p2",
+      "keywords": [
+        "many people",
+        "call",
+        "Chinese hamburger"
+      ]
+    },
+    {
+      "id": "u9-s18",
+      "text": "But in fact, arepas of Venezuela look more like the twin brother of roujiamo!",
+      "paragraphId": "u9-p2",
+      "keywords": [
+        "but",
+        "in fact",
+        "arepas",
+        "Venezuela",
+        "look",
+        "more like",
+        "twin brother",
+        "roujiamo"
+      ]
+    },
+    {
+      "id": "u9-s19",
+      "text": "Food is a bridge between cultures.",
+      "paragraphId": "u9-p3",
+      "keywords": [
+        "food",
+        "bridge",
+        "between",
+        "cultures"
+      ]
+    },
+    {
+      "id": "u9-s20",
+      "text": "When food crosses borders, sweet things can happen.",
+      "paragraphId": "u9-p3",
+      "keywords": [
+        "when",
+        "food",
+        "crosses",
+        "borders",
+        "sweet things",
+        "can",
+        "happen"
+      ]
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "u9-v1",
+      "term": "dessert",
+      "meaningZh": "甜点",
+      "exampleSentenceId": "u9-s3",
+      "distractorsZh": [
+        "沙漠",
+        "设计",
+        "决定"
+      ]
+    },
+    {
+      "id": "u9-v2",
+      "term": "folk tales",
+      "meaningZh": "民间故事",
+      "exampleSentenceId": "u9-s8",
+      "distractorsZh": [
+        "民间音乐",
+        "民间舞蹈",
+        "民间艺术"
+      ]
+    },
+    {
+      "id": "u9-v3",
+      "term": "carried the idea",
+      "meaningZh": "传播了这个想法",
+      "exampleSentenceId": "u9-s9",
+      "distractorsZh": [
+        "携带了物品",
+        "搬运了货物",
+        "传递了信息"
+      ]
+    },
+    {
+      "id": "u9-v4",
+      "term": "similar dishes",
+      "meaningZh": "相似的菜肴",
+      "exampleSentenceId": "u9-s12",
+      "distractorsZh": [
+        "相似的文化",
+        "相似的语言",
+        "相似的建筑"
+      ]
+    },
+    {
+      "id": "u9-v5",
+      "term": "compare to",
+      "meaningZh": "与...比较",
+      "exampleSentenceId": "u9-s16",
+      "distractorsZh": [
+        "与...竞争",
+        "与...合作",
+        "与...分享"
+      ]
+    },
+    {
+      "id": "u9-v6",
+      "term": "crosses borders",
+      "meaningZh": "跨越边界",
+      "exampleSentenceId": "u9-s20",
+      "distractorsZh": [
+        "穿越河流",
+        "跨越山脉",
+        "穿越海洋"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "u9-st1",
+      "sentenceId": "u9-s9",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u9-c1",
+          "text": "In the Yuan Dynasty,",
+          "tag": "时间状语"
+        },
+        {
+          "id": "u9-c2",
+          "text": "Marco Polo",
+          "tag": "主语"
+        },
+        {
+          "id": "u9-c3",
+          "text": "tasted binglao",
+          "tag": "谓语1"
+        },
+        {
+          "id": "u9-c4",
+          "text": "and carried the idea",
+          "tag": "谓语2"
+        },
+        {
+          "id": "u9-c5",
+          "text": "all the way back to Europe.",
+          "tag": "地点状语"
+        }
+      ],
+      "correctOrder": [
+        "u9-c1",
+        "u9-c2",
+        "u9-c3",
+        "u9-c4",
+        "u9-c5"
+      ],
+      "focusPointsZh": [
+        "时间状语位置",
+        "并列谓语结构",
+        "地点状语用法"
+      ]
+    },
+    {
+      "id": "u9-st2",
+      "sentenceId": "u9-s18",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u9-c6",
+          "text": "But in fact,",
+          "tag": "转折状语"
+        },
+        {
+          "id": "u9-c7",
+          "text": "arepas of Venezuela",
+          "tag": "主语"
+        },
+        {
+          "id": "u9-c8",
+          "text": "look more like",
+          "tag": "谓语"
+        },
+        {
+          "id": "u9-c9",
+          "text": "the twin brother",
+          "tag": "宾语"
+        },
+        {
+          "id": "u9-c10",
+          "text": "of roujiamo!",
+          "tag": "定语"
+        }
+      ],
+      "correctOrder": [
+        "u9-c6",
+        "u9-c7",
+        "u9-c8",
+        "u9-c9",
+        "u9-c10"
+      ],
+      "focusPointsZh": [
+        "转折状语用法",
+        "比较级结构",
+        "名词所有格"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "u9-rq1",
+      "type": "single_choice",
+      "stem": "Where did ice cream originally come from according to the article?",
+      "options": [
+        "Western countries",
+        "China",
+        "Europe",
+        "America"
+      ],
+      "answer": "China",
+      "rationaleZh": "文章明确指出冰淇淋实际上来自中国，而不是西方甜点。",
+      "evidenceSentenceIds": [
+        "u9-s4"
+      ]
+    },
+    {
+      "id": "u9-rq2",
+      "type": "single_choice",
+      "stem": "Who brought the idea of binglao to Europe?",
+      "options": [
+        "Emperor Huizong",
+        "Chinese people",
+        "Marco Polo",
+        "Iranians"
+      ],
+      "answer": "Marco Polo",
+      "rationaleZh": "文章提到马可·波罗在元朝品尝了冰酪并将这个想法带回了欧洲。",
+      "evidenceSentenceIds": [
+        "u9-s9"
+      ]
+    },
+    {
+      "id": "u9-rq3",
+      "type": "single_choice",
+      "stem": "What is compared to hamburgers in the article?",
+      "options": [
+        "Sangak",
+        "Stone pancakes",
+        "Roujiamo",
+        "Arepas"
+      ],
+      "answer": "Roujiamo",
+      "rationaleZh": "文章指出人们经常将肉夹馍与汉堡包进行比较。",
+      "evidenceSentenceIds": [
+        "u9-s16"
+      ]
+    },
+    {
+      "id": "u9-rq4",
+      "type": "single_choice",
+      "stem": "What does the article say about food crossing borders?",
+      "options": [
+        "It causes problems",
+        "It creates conflicts",
+        "Sweet things can happen",
+        "It changes cultures completely"
+      ],
+      "answer": "Sweet things can happen",
+      "rationaleZh": "文章最后一句指出当食物跨越边界时，美好的事情可能会发生。",
+      "evidenceSentenceIds": [
+        "u9-s20"
+      ]
+    },
+    {
+      "id": "u9-rq5",
+      "type": "single_choice",
+      "stem": "Which two foods are mentioned as looking almost the same?",
+      "options": [
+        "Ice cream and binglao",
+        "Sangak and stone pancakes",
+        "Roujiamo and hamburgers",
+        "Arepas and roujiamo"
+      ],
+      "answer": "Sangak and stone pancakes",
+      "rationaleZh": "文章提到伊朗的桑格克面包和中国陕西的石子馍看起来几乎一样。",
+      "evidenceSentenceIds": [
+        "u9-s13",
+        "u9-s14",
+        "u9-s15"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "u9-s19",
+      "reasonZh": "这句话用比喻手法生动地表达了食物在文化交流中的重要作用，语言简洁优美。"
+    },
+    {
+      "sentenceId": "u9-s20",
+      "reasonZh": "这句话富有诗意，用'sweet things'双关既指甜食又指美好事物，寓意深刻。"
+    },
+    {
+      "sentenceId": "u9-s1",
+      "reasonZh": "开篇句简洁有力，用'never simple'直接点明主题，引发读者思考。"
+    }
+  ]
+}

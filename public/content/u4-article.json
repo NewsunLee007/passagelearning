@@ -1,0 +1,437 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "source": "七年级下册英语教材",
+    "notes": "自动生成"
+  },
+  "article": {
+    "id": "u4-article",
+    "title": "Growing happiness",
+    "unit": "Unit 4",
+    "genre": "narrative",
+    "paragraphs": [
+      {
+        "id": "u4-p1",
+        "sentenceIds": [
+          "u4-s1",
+          "u4-s2",
+          "u4-s3",
+          "u4-s4",
+          "u4-s5"
+        ]
+      },
+      {
+        "id": "u4-p2",
+        "sentenceIds": [
+          "u4-s6",
+          "u4-s7"
+        ]
+      },
+      {
+        "id": "u4-p3",
+        "sentenceIds": [
+          "u4-s8",
+          "u4-s9"
+        ]
+      },
+      {
+        "id": "u4-p4",
+        "sentenceIds": [
+          "u4-s10",
+          "u4-s11",
+          "u4-s12",
+          "u4-s13",
+          "u4-s14",
+          "u4-s15"
+        ]
+      },
+      {
+        "id": "u4-p5",
+        "sentenceIds": [
+          "u4-s16"
+        ]
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": "u4-s1",
+      "text": "The wind was strong.",
+      "paragraphId": "u4-p1",
+      "keywords": [
+        "wind",
+        "strong"
+      ]
+    },
+    {
+      "id": "u4-s2",
+      "text": "Zhou Jian's hat blew off.",
+      "paragraphId": "u4-p1",
+      "keywords": [
+        "hat",
+        "blew off"
+      ]
+    },
+    {
+      "id": "u4-s3",
+      "text": "His long hair waved in the air.",
+      "paragraphId": "u4-p1",
+      "keywords": [
+        "long hair",
+        "waved",
+        "air"
+      ]
+    },
+    {
+      "id": "u4-s4",
+      "text": "He heard a voice behind him: \"Is that a boy or a girl?\"",
+      "paragraphId": "u4-p1",
+      "keywords": [
+        "heard",
+        "voice",
+        "behind"
+      ]
+    },
+    {
+      "id": "u4-s5",
+      "text": "He shook his head.",
+      "paragraphId": "u4-p1",
+      "keywords": [
+        "shook",
+        "head"
+      ]
+    },
+    {
+      "id": "u4-s6",
+      "text": "\"Just one more month!\" he said to himself.",
+      "paragraphId": "u4-p1",
+      "keywords": [
+        "month",
+        "said",
+        "himself"
+      ]
+    },
+    {
+      "id": "u4-s7",
+      "text": "People often talked about his long hair behind his back.",
+      "paragraphId": "u4-p2",
+      "keywords": [
+        "talked about",
+        "behind his back"
+      ]
+    },
+    {
+      "id": "u4-s8",
+      "text": "Sometimes they laughed at him.",
+      "paragraphId": "u4-p2",
+      "keywords": [
+        "laughed at"
+      ]
+    },
+    {
+      "id": "u4-s9",
+      "text": "But he never felt any shame.",
+      "paragraphId": "u4-p2",
+      "keywords": [
+        "never",
+        "felt",
+        "shame"
+      ]
+    },
+    {
+      "id": "u4-s10",
+      "text": "Zhou Jian kept his hair long for over two years.",
+      "paragraphId": "u4-p3",
+      "keywords": [
+        "kept",
+        "long",
+        "over two years"
+      ]
+    },
+    {
+      "id": "u4-s11",
+      "text": "Day after day, hope grew together with his hair.",
+      "paragraphId": "u4-p3",
+      "keywords": [
+        "Day after day",
+        "hope",
+        "grew"
+      ]
+    },
+    {
+      "id": "u4-s12",
+      "text": "Finally, the time came.",
+      "paragraphId": "u4-p4",
+      "keywords": [
+        "Finally",
+        "time",
+        "came"
+      ]
+    },
+    {
+      "id": "u4-s13",
+      "text": "Zhou Jian walked into a barber's shop.",
+      "paragraphId": "u4-p4",
+      "keywords": [
+        "walked into",
+        "barber's shop"
+      ]
+    },
+    {
+      "id": "u4-s14",
+      "text": "He took off his hat and his hair fell around his shoulders.",
+      "paragraphId": "u4-p4",
+      "keywords": [
+        "took off",
+        "fell",
+        "shoulders"
+      ]
+    },
+    {
+      "id": "u4-s15",
+      "text": "The other customers were very surprised.",
+      "paragraphId": "u4-p4",
+      "keywords": [
+        "customers",
+        "surprised"
+      ]
+    },
+    {
+      "id": "u4-s16",
+      "text": "\"Please cut it short and give me the hair,\" he said.",
+      "paragraphId": "u4-p4",
+      "keywords": [
+        "cut",
+        "short",
+        "give"
+      ]
+    },
+    {
+      "id": "u4-s17",
+      "text": "The barber's scissors did their work.",
+      "paragraphId": "u4-p4",
+      "keywords": [
+        "barber's scissors",
+        "did their work"
+      ]
+    },
+    {
+      "id": "u4-s18",
+      "text": "Zhou Jian carefully put the hair into a bag and walked to the post office.",
+      "paragraphId": "u4-p4",
+      "keywords": [
+        "carefully",
+        "put",
+        "bag",
+        "post office"
+      ]
+    },
+    {
+      "id": "u4-s19",
+      "text": "A week later, he received a letter:",
+      "paragraphId": "u4-p5",
+      "keywords": [
+        "week later",
+        "received",
+        "letter"
+      ]
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "u4-v1",
+      "term": "blew off",
+      "meaningZh": "吹掉",
+      "exampleSentenceId": "u4-s2",
+      "distractorsZh": [
+        "吹响",
+        "吹走",
+        "吹干"
+      ]
+    },
+    {
+      "id": "u4-v2",
+      "term": "laughed at",
+      "meaningZh": "嘲笑",
+      "exampleSentenceId": "u4-s8",
+      "distractorsZh": [
+        "大笑",
+        "微笑",
+        "开玩笑"
+      ]
+    },
+    {
+      "id": "u4-v3",
+      "term": "shame",
+      "meaningZh": "羞耻",
+      "exampleSentenceId": "u4-s9",
+      "distractorsZh": [
+        "害羞",
+        "羞愧",
+        "耻辱"
+      ]
+    },
+    {
+      "id": "u4-v4",
+      "term": "kept",
+      "meaningZh": "保持",
+      "exampleSentenceId": "u4-s10",
+      "distractorsZh": [
+        "保留",
+        "保存",
+        "坚持"
+      ]
+    },
+    {
+      "id": "u4-v5",
+      "term": "grew",
+      "meaningZh": "增长",
+      "exampleSentenceId": "u4-s11",
+      "distractorsZh": [
+        "种植",
+        "成长",
+        "增加"
+      ]
+    },
+    {
+      "id": "u4-v6",
+      "term": "barber's shop",
+      "meaningZh": "理发店",
+      "exampleSentenceId": "u4-s13",
+      "distractorsZh": [
+        "美容院",
+        "发廊",
+        "理发师"
+      ]
+    },
+    {
+      "id": "u4-v7",
+      "term": "carefully",
+      "meaningZh": "小心地",
+      "exampleSentenceId": "u4-s18",
+      "distractorsZh": [
+        "仔细地",
+        "谨慎地",
+        "认真地"
+      ]
+    }
+  ],
+  "sentenceTasks": [
+    {
+      "id": "u4-st1",
+      "sentenceId": "u4-s18",
+      "type": "chunk_reorder",
+      "promptZh": "把句子语块按正确顺序拖拽排列",
+      "chunks": [
+        {
+          "id": "u4-c1",
+          "text": "Zhou Jian",
+          "tag": "主语"
+        },
+        {
+          "id": "u4-c2",
+          "text": "carefully put the hair into a bag",
+          "tag": "谓语和宾语"
+        },
+        {
+          "id": "u4-c3",
+          "text": "and walked to the post office",
+          "tag": "并列谓语"
+        }
+      ],
+      "correctOrder": [
+        "u4-c1",
+        "u4-c2",
+        "u4-c3"
+      ],
+      "focusPointsZh": [
+        "并列结构",
+        "副词修饰"
+      ]
+    }
+  ],
+  "readingQuestions": [
+    {
+      "id": "u4-rq1",
+      "type": "single_choice",
+      "stem": "Why did Zhou Jian keep his hair long for over two years?",
+      "options": [
+        "To look fashionable",
+        "To donate it for a cause",
+        "To avoid haircuts",
+        "To surprise his friends"
+      ],
+      "answer": "To donate it for a cause",
+      "rationaleZh": "文章暗示他留长发是为了捐赠，因为他剪发后小心地放入袋子并寄出。",
+      "evidenceSentenceIds": [
+        "u4-s10",
+        "u4-s16",
+        "u4-s18"
+      ]
+    },
+    {
+      "id": "u4-rq2",
+      "type": "single_choice",
+      "stem": "How did people react to Zhou Jian's long hair?",
+      "options": [
+        "They admired it",
+        "They ignored it",
+        "They talked and laughed about it",
+        "They helped him style it"
+      ],
+      "answer": "They talked and laughed about it",
+      "rationaleZh": "文中提到人们在他背后谈论他的长发，有时嘲笑他。",
+      "evidenceSentenceIds": [
+        "u4-s7",
+        "u4-s8"
+      ]
+    },
+    {
+      "id": "u4-rq3",
+      "type": "single_choice",
+      "stem": "What happened when Zhou Jian walked into the barber's shop?",
+      "options": [
+        "He changed his mind",
+        "The barber refused to cut his hair",
+        "The other customers were surprised",
+        "He forgot his hat"
+      ],
+      "answer": "The other customers were surprised",
+      "rationaleZh": "文章明确说明其他顾客非常惊讶。",
+      "evidenceSentenceIds": [
+        "u4-s15"
+      ]
+    },
+    {
+      "id": "u4-rq4",
+      "type": "single_choice",
+      "stem": "What is the main theme of the story?",
+      "options": [
+        "The importance of fashion",
+        "Overcoming criticism for a good purpose",
+        "The dangers of long hair",
+        "How to cut hair properly"
+      ],
+      "answer": "Overcoming criticism for a good purpose",
+      "rationaleZh": "故事讲述了周健忍受嘲笑留长发，最终剪发捐赠，体现了为善事克服批评的主题。",
+      "evidenceSentenceIds": [
+        "u4-s7",
+        "u4-s8",
+        "u4-s9",
+        "u4-s10",
+        "u4-s16",
+        "u4-s18"
+      ]
+    }
+  ],
+  "quoteCandidates": [
+    {
+      "sentenceId": "u4-s11",
+      "reasonZh": "使用比喻手法，将希望与头发生长联系起来，语言优美且富有深意。"
+    },
+    {
+      "sentenceId": "u4-s18",
+      "reasonZh": "句子结构清晰，动作描写细致，体现了主人公的谨慎和目的性。"
+    }
+  ]
+}
