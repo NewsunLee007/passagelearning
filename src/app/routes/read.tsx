@@ -12,6 +12,8 @@ type LexiconItem = {
   phonetic?: string;
   pos?: string;
   meaningZh?: string;
+  usageZh?: string;
+  example?: string;
   audioUrlOverride?: string;
 };
 
@@ -35,6 +37,12 @@ type ReadingQuestion = {
   evidenceSentenceIds?: string[];
 };
 
+type SentenceTaskHint = {
+  sentenceId: string;
+  promptZh?: string;
+  focusPointsZh?: string[];
+};
+
 function normalizeWord(token: string) {
   const clean = token.replace(/[.,!?;:—"“”'’()[\]{}*]+$/g, "").replace(/^[("“”'’]+/g, "");
   return clean.toLowerCase();
@@ -48,7 +56,7 @@ export function ReadingMainRoute() {
   const nav = useNavigate();
   const { articleId } = useParams();
   const session = getSession();
-  const { data, loading, error } = useArticleDemo(articleId);
+  const { data, loading, error, supportLoading, supportError } = useArticleDemo(articleId);
 
   const [isBilingual, setIsBilingual] = useState(false);
   const [rate, setRate] = useState(1.0);
@@ -88,6 +96,40 @@ export function ReadingMainRoute() {
     return next;
   }, [data?.lexicon, data?.vocabItems]);
   const questions = (data?.readingQuestions ?? []) as ReadingQuestion[];
+  const sentenceTaskById = useMemo(() => {
+    const next = new Map<string, SentenceTaskHint>();
+    for (const task of (data?.sentenceTasks ?? []) as SentenceTaskHint[]) {
+      if (!task?.sentenceId) continue;
+      next.set(task.sentenceId, task);
+    }
+    return next;
+  }, [data?.sentenceTasks]);
+  const quoteReasonBySentence = useMemo(() => {
+    const next = new Map<string, string>();
+    for (const item of data?.quoteCandidates ?? []) {
+      if (item.sentenceId) next.set(item.sentenceId, item.reasonZh ?? "");
+    }
+    return next;
+  }, [data?.quoteCandidates]);
+  const vocabInfoByTerm = useMemo(() => {
+    const next = new Map<
+      string,
+      {
+        meaningZh?: string;
+        exampleSentence?: string;
+      }
+    >();
+    for (const item of data?.vocabItems ?? []) {
+      const key = normalizeWord(item.term);
+      if (!key) continue;
+      const sentence = item.exampleSentenceId ? sentences.find((entry) => entry.id === item.exampleSentenceId) : undefined;
+      next.set(key, {
+        meaningZh: item.meaningZh,
+        exampleSentence: sentence?.text
+      });
+    }
+    return next;
+  }, [data?.vocabItems, sentences]);
 
   const byId = useMemo(() => {
     const m = new Map<string, Sentence>();
@@ -327,9 +369,10 @@ export function ReadingMainRoute() {
   const adjacent = getAdjacentArticles(data.article.id);
   const sentenceAudioCount = sentences.filter((sentence) => sentence.audioUrl).length;
   const hasNaturalAudio = sentenceAudioCount > 0;
+  const supportedSentenceCount = sentences.filter((sentence) => sentence.tr && sentence.g && sentence.d).length;
 
   return (
-    <div className="pb-[74vh]">
+    <div className="pb-44 md:pb-[52vh]">
       <div className="overflow-hidden rounded-[2rem] border border-white/75 bg-white/92 shadow-[0_24px_80px_rgba(15,23,42,0.08)]">
         <div className="relative">
           {coverUrl ? (
@@ -359,6 +402,15 @@ export function ReadingMainRoute() {
               <span className="rounded-full bg-white/10 px-3 py-1 text-xs text-white/82">
                 点击句子看解析，点击单词看词义与发音
               </span>
+              <span className="rounded-full bg-white/10 px-3 py-1 text-xs text-white/82">
+                词句解析 {supportedSentenceCount}/{sentences.length}
+              </span>
+              {supportLoading ? (
+                <span className="rounded-full bg-[#fff7ed]/95 px-3 py-1 text-xs font-semibold text-[#b45309]">词句解析生成中</span>
+              ) : null}
+              {supportError ? (
+                <span className="rounded-full bg-[#fef2f2]/95 px-3 py-1 text-xs font-semibold text-[#b91c1c]">解析生成失败</span>
+              ) : null}
             </div>
           </div>
         </div>
@@ -395,14 +447,14 @@ export function ReadingMainRoute() {
               <select
                 value={String(rate)}
                 onChange={(e) => setRate(Number(e.target.value))}
-                className="rounded-full border border-slate-200 bg-white px-3 py-2 text-sm font-medium text-slate-700 outline-none"
+                className="hidden rounded-full border border-slate-200 bg-white px-3 py-2 text-sm font-medium text-slate-700 outline-none sm:block"
               >
                 <option value="0.8">0.8x</option>
                 <option value="1">1.0x</option>
                 <option value="1.2">1.2x</option>
               </select>
 
-              <div className="flex items-center rounded-full border border-slate-200 bg-slate-50 px-1">
+              <div className="hidden items-center rounded-full border border-slate-200 bg-slate-50 px-1 sm:flex">
                 <button type="button" onClick={() => setFontSize((s) => Math.max(14, s - 1))} className="px-3 py-2 text-sm font-semibold text-primary">
                   A-
                 </button>
@@ -419,7 +471,7 @@ export function ReadingMainRoute() {
             </div>
           </div>
 
-          <div className="rounded-[1.5rem] border border-slate-200/80 bg-[linear-gradient(180deg,rgba(250,249,246,0.96),rgba(255,255,255,0.92))] p-4">
+          <div className="hidden rounded-[1.5rem] border border-slate-200/80 bg-[linear-gradient(180deg,rgba(250,249,246,0.96),rgba(255,255,255,0.92))] p-4 lg:block">
             <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">阅读导航</div>
             <div className="mt-4 flex flex-wrap gap-2">
               <Link to="/dashboard" className="rounded-full border border-slate-200 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-slate-300 hover:bg-slate-50">
@@ -516,7 +568,7 @@ export function ReadingMainRoute() {
               打开收藏夹
             </button>
             <div className="hidden text-sm text-slate-500 md:block">最近收藏</div>
-            <div className="flex gap-2 overflow-x-auto">
+            <div className="hidden gap-2 overflow-x-auto md:flex">
               {favPreview.length ? favPreview.map((f) => (
                 <div
                   key={`${f.type}:${f.createdAt}:${f.text}`}
@@ -525,13 +577,13 @@ export function ReadingMainRoute() {
                   <span className="font-medium">{clipText(f.text, 18)}</span>
                 </div>
               )) : (
-                <div className="whitespace-nowrap text-sm text-slate-400">还没有收藏内容</div>
+                  <div className="whitespace-nowrap text-sm text-slate-400">还没有收藏内容</div>
               )}
             </div>
             <button
               type="button"
               onClick={clearFavs}
-              className="ml-1 rounded-full px-3 py-2 text-sm text-slate-400 transition hover:bg-white/70 hover:text-slate-600"
+              className="ml-1 hidden rounded-full px-3 py-2 text-sm text-slate-400 transition hover:bg-white/70 hover:text-slate-600 md:block"
               title="清空收藏"
             >
               清空
@@ -552,8 +604,12 @@ export function ReadingMainRoute() {
           <WordModalBody
             word={wordModal.word}
             info={lexicon?.[wordModal.word]}
+            fallbackMeaning={vocabInfoByTerm.get(wordModal.word)?.meaningZh}
+            fallbackExample={vocabInfoByTerm.get(wordModal.word)?.exampleSentence}
             isFav={wordFavSet.has(wordModal.word)}
             onToggleFav={() => onToggleWordFav(wordModal.word)}
+            supportLoading={supportLoading}
+            supportError={supportError}
           />
         </Modal>
       )}
@@ -562,6 +618,8 @@ export function ReadingMainRoute() {
         <Modal onClose={() => setGrammarModal({ open: false, sid: null })}>
           <GrammarModalBody
             sentence={byId.get(grammarModal.sid)!}
+            taskHint={sentenceTaskById.get(grammarModal.sid)}
+            quoteReason={quoteReasonBySentence.get(grammarModal.sid) ?? ""}
             isFav={sentenceFavSet.has(grammarModal.sid)}
             onToggleFav={() => onToggleSentenceFav(grammarModal.sid!)}
             onPlay={(sid) => {
@@ -571,6 +629,8 @@ export function ReadingMainRoute() {
               setPaused(false);
               playSentenceById(sid);
             }}
+            supportLoading={supportLoading}
+            supportError={supportError}
           />
         </Modal>
       )}
@@ -643,9 +703,9 @@ function renderSentence(
 
 function Modal({ children, onClose }: { children: ReactNode; onClose: () => void }) {
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-5 backdrop-blur-sm" onMouseDown={onClose}>
+    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-3 backdrop-blur-sm sm:p-5" onMouseDown={onClose}>
       <div
-        className="w-full max-w-[520px] overflow-hidden rounded-3xl bg-white shadow-2xl"
+        className="max-h-[88vh] w-full max-w-[560px] overflow-y-auto rounded-3xl bg-white shadow-2xl"
         onMouseDown={(e) => e.stopPropagation()}
       >
         {children}
@@ -657,13 +717,19 @@ function Modal({ children, onClose }: { children: ReactNode; onClose: () => void
 function WordModalBody(params: {
   word: string;
   info?: LexiconItem;
+  fallbackMeaning?: string;
+  fallbackExample?: string;
   isFav: boolean;
   onToggleFav: () => void;
+  supportLoading: boolean;
+  supportError: string | null;
 }) {
-  const { word, info, isFav, onToggleFav } = params;
+  const { word, info, fallbackMeaning, fallbackExample, isFav, onToggleFav, supportLoading, supportError } = params;
   const phonetic = info?.phonetic ?? "/…/";
-  const meaning = info?.meaningZh ?? "暂无详细释义";
-  const pos = info?.pos ?? "";
+  const meaning = info?.meaningZh ?? fallbackMeaning ?? (supportLoading ? "系统正在补充词义…" : "暂无详细释义");
+  const pos = info?.pos ?? (supportLoading ? "生成中" : "未标注");
+  const usage = info?.usageZh ?? (supportLoading ? "系统正在补充用法…" : supportError ? "本次未生成成功，可稍后重试。" : "暂无用法说明");
+  const example = info?.example ?? fallbackExample ?? "";
 
   function play() {
     const url = info?.audioUrlOverride ?? `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(word)}&type=2`;
@@ -686,9 +752,23 @@ function WordModalBody(params: {
         </div>
       </div>
       <div className="mt-2 text-lg text-slate-500">{phonetic}</div>
-      <div className="mt-4 rounded-2xl bg-slate-50 p-4">
-        <div className="text-xs font-bold uppercase text-primary">{pos}</div>
-        <div className="mt-1 text-base text-slate-900">{meaning}</div>
+      <div className="mt-4 grid gap-3">
+        <div className="rounded-2xl bg-slate-50 p-4">
+          <div className="text-xs font-bold uppercase text-primary">词性</div>
+          <div className="mt-1 text-base text-slate-900">{pos}</div>
+        </div>
+        <div className="rounded-2xl bg-emerald-50 p-4">
+          <div className="text-xs font-bold uppercase text-emerald-700">词义</div>
+          <div className="mt-1 text-base text-slate-900">{meaning}</div>
+        </div>
+        <div className="rounded-2xl bg-amber-50 p-4">
+          <div className="text-xs font-bold uppercase text-amber-700">用法</div>
+          <div className="mt-1 text-sm leading-7 text-slate-800">{usage}</div>
+        </div>
+        <div className="rounded-2xl bg-blue-50 p-4">
+          <div className="text-xs font-bold uppercase text-blue-700">例句</div>
+          <div className="mt-1 text-sm leading-7 text-slate-800">{example || "暂无例句"}</div>
+        </div>
       </div>
     </div>
   );
@@ -696,11 +776,17 @@ function WordModalBody(params: {
 
 function GrammarModalBody(params: {
   sentence: Sentence;
+  taskHint?: SentenceTaskHint;
+  quoteReason?: string;
   isFav: boolean;
   onToggleFav: () => void;
   onPlay: (sid: string) => void;
+  supportLoading: boolean;
+  supportError: string | null;
 }) {
-  const { sentence, isFav, onToggleFav, onPlay } = params;
+  const { sentence, taskHint, quoteReason, isFav, onToggleFav, onPlay, supportLoading, supportError } = params;
+  const detail = sentence.d ?? quoteReason ?? taskHint?.focusPointsZh?.join("；") ?? "";
+  const structure = sentence.g ?? taskHint?.promptZh ?? "";
 
   return (
     <div className="p-6">
@@ -722,18 +808,52 @@ function GrammarModalBody(params: {
 
         <div className="rounded-xl bg-blue-50 p-4">
           <div className="text-xs font-bold uppercase text-blue-600">译文</div>
-          <div className="mt-1 text-sm text-slate-800">{sentence.tr ?? "（暂无译文）"}</div>
+          <div className="mt-1 text-sm text-slate-800">
+            {sentence.tr ?? (supportLoading ? "系统正在补全译文…" : supportError ? "本次解析生成失败，请稍后再试。" : "（暂无译文）")}
+          </div>
         </div>
 
         <div className="rounded-xl bg-amber-50 p-4">
           <div className="text-xs font-bold uppercase text-amber-600">句式结构</div>
-          <div className="mt-1 text-sm text-slate-800">{sentence.g ?? "（暂无结构）"}</div>
+          <div className="mt-1 text-sm text-slate-800">
+            {structure || (supportLoading ? "系统正在分析句式…" : "（暂无结构）")}
+          </div>
         </div>
 
         <div className="rounded-xl bg-slate-50 p-4">
           <div className="text-xs font-bold uppercase text-slate-600">详解</div>
-          <div className="mt-1 text-sm text-slate-800">{sentence.d ?? "（暂无详解）"}</div>
+          <div className="mt-1 text-sm leading-7 text-slate-800">
+            {detail || (supportLoading ? "系统正在补全详解…" : "（暂无详解）")}
+          </div>
         </div>
+
+        {!!taskHint?.focusPointsZh?.length && (
+          <div className="rounded-xl bg-rose-50 p-4">
+            <div className="text-xs font-bold uppercase text-rose-600">阅读关注点</div>
+            <ul className="mt-2 space-y-1 text-sm leading-7 text-slate-800">
+              {taskHint.focusPointsZh.map((point) => (
+                <li key={point}>• {point}</li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {supportError ? (
+          <div className="rounded-xl border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700">
+            当前文章的词句资料生成失败，页面会先展示已有内容。
+          </div>
+        ) : null}
+        {supportLoading ? (
+          <div className="rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-700">
+            正在后台补全译文、结构和详解，稍等片刻会自动更新。
+          </div>
+        ) : null}
+        {!!quoteReason && !sentence.d && (
+          <div className="rounded-xl bg-indigo-50 p-4">
+            <div className="text-xs font-bold uppercase text-indigo-600">摘录价值</div>
+            <div className="mt-1 text-sm leading-7 text-slate-800">{quoteReason}</div>
+          </div>
+        )}
       </div>
     </div>
   );

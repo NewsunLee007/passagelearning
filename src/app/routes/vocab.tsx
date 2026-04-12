@@ -1,159 +1,168 @@
-import { useMemo, useState } from "react";
-import { Link, useParams } from "react-router-dom";
+import { useMemo } from "react";
+import { useParams } from "react-router-dom";
 import { useArticleDemo } from "../../features/content/useArticleDemo";
-import { getSession } from "../../features/auth/session";
-import { saveAttempt } from "../../features/storage/attempts";
 
-function shuffle<T>(arr: T[]) {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
+type LexiconItem = {
+  phonetic?: string;
+  pos?: string;
+  meaningZh?: string;
+  usageZh?: string;
+  example?: string;
+  audioUrlOverride?: string;
+};
+
+function normalizeWord(token: string) {
+  const clean = token.replace(/[.,!?;:—"“”'’()[\]{}*]+$/g, "").replace(/^[("“”'’]+/g, "");
+  return clean.toLowerCase();
 }
 
 export function VocabRoute() {
   const { articleId } = useParams();
-  const { data, loading, error } = useArticleDemo(articleId);
-  const [idx, setIdx] = useState(0);
-  const [selected, setSelected] = useState<string | null>(null);
-  const [checked, setChecked] = useState(false);
+  const { data, loading, error, supportLoading, supportError } = useArticleDemo(articleId);
 
-  const items = data?.vocabItems ?? [];
-  const item = items[idx];
+  const entries = useMemo(() => {
+    const lexicon = data?.lexicon ?? {};
+    const next = new Map<
+      string,
+      {
+        term: string;
+        phonetic?: string;
+        pos?: string;
+        meaningZh?: string;
+        usageZh?: string;
+        example?: string;
+        audioUrlOverride?: string;
+      }
+    >();
 
-  const options = useMemo(() => {
-    if (!item) return [];
-    const opts = [item.meaningZh, ...(item.distractorsZh ?? [])].filter(Boolean);
-    return shuffle(Array.from(new Set(opts)));
-  }, [item]);
+    for (const item of data?.vocabItems ?? []) {
+      const key = normalizeWord(item.term);
+      if (!key) continue;
+      const info: LexiconItem | undefined = lexicon[key];
+      const sentence = item.exampleSentenceId ? data?.sentences.find((entry) => entry.id === item.exampleSentenceId) : undefined;
+      next.set(key, {
+        term: item.term,
+        phonetic: info?.phonetic,
+        pos: info?.pos,
+        meaningZh: info?.meaningZh ?? item.meaningZh,
+        usageZh: info?.usageZh,
+        example: info?.example ?? sentence?.text,
+        audioUrlOverride: info?.audioUrlOverride
+      });
+    }
 
-  const correct = checked && selected === item?.meaningZh;
+    for (const [key, info] of Object.entries(lexicon)) {
+      if (!next.has(key)) {
+        next.set(key, {
+          term: key,
+          phonetic: info.phonetic,
+          pos: info.pos,
+          meaningZh: info.meaningZh,
+          usageZh: info.usageZh,
+          example: info.example,
+          audioUrlOverride: info.audioUrlOverride
+        });
+      }
+    }
 
-  async function onCheck() {
-    if (!item || !selected) return;
-    setChecked(true);
-    const { userId, classId } = getSession();
-    await saveAttempt({
-      id: crypto.randomUUID(),
-      userId,
-      classId,
-      articleId: data!.article.id,
-      taskKey: `vocab:${item.id}`,
-      answer: { selected },
-      score: selected === item.meaningZh ? 1 : 0,
-      durationMs: 0,
-      createdAt: new Date().toISOString()
-    });
-  }
-
-  function next() {
-    setSelected(null);
-    setChecked(false);
-    setIdx((i) => Math.min(i + 1, items.length - 1));
-  }
-
-  function prev() {
-    setSelected(null);
-    setChecked(false);
-    setIdx((i) => Math.max(i - 1, 0));
-  }
+    return Array.from(next.values());
+  }, [data]);
 
   if (loading) return <div className="text-sm text-slate-600">正在加载…</div>;
   if (error || !data) return <div className="text-sm text-red-600">加载失败：{error ?? "unknown"}</div>;
 
-  if (!items.length) {
-    return (
-      <div className="rounded-xl border bg-white p-5">
-        <div className="text-sm font-semibold">词汇与短语</div>
-        <p className="mt-2 text-sm text-slate-600">此文章暂未配置词汇任务。</p>
-        <Link to={`/a/${data.article.id}`} className="mt-4 inline-block text-sm underline">
-          返回文章
-        </Link>
-      </div>
-    );
-  }
-
   return (
     <div className="space-y-4">
-      <div className="flex items-center gap-3">
-        <Link to={`/a/${data.article.id}`} className="text-sm underline">
-          ← 返回
-        </Link>
-        <div className="text-sm text-slate-600">
-          词汇与短语 · {idx + 1}/{items.length}
-        </div>
-      </div>
-
-      <div className="rounded-xl border bg-white p-5">
-        <div className="text-xs font-medium text-slate-500">请选择词义</div>
-        <div className="mt-2 text-2xl font-semibold tracking-tight">{item.term}</div>
-
-        <div className="mt-4 grid gap-2">
-          {options.map((opt) => {
-            const active = selected === opt;
-            const isCorrect = checked && opt === item.meaningZh;
-            const isWrong = checked && active && opt !== item.meaningZh;
-            return (
-              <button
-                key={opt}
-                type="button"
-                onClick={() => !checked && setSelected(opt)}
-                className={[
-                  "rounded-lg border px-3 py-2 text-left text-sm",
-                  active ? "border-slate-900" : "hover:bg-slate-50",
-                  isCorrect ? "bg-emerald-50 border-emerald-200" : "",
-                  isWrong ? "bg-red-50 border-red-200" : ""
-                ].join(" ")}
-              >
-                {opt}
-              </button>
-            );
-          })}
-        </div>
-
-        <div className="mt-4 flex flex-wrap items-center gap-2">
-          {!checked ? (
-            <button
-              type="button"
-              disabled={!selected}
-              onClick={onCheck}
-              className="rounded-md bg-slate-900 px-4 py-2 text-sm font-semibold text-white disabled:opacity-50"
-            >
-              提交
-            </button>
-          ) : (
-            <div className={correct ? "text-sm font-semibold text-emerald-700" : "text-sm font-semibold text-red-700"}>
-              {correct ? "正确！" : `再看一眼：正确答案是「${item.meaningZh}」`}
-            </div>
-          )}
-
-          <div className="ml-auto flex items-center gap-2">
-            <button
-              type="button"
-              onClick={prev}
-              disabled={idx === 0}
-              className="rounded-md border px-3 py-2 text-sm disabled:opacity-40"
-            >
-              上一题
-            </button>
-            <button
-              type="button"
-              onClick={next}
-              disabled={idx >= items.length - 1}
-              className="rounded-md border px-3 py-2 text-sm disabled:opacity-40"
-            >
-              下一题
-            </button>
+      <section className="rounded-[1.8rem] border border-white/70 bg-white/88 p-5 shadow-[0_16px_56px_rgba(15,23,42,0.05)] sm:p-6">
+        <div className="flex flex-wrap items-start justify-between gap-3">
+          <div>
+            <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">词汇短语</div>
+            <h1 className="mt-2 font-display text-3xl text-secondary">音 · 形 · 意 · 用</h1>
+            <p className="mt-2 max-w-2xl text-sm leading-7 text-slate-600">
+              这一页只保留词汇资料，不再做多步答题。先把核心词义、词性、用法和例句看明白，再回到原文。
+            </p>
+          </div>
+          <div className="flex flex-wrap gap-2 text-xs">
+            <span className="rounded-full bg-slate-100 px-3 py-1.5 text-slate-600">{entries.length} 个词条</span>
+            {supportLoading ? <span className="rounded-full bg-amber-50 px-3 py-1.5 font-semibold text-amber-700">资料补全中</span> : null}
+            {supportError ? <span className="rounded-full bg-red-50 px-3 py-1.5 font-semibold text-red-700">自动补全失败</span> : null}
           </div>
         </div>
+      </section>
 
-        <p className="mt-4 text-sm text-slate-600">
-          小提示：提交后回到原文，看看这个词出现在什么句子里，会更牢固。
-        </p>
-      </div>
+      {!entries.length ? (
+        <div className="rounded-[1.6rem] border border-dashed border-slate-200 bg-white/82 p-6 text-sm text-slate-500">
+          当前文章还没有可展示的词汇资料。
+        </div>
+      ) : (
+        <div className="grid gap-4">
+          {entries.map((entry) => (
+            <article
+              key={entry.term}
+              className="rounded-[1.6rem] border border-white/70 bg-white/90 p-5 shadow-[0_12px_40px_rgba(15,23,42,0.04)]"
+            >
+              <div className="flex flex-wrap items-start justify-between gap-3">
+                <div>
+                  <div className="flex flex-wrap items-center gap-3">
+                    <h2 className="font-display text-2xl text-secondary">{entry.term}</h2>
+                    <button
+                      type="button"
+                      onClick={() =>
+                        new Audio(
+                          entry.audioUrlOverride ?? `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(entry.term)}&type=2`
+                        )
+                          .play()
+                          .catch(() => {})
+                      }
+                      className="rounded-full bg-primary/8 px-3 py-1 text-sm font-semibold text-primary"
+                    >
+                      发音
+                    </button>
+                  </div>
+                  <div className="mt-2 text-sm text-slate-500">{entry.phonetic ?? "/…/"}</div>
+                </div>
+                <div className="rounded-full bg-slate-100 px-3 py-1.5 text-sm font-medium text-slate-600">{entry.pos ?? "词性待补全"}</div>
+              </div>
+
+              <div className="mt-4 grid gap-3 md:grid-cols-3">
+                <InfoBlock title="词义" tone="emerald">
+                  {entry.meaningZh ?? (supportLoading ? "系统正在补全词义…" : "暂无词义")}
+                </InfoBlock>
+                <InfoBlock title="用法" tone="amber">
+                  {entry.usageZh ?? (supportLoading ? "系统正在补全用法…" : "暂无用法说明")}
+                </InfoBlock>
+                <InfoBlock title="例句" tone="blue">
+                  {entry.example ?? "暂无例句"}
+                </InfoBlock>
+              </div>
+            </article>
+          ))}
+        </div>
+      )}
     </div>
   );
 }
 
+function InfoBlock({
+  children,
+  title,
+  tone
+}: {
+  children: string;
+  title: string;
+  tone: "emerald" | "amber" | "blue";
+}) {
+  const toneClass =
+    tone === "emerald"
+      ? "bg-emerald-50 text-emerald-700"
+      : tone === "amber"
+        ? "bg-amber-50 text-amber-700"
+        : "bg-blue-50 text-blue-700";
+
+  return (
+    <div className="rounded-[1.2rem] bg-slate-50 p-4">
+      <div className={`inline-flex rounded-full px-2.5 py-1 text-xs font-semibold ${toneClass}`}>{title}</div>
+      <div className="mt-3 text-sm leading-7 text-slate-700">{children}</div>
+    </div>
+  );
+}

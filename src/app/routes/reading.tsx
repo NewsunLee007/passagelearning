@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { Link, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { useArticleDemo } from "../../features/content/useArticleDemo";
 import { getSession } from "../../features/auth/session";
 import { saveAttempt } from "../../features/storage/attempts";
@@ -66,28 +66,28 @@ export function ReadingRoute() {
 
   if (!questions.length) {
     return (
-      <div className="rounded-xl border bg-white p-5">
-        <div className="text-sm font-semibold">篇章理解</div>
-        <p className="mt-2 text-sm text-slate-600">此文章暂未配置阅读理解题。</p>
-        <Link to={`/a/${data.article.id}`} className="mt-4 inline-block text-sm underline">
-          返回文章
-        </Link>
+      <div className="rounded-[1.6rem] border border-dashed border-slate-200 bg-white/82 p-6 text-sm text-slate-500">
+        此文章暂未配置阅读理解题。
       </div>
     );
   }
 
   return (
     <div className="space-y-4">
-      <div className="flex items-center gap-3">
-        <Link to={`/a/${data.article.id}`} className="text-sm underline">
-          ← 返回
-        </Link>
-        <div className="text-sm text-slate-600">
-          篇章理解 · {idx + 1}/{questions.length}
+      <section className="rounded-[1.8rem] border border-white/70 bg-white/88 p-5 shadow-[0_16px_56px_rgba(15,23,42,0.05)] sm:p-6">
+        <div className="flex flex-wrap items-start justify-between gap-3">
+          <div>
+            <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">篇章理解</div>
+            <h1 className="mt-2 font-display text-3xl text-secondary">回到文本核对理解</h1>
+            <p className="mt-2 text-sm leading-7 text-slate-600">这里保留单页答题，不再设置额外返回操作。做完之后继续用上方菜单切换即可。</p>
+          </div>
+          <span className="rounded-full bg-slate-100 px-3 py-1.5 text-sm text-slate-600">
+            {idx + 1}/{questions.length}
+          </span>
         </div>
-      </div>
+      </section>
 
-      <div className="rounded-xl border bg-white p-5">
+      <div className="rounded-[1.6rem] border border-white/70 bg-white/90 p-5 shadow-[0_12px_40px_rgba(15,23,42,0.04)]">
         <div className="text-xs font-medium text-slate-500">问题</div>
         <div className="mt-2 text-lg font-semibold leading-7">{q.stem}</div>
 
@@ -165,4 +165,3 @@ export function ReadingRoute() {
     </div>
   );
 }
-

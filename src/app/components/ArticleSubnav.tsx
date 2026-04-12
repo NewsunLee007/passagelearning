@@ -2,12 +2,12 @@ import { Link, useLocation } from "react-router-dom";
 import type { TextbookArticleMeta } from "../../features/content/catalog";
 
 const items = [
-  { label: "任务总览", to: "" },
-  { label: "沉浸阅读", to: "read" },
-  { label: "词汇短语", to: "vocab" },
-  { label: "句子拆解", to: "sentence" },
-  { label: "篇章理解", to: "reading" },
-  { label: "优美句子", to: "quotes" }
+  { label: "概览", to: "" },
+  { label: "阅读", to: "read" },
+  { label: "词汇", to: "vocab" },
+  { label: "句子", to: "sentence" },
+  { label: "练习", to: "reading" },
+  { label: "收藏", to: "quotes" }
 ];
 
 function normalizePath(pathname: string) {

@@ -1,4 +1,10 @@
-import { mergeArticleContent } from "../_lib/articles.js";
+import {
+  generateArticleSupport,
+  hasArticleSupport,
+  mergeArticleContent,
+  mergeArticleSupport,
+  pickArticleSupport
+} from "../_lib/articles.js";
 import { getSql, methodNotAllowed, sendError, sendJson } from "../_lib/db.js";
 
 export default async function handler(req, res) {
@@ -6,7 +12,9 @@ export default async function handler(req, res) {
 
   try {
     const slug = req.query.slug;
-    const articleId = Array.isArray(slug) ? String(slug[0] || "").trim() : "";
+    const parts = Array.isArray(slug) ? slug.map((part) => String(part || "").trim()).filter(Boolean) : [];
+    const articleId = String(parts[0] || "").trim();
+    const wantsSupport = parts[1] === "support";
     const sql = getSql();
 
     if (!articleId) {
@@ -41,7 +49,35 @@ export default async function handler(req, res) {
       versionContent = versions[0]?.content_json || null;
     }
 
-    return sendJson(res, 200, mergeArticleContent(row, versionContent));
+    const mergedContent = mergeArticleContent(row, versionContent);
+
+    if (!wantsSupport) {
+      return sendJson(res, 200, mergedContent);
+    }
+
+    if (hasArticleSupport(mergedContent)) {
+      return sendJson(res, 200, pickArticleSupport(mergedContent));
+    }
+
+    const support = await generateArticleSupport(mergedContent);
+    const enrichedContent = mergeArticleSupport(mergedContent, support);
+    const serialized = JSON.stringify(enrichedContent);
+
+    if (row.active_version_id) {
+      await sql`
+        update article_versions
+        set content_json = ${serialized}
+        where id = ${row.active_version_id}
+      `;
+    } else {
+      await sql`
+        update articles
+        set content_json = ${serialized}
+        where id = ${articleId}
+      `;
+    }
+
+    return sendJson(res, 200, pickArticleSupport(enrichedContent));
   } catch (error) {
     return sendError(res, 500, error instanceof Error ? error.message : "Failed to load articles.");
   }

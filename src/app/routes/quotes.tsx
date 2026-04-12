@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { Link, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { useArticleDemo } from "../../features/content/useArticleDemo";
 import { getSession } from "../../features/auth/session";
 import { loadQuotes, toggleQuote, updateQuoteNote } from "../../features/storage/quotes";
@@ -52,14 +52,13 @@ export function QuotesRoute() {
 
   return (
     <div className="space-y-4">
-      <div className="flex items-center gap-3">
-        <Link to={`/a/${data.article.id}`} className="text-sm underline">
-          ← 返回
-        </Link>
-        <div className="text-sm text-slate-600">优美句子 · 收藏与回顾</div>
-      </div>
+      <section className="rounded-[1.8rem] border border-white/70 bg-white/88 p-5 shadow-[0_16px_56px_rgba(15,23,42,0.05)] sm:p-6">
+        <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">优美句子</div>
+        <h1 className="mt-2 font-display text-3xl text-secondary">收藏与积累</h1>
+        <p className="mt-2 text-sm leading-7 text-slate-600">这一页只保留可收藏句子和个人笔记，减少跳转和重复按钮。</p>
+      </section>
 
-      <div className="rounded-xl border bg-white p-5">
+      <div className="rounded-[1.6rem] border border-white/70 bg-white/90 p-5 shadow-[0_12px_40px_rgba(15,23,42,0.04)]">
         <div className="text-sm font-semibold">可收藏句子（点击 ★ 收藏）</div>
         <p className="mt-2 text-sm text-slate-600">
           建议每篇至少收藏 3 句：1 句开头点题、1 句表达观点、1 句结尾升华或提问。
@@ -95,7 +94,7 @@ export function QuotesRoute() {
         </div>
       </div>
 
-      <div className="rounded-xl border bg-white p-5">
+      <div className="rounded-[1.6rem] border border-white/70 bg-white/90 p-5 shadow-[0_12px_40px_rgba(15,23,42,0.04)]">
         <div className="text-sm font-semibold">我的收藏（{activeSet.size}）</div>
         {activeSet.size ? (
           <div className="mt-4 space-y-4">

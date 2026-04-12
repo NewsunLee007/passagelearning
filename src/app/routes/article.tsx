@@ -7,28 +7,18 @@ import { useArticleDemo } from "../../features/content/useArticleDemo";
 const taskCards = [
   {
     to: "read",
-    title: "沉浸式阅读",
-    desc: "按段阅读、点词点句、跟读高亮，先把原文读顺。"
-  },
-  {
-    to: "vocab",
-    title: "词汇与短语",
-    desc: "抓住关键信息词，建立词义和语境之间的联系。"
+    title: "先读原文",
+    desc: "进入阅读页，直接点词、点句、跟读，不再先做额外操作。"
   },
   {
     to: "sentence",
-    title: "句子拆解",
-    desc: "把长句和难句拆开，弄清结构与表达方式。"
+    title: "再看词句",
+    desc: "词汇页和句子页负责补充词义、用法、译文和句式。"
   },
   {
     to: "reading",
-    title: "篇章理解",
-    desc: "回到文本定位信息，检查你是否真正读懂。"
-  },
-  {
-    to: "quotes",
-    title: "优美句子",
-    desc: "收藏、记录并积累可迁移的表达。"
+    title: "最后练习",
+    desc: "做篇章理解，必要时再去收藏页记录优美句子。"
   }
 ];
 
@@ -76,9 +66,9 @@ export function ArticleHomeRoute() {
           <div className="space-y-5">
             <div>
               <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">建议路径</div>
-              <h2 className="mt-2 font-display text-2xl text-secondary">先通读，再拆解，最后回到篇章。</h2>
+              <h2 className="mt-2 font-display text-2xl text-secondary">三步就够：阅读，词句，练习。</h2>
             </div>
-            <div className="grid gap-4 sm:grid-cols-2">
+            <div className="grid gap-4 md:grid-cols-3">
               {taskCards.map((task, index) => (
                 <Link
                   key={task.to}
@@ -108,7 +98,7 @@ export function ArticleHomeRoute() {
             <div className="rounded-[1.3rem] bg-slate-50/80 p-4">
               <div className="text-sm font-semibold text-secondary">学习提醒</div>
               <p className="mt-2 text-sm leading-7 text-slate-600">
-                这一页只负责定好路径。真正开始阅读时，优先把原文读顺，再进入词句与理解练习。
+                这一页只保留路线说明。真正的操作集中在上方二级菜单，不再分散到多个返回入口里。
               </p>
             </div>
             <Link
