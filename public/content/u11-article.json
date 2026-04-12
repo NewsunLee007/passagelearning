@@ -7,7 +7,7 @@
   "article": {
     "id": "u11-article",
     "title": "The time-eating monster",
-    "unit": "Unit 11",
+    "unit": "Unit 4 The art of having fun",
     "genre": "narrative",
     "paragraphs": [
       {
@@ -51,10 +51,19 @@
           "u11-s16",
           "u11-s17",
           "u11-s18",
-          "u11-s19"
+          "u11-s19",
+          "u11-s20",
+          "u11-s21",
+          "u11-s22"
         ]
       }
-    ]
+    ],
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "unitNumber": 4,
+    "unitTheme": "The art of having fun",
+    "bookOrder": 41,
+    "summary": "识别吞噬时间的娱乐陷阱，学习保持有节制的快乐。"
   },
   "sentences": [
     {

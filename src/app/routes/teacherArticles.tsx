@@ -14,19 +14,20 @@ type ArticleRow = {
 export function TeacherArticlesRoute() {
   const authed = isTeacherAuthed();
   const [articles, setArticles] = useState<ArticleRow[]>([]);
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
   const [err, setErr] = useState<string | null>(null);
 
   useEffect(() => {
     if (!authed) return;
 
     let cancelled = false;
-    setLoading(true);
-    setErr(null);
 
     apiGet<ArticleRow[]>("/api/teacher/articles", true)
       .then((rows) => {
-        if (!cancelled) setArticles(rows);
+        if (!cancelled) {
+          setErr(null);
+          setArticles(rows);
+        }
       })
       .catch((error) => {
         if (!cancelled) setErr(error instanceof Error ? error.message : "加载文章失败。");
@@ -96,4 +97,3 @@ export function TeacherArticlesRoute() {
     </div>
   );
 }
-

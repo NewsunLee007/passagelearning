@@ -8,7 +8,9 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "dev:fullstack": "vercel dev"
+    "dev:fullstack": "vercel dev",
+    "content:repair": "node scripts/repair_textbook_content.mjs",
+    "db:seed:textbook": "node scripts/seed_neon_articles.mjs"
   },
   "dependencies": {
     "@neondatabase/serverless": "^1.0.1",

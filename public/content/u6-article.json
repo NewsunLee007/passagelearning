@@ -16,43 +16,57 @@
           "u6-s1",
           "u6-s2",
           "u6-s3",
-          "u6-s4"
+          "u6-s4",
+          "u6-s5"
         ]
       },
       {
         "id": "u6-p2",
         "sentenceIds": [
-          "u6-s5",
           "u6-s6",
           "u6-s7",
           "u6-s8",
-          "u6-s9"
+          "u6-s9",
+          "u6-s10",
+          "u6-s11",
+          "u6-s12",
+          "u6-s13"
         ]
       },
       {
         "id": "u6-p3",
         "sentenceIds": [
-          "u6-s10",
-          "u6-s11"
+          "u6-s14",
+          "u6-s15",
+          "u6-s16"
         ]
       },
       {
         "id": "u6-p4",
         "sentenceIds": [
-          "u6-s12",
-          "u6-s13",
-          "u6-s14"
+          "u6-s17",
+          "u6-s18",
+          "u6-s19",
+          "u6-s20"
         ]
       },
       {
         "id": "u6-p5",
         "sentenceIds": [
-          "u6-s15",
-          "u6-s16",
-          "u6-s17"
+          "u6-s21",
+          "u6-s22",
+          "u6-s23",
+          "u6-s24",
+          "u6-s25"
         ]
       }
-    ]
+    ],
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "unitNumber": 2,
+    "unitTheme": "Go for it!",
+    "bookOrder": 20,
+    "summary": "北京马拉松终点线前的坚持，展现永不放弃的体育精神。"
   },
   "sentences": [
     {

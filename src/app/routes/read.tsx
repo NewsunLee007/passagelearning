@@ -2,6 +2,7 @@ import type { ReactNode } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import { getSession } from "../../features/auth/session";
+import { getAdjacentArticles, getTextbookArticle } from "../../features/content/catalog";
 import { useArticleDemo } from "../../features/content/useArticleDemo";
 import { saveAttempt } from "../../features/storage/attempts";
 import { loadQuotes, toggleQuote } from "../../features/storage/quotes";
@@ -35,7 +36,7 @@ type ReadingQuestion = {
 };
 
 function normalizeWord(token: string) {
-  const clean = token.replace(/[.,!?;:—"“”'’()\[\]{}*]+$/g, "").replace(/^[("“”'’]+/g, "");
+  const clean = token.replace(/[.,!?;:—"“”'’()[\]{}*]+$/g, "").replace(/^[("“”'’]+/g, "");
   return clean.toLowerCase();
 }
 
@@ -74,9 +75,9 @@ export function ReadingMainRoute() {
   const [exerciseOpen, setExerciseOpen] = useState(false);
   const [refreshFavs, setRefreshFavs] = useState(0);
 
-  const sentences = (data?.sentences ?? []) as Sentence[];
-  const lexicon = (data as any)?.lexicon as Record<string, LexiconItem> | undefined;
-  const questions = ((data as any)?.readingQuestions ?? []) as ReadingQuestion[];
+  const sentences = useMemo(() => (data?.sentences ?? []) as Sentence[], [data?.sentences]);
+  const lexicon = data?.lexicon as Record<string, LexiconItem> | undefined;
+  const questions = (data?.readingQuestions ?? []) as ReadingQuestion[];
 
   const byId = useMemo(() => {
     const m = new Map<string, Sentence>();
@@ -126,10 +127,14 @@ export function ReadingMainRoute() {
     return () => {
       try {
         audioRef.current?.pause();
-      } catch {}
+      } catch {
+        // Ignore playback cleanup errors during unmount.
+      }
       try {
         window.speechSynthesis.cancel();
-      } catch {}
+      } catch {
+        // Ignore speech cleanup errors during unmount.
+      }
     };
   }, []);
 
@@ -147,10 +152,14 @@ export function ReadingMainRoute() {
     try {
       audioRef.current?.pause();
       if (audioRef.current) audioRef.current.currentTime = 0;
-    } catch {}
+    } catch {
+      // Ignore audio cleanup errors when stopping playback.
+    }
     try {
       window.speechSynthesis.cancel();
-    } catch {}
+    } catch {
+      // Ignore TTS cleanup errors when stopping playback.
+    }
   }
 
   function scrollToSentence(sid: string) {
@@ -169,7 +178,9 @@ export function ReadingMainRoute() {
     if (mp3) {
       try {
         window.speechSynthesis.cancel();
-      } catch {}
+      } catch {
+        // Ignore cancellation errors before switching audio source.
+      }
       const a = audioRef.current;
       if (!a) return;
       a.onended = null;
@@ -197,7 +208,9 @@ export function ReadingMainRoute() {
 
     try {
       audioRef.current?.pause();
-    } catch {}
+    } catch {
+      // Ignore audio pause errors before falling back to TTS.
+    }
 
     const u = new SpeechSynthesisUtterance(s.text);
     u.rate = Math.max(0.5, Math.min(2, rate));
@@ -248,7 +261,9 @@ export function ReadingMainRoute() {
         window.speechSynthesis.resume();
         setPaused(false);
         return;
-      } catch {}
+      } catch {
+        // Ignore resume errors and fall through to restarting playback.
+      }
     }
     setPlayIdx(0);
   }
@@ -259,12 +274,16 @@ export function ReadingMainRoute() {
     if (a && a.src) {
       try {
         a.pause();
-      } catch {}
+      } catch {
+        // Ignore audio pause errors.
+      }
       return;
     }
     try {
       window.speechSynthesis.pause();
-    } catch {}
+    } catch {
+      // Ignore TTS pause errors.
+    }
   }
 
   async function onToggleSentenceFav(sid: string) {
@@ -293,89 +312,131 @@ export function ReadingMainRoute() {
   if (loading) return <div className="text-sm text-slate-600">正在加载…</div>;
   if (error || !data) return <div className="text-sm text-red-600">加载失败：{error ?? "unknown"}</div>;
 
-  const coverUrl = (data as any)?.article?.coverUrl as string | undefined;
+  const coverUrl = data.article.coverUrl;
+  const articleMeta = getTextbookArticle(data.article.id);
+  const adjacent = getAdjacentArticles(data.article.id);
 
   return (
-    <div className="pb-[76vh]">
-      <div className="rounded-2xl border bg-white shadow-sm overflow-hidden">
+    <div className="pb-[74vh]">
+      <div className="overflow-hidden rounded-[2rem] border border-white/75 bg-white/92 shadow-[0_24px_80px_rgba(15,23,42,0.08)]">
         <div className="relative">
           {coverUrl ? (
             <img src={coverUrl} alt="cover" className="h-40 w-full object-cover sm:h-56" />
           ) : (
-            <div className="h-40 w-full bg-gradient-to-r from-primary/15 via-background to-accent/15 sm:h-56" />
+            <div className="h-48 w-full bg-[linear-gradient(135deg,rgba(194,101,52,0.18),rgba(246,242,233,0.98),rgba(22,101,52,0.14))] sm:h-60" />
           )}
-          <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-black/10 to-transparent" />
-          <div className="absolute bottom-0 left-0 right-0 p-4 sm:p-6">
-            <div className="text-xs font-semibold text-white/90">{data.article.unit}</div>
-            <h1 className="mt-1 text-2xl font-black tracking-tight text-white sm:text-3xl">{data.article.title}</h1>
-            <div className="mt-2 text-sm font-medium text-white/80">
+          <div className="absolute inset-0 bg-gradient-to-t from-[#132118]/65 via-[#132118]/20 to-transparent" />
+          <div className="absolute bottom-0 left-0 right-0 p-5 sm:p-7">
+            <div className="flex flex-wrap items-center gap-2 text-xs font-semibold uppercase tracking-[0.18em] text-white/85">
+              <span>{articleMeta?.unitLabel ?? data.article.unit}</span>
+              <span className="rounded-full bg-white/15 px-3 py-1 text-[11px] tracking-[0.2em] text-white">
+                {articleMeta?.stageLabel ?? data.article.stageLabel ?? "语篇"}
+              </span>
+            </div>
+            <h1 className="mt-3 max-w-4xl font-display text-4xl text-white sm:text-5xl">{data.article.title}</h1>
+            <p className="mt-3 max-w-3xl text-sm leading-7 text-white/82 sm:text-base">
+              {articleMeta?.summary ?? data.article.summary ?? "进入沉浸式阅读，先读顺原文，再完成读后理解。"}
+            </p>
+            <div className="mt-3 text-sm font-medium text-white/78">
               {[session.className, session.studentName].filter(Boolean).join(" · ")}
             </div>
           </div>
         </div>
 
-        <div className="p-4 sm:p-6">
-          <div className="flex flex-wrap items-center gap-2">
-            <button
-              type="button"
-              onClick={() => setIsBilingual((x) => !x)}
-              className="rounded-xl bg-primary px-4 py-2 text-sm font-bold text-white shadow-sm active:scale-[0.98]"
-            >
-              {isBilingual ? "隐藏中文" : "显示中文"}
-            </button>
-
-            {!isPlaying || paused ? (
+        <div className="grid gap-5 p-4 sm:p-6 lg:grid-cols-[1.25fr_0.75fr]">
+          <div className="space-y-4">
+            <div className="flex flex-wrap items-center gap-2">
               <button
                 type="button"
-                onClick={onPlayAll}
-                className="rounded-xl bg-secondary px-4 py-2 text-sm font-bold text-white shadow-sm active:scale-[0.98]"
+                onClick={() => setIsBilingual((x) => !x)}
+                className="rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-primary/92"
               >
-                {paused ? "继续播放" : "播放朗读"}
+                {isBilingual ? "隐藏中文对照" : "显示中文对照"}
               </button>
-            ) : (
-              <button
-                type="button"
-                onClick={onPause}
-                className="rounded-xl bg-slate-600 px-4 py-2 text-sm font-bold text-white shadow-sm active:scale-[0.98]"
+
+              {!isPlaying || paused ? (
+                <button
+                  type="button"
+                  onClick={onPlayAll}
+                  className="rounded-full bg-secondary px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-secondary/92"
+                >
+                  {paused ? "继续播放" : "整篇朗读"}
+                </button>
+              ) : (
+                <button
+                  type="button"
+                  onClick={onPause}
+                  className="rounded-full bg-slate-600 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-slate-700"
+                >
+                  暂停朗读
+                </button>
+              )}
+
+              <select
+                value={String(rate)}
+                onChange={(e) => setRate(Number(e.target.value))}
+                className="rounded-full border border-slate-200 bg-white px-3 py-2 text-sm font-medium text-slate-700 outline-none"
               >
-                暂停
-              </button>
-            )}
+                <option value="0.8">0.8x</option>
+                <option value="1">1.0x</option>
+                <option value="1.2">1.2x</option>
+              </select>
 
-            <select
-              value={String(rate)}
-              onChange={(e) => setRate(Number(e.target.value))}
-              className="rounded-xl border-2 border-slate-100 bg-white px-2 py-2 text-sm font-bold outline-none"
-            >
-              <option value="0.8">0.8x</option>
-              <option value="1">1.0x</option>
-              <option value="1.2">1.2x</option>
-            </select>
-
-            <div className="flex items-center rounded-xl border-2 border-slate-100 bg-slate-50 px-1">
-              <button type="button" onClick={() => setFontSize((s) => Math.max(14, s - 1))} className="px-3 py-2 font-black text-primary">
-                A-
-              </button>
-              <button type="button" onClick={() => setFontSize((s) => Math.min(26, s + 1))} className="px-3 py-2 font-black text-primary">
-                A+
-              </button>
+              <div className="flex items-center rounded-full border border-slate-200 bg-slate-50 px-1">
+                <button type="button" onClick={() => setFontSize((s) => Math.max(14, s - 1))} className="px-3 py-2 text-sm font-semibold text-primary">
+                  A-
+                </button>
+                <button type="button" onClick={() => setFontSize((s) => Math.min(26, s + 1))} className="px-3 py-2 text-sm font-semibold text-primary">
+                  A+
+                </button>
+              </div>
             </div>
 
-            <div className="ml-auto flex items-center gap-2">
-              <Link to="/dashboard" className="rounded-xl border px-4 py-2 text-sm font-bold text-slate-700 hover:bg-slate-50">
+            <div className="flex flex-wrap gap-3 text-sm text-slate-600">
+              <span className="rounded-full bg-slate-100 px-3 py-1.5">{data.article.paragraphs.length} 段</span>
+              <span className="rounded-full bg-slate-100 px-3 py-1.5">{sentences.length} 句</span>
+              <span className="rounded-full bg-slate-100 px-3 py-1.5">{questions.length} 道读后题</span>
+            </div>
+          </div>
+
+          <div className="rounded-[1.5rem] border border-slate-200/80 bg-[linear-gradient(180deg,rgba(250,249,246,0.96),rgba(255,255,255,0.92))] p-4">
+            <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">阅读导航</div>
+            <div className="mt-4 flex flex-wrap gap-2">
+              <Link to="/dashboard" className="rounded-full border border-slate-200 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-slate-300 hover:bg-slate-50">
                 返回目录
               </Link>
-              <Link to={`/a/${data.article.id}`} className="rounded-xl bg-accent px-4 py-2 text-sm font-bold text-white shadow-sm hover:bg-accent/90">
-                任务链
+              <Link to={`/a/${data.article.id}`} className="rounded-full bg-accent px-4 py-2 text-sm font-medium text-white transition hover:bg-accent/92">
+                返回任务页
               </Link>
+            </div>
+
+            <div className="mt-4 space-y-2 border-t border-slate-200/80 pt-4">
+              {adjacent.previous ? (
+                <Link to={`/a/${adjacent.previous.id}/read`} className="block rounded-2xl border border-slate-200 px-4 py-3 transition hover:border-slate-300 hover:bg-slate-50">
+                  <div className="text-xs text-slate-400">上一篇</div>
+                  <div className="mt-1 font-medium text-secondary">{adjacent.previous.title}</div>
+                </Link>
+              ) : null}
+              {adjacent.next ? (
+                <Link to={`/a/${adjacent.next.id}/read`} className="block rounded-2xl border border-slate-200 px-4 py-3 transition hover:border-slate-300 hover:bg-slate-50">
+                  <div className="text-xs text-slate-400">下一篇</div>
+                  <div className="mt-1 font-medium text-secondary">{adjacent.next.title}</div>
+                </Link>
+              ) : null}
             </div>
           </div>
         </div>
       </div>
 
-      <main className="mx-auto mt-6 max-w-3xl space-y-6 px-2 sm:px-0" style={{ fontSize }}>
+      <main className="mx-auto mt-6 max-w-4xl space-y-6 px-3 sm:px-0" style={{ fontSize }}>
         {data.article.paragraphs.map((p) => (
-          <div key={p.id} className="space-y-2 rounded-2xl bg-white p-4 shadow-sm ring-1 ring-slate-100">
+          <div
+            key={p.id}
+            className="space-y-2 rounded-[1.8rem] border border-white/70 bg-white/88 p-5 shadow-[0_16px_46px_rgba(15,23,42,0.05)] ring-1 ring-slate-100/80"
+          >
+            <div className="inline-flex rounded-full bg-primary/8 px-3 py-1 text-xs font-semibold uppercase tracking-[0.16em] text-primary">
+              Paragraph {p.id.split("-p")[1] ?? p.id}
+            </div>
             <div className="space-y-3 leading-8 text-secondary">
               {p.sentenceIds
                 .map((sid) => byId.get(sid))
@@ -424,30 +485,44 @@ export function ReadingMainRoute() {
         ))}
       </main>
 
-      <div className="fixed bottom-0 left-0 right-0 z-20 border-t bg-white/95 backdrop-blur">
-        <div className="mx-auto flex h-[70px] max-w-5xl items-center justify-between px-4">
+      <div className="fixed bottom-0 left-0 right-0 z-20 border-t border-white/60 bg-[#f6f2e9]/94 backdrop-blur-xl">
+        <div className="mx-auto flex h-[78px] max-w-6xl items-center justify-between gap-4 px-4 sm:px-6">
           <div className="flex min-w-0 flex-1 items-center gap-3 overflow-hidden">
-            <button type="button" onClick={() => setFavModalOpen(true)} className="flex items-center gap-2">
-              <span className="text-2xl">📚</span>
-              <span className="text-sm font-bold text-slate-600">收藏夹</span>
+            <button
+              type="button"
+              onClick={() => setFavModalOpen(true)}
+              className="rounded-full border border-slate-200 bg-white/80 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-slate-300"
+            >
+              打开收藏夹
             </button>
+            <div className="hidden text-sm text-slate-500 md:block">最近收藏</div>
             <div className="flex gap-2 overflow-x-auto">
-              {favPreview.map((f) => (
-                <div key={`${f.type}:${f.createdAt}:${f.text}`} className="flex items-center gap-1 whitespace-nowrap rounded-full bg-primary/10 px-3 py-1 text-xs">
-                  <span className="text-slate-800">{clipText(f.text, 18)}</span>
+              {favPreview.length ? favPreview.map((f) => (
+                <div
+                  key={`${f.type}:${f.createdAt}:${f.text}`}
+                  className="flex items-center gap-1 whitespace-nowrap rounded-full bg-white/80 px-3 py-1.5 text-xs text-slate-700 ring-1 ring-slate-200/70"
+                >
+                  <span className="font-medium">{clipText(f.text, 18)}</span>
                 </div>
-              ))}
+              )) : (
+                <div className="whitespace-nowrap text-sm text-slate-400">还没有收藏内容</div>
+              )}
             </div>
-            <button type="button" onClick={clearFavs} className="ml-1 text-xl text-slate-400 hover:text-slate-600" title="清空收藏">
-              🗑️
+            <button
+              type="button"
+              onClick={clearFavs}
+              className="ml-1 rounded-full px-3 py-2 text-sm text-slate-400 transition hover:bg-white/70 hover:text-slate-600"
+              title="清空收藏"
+            >
+              清空
             </button>
           </div>
           <button
             type="button"
             onClick={() => setExerciseOpen(true)}
-            className="ml-4 whitespace-nowrap rounded-xl bg-accent px-5 py-2 text-sm font-bold text-white shadow-lg hover:bg-accent/90"
+            className="whitespace-nowrap rounded-full bg-accent px-5 py-3 text-sm font-semibold text-white shadow-lg transition hover:bg-accent/92"
           >
-            📝 读后练习
+            打开读后练习
           </button>
         </div>
       </div>
@@ -508,7 +583,7 @@ export function ReadingMainRoute() {
                 userId: session.userId,
                 classId: session.classId,
                 articleId: data.article.id,
-                taskKey: `reading-drawer:${q.id}`,
+                taskKey: `reading:${q.id}`,
                 answer: { selected },
                 score: selected === q.answer ? 1 : 0,
                 durationMs: 0,

@@ -46,10 +46,19 @@
       {
         "id": "u8-p5",
         "sentenceIds": [
-          "u8-s14"
+          "u8-s14",
+          "u8-s15",
+          "u8-s16",
+          "u8-s17"
         ]
       }
-    ]
+    ],
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "unitNumber": 3,
+    "unitTheme": "Food matters",
+    "bookOrder": 30,
+    "summary": "从家常食物唤起的记忆，理解食物与情感的联系。"
   },
   "sentences": [
     {

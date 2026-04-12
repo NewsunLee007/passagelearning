@@ -45,10 +45,24 @@
         "sentenceIds": [
           "u10-s11",
           "u10-s12",
-          "u10-s13"
+          "u10-s13",
+          "u10-s14",
+          "u10-s15",
+          "u10-s16",
+          "u10-s17",
+          "u10-s18",
+          "u10-s19",
+          "u10-s20",
+          "u10-s21"
         ]
       }
-    ]
+    ],
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "unitNumber": 4,
+    "unitTheme": "The art of having fun",
+    "bookOrder": 40,
+    "summary": "在孤岛想象和日常生活中讨论“休闲”的价值。"
   },
   "sentences": [
     {

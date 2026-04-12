@@ -3,34 +3,55 @@
 @tailwind utilities;
 
 @layer base {
+  :root {
+    color-scheme: light;
+  }
+
   html {
-    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans",
-      "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    font-family: "Avenir Next", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
   }
 
   body {
-    @apply bg-background text-secondary;
+    @apply bg-background text-secondary antialiased;
+    background-image:
+      radial-gradient(circle at top left, rgba(194, 101, 52, 0.14), transparent 26%),
+      radial-gradient(circle at top right, rgba(22, 101, 52, 0.1), transparent 24%),
+      linear-gradient(180deg, #f6f2e9 0%, #f3efe6 42%, #f8f7f3 100%);
+    min-height: 100vh;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  .font-display {
+    font-family: Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, "Noto Serif SC", "Source Han Serif SC", serif;
+    letter-spacing: -0.02em;
+  }
+
+  ::selection {
+    background: rgba(22, 101, 52, 0.18);
   }
 }
 
 @layer components {
   .ir-word {
-    @apply cursor-pointer rounded px-0.5 transition-colors;
+    @apply cursor-pointer rounded-md px-1 py-0.5 transition-colors;
   }
   .ir-word:hover {
     @apply bg-primary/10 text-primary;
   }
   .ir-word-collected {
-    @apply bg-accent/15;
+    @apply bg-accent/15 text-secondary;
   }
   .ir-sentence {
-    @apply cursor-pointer rounded transition-colors;
+    @apply cursor-pointer rounded-xl transition-colors;
   }
   .ir-sentence-highlight {
-    @apply bg-primary/20;
+    @apply bg-primary/15 ring-1 ring-primary/10;
   }
   .ir-sentence-collected {
-    @apply bg-primary/5;
+    @apply bg-accent/10;
   }
 }
 

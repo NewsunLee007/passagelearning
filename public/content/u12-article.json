@@ -23,37 +23,47 @@
         "id": "u12-p2",
         "sentenceIds": [
           "u12-s5",
-          "u12-s6"
+          "u12-s6",
+          "u12-s7"
         ]
       },
       {
         "id": "u12-p3",
         "sentenceIds": [
-          "u12-s7",
           "u12-s8",
-          "u12-s9"
+          "u12-s9",
+          "u12-s10",
+          "u12-s11"
         ]
       },
       {
         "id": "u12-p4",
         "sentenceIds": [
-          "u12-s10",
-          "u12-s11",
           "u12-s12",
-          "u12-s13"
+          "u12-s13",
+          "u12-s14",
+          "u12-s15",
+          "u12-s16",
+          "u12-s17"
         ]
       },
       {
         "id": "u12-p5",
         "sentenceIds": [
-          "u12-s14",
-          "u12-s15",
-          "u12-s16",
-          "u12-s17",
-          "u12-s18"
+          "u12-s18",
+          "u12-s19",
+          "u12-s20",
+          "u12-s21",
+          "u12-s22"
         ]
       }
-    ]
+    ],
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "unitNumber": 5,
+    "unitTheme": "Amazing nature",
+    "bookOrder": 50,
+    "summary": "用色彩描绘青藏高原故乡景象，感受自然之美。"
   },
   "sentences": [
     {

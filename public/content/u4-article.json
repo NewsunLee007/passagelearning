@@ -7,7 +7,7 @@
   "article": {
     "id": "u4-article",
     "title": "Growing happiness",
-    "unit": "Unit 4",
+    "unit": "Unit 1 The secrets of happiness",
     "genre": "narrative",
     "paragraphs": [
       {
@@ -17,41 +17,50 @@
           "u4-s2",
           "u4-s3",
           "u4-s4",
-          "u4-s5"
+          "u4-s5",
+          "u4-s6"
         ]
       },
       {
         "id": "u4-p2",
         "sentenceIds": [
-          "u4-s6",
-          "u4-s7"
-        ]
-      },
-      {
-        "id": "u4-p3",
-        "sentenceIds": [
+          "u4-s7",
           "u4-s8",
           "u4-s9"
         ]
       },
       {
-        "id": "u4-p4",
+        "id": "u4-p3",
         "sentenceIds": [
           "u4-s10",
-          "u4-s11",
+          "u4-s11"
+        ]
+      },
+      {
+        "id": "u4-p4",
+        "sentenceIds": [
           "u4-s12",
           "u4-s13",
           "u4-s14",
-          "u4-s15"
+          "u4-s15",
+          "u4-s16",
+          "u4-s17",
+          "u4-s18"
         ]
       },
       {
         "id": "u4-p5",
         "sentenceIds": [
-          "u4-s16"
+          "u4-s19"
         ]
       }
-    ]
+    ],
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "unitNumber": 1,
+    "unitTheme": "The secrets of happiness",
+    "bookOrder": 11,
+    "summary": "通过周健捐发做假发的故事，感受帮助他人带来的幸福。"
   },
   "sentences": [
     {

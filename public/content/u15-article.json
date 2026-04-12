@@ -6,8 +6,8 @@
   },
   "article": {
     "id": "u15-article",
-    "title": "Reading for writing: Exploring the unexplored",
-    "unit": "Unit 15",
+    "title": "Exploring the unexplored",
+    "unit": "Unit 6 Hitting the road",
     "genre": "narrative",
     "paragraphs": [
       {
@@ -42,10 +42,24 @@
         "sentenceIds": [
           "u15-s13",
           "u15-s14",
-          "u15-s15"
+          "u15-s15",
+          "u15-s16",
+          "u15-s17",
+          "u15-s18",
+          "u15-s19",
+          "u15-s20",
+          "u15-s21",
+          "u15-s22",
+          "u15-s23"
         ]
       }
-    ]
+    ],
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "unitNumber": 6,
+    "unitTheme": "Hitting the road",
+    "bookOrder": 61,
+    "summary": "从徐霞客的行走人生，理解探索未知的勇气与价值。"
   },
   "sentences": [
     {

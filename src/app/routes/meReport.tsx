@@ -1,39 +1,19 @@
-import { useEffect, useState } from "react";
+import { useMemo } from "react";
 import { Link } from "react-router-dom";
 import { getSession } from "../../features/auth/session";
+import { TEXTBOOK_ARTICLES } from "../../features/content/catalog";
 import { loadAllAttempts, type Attempt } from "../../features/storage/attempts";
 import { loadAllQuotes, type Quote } from "../../features/storage/quotes";
 
-type ArticleMeta = {
-  id: string;
-  title: string;
-  unit: string;
-};
-
 export function MeReportRoute() {
   const session = getSession();
-
-  const [articlesMap, setArticlesMap] = useState<Map<string, string>>(new Map());
-  const [attempts, setAttempts] = useState<Attempt[]>([]);
-  const [quotes, setQuotes] = useState<Quote[]>([]);
-
-  useEffect(() => {
-    // 动态加载用户的全部答题记录和收藏
-    setAttempts(loadAllAttempts(session.userId));
-    setQuotes(loadAllQuotes(session.userId));
-
-    // 加载文章目录以便把 articleId 映射为人类可读的文章标题
-    fetch("/content/index.json")
-      .then((res) => (res.ok ? res.json() : []))
-      .then((data: ArticleMeta[]) => {
-        const m = new Map<string, string>();
-        data.forEach((a) => m.set(a.id, a.title));
-        setArticlesMap(m);
-      })
-      .catch(() => {
-        // ignore
-      });
-  }, [session.userId]);
+  const articlesMap = useMemo(() => {
+    const map = new Map<string, string>();
+    TEXTBOOK_ARTICLES.forEach((article) => map.set(article.id, article.title));
+    return map;
+  }, []);
+  const attempts = useMemo<Attempt[]>(() => loadAllAttempts(session.userId), [session.userId]);
+  const quotes = useMemo<Quote[]>(() => loadAllQuotes(session.userId), [session.userId]);
 
   const byType = (prefix: string) => attempts.filter((a) => a.taskKey.startsWith(prefix));
   const rate = (arr: typeof attempts) => {
@@ -119,4 +99,3 @@ function Stat({ label, value }: { label: string; value: string }) {
     </div>
   );
 }
-

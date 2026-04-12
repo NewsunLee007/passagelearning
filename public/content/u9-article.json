@@ -7,7 +7,7 @@
   "article": {
     "id": "u9-article",
     "title": "Food across borders",
-    "unit": "Unit 9",
+    "unit": "Unit 3 Food matters",
     "genre": "narrative",
     "paragraphs": [
       {
@@ -19,26 +19,39 @@
           "u9-s4",
           "u9-s5",
           "u9-s6",
-          "u9-s7"
+          "u9-s7",
+          "u9-s8",
+          "u9-s9",
+          "u9-s10",
+          "u9-s11"
         ]
       },
       {
         "id": "u9-p2",
         "sentenceIds": [
-          "u9-s8",
-          "u9-s9",
-          "u9-s10",
-          "u9-s11",
-          "u9-s12"
+          "u9-s12",
+          "u9-s13",
+          "u9-s14",
+          "u9-s15",
+          "u9-s16",
+          "u9-s17",
+          "u9-s18"
         ]
       },
       {
         "id": "u9-p3",
         "sentenceIds": [
-          "u9-s13"
+          "u9-s19",
+          "u9-s20"
         ]
       }
-    ]
+    ],
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "unitNumber": 3,
+    "unitTheme": "Food matters",
+    "bookOrder": 31,
+    "summary": "追溯冰淇淋、番茄和马铃薯的传播，理解食物跨文化流动。"
   },
   "sentences": [
     {

@@ -43,10 +43,18 @@
         "sentenceIds": [
           "u14-s14",
           "u14-s15",
-          "u14-s16"
+          "u14-s16",
+          "u14-s17",
+          "u14-s18"
         ]
       }
-    ]
+    ],
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "unitNumber": 6,
+    "unitTheme": "Hitting the road",
+    "bookOrder": 60,
+    "summary": "在成都与青城山之间切换，体验旅途中的冷热反差。"
   },
   "sentences": [
     {

@@ -1,77 +1,134 @@
 [
   {
-    "id": "u1-article",
-    "title": "七年级下册英语教材语篇文本汇总",
-    "unit": "Unit 1"
-  },
-  {
-    "id": "u2-article",
-    "title": "The secrets of happiness",
-    "unit": "Unit 1"
-  },
-  {
     "id": "u3-article",
-    "title": "Your happy smile",
-    "unit": "Unit 3"
+    "title": "Poor in things, rich in love",
+    "unit": "Unit 1 The secrets of happiness",
+    "unitNumber": 1,
+    "unitTheme": "The secrets of happiness",
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "summary": "从《查理和巧克力工厂》里的家庭故事，理解“贫穷但充满爱”的幸福感。",
+    "order": 10
   },
   {
     "id": "u4-article",
     "title": "Growing happiness",
-    "unit": "Unit 4"
-  },
-  {
-    "id": "u5-article",
-    "title": "Growing Happiness",
-    "unit": "Unit 5"
+    "unit": "Unit 1 The secrets of happiness",
+    "unitNumber": 1,
+    "unitTheme": "The secrets of happiness",
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "summary": "通过周健捐发做假发的故事，感受帮助他人带来的幸福。",
+    "order": 11
   },
   {
     "id": "u6-article",
     "title": "Last but not least",
-    "unit": "Unit 2 Go for it!"
+    "unit": "Unit 2 Go for it!",
+    "unitNumber": 2,
+    "unitTheme": "Go for it!",
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "summary": "北京马拉松终点线前的坚持，展现永不放弃的体育精神。",
+    "order": 20
   },
   {
     "id": "u7-article",
     "title": "The Steel Roses of China",
-    "unit": "Unit 7"
+    "unit": "Unit 2 Go for it!",
+    "unitNumber": 2,
+    "unitTheme": "Go for it!",
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "summary": "回望中国女足逆转夺冠，理解荣誉背后的长期奋斗。",
+    "order": 21
   },
   {
     "id": "u8-article",
     "title": "Delicious memories",
-    "unit": "Unit 3 Food matters"
+    "unit": "Unit 3 Food matters",
+    "unitNumber": 3,
+    "unitTheme": "Food matters",
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "summary": "从家常食物唤起的记忆，理解食物与情感的联系。",
+    "order": 30
   },
   {
     "id": "u9-article",
     "title": "Food across borders",
-    "unit": "Unit 9"
+    "unit": "Unit 3 Food matters",
+    "unitNumber": 3,
+    "unitTheme": "Food matters",
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "summary": "追溯冰淇淋、番茄和马铃薯的传播，理解食物跨文化流动。",
+    "order": 31
   },
   {
     "id": "u10-article",
     "title": "All work and no play makes Jack a dull boy",
-    "unit": "Unit 4 The art of having fun"
+    "unit": "Unit 4 The art of having fun",
+    "unitNumber": 4,
+    "unitTheme": "The art of having fun",
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "summary": "在孤岛想象和日常生活中讨论“休闲”的价值。",
+    "order": 40
   },
   {
     "id": "u11-article",
     "title": "The time-eating monster",
-    "unit": "Unit 11"
+    "unit": "Unit 4 The art of having fun",
+    "unitNumber": 4,
+    "unitTheme": "The art of having fun",
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "summary": "识别吞噬时间的娱乐陷阱，学习保持有节制的快乐。",
+    "order": 41
   },
   {
     "id": "u12-article",
     "title": "Colours of my hometown",
-    "unit": "Unit 5 Amazing nature"
+    "unit": "Unit 5 Amazing nature",
+    "unitNumber": 5,
+    "unitTheme": "Amazing nature",
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "summary": "用色彩描绘青藏高原故乡景象，感受自然之美。",
+    "order": 50
   },
   {
     "id": "u13-article",
-    "title": "The Dead Sea could die!",
-    "unit": "Unit 13"
+    "title": "Natural wonders crying aloud for help",
+    "unit": "Unit 5 Amazing nature",
+    "unitNumber": 5,
+    "unitTheme": "Amazing nature",
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "summary": "借死海、马达加斯加雨林与冰川的第一人称“呼救”，理解生态危机。",
+    "order": 51
   },
   {
     "id": "u14-article",
     "title": "Hot and cool",
-    "unit": "Unit 6 Hitting the road"
+    "unit": "Unit 6 Hitting the road",
+    "unitNumber": 6,
+    "unitTheme": "Hitting the road",
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "summary": "在成都与青城山之间切换，体验旅途中的冷热反差。",
+    "order": 60
   },
   {
     "id": "u15-article",
-    "title": "Reading for writing: Exploring the unexplored",
-    "unit": "Unit 15"
+    "title": "Exploring the unexplored",
+    "unit": "Unit 6 Hitting the road",
+    "unitNumber": 6,
+    "unitTheme": "Hitting the road",
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "summary": "从徐霞客的行走人生，理解探索未知的勇气与价值。",
+    "order": 61
   }
 ]

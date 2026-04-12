@@ -10,7 +10,7 @@ export function TeacherDashboardRoute() {
   const authed = isTeacherAuthed();
   const [classes, setClasses] = useState<ClassRow[]>([]);
   const [classId, setClassId] = useState("");
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
   const [err, setErr] = useState<string | null>(null);
   const [studentsCount, setStudentsCount] = useState<number | null>(null);
   const [attempts, setAttempts] = useState<AttemptRow[]>([]);
@@ -19,12 +19,11 @@ export function TeacherDashboardRoute() {
     if (!authed) return;
 
     let cancelled = false;
-    setLoading(true);
-    setErr(null);
 
     apiGet<ClassRow[]>("/api/teacher/classes", true)
       .then((rows) => {
         if (cancelled) return;
+        setErr(null);
         setClasses(rows);
         if (!classId && rows[0]?.id) setClassId(rows[0].id);
       })
@@ -44,12 +43,11 @@ export function TeacherDashboardRoute() {
     if (!authed || !classId) return;
 
     let cancelled = false;
-    setLoading(true);
-    setErr(null);
 
     apiGet<{ studentsCount: number; attempts: AttemptRow[] }>(`/api/teacher/classes?classId=${encodeURIComponent(classId)}`, true)
       .then((payload) => {
         if (cancelled) return;
+        setErr(null);
         setStudentsCount(payload.studentsCount);
         setAttempts(payload.attempts);
       })
@@ -109,7 +107,15 @@ export function TeacherDashboardRoute() {
       <div className="rounded-xl border bg-white p-5">
         <div className="flex flex-wrap items-center gap-3">
           <div className="text-sm font-semibold">选择班级</div>
-          <select className="rounded-md border px-3 py-2 text-sm" value={classId} onChange={(event) => setClassId(event.target.value)}>
+          <select
+            className="rounded-md border px-3 py-2 text-sm"
+            value={classId}
+            onChange={(event) => {
+              setLoading(true);
+              setErr(null);
+              setClassId(event.target.value);
+            }}
+          >
             {classes.map((classRow) => (
               <option key={classRow.id} value={classRow.id}>
                 {classRow.name}

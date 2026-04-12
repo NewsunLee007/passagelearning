@@ -7,7 +7,7 @@
   "article": {
     "id": "u7-article",
     "title": "The Steel Roses of China",
-    "unit": "Unit 7",
+    "unit": "Unit 2 Go for it!",
     "genre": "narrative",
     "paragraphs": [
       {
@@ -18,37 +18,45 @@
           "u7-s3",
           "u7-s4",
           "u7-s5",
-          "u7-s6"
+          "u7-s6",
+          "u7-s7"
         ]
       },
       {
         "id": "u7-p2",
         "sentenceIds": [
-          "u7-s7",
           "u7-s8",
           "u7-s9",
           "u7-s10",
-          "u7-s11"
+          "u7-s11",
+          "u7-s12",
+          "u7-s13"
         ]
       },
       {
         "id": "u7-p3",
         "sentenceIds": [
-          "u7-s12",
-          "u7-s13",
-          "u7-s14"
+          "u7-s14",
+          "u7-s15",
+          "u7-s16"
         ]
       },
       {
         "id": "u7-p4",
         "sentenceIds": [
-          "u7-s15",
-          "u7-s16",
           "u7-s17",
-          "u7-s18"
+          "u7-s18",
+          "u7-s19",
+          "u7-s20"
         ]
       }
-    ]
+    ],
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "unitNumber": 2,
+    "unitTheme": "Go for it!",
+    "bookOrder": 21,
+    "summary": "回望中国女足逆转夺冠，理解荣誉背后的长期奋斗。"
   },
   "sentences": [
     {

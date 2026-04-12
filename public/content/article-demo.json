@@ -12,19 +12,40 @@
     "paragraphs": [
       {
         "id": "p1",
-        "sentenceIds": ["s1"]
+        "sentenceIds": [
+          "s1"
+        ]
       },
       {
         "id": "p2",
-        "sentenceIds": ["s2", "s3", "s4"]
+        "sentenceIds": [
+          "s2",
+          "s3",
+          "s4"
+        ]
       },
       {
         "id": "p3",
-        "sentenceIds": ["s5", "s6", "s7", "s8", "s9", "s10", "s11", "s12", "s13"]
+        "sentenceIds": [
+          "s5",
+          "s6",
+          "s7",
+          "s8",
+          "s9",
+          "s10",
+          "s11",
+          "s12",
+          "s13"
+        ]
       },
       {
         "id": "p4",
-        "sentenceIds": ["s14", "s15", "s16", "s17"]
+        "sentenceIds": [
+          "s14",
+          "s15",
+          "s16",
+          "s17"
+        ]
       }
     ]
   },
@@ -33,103 +54,165 @@
       "id": "s1",
       "text": "The taste and smell of a certain food can often bring back memories.",
       "paragraphId": "p1",
-      "keywords": ["taste", "smell", "bring back", "memories"]
+      "keywords": [
+        "taste",
+        "smell",
+        "bring back",
+        "memories"
+      ]
     },
     {
       "id": "s2",
       "text": "Mine start with my mother.",
       "paragraphId": "p2",
-      "keywords": ["start with", "mother"]
+      "keywords": [
+        "start with",
+        "mother"
+      ]
     },
     {
       "id": "s3",
       "text": "She can do magic in the kitchen: tofu and beef become red, hot mapo tofu; carrots and mutton become lovely dumplings; a big fat hen becomes a pot of warm chicken soup; even eggs and green onions become wonderful pancakes.",
       "paragraphId": "p2",
-      "keywords": ["do magic", "kitchen", "tofu", "dumplings", "chicken soup", "pancakes"]
+      "keywords": [
+        "do magic",
+        "kitchen",
+        "tofu",
+        "dumplings",
+        "chicken soup",
+        "pancakes"
+      ]
     },
     {
       "id": "s4",
       "text": "I always grow hungry thinking of them!",
       "paragraphId": "p2",
-      "keywords": ["grow hungry", "think of"]
+      "keywords": [
+        "grow hungry",
+        "think of"
+      ]
     },
     {
       "id": "s5",
       "text": "But my favourite food is porridge.",
       "paragraphId": "p3",
-      "keywords": ["favourite", "porridge"]
+      "keywords": [
+        "favourite",
+        "porridge"
+      ]
     },
     {
       "id": "s6",
       "text": "I often wake up to the smell of porridge.",
       "paragraphId": "p3",
-      "keywords": ["wake up to", "smell"]
+      "keywords": [
+        "wake up to",
+        "smell"
+      ]
     },
     {
       "id": "s7",
       "text": "Sometimes, it's sweet eight-treasure porridge.",
       "paragraphId": "p3",
-      "keywords": ["sometimes", "sweet", "eight-treasure porridge"]
+      "keywords": [
+        "sometimes",
+        "sweet",
+        "eight-treasure porridge"
+      ]
     },
     {
       "id": "s8",
       "text": "Other times, it's porridge with pork and thousand-year-old eggs.",
       "paragraphId": "p3",
-      "keywords": ["other times", "with", "thousand-year-old eggs"]
+      "keywords": [
+        "other times",
+        "with",
+        "thousand-year-old eggs"
+      ]
     },
     {
       "id": "s9",
       "text": "Each kind of porridge tastes great in its own way.",
       "paragraphId": "p3",
-      "keywords": ["each kind", "in its own way"]
+      "keywords": [
+        "each kind",
+        "in its own way"
+      ]
     },
     {
       "id": "s10",
       "text": "When I fall ill, my mother always makes plain rice porridge for me.",
       "paragraphId": "p3",
-      "keywords": ["fall ill", "plain", "for me"]
+      "keywords": [
+        "fall ill",
+        "plain",
+        "for me"
+      ]
     },
     {
       "id": "s11",
       "text": "That's the simplest food on any Chinese menu.",
       "paragraphId": "p3",
-      "keywords": ["simplest", "menu"]
+      "keywords": [
+        "simplest",
+        "menu"
+      ]
     },
     {
       "id": "s12",
       "text": "For me, however, it's the best food in the world.",
       "paragraphId": "p3",
-      "keywords": ["however", "best", "in the world"]
+      "keywords": [
+        "however",
+        "best",
+        "in the world"
+      ]
     },
     {
       "id": "s13",
       "text": "And it's better medicine than a pill!",
       "paragraphId": "p3",
-      "keywords": ["better than", "medicine", "pill"]
+      "keywords": [
+        "better than",
+        "medicine",
+        "pill"
+      ]
     },
     {
       "id": "s14",
       "text": "Now I'm studying away from home.",
       "paragraphId": "p4",
-      "keywords": ["studying away from home"]
+      "keywords": [
+        "studying away from home"
+      ]
     },
     {
       "id": "s15",
       "text": "But all the warm memories stay with me.",
       "paragraphId": "p4",
-      "keywords": ["warm memories", "stay with"]
+      "keywords": [
+        "warm memories",
+        "stay with"
+      ]
     },
     {
       "id": "s16",
       "text": "The old days still feel so sweet in my heart.",
       "paragraphId": "p4",
-      "keywords": ["old days", "sweet", "in my heart"]
+      "keywords": [
+        "old days",
+        "sweet",
+        "in my heart"
+      ]
     },
     {
       "id": "s17",
       "text": "What food remains strong in your memory?",
       "paragraphId": "p4",
-      "keywords": ["remains", "memory"]
+      "keywords": [
+        "remains",
+        "memory"
+      ]
     }
   ],
   "vocabItems": [
@@ -138,70 +221,110 @@
       "term": "bring back",
       "meaningZh": "使想起；带回（记忆）",
       "exampleSentenceId": "s1",
-      "distractorsZh": ["写下来", "忘记", "借来"]
+      "distractorsZh": [
+        "写下来",
+        "忘记",
+        "借来"
+      ]
     },
     {
       "id": "v2",
       "term": "memories",
       "meaningZh": "回忆",
       "exampleSentenceId": "s1",
-      "distractorsZh": ["问题", "计划", "图片"]
+      "distractorsZh": [
+        "问题",
+        "计划",
+        "图片"
+      ]
     },
     {
       "id": "v3",
       "term": "do magic",
       "meaningZh": "施魔法；（比喻）变出好东西/很会做",
       "exampleSentenceId": "s3",
-      "distractorsZh": ["做家务", "做实验", "搞恶作剧"]
+      "distractorsZh": [
+        "做家务",
+        "做实验",
+        "搞恶作剧"
+      ]
     },
     {
       "id": "v4",
       "term": "wake up to",
       "meaningZh": "醒来时闻到/听到/感受到……",
       "exampleSentenceId": "s6",
-      "distractorsZh": ["走向", "躲开", "打电话给"]
+      "distractorsZh": [
+        "走向",
+        "躲开",
+        "打电话给"
+      ]
     },
     {
       "id": "v5",
       "term": "other times",
       "meaningZh": "其他时候；有时",
       "exampleSentenceId": "s8",
-      "distractorsZh": ["长时间", "准时", "一段时间后"]
+      "distractorsZh": [
+        "长时间",
+        "准时",
+        "一段时间后"
+      ]
     },
     {
       "id": "v6",
       "term": "in its own way",
       "meaningZh": "以它自己的方式；各有各的特点",
       "exampleSentenceId": "s9",
-      "distractorsZh": ["在路上", "用这种方法", "顺便"]
+      "distractorsZh": [
+        "在路上",
+        "用这种方法",
+        "顺便"
+      ]
     },
     {
       "id": "v7",
       "term": "fall ill",
       "meaningZh": "生病",
       "exampleSentenceId": "s10",
-      "distractorsZh": ["摔倒", "迟到", "睡着"]
+      "distractorsZh": [
+        "摔倒",
+        "迟到",
+        "睡着"
+      ]
     },
     {
       "id": "v8",
       "term": "plain",
       "meaningZh": "清淡的；简单的",
       "exampleSentenceId": "s10",
-      "distractorsZh": ["辛辣的", "昂贵的", "冰凉的"]
+      "distractorsZh": [
+        "辛辣的",
+        "昂贵的",
+        "冰凉的"
+      ]
     },
     {
       "id": "v9",
       "term": "menu",
       "meaningZh": "菜单",
       "exampleSentenceId": "s11",
-      "distractorsZh": ["桌子", "市场", "厨房"]
+      "distractorsZh": [
+        "桌子",
+        "市场",
+        "厨房"
+      ]
     },
     {
       "id": "v10",
       "term": "better medicine than a pill",
       "meaningZh": "比药片更好的“良药”（比喻：安慰/关爱更治愈）",
       "exampleSentenceId": "s13",
-      "distractorsZh": ["比甜点更好吃", "比电影更有趣", "比作业更容易"]
+      "distractorsZh": [
+        "比甜点更好吃",
+        "比电影更有趣",
+        "比作业更容易"
+      ]
     }
   ],
   "sentenceTasks": [
@@ -211,13 +334,38 @@
       "type": "chunk_reorder",
       "promptZh": "把句子语块按正确顺序拖拽排列，完成句子。",
       "chunks": [
-        { "id": "c1", "text": "When I fall ill,", "tag": "时间状语从句" },
-        { "id": "c2", "text": "my mother always makes", "tag": "主谓" },
-        { "id": "c3", "text": "plain rice porridge", "tag": "宾语" },
-        { "id": "c4", "text": "for me.", "tag": "介词短语" }
+        {
+          "id": "c1",
+          "text": "When I fall ill,",
+          "tag": "时间状语从句"
+        },
+        {
+          "id": "c2",
+          "text": "my mother always makes",
+          "tag": "主谓"
+        },
+        {
+          "id": "c3",
+          "text": "plain rice porridge",
+          "tag": "宾语"
+        },
+        {
+          "id": "c4",
+          "text": "for me.",
+          "tag": "介词短语"
+        }
       ],
-      "correctOrder": ["c1", "c2", "c3", "c4"],
-      "focusPointsZh": ["When 引导的时间状语从句", "always 表示“总是/经常”", "for me 表示“为我”"]
+      "correctOrder": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "focusPointsZh": [
+        "When 引导的时间状语从句",
+        "always 表示“总是/经常”",
+        "for me 表示“为我”"
+      ]
     },
     {
       "id": "st2",
@@ -225,13 +373,38 @@
       "type": "chunk_reorder",
       "promptZh": "把句子语块按正确顺序拖拽排列，注意 however 的语气作用。",
       "chunks": [
-        { "id": "c1", "text": "For me, however,", "tag": "转折提示" },
-        { "id": "c2", "text": "it's", "tag": "系动词" },
-        { "id": "c3", "text": "the best food", "tag": "表语" },
-        { "id": "c4", "text": "in the world.", "tag": "范围" }
+        {
+          "id": "c1",
+          "text": "For me, however,",
+          "tag": "转折提示"
+        },
+        {
+          "id": "c2",
+          "text": "it's",
+          "tag": "系动词"
+        },
+        {
+          "id": "c3",
+          "text": "the best food",
+          "tag": "表语"
+        },
+        {
+          "id": "c4",
+          "text": "in the world.",
+          "tag": "范围"
+        }
       ],
-      "correctOrder": ["c1", "c2", "c3", "c4"],
-      "focusPointsZh": ["however 表示转折/强调观点", "best 的最高级用法", "in the world 表范围"]
+      "correctOrder": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "focusPointsZh": [
+        "however 表示转折/强调观点",
+        "best 的最高级用法",
+        "in the world 表范围"
+      ]
     }
   ],
   "readingQuestions": [
@@ -239,37 +412,65 @@
       "id": "rq1",
       "type": "single_choice",
       "stem": "What can often bring back memories?",
-      "options": ["A certain food's taste and smell.", "A noisy street.", "A new schoolbag.", "A math test."],
+      "options": [
+        "A certain food's taste and smell.",
+        "A noisy street.",
+        "A new schoolbag.",
+        "A math test."
+      ],
       "answer": "A certain food's taste and smell.",
       "rationaleZh": "文章开头第一句指出：食物的味道和气味常常能唤起回忆。",
-      "evidenceSentenceIds": ["s1"]
+      "evidenceSentenceIds": [
+        "s1"
+      ]
     },
     {
       "id": "rq2",
       "type": "single_choice",
       "stem": "Who does the writer think of first when talking about food memories?",
-      "options": ["The writer's mother.", "The writer's teacher.", "The writer's friend.", "The writer's father."],
+      "options": [
+        "The writer's mother.",
+        "The writer's teacher.",
+        "The writer's friend.",
+        "The writer's father."
+      ],
       "answer": "The writer's mother.",
       "rationaleZh": "第二句明确说“Mine start with my mother.”",
-      "evidenceSentenceIds": ["s2"]
+      "evidenceSentenceIds": [
+        "s2"
+      ]
     },
     {
       "id": "rq3",
       "type": "single_choice",
       "stem": "What is the writer's favourite food?",
-      "options": ["Porridge.", "Dumplings.", "Pancakes.", "Ice cream."],
+      "options": [
+        "Porridge.",
+        "Dumplings.",
+        "Pancakes.",
+        "Ice cream."
+      ],
       "answer": "Porridge.",
       "rationaleZh": "作者在段落中直接说明最喜欢的食物是粥。",
-      "evidenceSentenceIds": ["s5"]
+      "evidenceSentenceIds": [
+        "s5"
+      ]
     },
     {
       "id": "rq4",
       "type": "single_choice",
       "stem": "When does the writer's mother make plain rice porridge?",
-      "options": ["When the writer falls ill.", "When the writer is late.", "When it's raining.", "When guests visit."],
+      "options": [
+        "When the writer falls ill.",
+        "When the writer is late.",
+        "When it's raining.",
+        "When guests visit."
+      ],
       "answer": "When the writer falls ill.",
       "rationaleZh": "句子 s10 说明：作者生病时，妈妈总会做白粥。",
-      "evidenceSentenceIds": ["s10"]
+      "evidenceSentenceIds": [
+        "s10"
+      ]
     },
     {
       "id": "rq5",
@@ -283,14 +484,27 @@
       ],
       "answer": "It is better medicine than a pill.",
       "rationaleZh": "作者强调白粥不仅好吃，还像“良药”一样治愈。",
-      "evidenceSentenceIds": ["s13"]
+      "evidenceSentenceIds": [
+        "s13"
+      ]
     }
   ],
   "quoteCandidates": [
-    { "sentenceId": "s1", "reasonZh": "开头点题：食物与回忆" },
-    { "sentenceId": "s12", "reasonZh": "表达个人情感观点：best in the world" },
-    { "sentenceId": "s13", "reasonZh": "有画面感/可仿写：better medicine than a pill" },
-    { "sentenceId": "s17", "reasonZh": "结尾提问：引导分享与复述" }
+    {
+      "sentenceId": "s1",
+      "reasonZh": "开头点题：食物与回忆"
+    },
+    {
+      "sentenceId": "s12",
+      "reasonZh": "表达个人情感观点：best in the world"
+    },
+    {
+      "sentenceId": "s13",
+      "reasonZh": "有画面感/可仿写：better medicine than a pill"
+    },
+    {
+      "sentenceId": "s17",
+      "reasonZh": "结尾提问：引导分享与复述"
+    }
   ]
 }
-
