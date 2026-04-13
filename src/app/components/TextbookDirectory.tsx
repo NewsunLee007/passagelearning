@@ -15,7 +15,7 @@ export function TextbookDirectory({
         const firstArticle = book.units[0]?.articles[0];
 
         return (
-          <details key={book.id} className="group border-b border-slate-100/90 last:border-b-0" open={book.loaded}>
+          <details key={book.id} className="group border-b border-slate-100/90 last:border-b-0">
             <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-5 py-5 sm:px-6 [&::-webkit-details-marker]:hidden">
               <div className="min-w-0">
                 <div className="flex flex-wrap items-center gap-3">
@@ -53,35 +53,42 @@ export function TextbookDirectory({
               {book.loaded ? (
                 <div className="space-y-4">
                   {book.units.map((unit) => (
-                    <section key={`${book.id}-${unit.unitNumber}`} className="grid gap-3 border-b border-slate-100/80 pb-4 last:border-b-0 last:pb-0 lg:grid-cols-[220px_minmax(0,1fr)]">
-                      <div>
-                        <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">Unit {unit.unitNumber}</div>
-                        <div className="mt-1 text-base font-semibold text-secondary">{unit.theme}</div>
-                      </div>
-
-                      <div className="space-y-2">
-                        {unit.articles.map((article) =>
-                          interactive ? (
-                            <Link
-                              key={article.id}
-                              to={`/a/${article.id}`}
-                              className="flex items-center justify-between gap-4 rounded-[1.1rem] px-3 py-3 transition hover:bg-slate-50"
-                            >
-                              <div className="min-w-0">
+                    <details
+                      key={`${book.id}-${unit.unitNumber}`}
+                      className="group overflow-hidden rounded-[1.6rem] border border-slate-100/90 bg-white/70"
+                    >
+                      <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-4 py-4 [&::-webkit-details-marker]:hidden">
+                        <div className="min-w-0">
+                          <div className="text-[11px] font-semibold uppercase tracking-[0.2em] text-slate-400">Unit {unit.unitNumber}</div>
+                          <div className="mt-1 text-base font-semibold text-secondary sm:text-lg">{unit.theme}</div>
+                        </div>
+                        <span className="text-sm text-slate-400 transition group-open:rotate-180">⌃</span>
+                      </summary>
+                      <div className="border-t border-slate-100/80 px-3 py-3 sm:px-4">
+                        <div className="space-y-2">
+                          {unit.articles.map((article) =>
+                            interactive ? (
+                              <Link
+                                key={article.id}
+                                to={`/a/${article.id}`}
+                                className="flex items-center justify-between gap-4 rounded-[1.1rem] px-3 py-3 transition hover:bg-slate-50"
+                              >
+                                <div className="min-w-0">
+                                  <div className="text-xs font-semibold uppercase tracking-[0.16em] text-primary/75">{article.stageLabel}</div>
+                                  <div className="mt-1 truncate text-sm font-semibold text-secondary sm:text-base">{article.title}</div>
+                                </div>
+                                <span className="text-sm text-slate-400">进入</span>
+                              </Link>
+                            ) : (
+                              <div key={article.id} className="rounded-[1.1rem] px-3 py-3">
                                 <div className="text-xs font-semibold uppercase tracking-[0.16em] text-primary/75">{article.stageLabel}</div>
-                                <div className="mt-1 truncate text-sm font-medium text-secondary sm:text-base">{article.title}</div>
+                                <div className="mt-1 text-sm font-semibold text-secondary sm:text-base">{article.title}</div>
                               </div>
-                              <span className="text-sm text-slate-400">进入</span>
-                            </Link>
-                          ) : (
-                            <div key={article.id} className="rounded-[1.1rem] px-3 py-3">
-                              <div className="text-xs font-semibold uppercase tracking-[0.16em] text-primary/75">{article.stageLabel}</div>
-                              <div className="mt-1 text-sm font-medium text-secondary sm:text-base">{article.title}</div>
-                            </div>
-                          )
-                        )}
+                            )
+                          )}
+                        </div>
                       </div>
-                    </section>
+                    </details>
                   ))}
                 </div>
               ) : (

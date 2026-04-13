@@ -51,20 +51,6 @@ export function VocabRoute() {
       });
     }
 
-    for (const [key, info] of Object.entries(lexicon)) {
-      if (!next.has(key)) {
-        next.set(key, {
-          term: key,
-          phonetic: info.phonetic,
-          pos: info.pos,
-          meaningZh: info.meaningZh,
-          usageZh: info.usageZh,
-          example: info.example,
-          audioUrlOverride: info.audioUrlOverride
-        });
-      }
-    }
-
     return Array.from(next.values());
   }, [data]);
 
@@ -78,9 +64,6 @@ export function VocabRoute() {
           <div>
             <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">词汇短语</div>
             <h1 className="mt-2 font-display text-3xl text-secondary">音 · 形 · 意 · 用</h1>
-            <p className="mt-2 max-w-2xl text-sm leading-7 text-slate-600">
-              这一页只保留词汇资料，不再做多步答题。先把核心词义、词性、用法和例句看明白，再回到原文。
-            </p>
           </div>
           <div className="flex flex-wrap gap-2 text-xs">
             <span className="rounded-full bg-slate-100 px-3 py-1.5 text-slate-600">{entries.length} 个词条</span>

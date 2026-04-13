@@ -32,11 +32,6 @@ export function LoginRoute() {
   return (
     <div className="grid min-h-[calc(100dvh-8rem)] items-start gap-8 py-6 lg:grid-cols-[minmax(0,1fr)_360px]">
       <section className="space-y-6">
-        <div className="space-y-2">
-          <div className="text-[11px] font-semibold uppercase tracking-[0.36em] text-primary/80">外研版 Junior English</div>
-          <div className="font-display text-5xl leading-[1.02] text-secondary sm:text-6xl">初中英语</div>
-        </div>
-
         <TextbookDirectory books={TEXTBOOK_BOOKS} interactive={false} />
       </section>
 

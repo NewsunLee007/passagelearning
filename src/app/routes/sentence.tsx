@@ -57,19 +57,6 @@ export function SentenceRoute() {
       });
     }
 
-    for (const [key, info] of Object.entries(lexicon)) {
-      if (next.has(key)) continue;
-      next.set(key, {
-        term: key,
-        phonetic: info.phonetic,
-        pos: info.pos,
-        meaningZh: info.meaningZh,
-        usageZh: info.usageZh,
-        example: info.example,
-        audioUrlOverride: info.audioUrlOverride
-      });
-    }
-
     return Array.from(next.values());
   }, [data]);
 
@@ -94,31 +81,18 @@ export function SentenceRoute() {
 
   return (
     <div className="space-y-4">
-      <section className="rounded-[1.8rem] border border-white/70 bg-white/88 p-5 shadow-[0_16px_56px_rgba(15,23,42,0.05)] sm:p-6">
-        <div className="flex flex-wrap items-start justify-between gap-3">
+      <section className="space-y-4 rounded-[2rem] border border-white/70 bg-[linear-gradient(135deg,rgba(47,110,99,0.10),rgba(217,130,76,0.10),rgba(59,130,246,0.08))] p-5 shadow-[0_22px_70px_rgba(15,23,42,0.06)] sm:p-7">
+        <div className="flex flex-wrap items-end justify-between gap-3">
           <div>
-            <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">词句资料</div>
-            <h1 className="mt-2 font-display text-3xl text-secondary">音形意用 · 译文结构详解</h1>
-            <p className="mt-2 max-w-2xl text-sm leading-7 text-slate-600">
-              词汇和句子合并到同一页，手机上不用来回跳。先看核心词条，再顺着句子核对译文、句式和理解重点。
-            </p>
+            <div className="text-[11px] font-semibold uppercase tracking-[0.22em] text-slate-500">词汇</div>
+            <h1 className="mt-2 font-display text-3xl text-secondary sm:text-4xl">核心词条</h1>
           </div>
-          <div className="flex flex-wrap gap-2 text-xs">
-            <span className="rounded-full bg-slate-100 px-3 py-1.5 text-slate-600">{vocabEntries.length} 个词条</span>
-            <span className="rounded-full bg-slate-100 px-3 py-1.5 text-slate-600">{data.sentences.length} 句</span>
-            {supportLoading ? <span className="rounded-full bg-amber-50 px-3 py-1.5 font-semibold text-amber-700">解析补全中</span> : null}
-            {supportError ? <span className="rounded-full bg-red-50 px-3 py-1.5 font-semibold text-red-700">自动补全失败</span> : null}
+          <div className="flex flex-wrap items-center gap-2 text-xs">
+            <span className="rounded-full bg-white/70 px-3 py-1.5 font-semibold text-slate-600">{vocabEntries.length} 个</span>
+            <span className="rounded-full bg-white/70 px-3 py-1.5 font-semibold text-slate-600">{data.sentences.length} 句</span>
+            {supportLoading ? <span className="rounded-full bg-amber-100 px-3 py-1.5 font-semibold text-amber-800">资料补全中</span> : null}
+            {supportError ? <span className="rounded-full bg-red-100 px-3 py-1.5 font-semibold text-red-800">资料补全失败</span> : null}
           </div>
-        </div>
-      </section>
-
-      <section className="space-y-4 rounded-[1.8rem] border border-white/70 bg-white/88 p-5 shadow-[0_16px_56px_rgba(15,23,42,0.05)] sm:p-6">
-        <div className="flex items-center justify-between gap-3">
-          <div>
-            <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">词汇板块</div>
-            <h2 className="mt-2 font-display text-2xl text-secondary">核心词条</h2>
-          </div>
-          <div className="text-sm text-slate-500">点击发音直接听单词</div>
         </div>
 
         {!vocabEntries.length ? (
@@ -128,10 +102,10 @@ export function SentenceRoute() {
         ) : (
           <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">
             {vocabEntries.map((entry) => (
-              <article key={entry.term} className="rounded-[1.4rem] border border-slate-200/70 bg-white p-4">
+              <article key={entry.term} className="rounded-[1.6rem] border border-white/70 bg-white/92 p-4 shadow-[0_14px_40px_rgba(15,23,42,0.06)]">
                 <div className="flex items-start justify-between gap-3">
                   <div>
-                    <h3 className="font-display text-xl text-secondary">{entry.term}</h3>
+                    <h3 className="font-display text-xl text-secondary sm:text-2xl">{entry.term}</h3>
                     <div className="mt-1 text-sm text-slate-500">{entry.phonetic ?? "/…/"}</div>
                   </div>
                   <button
@@ -173,10 +147,13 @@ export function SentenceRoute() {
         )}
       </section>
 
-      <section className="space-y-4">
-        <div>
-          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">句子板块</div>
-          <h2 className="mt-2 font-display text-2xl text-secondary">逐句解析</h2>
+      <section className="rounded-[2rem] border border-white/70 bg-[linear-gradient(135deg,rgba(59,130,246,0.10),rgba(47,110,99,0.08),rgba(217,130,76,0.08))] p-5 shadow-[0_22px_70px_rgba(15,23,42,0.06)] sm:p-7">
+        <div className="flex flex-wrap items-end justify-between gap-3">
+          <div>
+            <div className="text-[11px] font-semibold uppercase tracking-[0.22em] text-slate-500">句子</div>
+            <h2 className="mt-2 font-display text-3xl text-secondary sm:text-4xl">逐句解析</h2>
+          </div>
+          <div className="text-xs font-semibold text-slate-500">点击朗读可听该句音频</div>
         </div>
       </section>
 
@@ -190,7 +167,7 @@ export function SentenceRoute() {
           return (
             <article
               key={sentence.id}
-              className="rounded-[1.6rem] border border-white/70 bg-white/90 p-5 shadow-[0_12px_40px_rgba(15,23,42,0.04)]"
+              className="rounded-[1.8rem] border border-white/70 bg-white/92 p-5 shadow-[0_16px_56px_rgba(15,23,42,0.06)] sm:p-6"
             >
               <div className="flex flex-wrap items-start justify-between gap-3">
                 <div className="min-w-0 flex-1">
@@ -209,7 +186,7 @@ export function SentenceRoute() {
                     window.speechSynthesis.cancel();
                     window.speechSynthesis.speak(utterance);
                   }}
-                  className="rounded-full bg-primary/8 px-3 py-1.5 text-sm font-semibold text-primary"
+                  className="rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white shadow-[0_12px_28px_rgba(47,110,99,0.22)] transition hover:bg-primary/92"
                 >
                   朗读
                 </button>

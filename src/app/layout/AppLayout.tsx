@@ -16,7 +16,6 @@ export function AppLayout() {
   const location = useLocation();
   const [mode, setMode] = useState<ScreenMode>(() => getInitialMode());
   const [sidebarScrolling, setSidebarScrolling] = useState(false);
-  const [navOpen, setNavOpen] = useState(false);
   const session = getSession();
   const scrollResetRef = useRef<number | null>(null);
 
@@ -33,10 +32,6 @@ export function AppLayout() {
     };
   }, []);
 
-  useEffect(() => {
-    setNavOpen(false);
-  }, [location.pathname]);
-
   const articleMeta = useMemo(() => {
     const match = location.pathname.match(/^\/a\/([^/]+)/);
     return getTextbookArticle(match?.[1]);
@@ -48,8 +43,16 @@ export function AppLayout() {
   const isArticleRoute = location.pathname.startsWith("/a/");
   const navItems = [
     { to: "/dashboard", label: "学习大厅" },
-    { to: "/me/report", label: "我的报告" }
+    { to: "/me/report", label: "查看学习报告" }
   ];
+
+  function switchAccount() {
+    window.localStorage.removeItem("className");
+    window.localStorage.removeItem("studentName");
+    window.localStorage.removeItem("classId");
+    window.localStorage.removeItem("userId");
+    nav("/login");
+  }
 
   function handleSidebarScroll() {
     setSidebarScrolling(true);
@@ -114,35 +117,6 @@ export function AppLayout() {
               <div className="font-display text-xl text-secondary">互动阅读</div>
             </button>
 
-            <div className="hidden md:flex items-center gap-1 ml-6">
-              {navItems.map((item) => {
-                const active = location.pathname.startsWith(item.to);
-                return (
-                  <Link
-                    key={item.to}
-                    to={item.to}
-                    className={[
-                      "rounded-full px-4 py-2 text-sm font-medium transition",
-                      active ? "bg-primary/10 text-primary" : "text-slate-700 hover:bg-slate-100"
-                    ].join(" ")}
-                  >
-                    {item.label}
-                  </Link>
-                );
-              })}
-              <a
-                href="https://wordflow.newsunenglish.com/"
-                target="_blank"
-                rel="noreferrer"
-                className="rounded-full px-4 py-2 text-sm font-medium text-primary transition hover:bg-primary/5"
-              >
-                词汇学习
-              </a>
-              <Link to="/t/login" className="rounded-full px-4 py-2 text-sm font-medium text-slate-700 transition hover:bg-slate-100">
-                教师端
-              </Link>
-            </div>
-
             <div className="ml-auto flex items-center gap-2">
               {session.studentName ? (
                 <div className="hidden text-sm text-slate-500 md:block">{[session.className, session.studentName].filter(Boolean).join(" · ")}</div>
@@ -155,49 +129,49 @@ export function AppLayout() {
               >
                 {mode === "classroom" ? "标准" : "大屏"}
               </button>
-              <button
-                type="button"
-                className="md:hidden rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-slate-300 hover:bg-white"
-                onClick={() => setNavOpen((value) => !value)}
-                aria-expanded={navOpen}
-              >
-                菜单
-              </button>
             </div>
           </div>
 
-          {navOpen ? (
-            <div className="md:hidden border-t border-white/60 bg-white/88">
-              <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-2 px-4 py-3 sm:px-6 lg:px-8">
-                {navItems.map((item) => {
-                  const active = location.pathname.startsWith(item.to);
-                  return (
-                    <Link
-                      key={item.to}
-                      to={item.to}
-                      className={[
-                        "rounded-full px-4 py-2 text-sm font-medium transition",
-                        active ? "bg-primary/10 text-primary" : "text-slate-700 hover:bg-slate-100"
-                      ].join(" ")}
-                    >
-                      {item.label}
-                    </Link>
-                  );
-                })}
-                <a
-                  href="https://wordflow.newsunenglish.com/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="rounded-full px-4 py-2 text-sm font-medium text-primary transition hover:bg-primary/5"
-                >
-                  词汇学习
-                </a>
-                <Link to="/t/login" className="rounded-full px-4 py-2 text-sm font-medium text-slate-700 transition hover:bg-slate-100">
-                  教师端
-                </Link>
-              </div>
+          <div className="border-t border-white/60 bg-white/76">
+            <div className="mx-auto flex max-w-7xl items-center gap-2 overflow-x-auto px-4 py-2.5 sm:px-6 lg:px-8">
+              {navItems.map((item) => {
+                const active = location.pathname.startsWith(item.to);
+                return (
+                  <Link
+                    key={item.to}
+                    to={item.to}
+                    className={[
+                      "whitespace-nowrap rounded-full px-4 py-2 text-sm font-semibold transition",
+                      active ? "bg-primary text-white shadow-[0_12px_28px_rgba(47,110,99,0.22)]" : "bg-white/86 text-slate-700 hover:bg-white"
+                    ].join(" ")}
+                  >
+                    {item.label}
+                  </Link>
+                );
+              })}
+              <button
+                type="button"
+                onClick={switchAccount}
+                className="whitespace-nowrap rounded-full bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:bg-white"
+              >
+                切换账号
+              </button>
+              <a
+                href="https://wordflow.newsunenglish.com/"
+                target="_blank"
+                rel="noreferrer"
+                className="whitespace-nowrap rounded-full bg-primary/10 px-4 py-2 text-sm font-semibold text-primary transition hover:bg-primary/15"
+              >
+                词汇学习
+              </a>
+              <Link
+                to="/t/login"
+                className="whitespace-nowrap rounded-full bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:bg-white"
+              >
+                教师端
+              </Link>
             </div>
-          ) : null}
+          </div>
         </header>
       )}
 
