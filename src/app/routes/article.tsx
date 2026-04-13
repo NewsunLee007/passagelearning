@@ -1,12 +1,11 @@
 import { Link, useParams } from "react-router-dom";
-import { getAdjacentArticles, getTextbookArticle } from "../../features/content/catalog";
+import { getTextbookArticle } from "../../features/content/catalog";
 import { useArticleDemo } from "../../features/content/useArticleDemo";
 
 export function ArticleHomeRoute() {
   const { articleId } = useParams();
   const { data, error, loading } = useArticleDemo(articleId);
   const articleMeta = getTextbookArticle(articleId);
-  const adjacent = getAdjacentArticles(articleId);
 
   if (loading) return <div className="text-sm text-slate-600">正在加载文章内容…</div>;
   if (error || !data) {
