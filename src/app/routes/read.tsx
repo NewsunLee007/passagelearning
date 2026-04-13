@@ -1,7 +1,6 @@
 import type { ReactNode } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
-import { ReadingIllustration } from "../components/EditorialArt";
 import { getSession } from "../../features/auth/session";
 import { getAdjacentArticles, getTextbookArticle } from "../../features/content/catalog";
 import { useArticleDemo } from "../../features/content/useArticleDemo";
@@ -53,15 +52,6 @@ function clipText(s: string, n: number) {
   return s.length > n ? `${s.slice(0, n)}…` : s;
 }
 
-function MiniStat({ label, value }: { label: string; value: string }) {
-  return (
-    <div className="rounded-[1.4rem] border border-slate-200/80 bg-slate-50/75 px-4 py-3">
-      <div className="text-xs uppercase tracking-[0.16em] text-slate-400">{label}</div>
-      <div className="mt-2 text-2xl font-semibold text-secondary">{value}</div>
-    </div>
-  );
-}
-
 export function ReadingMainRoute() {
   const nav = useNavigate();
   const { articleId } = useParams();
@@ -70,7 +60,7 @@ export function ReadingMainRoute() {
 
   const [isBilingual, setIsBilingual] = useState(false);
   const [rate, setRate] = useState(1.0);
-  const [fontSize, setFontSize] = useState(18);
+  const [fontSize, setFontSize] = useState(20);
 
   const [currentSid, setCurrentSid] = useState<string | null>(null);
   const [playIdx, setPlayIdx] = useState<number | null>(null);
@@ -377,148 +367,142 @@ export function ReadingMainRoute() {
   const coverUrl = data.article.coverUrl;
   const articleMeta = getTextbookArticle(data.article.id);
   const adjacent = getAdjacentArticles(data.article.id);
-  const sentenceAudioCount = sentences.filter((sentence) => sentence.audioUrl).length;
-  const hasNaturalAudio = sentenceAudioCount > 0;
-  const supportedSentenceCount = sentences.filter((sentence) => sentence.tr && sentence.g && sentence.d).length;
+  const hasNaturalAudio = sentences.some((sentence) => sentence.audioUrl);
 
   return (
     <div className="pb-44 md:pb-[52vh]">
-      <div className="grid gap-6 xl:grid-cols-[minmax(0,1fr)_260px]">
-        <div className="space-y-6">
-          <section className="overflow-hidden rounded-[2rem] border border-white/75 bg-white/92 shadow-[0_24px_80px_rgba(15,23,42,0.08)]">
-            <div className="grid gap-6 border-b border-slate-100/90 p-5 sm:p-6 xl:grid-cols-[1.15fr_0.85fr]">
-              <div className="space-y-4">
-                <div className="flex flex-wrap items-center gap-2 text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">
-                  <span>{articleMeta?.unitLabel ?? data.article.unit}</span>
-                  <span className="rounded-full bg-primary/8 px-3 py-1 text-primary">{articleMeta?.stageLabel ?? data.article.stageLabel ?? "语篇"}</span>
-                </div>
-                <div>
-                  <h1 className="max-w-4xl font-display text-4xl leading-tight text-secondary sm:text-5xl">{data.article.title}</h1>
-                  <p className="mt-3 max-w-3xl text-sm leading-7 text-slate-600 sm:text-base">
-                    {articleMeta?.summary ?? data.article.summary ?? "进入沉浸式阅读，先读顺原文，再完成读后理解。"}
-                  </p>
-                </div>
-                <div className="text-sm font-medium text-slate-500">{[session.className, session.studentName].filter(Boolean).join(" · ")}</div>
-                <div className="flex flex-wrap gap-2">
-                  <span className="rounded-full bg-slate-100 px-3 py-1.5 text-xs font-semibold text-slate-700">
-                    {hasNaturalAudio ? `真人句音频 ${sentenceAudioCount}/${sentences.length}` : "系统朗读回退"}
-                  </span>
-                  <span className="rounded-full bg-slate-100 px-3 py-1.5 text-xs text-slate-600">词句解析 {supportedSentenceCount}/{sentences.length}</span>
-                  {supportLoading ? (
-                    <span className="rounded-full bg-[#fff7ed] px-3 py-1.5 text-xs font-semibold text-[#b45309]">解析补全中</span>
-                  ) : null}
-                  {supportError ? (
-                    <span className="rounded-full bg-[#fef2f2] px-3 py-1.5 text-xs font-semibold text-[#b91c1c]">解析补全失败</span>
-                  ) : null}
-                </div>
-              </div>
+      <section className="mx-auto max-w-6xl px-4 pt-4 sm:px-6 lg:px-8">
+        <div className="overflow-hidden rounded-[2.2rem] border border-white/80 bg-[linear-gradient(135deg,rgba(255,255,255,0.94),rgba(241,247,245,0.92))] shadow-[0_28px_80px_rgba(15,23,42,0.08)]">
+          <div className="px-6 py-8 sm:px-8 sm:py-10">
+            <div className="flex flex-wrap items-center gap-3 text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">
+              <span>{articleMeta?.unitLabel ?? data.article.unit}</span>
+              <span className="rounded-full bg-primary/10 px-3 py-1 text-primary">{articleMeta?.stageLabel ?? data.article.stageLabel ?? "语篇"}</span>
+            </div>
+            <h1 className="mt-4 max-w-4xl font-display text-[2.7rem] leading-[0.98] text-secondary sm:text-[3.6rem]">{data.article.title}</h1>
+            <p className="mt-4 max-w-3xl text-base leading-8 text-slate-600">
+              {articleMeta?.summary ?? data.article.summary ?? "进入沉浸式阅读，先读顺原文，再完成读后理解。"}
+            </p>
 
-              <div className="hidden xl:block">
-                {coverUrl ? (
-                  <div className="overflow-hidden rounded-[1.8rem]">
-                    <img src={coverUrl} alt="cover" className="h-[190px] w-full rounded-[1.8rem] object-cover" />
-                  </div>
-                ) : (
-                  <ReadingIllustration />
-                )}
-              </div>
+            <div className="mt-6 flex flex-wrap items-center gap-3 text-sm text-slate-500">
+              <span>{data.article.paragraphs.length} 段</span>
+              <span className="h-1 w-1 rounded-full bg-slate-300" />
+              <span>{sentences.length} 句</span>
+              <span className="h-1 w-1 rounded-full bg-slate-300" />
+              <span>{questions.length} 道练习</span>
+              {coverUrl ? (
+                <>
+                  <span className="h-1 w-1 rounded-full bg-slate-300" />
+                  <span>配图已接入</span>
+                </>
+              ) : null}
             </div>
 
-            <div className="space-y-4 p-4 sm:p-6">
-              <div className="flex flex-wrap items-center gap-2">
+            <div className="mt-8 flex flex-wrap gap-3">
+              {adjacent.previous ? (
+                <Link
+                  to={`/a/${adjacent.previous.id}/read`}
+                  className="rounded-full border border-slate-200 bg-white/80 px-4 py-2.5 text-sm font-medium text-slate-700 transition hover:border-slate-300 hover:bg-white"
+                >
+                  ← 上一篇
+                </Link>
+              ) : null}
+              {adjacent.next ? (
+                <Link
+                  to={`/a/${adjacent.next.id}/read`}
+                  className="rounded-full border border-slate-200 bg-white/80 px-4 py-2.5 text-sm font-medium text-slate-700 transition hover:border-slate-300 hover:bg-white"
+                >
+                  下一篇 →
+                </Link>
+              ) : null}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="sticky top-[56px] z-20 mt-4 lg:top-4">
+        <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
+          <div className="rounded-[1.8rem] border border-white/80 bg-white/86 p-3 shadow-[0_18px_48px_rgba(15,23,42,0.08)] backdrop-blur-xl">
+            <div className="flex flex-wrap items-center gap-2">
+              <button
+                type="button"
+                onClick={() => setIsBilingual((x) => !x)}
+                className={[
+                  "rounded-full px-4 py-2.5 text-sm font-semibold transition",
+                  isBilingual
+                    ? "bg-primary text-white shadow-[0_12px_24px_rgba(47,110,99,0.2)]"
+                    : "border border-slate-200 bg-white text-slate-700 hover:border-primary/20 hover:bg-primary/5 hover:text-primary"
+                ].join(" ")}
+              >
+                {isBilingual ? "隐藏中文" : "显示中文"}
+              </button>
+
+              {!isPlaying || paused ? (
                 <button
                   type="button"
-                  onClick={() => setIsBilingual((x) => !x)}
-                  className="rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-primary/92"
+                  onClick={onPlayAll}
+                  className="rounded-full border border-slate-200 bg-white px-4 py-2.5 text-sm font-semibold text-slate-700 transition hover:border-primary/20 hover:bg-primary/5 hover:text-primary"
                 >
-                  {isBilingual ? "隐藏中文" : "显示中文"}
+                  {paused ? "继续朗读" : hasNaturalAudio ? "真人朗读" : "系统朗读"}
                 </button>
-
-                {!isPlaying || paused ? (
-                  <button
-                    type="button"
-                    onClick={onPlayAll}
-                    className="rounded-full bg-secondary px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-secondary/92"
-                  >
-                    {paused ? "继续朗读" : hasNaturalAudio ? "真人朗读" : "系统朗读"}
-                  </button>
-                ) : (
-                  <button
-                    type="button"
-                    onClick={onPause}
-                    className="rounded-full bg-slate-600 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-slate-700"
-                  >
-                    暂停
-                  </button>
-                )}
-
-                <select
-                  value={String(rate)}
-                  onChange={(e) => setRate(Number(e.target.value))}
-                  className="rounded-full border border-slate-200 bg-white px-3 py-2 text-sm font-medium text-slate-700 outline-none"
+              ) : (
+                <button
+                  type="button"
+                  onClick={onPause}
+                  className="rounded-full bg-accent px-4 py-2.5 text-sm font-semibold text-white shadow-[0_12px_24px_rgba(217,130,76,0.22)] transition hover:bg-accent/92"
                 >
-                  <option value="0.8">0.8x</option>
-                  <option value="1">1.0x</option>
-                  <option value="1.2">1.2x</option>
-                </select>
+                  暂停
+                </button>
+              )}
 
-                <div className="hidden items-center rounded-full border border-slate-200 bg-slate-50 px-1 sm:flex">
-                  <button type="button" onClick={() => setFontSize((s) => Math.max(14, s - 1))} className="px-3 py-2 text-sm font-semibold text-primary">
-                    A-
-                  </button>
-                  <button type="button" onClick={() => setFontSize((s) => Math.min(26, s + 1))} className="px-3 py-2 text-sm font-semibold text-primary">
-                    A+
-                  </button>
-                </div>
-              </div>
+              <select
+                value={String(rate)}
+                onChange={(e) => setRate(Number(e.target.value))}
+                className="rounded-full border border-slate-200 bg-white px-4 py-2.5 text-sm font-medium text-slate-700 outline-none transition hover:border-primary/15"
+              >
+                <option value="0.8">0.8x</option>
+                <option value="1">1.0x</option>
+                <option value="1.2">1.2x</option>
+              </select>
 
-              <div className="flex flex-wrap gap-3 text-sm text-slate-600">
-                <span className="rounded-full bg-slate-100 px-3 py-1.5">{data.article.paragraphs.length} 段</span>
-                <span className="rounded-full bg-slate-100 px-3 py-1.5">{sentences.length} 句</span>
-                <span className="rounded-full bg-slate-100 px-3 py-1.5">{questions.length} 道读后题</span>
-                <span className="rounded-full bg-slate-100 px-3 py-1.5">点句子看解析，点单词看词义</span>
-              </div>
-            </div>
-          </section>
-        </div>
-
-        <aside className="hidden xl:block">
-          <div className="sticky top-8 space-y-4">
-            <div className="rounded-[1.8rem] border border-white/70 bg-white/86 p-5 shadow-[0_18px_50px_rgba(15,23,42,0.05)]">
-              <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">本页信息</div>
-              <div className="mt-4 grid gap-3">
-                <MiniStat label="段落" value={String(data.article.paragraphs.length)} />
-                <MiniStat label="句子" value={String(sentences.length)} />
-                <MiniStat label="题目" value={String(questions.length)} />
+              <div className="ml-auto flex items-center rounded-full border border-slate-200 bg-white">
+                <button
+                  type="button"
+                  onClick={() => setFontSize((s) => Math.max(16, s - 2))}
+                  className="px-4 py-2.5 text-sm font-semibold text-primary transition hover:bg-primary/5"
+                >
+                  A-
+                </button>
+                <div className="h-6 w-px bg-slate-200" />
+                <button
+                  type="button"
+                  onClick={() => setFontSize((s) => Math.min(34, s + 2))}
+                  className="px-4 py-2.5 text-sm font-semibold text-primary transition hover:bg-primary/5"
+                >
+                  A+
+                </button>
               </div>
             </div>
 
-            {adjacent.previous ? (
-              <Link to={`/a/${adjacent.previous.id}/read`} className="block rounded-[1.6rem] border border-white/70 bg-white/84 p-4 transition hover:bg-white">
-                <div className="text-xs text-slate-400">上一篇</div>
-                <div className="mt-1 font-medium text-secondary">{adjacent.previous.title}</div>
-              </Link>
-            ) : null}
-            {adjacent.next ? (
-              <Link to={`/a/${adjacent.next.id}/read`} className="block rounded-[1.6rem] border border-white/70 bg-white/84 p-4 transition hover:bg-white">
-                <div className="text-xs text-slate-400">下一篇</div>
-                <div className="mt-1 font-medium text-secondary">{adjacent.next.title}</div>
-              </Link>
+            {(supportLoading || supportError) ? (
+              <div className="mt-3 flex flex-wrap gap-2 text-xs">
+                {supportLoading ? <span className="rounded-full bg-amber-50 px-3 py-1.5 font-semibold text-amber-700">解析补全中</span> : null}
+                {supportError ? <span className="rounded-full bg-red-50 px-3 py-1.5 font-semibold text-red-700">解析补全失败</span> : null}
+              </div>
             ) : null}
           </div>
-        </aside>
-      </div>
+        </div>
+      </section>
 
-      <main className="mx-auto mt-6 max-w-4xl space-y-6 px-3 sm:px-0" style={{ fontSize }}>
+      <main className="mx-auto mt-8 max-w-[920px] space-y-6 px-4 sm:px-6 lg:px-0" style={{ fontSize }}>
         {data.article.paragraphs.map((p) => (
           <div
             key={p.id}
-            className="space-y-2 rounded-[1.8rem] border border-white/70 bg-white/88 p-5 shadow-[0_16px_46px_rgba(15,23,42,0.05)] ring-1 ring-slate-100/80"
+            className="space-y-3 rounded-[2rem] border border-white/80 bg-white p-6 shadow-[0_22px_60px_rgba(15,23,42,0.08)] ring-1 ring-slate-100/70 sm:p-8"
           >
             <div className="inline-flex rounded-full bg-primary/8 px-3 py-1 text-xs font-semibold uppercase tracking-[0.16em] text-primary">
               Paragraph {p.id.split("-p")[1] ?? p.id}
             </div>
-            <div className="space-y-3 leading-8 text-secondary">
+            <div className="space-y-3 leading-[2.05] text-secondary">
               {p.sentenceIds
                 .map((sid) => byId.get(sid))
                 .filter(Boolean)
@@ -558,7 +542,7 @@ export function ReadingMainRoute() {
                     >
                       📖
                     </button>
-                    {isBilingual && <div className="mt-1 border-l-2 border-slate-200 pl-2 text-sm text-slate-500">{s!.tr ?? "（暂无译文）"}</div>}
+                    {isBilingual && <div className="mt-2 border-l-2 border-primary/20 pl-3 text-[0.82em] leading-7 text-slate-500">{s!.tr ?? "（暂无译文）"}</div>}
                   </div>
                 ))}
             </div>
@@ -566,7 +550,7 @@ export function ReadingMainRoute() {
         ))}
       </main>
 
-      <div className="fixed bottom-0 left-0 right-0 z-20 border-t border-white/60 bg-[#f6f2e9]/94 backdrop-blur-xl">
+      <div className="fixed bottom-0 left-0 right-0 z-20 border-t border-white/70 bg-[rgba(244,247,247,0.94)] backdrop-blur-xl">
         <div className="mx-auto flex h-[78px] max-w-6xl items-center justify-between gap-4 px-4 sm:px-6">
           <div className="flex min-w-0 flex-1 items-center gap-3 overflow-hidden">
             <button

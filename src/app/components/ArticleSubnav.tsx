@@ -27,7 +27,7 @@ export function ArticleSubnav({
   const vertical = orientation === "vertical";
 
   return (
-    <div className={vertical ? "" : "border-b border-white/60 bg-white/55 backdrop-blur-xl"}>
+    <div className={vertical ? "" : "border-b border-white/60 bg-white/62 backdrop-blur-xl"}>
       <div className={vertical ? "" : "mx-auto max-w-6xl px-4 py-3 sm:px-6"}>
         {showHeader ? (
           <div className="flex flex-wrap items-center gap-3">
@@ -59,7 +59,7 @@ export function ArticleSubnav({
                     ? "rounded-2xl px-4 py-3 text-sm font-medium transition"
                     : "whitespace-nowrap rounded-full px-4 py-2 text-sm font-medium transition sm:px-4",
                   active
-                    ? "border border-primary/15 bg-primary/10 text-primary shadow-sm"
+                    ? "border border-primary/12 bg-primary/12 text-primary shadow-[0_10px_24px_rgba(47,110,99,0.08)]"
                     : vertical
                       ? "bg-white/72 text-slate-700 hover:bg-white"
                       : "border border-white/70 bg-white/78 text-slate-700 hover:border-slate-200 hover:bg-white"

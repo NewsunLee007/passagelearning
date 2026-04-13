@@ -59,7 +59,7 @@ export function AppLayout() {
       {showTopBar ? (
         <aside
           className={[
-            "ir-scroll-shell hidden border-r border-white/60 bg-[#f7f2e9]/88 lg:sticky lg:top-0 lg:flex lg:h-screen lg:flex-col lg:overflow-y-auto lg:px-4 lg:py-5",
+            "ir-scroll-shell hidden border-r border-white/60 bg-[rgba(244,247,247,0.84)] lg:sticky lg:top-0 lg:flex lg:h-screen lg:flex-col lg:overflow-y-auto lg:px-4 lg:py-5",
             sidebarScrolling ? "is-scrolling" : ""
           ].join(" ")}
           onScroll={handleSidebarScroll}
@@ -151,7 +151,7 @@ export function AppLayout() {
 
       <div className="min-w-0">
       {showTopBar && (
-        <header className="sticky top-0 z-20 border-b border-white/60 bg-[#f6f2e9]/92 backdrop-blur-xl lg:hidden">
+        <header className="sticky top-0 z-20 border-b border-white/60 bg-[rgba(244,247,247,0.92)] backdrop-blur-xl lg:hidden">
           <div className="mx-auto flex max-w-6xl items-center gap-4 px-4 py-3 sm:px-6">
             <button className="text-left" onClick={() => nav(session.studentName ? "/dashboard" : "/login")} type="button">
               <div className="text-[11px] font-semibold uppercase tracking-[0.24em] text-slate-500">Interactive Reader</div>
