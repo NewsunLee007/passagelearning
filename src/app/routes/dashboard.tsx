@@ -19,10 +19,10 @@ export function DashboardRoute() {
     <div className="space-y-10 pb-10">
       <section className="grid gap-6 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
         <div className="space-y-5">
-          <div className="inline-flex rounded-full border border-primary/15 bg-primary/5 px-3 py-1 text-xs font-semibold uppercase tracking-[0.22em] text-primary">
-            六册阅读系统
+          <div className="space-y-2">
+            <div className="text-[11px] font-semibold uppercase tracking-[0.36em] text-primary/80">外研版 Junior English</div>
+            <div className="font-display text-4xl leading-tight text-secondary sm:text-5xl">初中英语</div>
           </div>
-          <h1 className="max-w-3xl font-display text-4xl leading-tight text-secondary sm:text-5xl">初中英语六册阅读系统</h1>
           <div className="flex flex-wrap gap-3 text-sm text-slate-600">
             <span className="rounded-full bg-white/80 px-3 py-1.5">6 册结构</span>
             <span className="rounded-full bg-white/80 px-3 py-1.5">2 册已导入</span>

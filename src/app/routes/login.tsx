@@ -2,7 +2,7 @@ import type { FormEvent } from "react";
 import { useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { loginWithClassAndName } from "../../features/auth/login";
-import { LOADED_TEXTBOOK_BOOKS, TEXTBOOK_BOOKS } from "../../features/content/catalog";
+import { TEXTBOOK_BOOKS } from "../../features/content/catalog";
 
 export function LoginRoute() {
   const nav = useNavigate();
@@ -31,10 +31,10 @@ export function LoginRoute() {
   return (
     <div className="grid min-h-[calc(100dvh-8rem)] items-center gap-8 py-6 lg:grid-cols-[1.1fr_0.9fr]">
       <section className="space-y-6">
-        <div className="inline-flex rounded-full border border-primary/15 bg-primary/5 px-3 py-1 text-xs font-semibold uppercase tracking-[0.24em] text-primary">
-          初中英语（外研版）
+        <div className="space-y-2">
+          <div className="text-[11px] font-semibold uppercase tracking-[0.36em] text-primary/80">外研版 Junior English</div>
+          <div className="font-display text-5xl leading-[1.02] text-secondary sm:text-6xl">初中英语</div>
         </div>
-        <h1 className="max-w-3xl font-display text-5xl leading-[1.05] text-secondary sm:text-6xl">初中英语六册阅读系统</h1>
 
         <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
           {TEXTBOOK_BOOKS.map((book) => {
@@ -67,11 +67,8 @@ export function LoginRoute() {
 
       <section className="rounded-[2rem] border border-white/80 bg-white/92 p-6 shadow-[0_24px_80px_rgba(15,23,42,0.08)] sm:p-8">
         <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">学生登录</div>
-        <div className="mt-4 rounded-[1rem] bg-slate-50 px-4 py-3 text-sm text-slate-600">
-          已开放册次：{LOADED_TEXTBOOK_BOOKS.map((book) => book.label).join("、")}
-        </div>
 
-        <form onSubmit={onSubmit} className="mt-8 space-y-5">
+        <form onSubmit={onSubmit} className="mt-6 space-y-5">
           <label className="block">
             <div className="text-sm font-medium text-slate-700">班级名称</div>
             <input
