@@ -77,44 +77,47 @@ export function DashboardRoute() {
           </div>
         </div>
 
-        <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+        <div className="overflow-hidden rounded-[1.8rem] border border-white/70 bg-white/86 shadow-[0_18px_50px_rgba(15,23,42,0.06)]">
           {TEXTBOOK_BOOKS.map((book) => {
             const articleCount = book.units.reduce((sum, unit) => sum + unit.articles.length, 0);
             const firstArticle = book.units[0]?.articles[0];
             return (
               <section
                 key={book.id}
-                className="rounded-[1.6rem] border border-white/70 bg-white/88 p-5 shadow-[0_16px_46px_rgba(15,23,42,0.05)]"
+                className="grid gap-4 border-b border-slate-100/90 px-5 py-5 last:border-b-0 sm:grid-cols-[minmax(0,1fr)_auto]"
               >
-                <div className="flex items-center justify-between gap-3">
+                <div className="min-w-0">
                   <div>
                     <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">{book.shortLabel}</div>
-                    <h3 className="mt-2 font-display text-2xl text-secondary">{book.label}</h3>
+                    <h3 className="mt-2 text-xl font-semibold text-secondary sm:text-2xl">{book.label}</h3>
                   </div>
-                  <span
-                    className={[
-                      "rounded-full px-3 py-1 text-xs font-semibold",
-                      book.loaded ? "bg-emerald-50 text-emerald-700" : "bg-slate-100 text-slate-500"
-                    ].join(" ")}
-                  >
-                    {book.loaded ? "已导入" : "待导入"}
-                  </span>
+                  <div className="mt-3 flex flex-wrap gap-2 text-xs text-slate-500">
+                    <span
+                      className={[
+                        "rounded-full px-3 py-1.5 font-semibold",
+                        book.loaded ? "bg-emerald-50 text-emerald-700" : "bg-slate-100 text-slate-500"
+                      ].join(" ")}
+                    >
+                      {book.loaded ? "已导入" : "待导入"}
+                    </span>
+                    <span className="rounded-full bg-slate-100 px-3 py-1.5">{book.units.length} 个单元</span>
+                    <span className="rounded-full bg-slate-100 px-3 py-1.5">{articleCount} 篇语篇</span>
+                  </div>
                 </div>
-                <div className="mt-4 flex flex-wrap gap-2 text-xs text-slate-500">
-                  <span className="rounded-full bg-slate-100 px-3 py-1.5">{book.units.length} 个单元</span>
-                  <span className="rounded-full bg-slate-100 px-3 py-1.5">{articleCount} 篇语篇</span>
+
+                <div className="flex items-center sm:justify-end">
+                  {book.loaded && firstArticle ? (
+                    <Link
+                      to={`/a/${firstArticle.id}`}
+                      className="inline-flex items-center gap-2 rounded-full border border-primary/15 bg-primary/10 px-4 py-2 text-sm font-semibold text-primary transition hover:bg-primary/14"
+                    >
+                      打开
+                      <span>→</span>
+                    </Link>
+                  ) : (
+                    <div className="text-sm text-slate-400">待接入</div>
+                  )}
                 </div>
-                {book.loaded && firstArticle ? (
-                  <Link
-                    to={`/a/${firstArticle.id}`}
-                    className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-secondary"
-                  >
-                    进入本册
-                    <span>→</span>
-                  </Link>
-                ) : (
-                  <div className="mt-5 text-sm text-slate-400">保留书位，等待后续资源接入。</div>
-                )}
               </section>
             );
           })}
