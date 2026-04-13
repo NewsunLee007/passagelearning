@@ -419,7 +419,7 @@ export function ReadingMainRoute() {
         </div>
       </section>
 
-      <section className="sticky top-[56px] z-20 mt-4 lg:top-4">
+      <section className="sticky top-[56px] md:top-[64px] z-30 mt-4">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
           <div className="rounded-[1.8rem] border border-white/80 bg-white/86 p-3 shadow-[0_18px_48px_rgba(15,23,42,0.08)] backdrop-blur-xl">
             <div className="flex flex-wrap items-center gap-2">
@@ -460,6 +460,7 @@ export function ReadingMainRoute() {
                 className="rounded-full border border-slate-200 bg-white px-4 py-2.5 text-sm font-medium text-slate-700 outline-none transition hover:border-primary/15"
               >
                 <option value="0.8">0.8x</option>
+                <option value="0.9">0.9x</option>
                 <option value="1">1.0x</option>
                 <option value="1.2">1.2x</option>
               </select>
@@ -493,7 +494,7 @@ export function ReadingMainRoute() {
         </div>
       </section>
 
-      <main className="mx-auto mt-8 max-w-[920px] space-y-6 px-4 sm:px-6 lg:px-0" style={{ fontSize }}>
+      <main className="mx-auto mt-8 w-full max-w-6xl space-y-6 px-4 sm:px-6 lg:px-8" style={{ fontSize }}>
         {data.article.paragraphs.map((p) => (
           <div
             key={p.id}

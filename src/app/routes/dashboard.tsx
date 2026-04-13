@@ -18,11 +18,7 @@ export function DashboardRoute() {
   return (
     <div className="space-y-10 pb-10">
       <section className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_272px] lg:items-start">
-        <div className="space-y-5">
-          <div className="space-y-2">
-            <div className="text-[11px] font-semibold uppercase tracking-[0.36em] text-primary/80">外研版 Junior English</div>
-            <div className="font-display text-4xl leading-tight text-secondary sm:text-5xl">初中英语</div>
-          </div>
+        <div className="space-y-5 pt-2">
           <div className="flex flex-wrap gap-3">
             <Link to="/me/report" className="rounded-full bg-primary px-5 py-3 text-sm font-semibold text-white transition hover:bg-primary/90">
               查看学习报告

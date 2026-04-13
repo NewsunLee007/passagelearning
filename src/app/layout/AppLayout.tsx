@@ -107,12 +107,41 @@ export function AppLayout() {
 
       <div className="min-w-0">
       {showTopBar && (
-        <header className="sticky top-0 z-30 border-b border-white/60 bg-[rgba(244,247,247,0.92)] backdrop-blur-xl">
+        <header className="sticky top-0 z-40 border-b border-white/60 bg-[rgba(244,247,247,0.92)] backdrop-blur-xl">
           <div className="mx-auto flex max-w-7xl items-center gap-4 px-4 py-3 sm:px-6 lg:px-8">
-            <button className="text-left" onClick={() => nav(session.studentName ? "/dashboard" : "/login")} type="button">
-              <div className="text-[11px] font-semibold uppercase tracking-[0.24em] text-slate-500">Interactive Reader</div>
-              <div className="font-display text-2xl text-secondary">互动阅读</div>
+            <button className="text-left leading-tight" onClick={() => nav(session.studentName ? "/dashboard" : "/login")} type="button">
+              <div className="text-[11px] font-semibold uppercase tracking-[0.24em] text-slate-500">初中英语</div>
+              <div className="font-display text-xl text-secondary">互动阅读</div>
             </button>
+
+            <div className="hidden md:flex items-center gap-1 ml-6">
+              {navItems.map((item) => {
+                const active = location.pathname.startsWith(item.to);
+                return (
+                  <Link
+                    key={item.to}
+                    to={item.to}
+                    className={[
+                      "rounded-full px-4 py-2 text-sm font-medium transition",
+                      active ? "bg-primary/10 text-primary" : "text-slate-700 hover:bg-slate-100"
+                    ].join(" ")}
+                  >
+                    {item.label}
+                  </Link>
+                );
+              })}
+              <a
+                href="https://wordflow.newsunenglish.com/"
+                target="_blank"
+                rel="noreferrer"
+                className="rounded-full px-4 py-2 text-sm font-medium text-primary transition hover:bg-primary/5"
+              >
+                词汇学习
+              </a>
+              <Link to="/t/login" className="rounded-full px-4 py-2 text-sm font-medium text-slate-700 transition hover:bg-slate-100">
+                教师端
+              </Link>
+            </div>
 
             <div className="ml-auto flex items-center gap-2">
               {session.studentName ? (
@@ -128,7 +157,7 @@ export function AppLayout() {
               </button>
               <button
                 type="button"
-                className="rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-slate-300 hover:bg-white"
+                className="md:hidden rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-slate-300 hover:bg-white"
                 onClick={() => setNavOpen((value) => !value)}
                 aria-expanded={navOpen}
               >
@@ -138,7 +167,7 @@ export function AppLayout() {
           </div>
 
           {navOpen ? (
-            <div className="border-t border-white/60 bg-white/88">
+            <div className="md:hidden border-t border-white/60 bg-white/88">
               <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-2 px-4 py-3 sm:px-6 lg:px-8">
                 {navItems.map((item) => {
                   const active = location.pathname.startsWith(item.to);
