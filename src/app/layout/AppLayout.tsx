@@ -1,8 +1,8 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { Link, Outlet, useLocation, useNavigate } from "react-router-dom";
 import { ArticleSubnav } from "../components/ArticleSubnav";
 import { getSession } from "../../features/auth/session";
-import { getTextbookArticle } from "../../features/content/catalog";
+import { getTextbookArticle, getTextbookBookByArticle } from "../../features/content/catalog";
 
 type ScreenMode = "normal" | "classroom";
 
@@ -15,29 +15,55 @@ export function AppLayout() {
   const nav = useNavigate();
   const location = useLocation();
   const [mode, setMode] = useState<ScreenMode>(() => getInitialMode());
+  const [sidebarScrolling, setSidebarScrolling] = useState(false);
   const session = getSession();
+  const scrollResetRef = useRef<number | null>(null);
 
   useEffect(() => {
     document.documentElement.dataset.screen = mode;
     window.localStorage.setItem("screenMode", mode);
   }, [mode]);
 
+  useEffect(() => {
+    return () => {
+      if (scrollResetRef.current) {
+        window.clearTimeout(scrollResetRef.current);
+      }
+    };
+  }, []);
+
   const articleMeta = useMemo(() => {
     const match = location.pathname.match(/^\/a\/([^/]+)/);
     return getTextbookArticle(match?.[1]);
   }, [location.pathname]);
+  const currentBook = useMemo(() => getTextbookBookByArticle(articleMeta?.id), [articleMeta]);
 
   const showTopBar = useMemo(() => !location.pathname.startsWith("/t/"), [location.pathname]);
   const isRead = location.pathname.includes("/read");
+  const isArticleRoute = location.pathname.startsWith("/a/");
   const navItems = [
     { to: "/dashboard", label: "学习大厅" },
     { to: "/me/report", label: "我的报告" }
   ];
 
+  function handleSidebarScroll() {
+    setSidebarScrolling(true);
+    if (scrollResetRef.current) {
+      window.clearTimeout(scrollResetRef.current);
+    }
+    scrollResetRef.current = window.setTimeout(() => setSidebarScrolling(false), 720);
+  }
+
   return (
-    <div className="min-h-dvh lg:grid lg:grid-cols-[232px_minmax(0,1fr)]">
+    <div className="min-h-dvh lg:grid lg:grid-cols-[216px_minmax(0,1fr)]">
       {showTopBar ? (
-        <aside className="hidden border-r border-white/60 bg-[#f7f2e9]/88 lg:sticky lg:top-0 lg:flex lg:h-screen lg:flex-col lg:overflow-y-auto lg:px-4 lg:py-5">
+        <aside
+          className={[
+            "ir-scroll-shell hidden border-r border-white/60 bg-[#f7f2e9]/88 lg:sticky lg:top-0 lg:flex lg:h-screen lg:flex-col lg:overflow-y-auto lg:px-4 lg:py-5",
+            sidebarScrolling ? "is-scrolling" : ""
+          ].join(" ")}
+          onScroll={handleSidebarScroll}
+        >
           <button className="text-left" onClick={() => nav(session.studentName ? "/dashboard" : "/login")} type="button">
             <div className="text-[11px] font-semibold uppercase tracking-[0.24em] text-slate-500">Interactive Reader</div>
             <div className="mt-1 font-display text-3xl text-secondary">互动阅读</div>
@@ -72,14 +98,40 @@ export function AppLayout() {
             </Link>
           </nav>
 
-          {articleMeta ? (
-            <div className="mt-8 rounded-[1.8rem] border border-white/70 bg-[linear-gradient(180deg,rgba(255,255,255,0.82),rgba(247,245,239,0.92))] p-4 shadow-[0_18px_40px_rgba(15,23,42,0.04)]">
-              <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">当前文章</div>
-              <div className="mt-3 text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">{articleMeta.unitLabel}</div>
-              <div className="mt-2 font-display text-2xl leading-tight text-secondary">{articleMeta.title}</div>
-              <div className="mt-2 inline-flex rounded-full bg-primary/8 px-3 py-1 text-xs font-semibold text-primary">{articleMeta.stageLabel}</div>
-              <div className="mt-4">
-                <ArticleSubnav article={articleMeta} orientation="vertical" showHeader={false} />
+          {currentBook ? (
+            <div className="mt-8 border-t border-white/60 pt-5">
+              <div className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-400">{currentBook.shortLabel}</div>
+              <div className="mt-2 text-lg font-semibold text-secondary">{currentBook.label}</div>
+
+              <div className="mt-4 space-y-4">
+                {currentBook.units.map((unit) => (
+                  <section key={`${currentBook.id}-${unit.unitNumber}`} className="space-y-2">
+                    <div className="text-[11px] font-semibold uppercase tracking-[0.16em] text-slate-400">
+                      Unit {unit.unitNumber}
+                    </div>
+                    <div className="text-sm font-medium text-secondary">{unit.theme}</div>
+                    <div className="space-y-1">
+                      {unit.articles.map((article) => {
+                        const active = article.id === articleMeta?.id;
+                        return (
+                          <Link
+                            key={article.id}
+                            to={`/a/${article.id}`}
+                            className={[
+                              "block rounded-2xl px-3 py-2.5 text-sm transition",
+                              active
+                                ? "bg-primary/10 text-primary"
+                                : "text-slate-700 hover:bg-white/80"
+                            ].join(" ")}
+                          >
+                            <div className="text-[11px] font-semibold uppercase tracking-[0.14em] text-slate-400">{article.stageLabel}</div>
+                            <div className="mt-1 leading-6">{article.title}</div>
+                          </Link>
+                        );
+                      })}
+                    </div>
+                  </section>
+                ))}
               </div>
             </div>
           ) : null}
@@ -127,12 +179,22 @@ export function AppLayout() {
       )}
 
       {showTopBar && articleMeta ? (
-        <div className="lg:hidden">
-          <ArticleSubnav article={articleMeta} />
+        <div>
+          <ArticleSubnav article={articleMeta} showHeader={false} />
         </div>
       ) : null}
 
-      <main className={isRead ? "px-0 py-0 lg:px-8 lg:py-8" : "mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-10 lg:py-8"}>{<Outlet />}</main>
+      <main
+        className={
+          isRead
+            ? "px-0 py-0 lg:px-8 lg:py-8"
+            : isArticleRoute
+              ? "mx-auto max-w-7xl px-4 py-5 sm:px-6 lg:px-8 lg:py-6"
+              : "mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-10 lg:py-8"
+        }
+      >
+        {<Outlet />}
+      </main>
       </div>
     </div>
   );

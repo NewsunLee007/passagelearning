@@ -3,6 +3,7 @@ import { useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { loginWithClassAndName } from "../../features/auth/login";
 import { TEXTBOOK_BOOKS } from "../../features/content/catalog";
+import { TextbookDirectory } from "../components/TextbookDirectory";
 
 export function LoginRoute() {
   const nav = useNavigate();
@@ -29,43 +30,17 @@ export function LoginRoute() {
   }
 
   return (
-    <div className="grid min-h-[calc(100dvh-8rem)] items-center gap-8 py-6 lg:grid-cols-[1.1fr_0.9fr]">
+    <div className="grid min-h-[calc(100dvh-8rem)] items-start gap-8 py-6 lg:grid-cols-[minmax(0,1fr)_360px]">
       <section className="space-y-6">
         <div className="space-y-2">
           <div className="text-[11px] font-semibold uppercase tracking-[0.36em] text-primary/80">外研版 Junior English</div>
           <div className="font-display text-5xl leading-[1.02] text-secondary sm:text-6xl">初中英语</div>
         </div>
 
-        <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
-          {TEXTBOOK_BOOKS.map((book) => {
-            const articleCount = book.units.reduce((sum, unit) => sum + unit.articles.length, 0);
-            return (
-            <div
-              key={book.id}
-              className="rounded-[1.6rem] border border-white/75 bg-white/80 p-5 shadow-[0_16px_40px_rgba(15,23,42,0.05)]"
-            >
-              <div className="flex items-center justify-between gap-3">
-                <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">{book.shortLabel}</div>
-                <span
-                  className={[
-                    "rounded-full px-3 py-1 text-[11px] font-semibold",
-                    book.loaded ? "bg-emerald-50 text-emerald-700" : "bg-slate-100 text-slate-500"
-                  ].join(" ")}
-                >
-                  {book.loaded ? "已导入" : "待导入"}
-                </span>
-              </div>
-              <div className="mt-2 font-display text-2xl text-secondary">{book.label}</div>
-              <div className="mt-4 text-xs text-slate-500">
-                {book.units.length} 个单元 · {articleCount} 篇语篇
-              </div>
-            </div>
-          );
-          })}
-        </div>
+        <TextbookDirectory books={TEXTBOOK_BOOKS} interactive={false} />
       </section>
 
-      <section className="rounded-[2rem] border border-white/80 bg-white/92 p-6 shadow-[0_24px_80px_rgba(15,23,42,0.08)] sm:p-8">
+      <section className="rounded-[2rem] border border-white/80 bg-white/92 p-6 shadow-[0_24px_80px_rgba(15,23,42,0.08)] sm:p-7 lg:sticky lg:top-8 lg:max-w-[360px]">
         <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">学生登录</div>
 
         <form onSubmit={onSubmit} className="mt-6 space-y-5">

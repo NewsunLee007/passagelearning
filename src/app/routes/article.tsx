@@ -1,37 +1,12 @@
-import { useMemo } from "react";
 import { Link, useParams } from "react-router-dom";
-import { getSession } from "../../features/auth/session";
 import { getAdjacentArticles, getTextbookArticle } from "../../features/content/catalog";
 import { useArticleDemo } from "../../features/content/useArticleDemo";
 
-const taskCards = [
-  {
-    to: "read",
-    title: "先读原文",
-    desc: "进入阅读页，直接点词、点句、跟读，不再先做额外操作。"
-  },
-  {
-    to: "sentence",
-    title: "再看词句",
-    desc: "一个页面同时看词汇音形意用和句子译文、结构、详解。"
-  },
-  {
-    to: "reading",
-    title: "最后练习",
-    desc: "做篇章理解，必要时再去收藏页记录优美句子。"
-  }
-];
-
 export function ArticleHomeRoute() {
   const { articleId } = useParams();
-  const session = getSession();
   const { data, error, loading } = useArticleDemo(articleId);
   const articleMeta = getTextbookArticle(articleId);
   const adjacent = getAdjacentArticles(articleId);
-
-  const studentLabel = useMemo(() => {
-    return [session.className.trim(), session.studentName.trim()].filter(Boolean).join(" · ");
-  }, [session.className, session.studentName]);
 
   if (loading) return <div className="text-sm text-slate-600">正在加载文章内容…</div>;
   if (error || !data) {
@@ -59,55 +34,32 @@ export function ArticleHomeRoute() {
           <p className="mt-4 max-w-3xl text-sm leading-7 text-slate-600 sm:text-base">
             {articleMeta?.summary ?? data.article.summary ?? "从原文出发完成阅读、词句理解和读后产出。"}
           </p>
-          {studentLabel && <div className="mt-4 text-sm text-slate-500">{studentLabel}</div>}
+          <div className="mt-5 flex flex-wrap gap-3 text-sm text-slate-600">
+            <span className="rounded-full bg-white/80 px-3 py-1.5">{paragraphCount} 段</span>
+            <span className="rounded-full bg-white/80 px-3 py-1.5">{sentenceCount} 句</span>
+            <span className="rounded-full bg-white/80 px-3 py-1.5">{questionCount} 道题</span>
+          </div>
         </div>
 
-        <div className="grid gap-5 px-6 py-6 sm:px-8 lg:grid-cols-[1.2fr_0.8fr]">
-          <div className="space-y-5">
-            <div>
-                <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">学习路径</div>
-                <h2 className="mt-2 font-display text-2xl text-secondary">阅读、词句、练习</h2>
-            </div>
-            <div className="grid gap-4 md:grid-cols-3">
-              {taskCards.map((task, index) => (
-                <Link
-                  key={task.to}
-                  to={task.to}
-                  className="group rounded-[1.4rem] border border-slate-200/80 bg-[linear-gradient(180deg,rgba(255,255,255,0.98),rgba(247,247,245,0.95))] p-5 transition hover:-translate-y-0.5 hover:border-primary/25 hover:shadow-[0_16px_40px_rgba(15,23,42,0.08)]"
-                >
-                  <div className="flex items-center justify-between gap-3">
-                    <span className="text-sm font-semibold text-slate-400">0{index + 1}</span>
-                    <span className="text-xs uppercase tracking-[0.16em] text-slate-400">Task</span>
-                  </div>
-                  <div className="mt-4 font-display text-2xl text-secondary group-hover:text-primary">{task.title}</div>
-                  <p className="mt-3 text-sm leading-7 text-slate-600">{task.desc}</p>
-                </Link>
-              ))}
-            </div>
-          </div>
-
-          <aside className="space-y-4 rounded-[1.6rem] border border-slate-200/80 bg-[linear-gradient(180deg,rgba(250,249,246,0.98),rgba(255,255,255,0.94))] p-5">
-            <div>
-              <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">阅读面板</div>
-              <div className="mt-3 grid gap-3 sm:grid-cols-3 lg:grid-cols-1">
-                <MetaStat label="段落" value={String(paragraphCount)} />
-                <MetaStat label="句子" value={String(sentenceCount)} />
-                <MetaStat label="读后题" value={String(questionCount)} />
-              </div>
-            </div>
-            <div className="rounded-[1.3rem] bg-slate-50/80 p-4">
-              <div className="text-sm font-semibold text-secondary">进入方式</div>
-              <p className="mt-2 text-sm leading-7 text-slate-600">
-                这一页只负责定路径。真正的操作集中在左侧导航和上方菜单里。
-              </p>
-            </div>
-            <Link
-              to="read"
-              className="inline-flex w-full items-center justify-center rounded-full bg-secondary px-5 py-3 text-sm font-semibold text-white transition hover:bg-secondary/92"
-            >
-              直接进入沉浸式阅读
-            </Link>
-          </aside>
+        <div className="flex flex-wrap gap-3 px-6 py-5 sm:px-8">
+          <Link
+            to="read"
+            className="inline-flex items-center justify-center rounded-full bg-primary px-5 py-3 text-sm font-semibold text-white transition hover:bg-primary/92"
+          >
+            进入阅读
+          </Link>
+          <Link
+            to="sentence"
+            className="inline-flex items-center justify-center rounded-full border border-primary/15 bg-primary/10 px-5 py-3 text-sm font-semibold text-primary transition hover:bg-primary/14"
+          >
+            查看词句
+          </Link>
+          <Link
+            to="reading"
+            className="inline-flex items-center justify-center rounded-full border border-slate-200 bg-white px-5 py-3 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-slate-50"
+          >
+            打开练习
+          </Link>
         </div>
       </section>
 
@@ -157,15 +109,6 @@ export function ArticleHomeRoute() {
           </Link>
         </aside>
       </section>
-    </div>
-  );
-}
-
-function MetaStat({ label, value }: { label: string; value: string }) {
-  return (
-    <div className="rounded-[1.1rem] border border-slate-200/80 bg-white px-4 py-3">
-      <div className="text-xs uppercase tracking-[0.16em] text-slate-400">{label}</div>
-      <div className="mt-2 text-2xl font-semibold text-secondary">{value}</div>
     </div>
   );
 }

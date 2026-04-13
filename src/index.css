@@ -60,6 +60,33 @@
   .ir-soft-panel {
     @apply border border-white/70 bg-white/84 shadow-[0_18px_50px_rgba(15,23,42,0.05)];
   }
+
+  .ir-scroll-shell {
+    scrollbar-width: none;
+  }
+
+  .ir-scroll-shell::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+  }
+
+  .ir-scroll-shell:hover,
+  .ir-scroll-shell.is-scrolling {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(148, 163, 184, 0.55) transparent;
+  }
+
+  .ir-scroll-shell:hover::-webkit-scrollbar,
+  .ir-scroll-shell.is-scrolling::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+  }
+
+  .ir-scroll-shell:hover::-webkit-scrollbar-thumb,
+  .ir-scroll-shell.is-scrolling::-webkit-scrollbar-thumb {
+    background: rgba(148, 163, 184, 0.55);
+    border-radius: 999px;
+  }
 }
 
 /* 课堂大屏模式：整体字号更大、对比更强（可按需再调） */

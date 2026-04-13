@@ -530,6 +530,15 @@ export function getTextbookBook(bookId?: string | null) {
   return textbookBookMap.get(bookId);
 }
 
+export function getTextbookBookByArticle(articleId?: string | null) {
+  const article = getTextbookArticle(articleId);
+  return article ? getTextbookBook(article.bookId) : undefined;
+}
+
+export function getTextbookUnitsByArticle(articleId?: string | null) {
+  return getTextbookBookByArticle(articleId)?.units ?? [];
+}
+
 export function getAdjacentArticles(articleId?: string | null) {
   const current = getTextbookArticle(articleId);
   if (!current) {
