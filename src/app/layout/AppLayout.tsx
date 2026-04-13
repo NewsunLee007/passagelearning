@@ -35,19 +35,13 @@ export function AppLayout() {
   ];
 
   return (
-    <div className="min-h-dvh lg:grid lg:grid-cols-[280px_minmax(0,1fr)]">
+    <div className="min-h-dvh lg:grid lg:grid-cols-[232px_minmax(0,1fr)]">
       {showTopBar ? (
-        <aside className="hidden border-r border-white/60 bg-[#f7f2e9]/88 lg:flex lg:min-h-dvh lg:flex-col lg:px-5 lg:py-6">
+        <aside className="hidden border-r border-white/60 bg-[#f7f2e9]/88 lg:sticky lg:top-0 lg:flex lg:h-screen lg:flex-col lg:overflow-y-auto lg:px-4 lg:py-5">
           <button className="text-left" onClick={() => nav(session.studentName ? "/dashboard" : "/login")} type="button">
             <div className="text-[11px] font-semibold uppercase tracking-[0.24em] text-slate-500">Interactive Reader</div>
             <div className="mt-1 font-display text-3xl text-secondary">互动阅读</div>
           </button>
-
-          {session.studentName ? (
-            <div className="mt-5 text-sm text-slate-500">
-              {session.className} · {session.studentName}
-            </div>
-          ) : null}
 
           <nav className="mt-6 space-y-2">
             {navItems.map((item) => {
@@ -57,8 +51,8 @@ export function AppLayout() {
                   key={item.to}
                   to={item.to}
                   className={[
-                    "block rounded-2xl px-4 py-3 text-sm font-medium transition",
-                    active ? "bg-secondary text-white" : "text-slate-700 hover:bg-white/80"
+                    "block rounded-2xl px-4 py-3 text-sm font-medium transition hover:bg-white/80",
+                    active ? "bg-primary/10 text-primary" : "text-slate-700"
                   ].join(" ")}
                 >
                   {item.label}
@@ -69,7 +63,7 @@ export function AppLayout() {
               href="https://wordflow.newsunenglish.com/"
               target="_blank"
               rel="noreferrer"
-              className="block px-4 py-3 text-sm font-medium text-primary transition hover:text-primary/80"
+              className="block rounded-2xl px-4 py-3 text-sm font-medium text-primary transition hover:bg-white/80 hover:text-primary/80"
             >
               词汇学习
             </a>
@@ -114,9 +108,7 @@ export function AppLayout() {
 
             <div className="ml-auto flex items-center gap-2 sm:gap-3">
               {session.studentName ? (
-                <div className="hidden rounded-full border border-white/70 bg-white/70 px-4 py-2 text-sm text-slate-600 sm:block">
-                  {session.className} · {session.studentName}
-                </div>
+                <div className="hidden text-sm text-slate-500 sm:block">{session.studentName}</div>
               ) : null}
               <Link to="/dashboard" className="rounded-full px-4 py-2 text-sm font-medium text-slate-700 transition hover:bg-white/80">
                 学习大厅

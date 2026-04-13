@@ -59,7 +59,7 @@ export function ArticleSubnav({
                     ? "rounded-2xl px-4 py-3 text-sm font-medium transition"
                     : "whitespace-nowrap rounded-full px-4 py-2 text-sm font-medium transition sm:px-4",
                   active
-                    ? "bg-secondary text-white shadow-sm"
+                    ? "border border-primary/15 bg-primary/10 text-primary shadow-sm"
                     : vertical
                       ? "bg-white/72 text-slate-700 hover:bg-white"
                       : "border border-white/70 bg-white/78 text-slate-700 hover:border-slate-200 hover:bg-white"

@@ -1,6 +1,5 @@
 import { useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { LibraryIllustration } from "../components/EditorialArt";
 import { LOADED_TEXTBOOK_BOOKS, TEXTBOOK_BOOKS } from "../../features/content/catalog";
 
 export function DashboardRoute() {
@@ -17,7 +16,7 @@ export function DashboardRoute() {
 
   return (
     <div className="space-y-10 pb-10">
-      <section className="grid gap-6 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
+      <section className="grid gap-6 lg:grid-cols-[1fr_320px] lg:items-start">
         <div className="space-y-5">
           <div className="space-y-2">
             <div className="text-[11px] font-semibold uppercase tracking-[0.36em] text-primary/80">外研版 Junior English</div>
@@ -29,7 +28,7 @@ export function DashboardRoute() {
             <span className="rounded-full bg-white/80 px-3 py-1.5">22 篇真人课文</span>
           </div>
           <div className="flex flex-wrap gap-3">
-            <Link to="/me/report" className="rounded-full bg-secondary px-5 py-3 text-sm font-semibold text-white transition hover:bg-secondary/92">
+            <Link to="/me/report" className="rounded-full bg-primary px-5 py-3 text-sm font-semibold text-white transition hover:bg-primary/90">
               查看学习报告
             </Link>
             <a
@@ -43,35 +42,30 @@ export function DashboardRoute() {
           </div>
         </div>
 
-        <div className="space-y-4">
-          <LibraryIllustration />
-          <div className="grid gap-4 sm:grid-cols-[1fr_auto]">
-            <div className="rounded-[1.6rem] border border-white/70 bg-white/84 p-5 shadow-[0_18px_50px_rgba(15,23,42,0.05)]">
-              <div className="grid gap-4 sm:grid-cols-2">
-                <div>
-                  <div className="text-sm text-slate-500">班级</div>
-                  <div className="mt-1 text-xl font-semibold text-secondary">{className}</div>
-                </div>
-                <div>
-                  <div className="text-sm text-slate-500">学生</div>
-                  <div className="mt-1 text-xl font-semibold text-secondary">{studentName}</div>
-                </div>
-              </div>
+        <div className="rounded-[1.8rem] border border-white/70 bg-white/84 p-5 shadow-[0_18px_50px_rgba(15,23,42,0.05)]">
+          <div className="grid gap-4 sm:grid-cols-2">
+            <div>
+              <div className="text-sm text-slate-500">班级</div>
+              <div className="mt-1 text-2xl font-semibold text-secondary">{className}</div>
             </div>
-            <button
-              type="button"
-              onClick={() => {
-                window.localStorage.removeItem("className");
-                window.localStorage.removeItem("studentName");
-                window.localStorage.removeItem("classId");
-                window.localStorage.removeItem("userId");
-                nav("/login");
-              }}
-              className="rounded-[1.6rem] bg-white/84 px-5 py-4 text-sm font-semibold text-slate-700 shadow-[0_18px_50px_rgba(15,23,42,0.05)] transition hover:bg-white"
-            >
-              切换账号
-            </button>
+            <div>
+              <div className="text-sm text-slate-500">学生</div>
+              <div className="mt-1 text-2xl font-semibold text-secondary">{studentName}</div>
+            </div>
           </div>
+          <button
+            type="button"
+            onClick={() => {
+              window.localStorage.removeItem("className");
+              window.localStorage.removeItem("studentName");
+              window.localStorage.removeItem("classId");
+              window.localStorage.removeItem("userId");
+              nav("/login");
+            }}
+            className="mt-5 w-full rounded-full border border-slate-200 bg-white px-4 py-3 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-slate-50"
+          >
+            切换账号
+          </button>
         </div>
       </section>
 
@@ -135,56 +129,55 @@ export function DashboardRoute() {
           </div>
         </div>
 
-        <div className="space-y-8">
+        <div className="space-y-4">
           {LOADED_TEXTBOOK_BOOKS.map((book) => (
-            <section key={book.id} className="space-y-4">
-              <div className="flex flex-wrap items-end justify-between gap-4">
+            <details
+              key={book.id}
+              className="group overflow-hidden rounded-[1.8rem] border border-white/70 bg-white/86 shadow-[0_18px_50px_rgba(15,23,42,0.06)]"
+              open
+            >
+              <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-6 py-5 [&::-webkit-details-marker]:hidden">
                 <div>
                   <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">{book.shortLabel}</div>
                   <h3 className="mt-1 font-display text-3xl text-secondary">{book.label}</h3>
                 </div>
-              </div>
+                <div className="flex items-center gap-3">
+                  <span className="rounded-full bg-slate-100 px-3 py-1.5 text-xs text-slate-600">{book.units.length} 个单元</span>
+                  <span className="text-sm text-slate-400 transition group-open:rotate-180">⌃</span>
+                </div>
+              </summary>
 
-              <div className="grid gap-5 xl:grid-cols-2">
-                {book.units.map((unit) => (
-                  <section
-                    key={`${book.id}-${unit.unitNumber}`}
-                    className="overflow-hidden rounded-[1.8rem] border border-white/70 bg-white/85 shadow-[0_18px_50px_rgba(15,23,42,0.06)]"
-                  >
-                    <div className="border-b border-slate-100 bg-[linear-gradient(135deg,rgba(194,101,52,0.08),rgba(22,101,52,0.06))] px-6 py-5">
-                      <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">
-                        {book.shortLabel} · Unit {unit.unitNumber}
+              <div className="border-t border-slate-100/90 px-4 py-3 sm:px-6 sm:py-4">
+                <div className="space-y-3">
+                  {book.units.map((unit) => (
+                    <section key={`${book.id}-${unit.unitNumber}`} className="rounded-[1.4rem] bg-slate-50/70 px-4 py-4">
+                      <div className="flex flex-wrap items-center justify-between gap-3">
+                        <div>
+                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">Unit {unit.unitNumber}</div>
+                          <h4 className="mt-1 text-lg font-semibold text-secondary">{unit.theme}</h4>
+                        </div>
                       </div>
-                      <h4 className="mt-2 font-display text-2xl text-secondary">{unit.theme}</h4>
-                      <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-600">{unit.overview}</p>
-                    </div>
 
-                    <div className="grid gap-4 p-5 sm:grid-cols-2">
-                      {unit.articles.map((article) => (
-                        <Link
-                          key={article.id}
-                          to={`/a/${article.id}`}
-                          className="group flex h-full flex-col rounded-[1.4rem] border border-slate-200/80 bg-[linear-gradient(180deg,rgba(255,255,255,0.98),rgba(246,247,245,0.92))] p-5 transition duration-200 hover:-translate-y-0.5 hover:border-primary/25 hover:shadow-[0_18px_36px_rgba(15,23,42,0.08)]"
-                        >
-                          <div className="flex items-center justify-between gap-3">
-                            <span className="rounded-full bg-primary/8 px-3 py-1 text-xs font-semibold text-primary">{article.stageLabel}</span>
-                            <span className="text-xs uppercase tracking-[0.16em] text-slate-400">{article.stage}</span>
-                          </div>
-                          <div className="mt-4 flex-1">
-                            <div className="font-display text-2xl leading-tight text-secondary transition group-hover:text-primary">{article.title}</div>
-                            <p className="mt-3 text-sm leading-7 text-slate-600">{article.summary}</p>
-                          </div>
-                          <div className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-secondary">
-                            进入任务页
-                            <span className="transition group-hover:translate-x-1">→</span>
-                          </div>
-                        </Link>
-                      ))}
-                    </div>
-                  </section>
-                ))}
+                      <div className="mt-4 divide-y divide-slate-200/80 rounded-[1rem] border border-slate-200/80 bg-white">
+                        {unit.articles.map((article) => (
+                          <Link
+                            key={article.id}
+                            to={`/a/${article.id}`}
+                            className="flex items-center justify-between gap-4 px-4 py-4 transition hover:bg-slate-50"
+                          >
+                            <div className="min-w-0">
+                              <div className="text-xs font-semibold uppercase tracking-[0.16em] text-primary/80">{article.stageLabel}</div>
+                              <div className="mt-1 truncate text-base font-medium text-secondary">{article.title}</div>
+                            </div>
+                            <span className="text-sm text-slate-400">进入</span>
+                          </Link>
+                        ))}
+                      </div>
+                    </section>
+                  ))}
+                </div>
               </div>
-            </section>
+            </details>
           ))}
         </div>
       </section>
