@@ -5,30 +5,25 @@ export function LibraryIllustration() {
       <div className="absolute -left-6 bottom-0 h-40 w-40 rounded-full bg-white/55 blur-3xl" />
       <div className="absolute right-0 top-0 h-36 w-36 rounded-full bg-emerald-100/60 blur-3xl" />
 
-      <div className="absolute left-8 top-10 flex items-end gap-3">
-        <div className="h-28 w-10 rounded-[1rem] bg-[#1f7a4c]" />
-        <div className="h-36 w-12 rounded-[1rem] bg-[#d16d38]" />
-        <div className="h-24 w-10 rounded-[1rem] bg-[#243042]" />
-        <div className="h-32 w-12 rounded-[1rem] bg-[#efe2c4]" />
+      <div className="absolute left-10 top-12 flex items-end gap-4">
+        <div className="h-28 w-12 rounded-[1.2rem] bg-[#1f7a4c]" />
+        <div className="h-40 w-14 rounded-[1.2rem] bg-[#d16d38]" />
+        <div className="h-24 w-11 rounded-[1.2rem] bg-[#243042]" />
+        <div className="h-34 w-12 rounded-[1.2rem] bg-[#efe2c4]" />
+        <div className="h-20 w-10 rounded-[1.2rem] bg-[#8e9b8c]" />
       </div>
 
-      <div className="absolute left-7 top-7 text-[10px] font-semibold uppercase tracking-[0.28em] text-slate-500">Reading Shelf</div>
-      <div className="absolute bottom-7 left-8 max-w-[220px]">
-        <div className="font-display text-3xl leading-none text-secondary">六册联动</div>
-        <div className="mt-3 text-sm leading-6 text-slate-600">课文、词句、音频按同一教材骨架组织，不再零散堆叠。</div>
-      </div>
+      <div className="absolute left-10 top-8 text-[10px] font-semibold uppercase tracking-[0.28em] text-slate-500">Reading Shelf</div>
 
-      <div className="absolute right-7 top-7 w-[44%] rounded-[1.6rem] border border-white/80 bg-white/82 p-4 shadow-[0_18px_50px_rgba(15,23,42,0.08)] backdrop-blur">
-        <div className="flex items-center justify-between gap-2">
-          <div>
-            <div className="text-[11px] font-semibold uppercase tracking-[0.22em] text-slate-400">Current</div>
-            <div className="mt-1 font-display text-2xl text-secondary">七下 · 八下</div>
-          </div>
-          <div className="rounded-full bg-emerald-50 px-3 py-1 text-xs font-semibold text-emerald-700">已导入</div>
+      <div className="absolute bottom-8 left-10 right-10 flex items-end justify-between gap-6">
+        <div className="max-w-[220px]">
+          <div className="font-display text-4xl leading-none text-secondary">六册</div>
+          <div className="mt-3 h-[2px] w-20 rounded-full bg-primary/25" />
         </div>
-        <div className="mt-4 space-y-2">
-          <div className="rounded-2xl bg-slate-50 px-4 py-3 text-sm text-slate-600">22 篇真人课文音频</div>
-          <div className="rounded-2xl bg-slate-50 px-4 py-3 text-sm text-slate-600">词句解析统一进入同一学习路径</div>
+
+        <div className="grid w-[42%] gap-3">
+          <div className="rounded-[1.5rem] border border-white/80 bg-white/70 px-5 py-4 shadow-[0_18px_50px_rgba(15,23,42,0.06)]" />
+          <div className="rounded-[1.5rem] border border-white/70 bg-white/62 px-5 py-5 shadow-[0_18px_50px_rgba(15,23,42,0.05)]" />
         </div>
       </div>
     </div>

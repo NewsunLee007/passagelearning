@@ -34,15 +34,7 @@ export function LoginRoute() {
         <div className="inline-flex rounded-full border border-primary/15 bg-primary/5 px-3 py-1 text-xs font-semibold uppercase tracking-[0.24em] text-primary">
           初中英语（外研版）
         </div>
-        <div className="space-y-4">
-          <h1 className="max-w-3xl font-display text-5xl leading-[1.05] text-secondary sm:text-6xl">
-            把三年六册真正整理成一个可学习、可操作、可扩展的阅读系统。
-          </h1>
-          <p className="max-w-2xl text-sm leading-8 text-slate-600 sm:text-base">
-            这里不再是散乱文章列表，而是按外研版初中英语六册建立的互动阅读入口。当前已接入
-            七下和八下，后续册次可以继续按同一框架扩展。
-          </p>
-        </div>
+        <h1 className="max-w-3xl font-display text-5xl leading-[1.05] text-secondary sm:text-6xl">初中英语六册阅读系统</h1>
 
         <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
           {TEXTBOOK_BOOKS.map((book) => {
@@ -64,7 +56,6 @@ export function LoginRoute() {
                 </span>
               </div>
               <div className="mt-2 font-display text-2xl text-secondary">{book.label}</div>
-              <p className="mt-3 text-sm leading-7 text-slate-600">{book.overview}</p>
               <div className="mt-4 text-xs text-slate-500">
                 {book.units.length} 个单元 · {articleCount} 篇语篇
               </div>
@@ -76,14 +67,8 @@ export function LoginRoute() {
 
       <section className="rounded-[2rem] border border-white/80 bg-white/92 p-6 shadow-[0_24px_80px_rgba(15,23,42,0.08)] sm:p-8">
         <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">学生登录</div>
-        <h2 className="mt-3 font-display text-3xl text-secondary">先建立学习身份</h2>
-        <p className="mt-3 text-sm leading-7 text-slate-600">
-          目前使用“班级名称 + 学生姓名”进入系统。登录后会自动保存学习记录，并按教材目录进入阅读。
-        </p>
         <div className="mt-4 rounded-[1rem] bg-slate-50 px-4 py-3 text-sm text-slate-600">
-          当前可直接进入的册次：
-          {" "}
-          {LOADED_TEXTBOOK_BOOKS.map((book) => book.label).join("、")}
+          已开放册次：{LOADED_TEXTBOOK_BOOKS.map((book) => book.label).join("、")}
         </div>
 
         <form onSubmit={onSubmit} className="mt-8 space-y-5">

@@ -22,12 +22,7 @@ export function DashboardRoute() {
           <div className="inline-flex rounded-full border border-primary/15 bg-primary/5 px-3 py-1 text-xs font-semibold uppercase tracking-[0.22em] text-primary">
             六册阅读系统
           </div>
-          <div>
-            <h1 className="max-w-3xl font-display text-4xl leading-tight text-secondary sm:text-5xl">初中英语六册阅读系统</h1>
-            <p className="mt-4 max-w-2xl text-sm leading-8 text-slate-600 sm:text-base">
-              七下和八下已经接入真人课文音频、词句解析和读后练习，其余册次保留扩展位置，后续可继续接入。
-            </p>
-          </div>
+          <h1 className="max-w-3xl font-display text-4xl leading-tight text-secondary sm:text-5xl">初中英语六册阅读系统</h1>
           <div className="flex flex-wrap gap-3 text-sm text-slate-600">
             <span className="rounded-full bg-white/80 px-3 py-1.5">6 册结构</span>
             <span className="rounded-full bg-white/80 px-3 py-1.5">2 册已导入</span>
@@ -43,7 +38,7 @@ export function DashboardRoute() {
               rel="noreferrer"
               className="rounded-full border border-slate-200 bg-white/84 px-5 py-3 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white"
             >
-              智能词汇学习
+              词汇学习
             </a>
           </div>
         </div>
@@ -52,8 +47,7 @@ export function DashboardRoute() {
           <LibraryIllustration />
           <div className="grid gap-4 sm:grid-cols-[1fr_auto]">
             <div className="rounded-[1.6rem] border border-white/70 bg-white/84 p-5 shadow-[0_18px_50px_rgba(15,23,42,0.05)]">
-              <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">当前学习档案</div>
-              <div className="mt-4 grid gap-4 sm:grid-cols-2">
+              <div className="grid gap-4 sm:grid-cols-2">
                 <div>
                   <div className="text-sm text-slate-500">班级</div>
                   <div className="mt-1 text-xl font-semibold text-secondary">{className}</div>
@@ -87,9 +81,6 @@ export function DashboardRoute() {
             <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Bookshelf</div>
             <h2 className="mt-1 font-display text-3xl text-secondary">全部册次</h2>
           </div>
-          <p className="max-w-xl text-right text-sm leading-6 text-slate-500">
-            已导入册次可以直接进入单元学习，未导入册次先保留位置。
-          </p>
         </div>
 
         <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
@@ -115,7 +106,6 @@ export function DashboardRoute() {
                     {book.loaded ? "已导入" : "待导入"}
                   </span>
                 </div>
-                <p className="mt-3 text-sm leading-7 text-slate-600">{book.overview}</p>
                 <div className="mt-4 flex flex-wrap gap-2 text-xs text-slate-500">
                   <span className="rounded-full bg-slate-100 px-3 py-1.5">{book.units.length} 个单元</span>
                   <span className="rounded-full bg-slate-100 px-3 py-1.5">{articleCount} 篇语篇</span>
@@ -143,9 +133,6 @@ export function DashboardRoute() {
             <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Loaded Books</div>
             <h2 className="mt-1 font-display text-3xl text-secondary">开始学习</h2>
           </div>
-          <p className="max-w-xl text-right text-sm leading-6 text-slate-500">
-            当前先开放七下与八下，直接按单元进入即可。
-          </p>
         </div>
 
         <div className="space-y-8">
@@ -156,7 +143,6 @@ export function DashboardRoute() {
                   <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">{book.shortLabel}</div>
                   <h3 className="mt-1 font-display text-3xl text-secondary">{book.label}</h3>
                 </div>
-                <p className="max-w-xl text-sm leading-6 text-slate-500">{book.overview}</p>
               </div>
 
               <div className="grid gap-5 xl:grid-cols-2">

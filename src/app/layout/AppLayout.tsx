@@ -44,10 +44,8 @@ export function AppLayout() {
           </button>
 
           {session.studentName ? (
-            <div className="mt-8 rounded-[1.6rem] border border-white/70 bg-white/78 p-4 shadow-[0_18px_40px_rgba(15,23,42,0.04)]">
-              <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">当前账号</div>
-              <div className="mt-3 text-sm text-slate-500">{session.className}</div>
-              <div className="mt-1 text-2xl font-semibold text-secondary">{session.studentName}</div>
+            <div className="mt-5 text-sm text-slate-500">
+              {session.className} · {session.studentName}
             </div>
           ) : null}
 
@@ -71,9 +69,9 @@ export function AppLayout() {
               href="https://wordflow.newsunenglish.com/"
               target="_blank"
               rel="noreferrer"
-              className="block rounded-2xl bg-white/76 px-4 py-3 text-sm font-medium text-slate-700 transition hover:bg-white"
+              className="block rounded-2xl border border-primary/10 bg-primary/5 px-4 py-3 text-sm font-medium text-primary transition hover:border-primary/20 hover:bg-primary/8"
             >
-              智能词汇学习
+              词汇学习
             </a>
             <Link to="/t/login" className="block rounded-2xl px-4 py-3 text-sm font-medium text-slate-700 transition hover:bg-white/80">
               教师端
