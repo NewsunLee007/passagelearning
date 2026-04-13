@@ -1,60 +1,58 @@
 {
   "meta": {
-    "schemaVersion": "1.0",
-    "source": "七年级下册英语教材",
-    "notes": "自动生成",
-    "audioImportedFrom": "7B U4 阅读篇章1 课堂互动.html"
+    "schemaVersion": "2.0",
+    "source": "七年级下册互动课文",
+    "importedFrom": "Unit 4 Passage 1 All work and no play makes Jack a dull boy（互动课文教学动画）英语新教材外研版七年级下册.html",
+    "importedAt": "2026-04-13T04:50:28.069Z"
   },
   "article": {
     "id": "u10-article",
     "title": "All work and no play makes Jack a dull boy",
     "unit": "Unit 4 The art of having fun",
-    "genre": "narrative",
     "paragraphs": [
       {
-        "id": "u10-p1",
+        "id": "u10-article-p1",
         "sentenceIds": [
-          "u10-s1",
-          "u10-s2",
-          "u10-s3",
-          "u10-s4"
+          "u10-article-s1",
+          "u10-article-s2",
+          "u10-article-s3",
+          "u10-article-s4",
+          "u10-article-s5",
+          "u10-article-s6"
         ]
       },
       {
-        "id": "u10-p2",
+        "id": "u10-article-p2",
         "sentenceIds": [
-          "u10-s5",
-          "u10-s6",
-          "u10-s7"
+          "u10-article-s7",
+          "u10-article-s8",
+          "u10-article-s9",
+          "u10-article-s10"
         ]
       },
       {
-        "id": "u10-p3",
+        "id": "u10-article-p3",
         "sentenceIds": [
-          "u10-s8"
+          "u10-article-s11",
+          "u10-article-s12"
         ]
       },
       {
-        "id": "u10-p4",
+        "id": "u10-article-p4",
         "sentenceIds": [
-          "u10-s9",
-          "u10-s10"
+          "u10-article-s13",
+          "u10-article-s14",
+          "u10-article-s15",
+          "u10-article-s16",
+          "u10-article-s17"
         ]
       },
       {
-        "id": "u10-p5",
+        "id": "u10-article-p5",
         "sentenceIds": [
-          "u10-s11",
-          "u10-s12",
-          "u10-s13",
-          "u10-s14",
-          "u10-s15",
-          "u10-s16",
-          "u10-s17",
-          "u10-s18",
-          "u10-s19",
-          "u10-s20",
-          "u10-s21"
+          "u10-article-s18",
+          "u10-article-s19",
+          "u10-article-s20"
         ]
       }
     ],
@@ -62,1155 +60,1995 @@
     "stageLabel": "理解篇",
     "unitNumber": 4,
     "unitTheme": "The art of having fun",
-    "bookOrder": 40,
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
+    "bookOrder": 240,
     "summary": "在孤岛想象和日常生活中讨论“休闲”的价值。"
   },
   "sentences": [
     {
-      "id": "u10-s1",
+      "id": "u10-article-s1",
       "text": "Imagine staying on an island alone.",
-      "paragraphId": "u10-p1",
-      "keywords": [
-        "imagine",
-        "island",
-        "alone"
-      ],
+      "paragraphId": "u10-article-p1",
+      "tr": "想象一下独自待在一个岛上。",
+      "g": "祈使句",
+      "d": "Imagine doing sth. 意为想象做某事。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/VQmBc3ouWhc26zdADaJ9Uf.mp3"
     },
     {
-      "id": "u10-s2",
+      "id": "u10-article-s2",
       "text": "You can only take five things with you.",
-      "paragraphId": "u10-p1",
-      "keywords": [
-        "take",
-        "five",
-        "things"
-      ],
+      "paragraphId": "u10-article-p1",
+      "tr": "你只能随身携带五样东西。",
+      "g": "主语 + 情态动词 + 动词原形",
+      "d": "can 表示能力；with you 意为随身。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/mfDCnUNxkejuYmeAuTayui.mp3"
     },
     {
-      "id": "u10-s3",
+      "id": "u10-article-s3",
       "text": "You might put food, water, tools and clothes on your list.",
-      "paragraphId": "u10-p1",
-      "keywords": [
-        "put",
-        "food",
-        "water",
-        "tools",
-        "clothes",
-        "list"
-      ],
+      "paragraphId": "u10-article-p1",
+      "tr": "你可能会把食物、水、工具和衣服列在清单上。",
+      "g": "主语 + 情态动词 + 动词原形 + 宾语",
+      "d": "might 表示推测；on your list 在清单上。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/J4hN3RBdg3eArseFLhGcan.mp3"
     },
     {
-      "id": "u10-s4",
+      "id": "u10-article-s4",
       "text": "But what about the fifth one?",
-      "paragraphId": "u10-p1",
-      "keywords": [
-        "fifth",
-        "one"
-      ],
+      "paragraphId": "u10-article-p1",
+      "tr": "但是第五样呢？",
+      "g": "疑问句",
+      "d": "What about...? 用于征求意见或询问情况。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/yubRv5XnjVmAyqYy8DUb2i.mp3"
     },
     {
-      "id": "u10-s5",
+      "id": "u10-article-s5",
       "text": "Most people would choose something for fun, like a novel, a magazine or a solar media player.",
-      "paragraphId": "u10-p2",
-      "keywords": [
-        "choose",
-        "fun",
-        "novel",
-        "magazine",
-        "solar media player"
-      ],
+      "paragraphId": "u10-article-p1",
+      "tr": "大多数人会选择一些有趣的东西，比如小说、杂志或太阳能媒体播放器。",
+      "g": "主语 + 谓语 + 宾语 + 修饰语",
+      "d": "would 表示意愿；like 意为比如。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/vFbNXpP9VTpjnNR6JfWMZf.mp3"
     },
     {
-      "id": "u10-s6",
+      "id": "u10-article-s6",
       "text": "After all, no one wants to get bored!",
-      "paragraphId": "u10-p2",
-      "keywords": [
-        "after all",
-        "no one",
-        "get bored"
-      ],
+      "paragraphId": "u10-article-p1",
+      "tr": "毕竟，没有人想变得无聊！",
+      "g": "状语 + 主语 + 谓语 + 宾语",
+      "d": "After all 意为毕竟；get bored 变得无聊。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pBLyLCAZttEpwWrpUeeinf.mp3"
     },
     {
-      "id": "u10-s7",
+      "id": "u10-article-s7",
       "text": "Fun can do away with bad feelings and lift our spirits.",
-      "paragraphId": "u10-p2",
-      "keywords": [
-        "do away with",
-        "bad feelings",
-        "lift",
-        "spirits"
-      ],
+      "paragraphId": "u10-article-p2",
+      "tr": "乐趣可以消除负面情绪，振奋我们的精神。",
+      "g": "主谓宾结构",
+      "d": "do away with 消除；lift spirits 振奋精神。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/TKrgn7hFuangRY5Z63WXwG.mp3"
     },
     {
-      "id": "u10-s8",
+      "id": "u10-article-s8",
       "text": "Just picture yourself watching a funny film on that island.",
-      "paragraphId": "u10-p3",
-      "keywords": [
-        "picture",
-        "watching",
-        "funny film",
-        "island"
-      ],
+      "paragraphId": "u10-article-p2",
+      "tr": "试想一下你在那个岛上看一部有趣的电影。",
+      "g": "祈使句",
+      "d": "picture yourself doing sth. 想象你自己正在做某事。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hps2qUVVYrjpa4txoXHxaf.mp3"
     },
     {
-      "id": "u10-s9",
+      "id": "u10-article-s9",
       "text": "Sitting under the trees will not be boring at all.",
-      "paragraphId": "u10-p4",
-      "keywords": [
-        "sitting",
-        "trees",
-        "boring"
-      ],
+      "paragraphId": "u10-article-p2",
+      "tr": "坐在树下一点也不会觉得无聊。",
+      "g": "动名词作主语",
+      "d": "not...at all 一点也不。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qFPJ59NP7tmhkCwNxFAwdX.mp3"
     },
     {
-      "id": "u10-s10",
+      "id": "u10-article-s10",
       "text": "It becomes a moment of joy.",
-      "paragraphId": "u10-p4",
-      "keywords": [
-        "becomes",
-        "moment",
-        "joy"
-      ],
+      "paragraphId": "u10-article-p2",
+      "tr": "它变成了一个快乐的时刻。",
+      "g": "主系表结构",
+      "d": "moment of joy 快乐的时刻。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/496KMVoYJeNpgwApgg38Ue.mp3"
     },
     {
-      "id": "u10-s11",
+      "id": "u10-article-s11",
       "text": "Fun also keeps us feeling youthful.",
-      "paragraphId": "u10-p5",
-      "keywords": [
-        "keeps",
-        "feeling",
-        "youthful"
-      ],
+      "paragraphId": "u10-article-p3",
+      "tr": "乐趣也让我们感到年轻。",
+      "g": "主语 + 谓语 + 宾语 + 宾语补足语",
+      "d": "keep sb. doing sth. 使某人保持某种状态。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/bxT588tpHL6PwWTDskN3dV.mp3"
     },
     {
-      "id": "u10-s12",
+      "id": "u10-article-s12",
       "text": "As George Bernard Shaw once said, \"We don't stop playing because we grow old; we grow old because we stop playing.\"",
-      "paragraphId": "u10-p5",
-      "keywords": [
-        "George Bernard Shaw",
-        "stop playing",
-        "grow old"
-      ],
+      "paragraphId": "u10-article-p3",
+      "tr": "正如萧伯纳曾经说过的：\"我们不是因为变老而停止玩耍；我们是因为停止玩耍而变老。\"",
+      "g": "复合句",
+      "d": "As 引导定语从句；because 引导原因状语从句。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rwGeu5Ay8b67GR3RZut6Z5.mp3"
     },
     {
-      "id": "u10-s13",
+      "id": "u10-article-s13",
       "text": "Research also shows that fun brings people closer.",
-      "paragraphId": "u10-p5",
-      "keywords": [
-        "research",
-        "shows",
-        "brings",
-        "closer"
-      ],
+      "paragraphId": "u10-article-p4",
+      "tr": "研究还表明，乐趣让人们走得更近。",
+      "g": "主语 + 谓语 + 宾语从句",
+      "d": "that 引导宾语从句。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2WMJWTM6yAGnthvyUPRy3R.mp3"
     },
     {
-      "id": "u10-s14",
+      "id": "u10-article-s14",
       "text": "No one is an island.",
-      "paragraphId": "u10-p5",
-      "keywords": [
-        "no one",
-        "island"
-      ],
+      "paragraphId": "u10-article-p4",
+      "tr": "没有人是一座孤岛。",
+      "g": "主系表结构",
+      "d": "经典比喻，强调社交的重要性。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gQVBBBx366VwNURocFXLR9.mp3"
     },
     {
-      "id": "u10-s15",
+      "id": "u10-article-s15",
       "text": "Having fun is a good way to connect with others.",
-      "paragraphId": "u10-p5",
-      "keywords": [
-        "good way",
-        "connect",
-        "others"
-      ],
+      "paragraphId": "u10-article-p4",
+      "tr": "寻找乐趣是与他人建立联系的好方法。",
+      "g": "动名词作主语",
+      "d": "connect with 与...建立联系。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Xii7N88fPPhw5M6rZGFS3R.mp3"
     },
     {
-      "id": "u10-s16",
+      "id": "u10-article-s16",
       "text": "So, next time, invite your friends to enjoy live music together.",
-      "paragraphId": "u10-p5",
-      "keywords": [
-        "invite",
-        "friends",
-        "enjoy",
-        "live music"
-      ],
+      "paragraphId": "u10-article-p4",
+      "tr": "所以，下次邀请你的朋友一起欣赏现场音乐吧。",
+      "g": "祈使句",
+      "d": "invite sb. to do sth. 邀请某人做某事。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/u5Bsfb8q7jrkxpQHf4qvxB.mp3"
     },
     {
-      "id": "u10-s17",
-      "text": "It's not just about having fun - you will be closer because of the shared experience!",
-      "paragraphId": "u10-p5",
-      "keywords": [
-        "shared experience",
-        "closer"
-      ],
+      "id": "u10-article-s17",
+      "text": "It's not just about having fun – you will be closer because of the shared experience!",
+      "paragraphId": "u10-article-p4",
+      "tr": "这不仅仅是为了好玩——你们会因为共同的经历而变得更亲近！",
+      "g": "并列复合句",
+      "d": "because of 因为（后接名词短语）。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/MmnhcpiSpXpGAoZyUx2ziW.mp3"
     },
     {
-      "id": "u10-s18",
+      "id": "u10-article-s18",
       "text": "Fun is important in a number of ways.",
-      "paragraphId": "u10-p5",
-      "keywords": [
-        "important",
-        "number of ways"
-      ],
+      "paragraphId": "u10-article-p5",
+      "tr": "乐趣在很多方面都很重要。",
+      "g": "主系表结构",
+      "d": "in a number of ways 在许多方面。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/noGPxRVmxzeweh5DHZZJYF.mp3"
     },
     {
-      "id": "u10-s19",
+      "id": "u10-article-s19",
       "text": "Don't forget to take some time out to have fun and enjoy life!",
-      "paragraphId": "u10-p5",
-      "keywords": [
-        "take time out",
-        "enjoy life"
-      ],
+      "paragraphId": "u10-article-p5",
+      "tr": "别忘了抽点时间去寻找乐趣，享受生活！",
+      "g": "祈使句",
+      "d": "forget to do sth. 忘记要做某事。",
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FXmy7TzQ2tFp7k7SR8T46j.mp3"
     },
     {
-      "id": "u10-s20",
-      "text": "We need to work hard.",
-      "paragraphId": "u10-p5",
-      "keywords": [
-        "work hard"
-      ]
-    },
-    {
-      "id": "u10-s21",
-      "text": "But we should be able to play hard, too.",
-      "paragraphId": "u10-p5",
-      "keywords": [
-        "play hard"
-      ]
+      "id": "u10-article-s20",
+      "text": "We need to work hard. But we should be able to play hard, too.",
+      "paragraphId": "u10-article-p5",
+      "tr": "我们需要努力工作。但我们也应该能尽情玩耍。",
+      "g": "主谓宾结构",
+      "d": "need to do sth. 需要做某事；be able to 能够。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3i542khE7ijCzjDhxiD2Z2.mp3"
     }
   ],
   "vocabItems": [
     {
-      "id": "u10-v1",
-      "term": "do away with",
-      "meaningZh": "消除",
-      "exampleSentenceId": "u10-s7",
-      "distractorsZh": [
-        "创造",
-        "增加",
-        "忽略"
-      ]
+      "id": "u10-article-v1",
+      "term": "we",
+      "meaningZh": "pron. 我们（主格）",
+      "exampleSentenceId": "u10-article-s12"
     },
     {
-      "id": "u10-v2",
-      "term": "lift our spirits",
-      "meaningZh": "振奋精神",
-      "exampleSentenceId": "u10-s7",
-      "distractorsZh": [
-        "降低情绪",
-        "分散注意力",
-        "保持冷静"
-      ]
+      "id": "u10-article-v2",
+      "term": "having",
+      "meaningZh": "v. 有；吃；进行（have的动名词）",
+      "exampleSentenceId": "u10-article-s15"
     },
     {
-      "id": "u10-v3",
+      "id": "u10-article-v3",
+      "term": "have",
+      "meaningZh": "v. 有；吃；进行",
+      "exampleSentenceId": "u10-article-s19"
+    },
+    {
+      "id": "u10-article-v4",
+      "term": "play",
+      "meaningZh": "v. 玩耍；演奏；播放",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v5",
+      "term": "of",
+      "meaningZh": "prep. ...的",
+      "exampleSentenceId": "u10-article-s10"
+    },
+    {
+      "id": "u10-article-v6",
+      "term": "the",
+      "meaningZh": "art. 这，那",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v7",
+      "term": "a",
+      "meaningZh": "art. 一个",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v8",
+      "term": "in",
+      "meaningZh": "prep. 在...里面",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v9",
+      "term": "us",
+      "meaningZh": "pron. 我们（宾格）",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v10",
+      "term": "with",
+      "meaningZh": "prep. 具有；用；和...一起",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v11",
+      "term": "imagine",
+      "meaningZh": "v. 想象，设想",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v12",
+      "term": "staying",
+      "meaningZh": "v. 停留，保持（stay的动名词）",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v13",
+      "term": "on",
+      "meaningZh": "prep. 在...之上",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v14",
+      "term": "an",
+      "meaningZh": "art. 一个",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v15",
+      "term": "island",
+      "meaningZh": "n. 岛，岛屿",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v16",
+      "term": "alone",
+      "meaningZh": "adj. 独自的，单独的",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v17",
+      "term": "you",
+      "meaningZh": "pron. 你，你们",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v18",
+      "term": "can",
+      "meaningZh": "v. 能，可以",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v19",
+      "term": "only",
+      "meaningZh": "adv. 只有，仅仅",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v20",
+      "term": "take",
+      "meaningZh": "v. 携带，拿走",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v21",
+      "term": "five",
+      "meaningZh": "num. 五",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v22",
+      "term": "things",
+      "meaningZh": "n. 事情，东西（thing的复数形式）",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v23",
+      "term": "might",
+      "meaningZh": "v. 可能",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v24",
+      "term": "put",
+      "meaningZh": "v. 放，安置",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v25",
+      "term": "food",
+      "meaningZh": "n. 食物",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v26",
+      "term": "water",
+      "meaningZh": "n. 水",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v27",
+      "term": "tools",
+      "meaningZh": "n. 工具（tool的复数形式）",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v28",
+      "term": "and",
+      "meaningZh": "conj. 和，而且",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v29",
+      "term": "clothes",
+      "meaningZh": "n. 衣服（常以复数形式出现）",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v30",
+      "term": "your",
+      "meaningZh": "pron. 你的",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v31",
+      "term": "list",
+      "meaningZh": "n. 清单",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v32",
+      "term": "but",
+      "meaningZh": "conj. 但是",
+      "exampleSentenceId": "u10-article-s4"
+    },
+    {
+      "id": "u10-article-v33",
+      "term": "what",
+      "meaningZh": "pron. 什么",
+      "exampleSentenceId": "u10-article-s4"
+    },
+    {
+      "id": "u10-article-v34",
+      "term": "about",
+      "meaningZh": "prep. 关于",
+      "exampleSentenceId": "u10-article-s4"
+    },
+    {
+      "id": "u10-article-v35",
+      "term": "fifth",
+      "meaningZh": "num. 第五",
+      "exampleSentenceId": "u10-article-s4"
+    },
+    {
+      "id": "u10-article-v36",
+      "term": "one",
+      "meaningZh": "num. 一",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v37",
+      "term": "most",
+      "meaningZh": "adj. 大部分的",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v38",
+      "term": "people",
+      "meaningZh": "n. 人们",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v39",
+      "term": "would",
+      "meaningZh": "v. 将，愿意",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v40",
+      "term": "choose",
+      "meaningZh": "v. 选择",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v41",
+      "term": "something",
+      "meaningZh": "pron. 某事",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v42",
+      "term": "for",
+      "meaningZh": "prep. 为了",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v43",
+      "term": "fun",
+      "meaningZh": "n. 乐趣",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v44",
+      "term": "like",
+      "meaningZh": "prep. 像，比如",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v45",
+      "term": "novel",
+      "meaningZh": "n. 小说",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v46",
+      "term": "magazine",
+      "meaningZh": "n. 杂志",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v47",
+      "term": "or",
+      "meaningZh": "conj. 或者",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v48",
+      "term": "solar",
+      "meaningZh": "adj. 太阳的",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v49",
+      "term": "media",
+      "meaningZh": "n. 媒体",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v50",
+      "term": "player",
+      "meaningZh": "n. 播放器",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v51",
+      "term": "after",
+      "meaningZh": "prep. 在...之后",
+      "exampleSentenceId": "u10-article-s6"
+    },
+    {
+      "id": "u10-article-v52",
+      "term": "all",
+      "meaningZh": "adj. 全部的",
+      "exampleSentenceId": "u10-article-s6"
+    },
+    {
+      "id": "u10-article-v53",
+      "term": "no",
+      "meaningZh": "adv. 不",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v54",
+      "term": "wants",
+      "meaningZh": "v. 想要（want的第三人称单数）",
+      "exampleSentenceId": "u10-article-s6"
+    },
+    {
+      "id": "u10-article-v55",
+      "term": "to",
+      "meaningZh": "prep. 到，向",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v56",
+      "term": "get",
+      "meaningZh": "v. 得到，变得",
+      "exampleSentenceId": "u10-article-s6"
+    },
+    {
+      "id": "u10-article-v57",
+      "term": "bored",
+      "meaningZh": "adj. 无聊的",
+      "exampleSentenceId": "u10-article-s6"
+    },
+    {
+      "id": "u10-article-v58",
+      "term": "do",
+      "meaningZh": "v. 做",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v59",
+      "term": "away",
+      "meaningZh": "adv. 离开",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v60",
+      "term": "bad",
+      "meaningZh": "adj. 坏的",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v61",
+      "term": "feelings",
+      "meaningZh": "n. 感觉，情绪（feeling的复数形式）",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v62",
+      "term": "lift",
+      "meaningZh": "v. 举起，提升",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v63",
+      "term": "our",
+      "meaningZh": "pron. 我们的",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v64",
+      "term": "spirits",
+      "meaningZh": "n. 精神，灵魂（spirit的复数形式）",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v65",
+      "term": "just",
+      "meaningZh": "adv. 仅仅，刚才",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v66",
+      "term": "picture",
+      "meaningZh": "v. 想象，画",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v67",
+      "term": "yourself",
+      "meaningZh": "pron. 你自己",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v68",
+      "term": "watching",
+      "meaningZh": "v. 观看（watch的现在分词）",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v69",
+      "term": "funny",
+      "meaningZh": "adj. 有趣的",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v70",
+      "term": "film",
+      "meaningZh": "n. 电影",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v71",
+      "term": "that",
+      "meaningZh": "pron. 那，那个",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v72",
+      "term": "sitting",
+      "meaningZh": "v. 坐（sit的动名词）",
+      "exampleSentenceId": "u10-article-s9"
+    },
+    {
+      "id": "u10-article-v73",
+      "term": "under",
+      "meaningZh": "prep. 在...之下",
+      "exampleSentenceId": "u10-article-s9"
+    },
+    {
+      "id": "u10-article-v74",
+      "term": "trees",
+      "meaningZh": "n. 树木（tree的复数形式）",
+      "exampleSentenceId": "u10-article-s9"
+    },
+    {
+      "id": "u10-article-v75",
+      "term": "will",
+      "meaningZh": "v. 将",
+      "exampleSentenceId": "u10-article-s9"
+    },
+    {
+      "id": "u10-article-v76",
+      "term": "not",
+      "meaningZh": "adv. 不",
+      "exampleSentenceId": "u10-article-s9"
+    },
+    {
+      "id": "u10-article-v77",
+      "term": "be",
+      "meaningZh": "v. 是",
+      "exampleSentenceId": "u10-article-s9"
+    },
+    {
+      "id": "u10-article-v78",
+      "term": "boring",
+      "meaningZh": "adj. 无聊的",
+      "exampleSentenceId": "u10-article-s9"
+    },
+    {
+      "id": "u10-article-v79",
+      "term": "at",
+      "meaningZh": "prep. 在",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v80",
+      "term": "it",
+      "meaningZh": "pron. 它",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v81",
+      "term": "becomes",
+      "meaningZh": "v. 变成（become的第三人称单数）",
+      "exampleSentenceId": "u10-article-s10"
+    },
+    {
+      "id": "u10-article-v82",
+      "term": "moment",
+      "meaningZh": "n. 时刻",
+      "exampleSentenceId": "u10-article-s10"
+    },
+    {
+      "id": "u10-article-v83",
+      "term": "joy",
+      "meaningZh": "n. 欢乐",
+      "exampleSentenceId": "u10-article-s10"
+    },
+    {
+      "id": "u10-article-v84",
+      "term": "also",
+      "meaningZh": "adv. 也",
+      "exampleSentenceId": "u10-article-s11"
+    },
+    {
+      "id": "u10-article-v85",
+      "term": "keeps",
+      "meaningZh": "v. 保持（keep的第三人称单数）",
+      "exampleSentenceId": "u10-article-s11"
+    },
+    {
+      "id": "u10-article-v86",
+      "term": "feeling",
+      "meaningZh": "v. 感觉（feel的现在分词）",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v87",
       "term": "youthful",
-      "meaningZh": "年轻的",
-      "exampleSentenceId": "u10-s11",
-      "distractorsZh": [
-        "年老的",
-        "成熟的",
-        "疲惫的"
-      ]
+      "meaningZh": "adj. 年轻的",
+      "exampleSentenceId": "u10-article-s11"
     },
     {
-      "id": "u10-v4",
-      "term": "connect with others",
-      "meaningZh": "与他人联系",
-      "exampleSentenceId": "u10-s15",
-      "distractorsZh": [
-        "孤立自己",
-        "批评他人",
-        "忽视他人"
-      ]
+      "id": "u10-article-v88",
+      "term": "as",
+      "meaningZh": "conj. 正如，当...时",
+      "exampleSentenceId": "u10-article-s12"
     },
     {
-      "id": "u10-v5",
-      "term": "shared experience",
-      "meaningZh": "共享的经历",
-      "exampleSentenceId": "u10-s17",
-      "distractorsZh": [
-        "个人成就",
-        "秘密事件",
-        "独自旅行"
-      ]
+      "id": "u10-article-v89",
+      "term": "george",
+      "meaningZh": "n. 乔治",
+      "exampleSentenceId": "u10-article-s12"
     },
     {
-      "id": "u10-v6",
-      "term": "take some time out",
-      "meaningZh": "抽出时间",
-      "exampleSentenceId": "u10-s19",
-      "distractorsZh": [
-        "浪费时间",
-        "匆忙完成",
-        "推迟计划"
-      ]
+      "id": "u10-article-v90",
+      "term": "bernard",
+      "meaningZh": "n. 伯纳德",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v91",
+      "term": "shaw",
+      "meaningZh": "n. 萧",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v92",
+      "term": "once",
+      "meaningZh": "adv. 曾经",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v93",
+      "term": "said",
+      "meaningZh": "v. 说（say的过去式）",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v94",
+      "term": "don't",
+      "meaningZh": "v. 不（还原：do not）",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v95",
+      "term": "stop",
+      "meaningZh": "v. 停止",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v96",
+      "term": "playing",
+      "meaningZh": "v. 玩耍（play的动名词）",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v97",
+      "term": "because",
+      "meaningZh": "conj. 因为",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v98",
+      "term": "grow",
+      "meaningZh": "v. 生长，变得",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v99",
+      "term": "old",
+      "meaningZh": "adj. 老的",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v100",
+      "term": "research",
+      "meaningZh": "n. 研究",
+      "exampleSentenceId": "u10-article-s13"
+    },
+    {
+      "id": "u10-article-v101",
+      "term": "shows",
+      "meaningZh": "v. 展示（show的第三人称单数）",
+      "exampleSentenceId": "u10-article-s13"
+    },
+    {
+      "id": "u10-article-v102",
+      "term": "brings",
+      "meaningZh": "v. 带来（bring的第三人称单数）",
+      "exampleSentenceId": "u10-article-s13"
+    },
+    {
+      "id": "u10-article-v103",
+      "term": "closer",
+      "meaningZh": "adj. 更近的",
+      "exampleSentenceId": "u10-article-s13"
+    },
+    {
+      "id": "u10-article-v104",
+      "term": "is",
+      "meaningZh": "v. 是",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v105",
+      "term": "good",
+      "meaningZh": "adj. 好的",
+      "exampleSentenceId": "u10-article-s15"
+    },
+    {
+      "id": "u10-article-v106",
+      "term": "way",
+      "meaningZh": "n. 方式",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v107",
+      "term": "connect",
+      "meaningZh": "v. 连接",
+      "exampleSentenceId": "u10-article-s15"
+    },
+    {
+      "id": "u10-article-v108",
+      "term": "others",
+      "meaningZh": "pron. 其他人（other的复数形式）",
+      "exampleSentenceId": "u10-article-s15"
+    },
+    {
+      "id": "u10-article-v109",
+      "term": "so",
+      "meaningZh": "adv. 所以",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v110",
+      "term": "next",
+      "meaningZh": "adj. 下一个",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v111",
+      "term": "time",
+      "meaningZh": "n. 时间",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v112",
+      "term": "invite",
+      "meaningZh": "v. 邀请",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v113",
+      "term": "friends",
+      "meaningZh": "n. 朋友（friend的复数形式）",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v114",
+      "term": "enjoy",
+      "meaningZh": "v. 享受",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v115",
+      "term": "live",
+      "meaningZh": "adj. 现场的；活的",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v116",
+      "term": "music",
+      "meaningZh": "n. 音乐",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v117",
+      "term": "together",
+      "meaningZh": "adv. 一起",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v118",
+      "term": "it's",
+      "meaningZh": "v. 它是（还原：it is）",
+      "exampleSentenceId": "u10-article-s17"
+    },
+    {
+      "id": "u10-article-v119",
+      "term": "shared",
+      "meaningZh": "adj. 共享的（share的过去分词）",
+      "exampleSentenceId": "u10-article-s17"
+    },
+    {
+      "id": "u10-article-v120",
+      "term": "experience",
+      "meaningZh": "n. 经验，经历",
+      "exampleSentenceId": "u10-article-s17"
+    },
+    {
+      "id": "u10-article-v121",
+      "term": "important",
+      "meaningZh": "adj. 重要的",
+      "exampleSentenceId": "u10-article-s18"
+    },
+    {
+      "id": "u10-article-v122",
+      "term": "number",
+      "meaningZh": "n. 数字，许多",
+      "exampleSentenceId": "u10-article-s18"
+    },
+    {
+      "id": "u10-article-v123",
+      "term": "ways",
+      "meaningZh": "n. 方式（way的复数形式）",
+      "exampleSentenceId": "u10-article-s18"
+    },
+    {
+      "id": "u10-article-v124",
+      "term": "forget",
+      "meaningZh": "v. 忘记",
+      "exampleSentenceId": "u10-article-s19"
+    },
+    {
+      "id": "u10-article-v125",
+      "term": "some",
+      "meaningZh": "adj. 一些",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v126",
+      "term": "out",
+      "meaningZh": "adv. 出去",
+      "exampleSentenceId": "u10-article-s4"
+    },
+    {
+      "id": "u10-article-v127",
+      "term": "life",
+      "meaningZh": "n. 生活",
+      "exampleSentenceId": "u10-article-s19"
+    },
+    {
+      "id": "u10-article-v128",
+      "term": "need",
+      "meaningZh": "v. 需要",
+      "exampleSentenceId": "u10-article-s20"
+    },
+    {
+      "id": "u10-article-v129",
+      "term": "work",
+      "meaningZh": "v. 工作",
+      "exampleSentenceId": "u10-article-s20"
+    },
+    {
+      "id": "u10-article-v130",
+      "term": "hard",
+      "meaningZh": "adv. 努力地",
+      "exampleSentenceId": "u10-article-s20"
+    },
+    {
+      "id": "u10-article-v131",
+      "term": "should",
+      "meaningZh": "v. 应该",
+      "exampleSentenceId": "u10-article-s20"
+    },
+    {
+      "id": "u10-article-v132",
+      "term": "able",
+      "meaningZh": "adj. 能够",
+      "exampleSentenceId": "u10-article-s20"
+    },
+    {
+      "id": "u10-article-v133",
+      "term": "too",
+      "meaningZh": "adv. 也",
+      "exampleSentenceId": "u10-article-s3"
     }
   ],
-  "sentenceTasks": [
-    {
-      "id": "u10-st1",
-      "sentenceId": "u10-s12",
-      "type": "chunk_reorder",
-      "promptZh": "把句子语块按正确顺序拖拽排列",
-      "chunks": [
-        {
-          "id": "u10-c1",
-          "text": "As George Bernard Shaw once said,",
-          "tag": "引言部分"
-        },
-        {
-          "id": "u10-c2",
-          "text": "\"We don't stop playing",
-          "tag": "主句开头"
-        },
-        {
-          "id": "u10-c3",
-          "text": "because we grow old;",
-          "tag": "原因状语1"
-        },
-        {
-          "id": "u10-c4",
-          "text": "we grow old",
-          "tag": "主句2"
-        },
-        {
-          "id": "u10-c5",
-          "text": "because we stop playing.\"",
-          "tag": "原因状语2"
-        }
-      ],
-      "correctOrder": [
-        "u10-c1",
-        "u10-c2",
-        "u10-c3",
-        "u10-c4",
-        "u10-c5"
-      ],
-      "focusPointsZh": [
-        "引言结构",
-        "because引导的原因状语从句",
-        "并列句对比"
-      ]
-    },
-    {
-      "id": "u10-st2",
-      "sentenceId": "u10-s17",
-      "type": "chunk_reorder",
-      "promptZh": "把句子语块按正确顺序拖拽排列",
-      "chunks": [
-        {
-          "id": "u10-c6",
-          "text": "It's not just about having fun -",
-          "tag": "主句1"
-        },
-        {
-          "id": "u10-c7",
-          "text": "you will be closer",
-          "tag": "主句2"
-        },
-        {
-          "id": "u10-c8",
-          "text": "because of the shared experience!",
-          "tag": "原因状语"
-        }
-      ],
-      "correctOrder": [
-        "u10-c6",
-        "u10-c7",
-        "u10-c8"
-      ],
-      "focusPointsZh": [
-        "破折号表示补充说明",
-        "because of引导的原因短语",
-        "句子逻辑关系"
-      ]
-    }
-  ],
+  "sentenceTasks": [],
   "readingQuestions": [
     {
-      "id": "u10-rq1",
+      "id": "reading-q1",
       "type": "single_choice",
-      "stem": "What is the main purpose of the article?",
+      "stem": "What is the main idea of the passage?",
       "options": [
-        "To list items for a trip",
-        "To explain the importance of fun",
-        "To describe an island adventure",
-        "To introduce George Bernard Shaw"
+        "A. How to survive on an island",
+        "B. The importance of having fun",
+        "C. Famous quotes about playing",
+        "D. How to make friends"
       ],
-      "answer": "To explain the importance of fun",
-      "rationaleZh": "文章通过多个段落阐述乐趣在消除负面情绪、保持年轻、拉近人际关系等方面的重要性，因此主要目的是解释乐趣的重要性。",
-      "evidenceSentenceIds": [
-        "u10-s7",
-        "u10-s11",
-        "u10-s13",
-        "u10-s18"
-      ]
+      "answer": "B. The importance of having fun",
+      "rationaleZh": "文章通篇强调乐趣（Fun）在心理、社交和保持年轻方面的重要性。"
     },
     {
-      "id": "u10-rq2",
+      "id": "reading-q2",
       "type": "single_choice",
-      "stem": "According to the article, what can fun help to do?",
+      "stem": "According to paragraph 2, fun can help us ______.",
       "options": [
-        "Make people bored",
-        "Do away with bad feelings",
-        "Stop people from growing old",
-        "Isolate individuals"
+        "A. find food",
+        "B. watch films",
+        "C. lift our spirits",
+        "D. plant trees"
       ],
-      "answer": "Do away with bad feelings",
-      "rationaleZh": "文章明确指出乐趣可以消除不良情绪并振奋精神，对应句子'Fun can do away with bad feelings and lift our spirits.'。",
-      "evidenceSentenceIds": [
-        "u10-s7"
-      ]
+      "answer": "C. lift our spirits",
+      "rationaleZh": "第二段明确提到：Fun can... lift our spirits。"
     },
     {
-      "id": "u10-rq3",
+      "id": "reading-q3",
       "type": "single_choice",
-      "stem": "What does the quote by George Bernard Shaw imply?",
+      "stem": "What does George Bernard Shaw think about playing?",
       "options": [
-        "Playing is only for children",
-        "We stop playing as we age naturally",
-        "Playing prevents aging",
-        "Aging is caused by stopping play"
+        "A. It's only for kids",
+        "B. It makes us grow old",
+        "C. It keeps us from growing old",
+        "D. It's a waste of time"
       ],
-      "answer": "Aging is caused by stopping play",
-      "rationaleZh": "萧伯纳的引言'We don't stop playing because we grow old; we grow old because we stop playing.'强调停止玩耍会导致变老，而不是变老导致停止玩耍。",
-      "evidenceSentenceIds": [
-        "u10-s12"
-      ]
+      "answer": "C. It keeps us from growing old",
+      "rationaleZh": "萧伯纳认为我们是因为停止玩耍才变老的，所以玩耍能让我们保持年轻。"
     },
     {
-      "id": "u10-rq4",
+      "id": "reading-q4",
       "type": "single_choice",
-      "stem": "How does fun affect relationships according to the article?",
+      "stem": "The phrase 'do away with' in paragraph 2 means ______.",
       "options": [
-        "It has no effect",
-        "It brings people closer",
-        "It causes conflicts",
-        "It makes people independent"
+        "A. get rid of",
+        "B. put up with",
+        "C. keep up with",
+        "D. come up with"
       ],
-      "answer": "It brings people closer",
-      "rationaleZh": "文章提到研究表明乐趣能拉近人们的距离，并且共享乐趣体验可以增进亲密关系，如'Research also shows that fun brings people closer.'和'you will be closer because of the shared experience!'。",
-      "evidenceSentenceIds": [
-        "u10-s13",
-        "u10-s17"
-      ]
+      "answer": "A. get rid of",
+      "rationaleZh": "do away with 意为消除、废除，与 get rid of 意思相近。"
     },
     {
-      "id": "u10-rq5",
+      "id": "reading-q5",
       "type": "single_choice",
-      "stem": "What is the author's final advice?",
+      "stem": "Which of the following is TRUE according to the text?",
       "options": [
-        "Work hard only",
-        "Avoid fun activities",
-        "Balance work and play",
-        "Play hard without working"
+        "A. Fun brings people closer",
+        "B. Work is more important than fun",
+        "C. We should only play on islands",
+        "D. Music is the only way to have fun"
       ],
-      "answer": "Balance work and play",
-      "rationaleZh": "文章结尾建议既要努力工作，也要尽情玩耍，体现工作与娱乐的平衡，如'We need to work hard. But we should be able to play hard, too.'。",
-      "evidenceSentenceIds": [
-        "u10-s20",
-        "u10-s21"
-      ]
+      "answer": "A. Fun brings people closer",
+      "rationaleZh": "第四段明确提到：Research also shows that fun brings people closer。"
     }
   ],
-  "quoteCandidates": [
-    {
-      "sentenceId": "u10-s12",
-      "reasonZh": "这句引言语言优美，通过对比和因果倒置，深刻揭示了玩耍与年龄关系的哲理，富有启发性和韵律感。"
-    },
-    {
-      "sentenceId": "u10-s7",
-      "reasonZh": "句子简洁有力，使用'do away with'和'lift our spirits'等生动短语，清晰表达了乐趣对情绪的积极影响。"
-    },
-    {
-      "sentenceId": "u10-s17",
-      "reasonZh": "句子结构平衡，破折号巧妙连接两个相关观点，强调共享体验的价值，语言流畅且富有感染力。"
-    }
-  ],
+  "quoteCandidates": [],
   "lexicon": {
     "we": {
       "phonetic": "/wi/",
       "pos": "pron.",
-      "meaningZh": "pron. 我们（主格）"
+      "meaningZh": "pron. 我们（主格）",
+      "usageZh": "",
+      "example": ""
     },
     "having": {
       "phonetic": "/ˈhævɪŋ/",
       "pos": "v.",
-      "meaningZh": "v. 有；吃；进行（have的动名词）"
+      "meaningZh": "v. 有；吃；进行（have的动名词）",
+      "usageZh": "",
+      "example": ""
     },
     "have": {
       "phonetic": "/hæv/",
       "pos": "v.",
-      "meaningZh": "v. 有；吃；进行"
+      "meaningZh": "v. 有；吃；进行",
+      "usageZh": "",
+      "example": ""
     },
     "play": {
       "phonetic": "/pleɪ/",
       "pos": "v.",
-      "meaningZh": "v. 玩耍；演奏；播放"
+      "meaningZh": "v. 玩耍；演奏；播放",
+      "usageZh": "",
+      "example": ""
     },
     "of": {
       "phonetic": "/əv, ɒv/",
       "pos": "prep.",
-      "meaningZh": "prep. ...的"
+      "meaningZh": "prep. ...的",
+      "usageZh": "",
+      "example": ""
     },
     "the": {
       "phonetic": "/ðə, ði/",
       "pos": "art.",
-      "meaningZh": "art. 这，那"
+      "meaningZh": "art. 这，那",
+      "usageZh": "",
+      "example": ""
     },
     "a": {
       "phonetic": "/ə, eɪ/",
       "pos": "art.",
-      "meaningZh": "art. 一个"
+      "meaningZh": "art. 一个",
+      "usageZh": "",
+      "example": ""
     },
     "in": {
       "phonetic": "/ɪn/",
       "pos": "prep.",
-      "meaningZh": "prep. 在...里面"
+      "meaningZh": "prep. 在...里面",
+      "usageZh": "",
+      "example": ""
     },
     "us": {
       "phonetic": "/ʌs/",
       "pos": "pron.",
-      "meaningZh": "pron. 我们（宾格）"
+      "meaningZh": "pron. 我们（宾格）",
+      "usageZh": "",
+      "example": ""
     },
     "with": {
       "phonetic": "/wɪð/",
       "pos": "prep.",
-      "meaningZh": "prep. 具有；用；和...一起"
+      "meaningZh": "prep. 具有；用；和...一起",
+      "usageZh": "",
+      "example": ""
     },
     "imagine": {
       "phonetic": "/ɪˈmædʒɪn/",
       "pos": "v.",
-      "meaningZh": "v. 想象，设想"
+      "meaningZh": "v. 想象，设想",
+      "usageZh": "",
+      "example": ""
     },
     "staying": {
       "phonetic": "/ˈsteɪɪŋ/",
       "pos": "v.",
-      "meaningZh": "v. 停留，保持（stay的动名词）"
+      "meaningZh": "v. 停留，保持（stay的动名词）",
+      "usageZh": "",
+      "example": ""
     },
     "on": {
       "phonetic": "/ɒn/",
       "pos": "prep.",
-      "meaningZh": "prep. 在...之上"
+      "meaningZh": "prep. 在...之上",
+      "usageZh": "",
+      "example": ""
     },
     "an": {
       "phonetic": "/ən/",
       "pos": "art.",
-      "meaningZh": "art. 一个"
+      "meaningZh": "art. 一个",
+      "usageZh": "",
+      "example": ""
     },
     "island": {
       "phonetic": "/ˈaɪlənd/",
       "pos": "n.",
-      "meaningZh": "n. 岛，岛屿"
+      "meaningZh": "n. 岛，岛屿",
+      "usageZh": "",
+      "example": ""
     },
     "alone": {
       "phonetic": "/əˈləʊn/",
       "pos": "adj.",
-      "meaningZh": "adj. 独自的，单独的"
+      "meaningZh": "adj. 独自的，单独的",
+      "usageZh": "",
+      "example": ""
     },
     "you": {
       "phonetic": "/ju/",
       "pos": "pron.",
-      "meaningZh": "pron. 你，你们"
+      "meaningZh": "pron. 你，你们",
+      "usageZh": "",
+      "example": ""
     },
     "can": {
       "phonetic": "/kæn/",
       "pos": "v.",
-      "meaningZh": "v. 能，可以"
+      "meaningZh": "v. 能，可以",
+      "usageZh": "",
+      "example": ""
     },
     "only": {
       "phonetic": "/ˈəʊnli/",
       "pos": "adv.",
-      "meaningZh": "adv. 只有，仅仅"
+      "meaningZh": "adv. 只有，仅仅",
+      "usageZh": "",
+      "example": ""
     },
     "take": {
       "phonetic": "/teɪk/",
       "pos": "v.",
-      "meaningZh": "v. 携带，拿走"
+      "meaningZh": "v. 携带，拿走",
+      "usageZh": "",
+      "example": ""
     },
     "five": {
       "phonetic": "/faɪv/",
       "pos": "num.",
-      "meaningZh": "num. 五"
+      "meaningZh": "num. 五",
+      "usageZh": "",
+      "example": ""
     },
     "things": {
       "phonetic": "/θɪŋz/",
       "pos": "n.",
-      "meaningZh": "n. 事情，东西（thing的复数形式）"
+      "meaningZh": "n. 事情，东西（thing的复数形式）",
+      "usageZh": "",
+      "example": ""
     },
     "might": {
       "phonetic": "/maɪt/",
       "pos": "v.",
-      "meaningZh": "v. 可能"
+      "meaningZh": "v. 可能",
+      "usageZh": "",
+      "example": ""
     },
     "put": {
       "phonetic": "/pʊt/",
       "pos": "v.",
-      "meaningZh": "v. 放，安置"
+      "meaningZh": "v. 放，安置",
+      "usageZh": "",
+      "example": ""
     },
     "food": {
       "phonetic": "/fuːd/",
       "pos": "n.",
-      "meaningZh": "n. 食物"
+      "meaningZh": "n. 食物",
+      "usageZh": "",
+      "example": ""
     },
     "water": {
       "phonetic": "/ˈwɔːtə/",
       "pos": "n.",
-      "meaningZh": "n. 水"
+      "meaningZh": "n. 水",
+      "usageZh": "",
+      "example": ""
     },
     "tools": {
       "phonetic": "/tuːlz/",
       "pos": "n.",
-      "meaningZh": "n. 工具（tool的复数形式）"
+      "meaningZh": "n. 工具（tool的复数形式）",
+      "usageZh": "",
+      "example": ""
     },
     "and": {
       "phonetic": "/ænd/",
       "pos": "conj.",
-      "meaningZh": "conj. 和，而且"
+      "meaningZh": "conj. 和，而且",
+      "usageZh": "",
+      "example": ""
     },
     "clothes": {
       "phonetic": "/kləʊðz/",
       "pos": "n.",
-      "meaningZh": "n. 衣服（常以复数形式出现）"
+      "meaningZh": "n. 衣服（常以复数形式出现）",
+      "usageZh": "",
+      "example": ""
     },
     "your": {
       "phonetic": "/jɔː/",
       "pos": "pron.",
-      "meaningZh": "pron. 你的"
+      "meaningZh": "pron. 你的",
+      "usageZh": "",
+      "example": ""
     },
     "list": {
       "phonetic": "/lɪst/",
       "pos": "n.",
-      "meaningZh": "n. 清单"
+      "meaningZh": "n. 清单",
+      "usageZh": "",
+      "example": ""
     },
     "but": {
       "phonetic": "/bʌt/",
       "pos": "conj.",
-      "meaningZh": "conj. 但是"
+      "meaningZh": "conj. 但是",
+      "usageZh": "",
+      "example": ""
     },
     "what": {
       "phonetic": "/wɒt/",
       "pos": "pron.",
-      "meaningZh": "pron. 什么"
+      "meaningZh": "pron. 什么",
+      "usageZh": "",
+      "example": ""
     },
     "about": {
       "phonetic": "/əˈbaʊt/",
       "pos": "prep.",
-      "meaningZh": "prep. 关于"
+      "meaningZh": "prep. 关于",
+      "usageZh": "",
+      "example": ""
     },
     "fifth": {
       "phonetic": "/fɪfθ/",
       "pos": "num.",
-      "meaningZh": "num. 第五"
+      "meaningZh": "num. 第五",
+      "usageZh": "",
+      "example": ""
     },
     "one": {
       "phonetic": "/wʌn/",
       "pos": "num.",
-      "meaningZh": "num. 一"
+      "meaningZh": "num. 一",
+      "usageZh": "",
+      "example": ""
     },
     "most": {
       "phonetic": "/məʊst/",
       "pos": "adj.",
-      "meaningZh": "adj. 大部分的"
+      "meaningZh": "adj. 大部分的",
+      "usageZh": "",
+      "example": ""
     },
     "people": {
       "phonetic": "/ˈpiːpl/",
       "pos": "n.",
-      "meaningZh": "n. 人们"
+      "meaningZh": "n. 人们",
+      "usageZh": "",
+      "example": ""
     },
     "would": {
       "phonetic": "/wʊd/",
       "pos": "v.",
-      "meaningZh": "v. 将，愿意"
+      "meaningZh": "v. 将，愿意",
+      "usageZh": "",
+      "example": ""
     },
     "choose": {
       "phonetic": "/tʃuːz/",
       "pos": "v.",
-      "meaningZh": "v. 选择"
+      "meaningZh": "v. 选择",
+      "usageZh": "",
+      "example": ""
     },
     "something": {
       "phonetic": "/ˈsʌmθɪŋ/",
       "pos": "pron.",
-      "meaningZh": "pron. 某事"
+      "meaningZh": "pron. 某事",
+      "usageZh": "",
+      "example": ""
     },
     "for": {
       "phonetic": "/fɔː/",
       "pos": "prep.",
-      "meaningZh": "prep. 为了"
+      "meaningZh": "prep. 为了",
+      "usageZh": "",
+      "example": ""
     },
     "fun": {
       "phonetic": "/fʌn/",
       "pos": "n.",
-      "meaningZh": "n. 乐趣"
+      "meaningZh": "n. 乐趣",
+      "usageZh": "",
+      "example": ""
     },
     "like": {
       "phonetic": "/laɪk/",
       "pos": "prep.",
-      "meaningZh": "prep. 像，比如"
+      "meaningZh": "prep. 像，比如",
+      "usageZh": "",
+      "example": ""
     },
     "novel": {
       "phonetic": "/ˈnɒvl/",
       "pos": "n.",
-      "meaningZh": "n. 小说"
+      "meaningZh": "n. 小说",
+      "usageZh": "",
+      "example": ""
     },
     "magazine": {
       "phonetic": "/ˌmæɡəˈziːn/",
       "pos": "n.",
-      "meaningZh": "n. 杂志"
+      "meaningZh": "n. 杂志",
+      "usageZh": "",
+      "example": ""
     },
     "or": {
       "phonetic": "/ɔː/",
       "pos": "conj.",
-      "meaningZh": "conj. 或者"
+      "meaningZh": "conj. 或者",
+      "usageZh": "",
+      "example": ""
     },
     "solar": {
       "phonetic": "/ˈsəʊlə/",
       "pos": "adj.",
-      "meaningZh": "adj. 太阳的"
+      "meaningZh": "adj. 太阳的",
+      "usageZh": "",
+      "example": ""
     },
     "media": {
       "phonetic": "/ˈmiːdiə/",
       "pos": "n.",
-      "meaningZh": "n. 媒体"
+      "meaningZh": "n. 媒体",
+      "usageZh": "",
+      "example": ""
     },
     "player": {
       "phonetic": "/ˈpleɪə/",
       "pos": "n.",
-      "meaningZh": "n. 播放器"
+      "meaningZh": "n. 播放器",
+      "usageZh": "",
+      "example": ""
     },
     "after": {
       "phonetic": "/ˈɑːftə/",
       "pos": "prep.",
-      "meaningZh": "prep. 在...之后"
+      "meaningZh": "prep. 在...之后",
+      "usageZh": "",
+      "example": ""
     },
     "all": {
       "phonetic": "/ɔːl/",
       "pos": "adj.",
-      "meaningZh": "adj. 全部的"
+      "meaningZh": "adj. 全部的",
+      "usageZh": "",
+      "example": ""
     },
     "no": {
       "phonetic": "/nəʊ/",
       "pos": "adv.",
-      "meaningZh": "adv. 不"
+      "meaningZh": "adv. 不",
+      "usageZh": "",
+      "example": ""
     },
     "wants": {
       "phonetic": "/wɒnts/",
       "pos": "v.",
-      "meaningZh": "v. 想要（want的第三人称单数）"
+      "meaningZh": "v. 想要（want的第三人称单数）",
+      "usageZh": "",
+      "example": ""
     },
     "to": {
       "phonetic": "/tu/",
       "pos": "prep.",
-      "meaningZh": "prep. 到，向"
+      "meaningZh": "prep. 到，向",
+      "usageZh": "",
+      "example": ""
     },
     "get": {
       "phonetic": "/ɡet/",
       "pos": "v.",
-      "meaningZh": "v. 得到，变得"
+      "meaningZh": "v. 得到，变得",
+      "usageZh": "",
+      "example": ""
     },
     "bored": {
       "phonetic": "/bɔːd/",
       "pos": "adj.",
-      "meaningZh": "adj. 无聊的"
+      "meaningZh": "adj. 无聊的",
+      "usageZh": "",
+      "example": ""
     },
     "do": {
       "phonetic": "/du/",
       "pos": "v.",
-      "meaningZh": "v. 做"
+      "meaningZh": "v. 做",
+      "usageZh": "",
+      "example": ""
     },
     "away": {
       "phonetic": "/əˈweɪ/",
       "pos": "adv.",
-      "meaningZh": "adv. 离开"
+      "meaningZh": "adv. 离开",
+      "usageZh": "",
+      "example": ""
     },
     "bad": {
       "phonetic": "/bæd/",
       "pos": "adj.",
-      "meaningZh": "adj. 坏的"
+      "meaningZh": "adj. 坏的",
+      "usageZh": "",
+      "example": ""
     },
     "feelings": {
       "phonetic": "/ˈfiːlɪŋz/",
       "pos": "n.",
-      "meaningZh": "n. 感觉，情绪（feeling的复数形式）"
+      "meaningZh": "n. 感觉，情绪（feeling的复数形式）",
+      "usageZh": "",
+      "example": ""
     },
     "lift": {
       "phonetic": "/lɪft/",
       "pos": "v.",
-      "meaningZh": "v. 举起，提升"
+      "meaningZh": "v. 举起，提升",
+      "usageZh": "",
+      "example": ""
     },
     "our": {
       "phonetic": "/ˈaʊə/",
       "pos": "pron.",
-      "meaningZh": "pron. 我们的"
+      "meaningZh": "pron. 我们的",
+      "usageZh": "",
+      "example": ""
     },
     "spirits": {
       "phonetic": "/ˈspɪrɪts/",
       "pos": "n.",
-      "meaningZh": "n. 精神，灵魂（spirit的复数形式）"
+      "meaningZh": "n. 精神，灵魂（spirit的复数形式）",
+      "usageZh": "",
+      "example": ""
     },
     "just": {
       "phonetic": "/dʒʌst/",
       "pos": "adv.",
-      "meaningZh": "adv. 仅仅，刚才"
+      "meaningZh": "adv. 仅仅，刚才",
+      "usageZh": "",
+      "example": ""
     },
     "picture": {
       "phonetic": "/ˈpɪktʃə/",
       "pos": "v.",
-      "meaningZh": "v. 想象，画"
+      "meaningZh": "v. 想象，画",
+      "usageZh": "",
+      "example": ""
     },
     "yourself": {
       "phonetic": "/jɔːˈself/",
       "pos": "pron.",
-      "meaningZh": "pron. 你自己"
+      "meaningZh": "pron. 你自己",
+      "usageZh": "",
+      "example": ""
     },
     "watching": {
       "phonetic": "/ˈwɒtʃɪŋ/",
       "pos": "v.",
-      "meaningZh": "v. 观看（watch的现在分词）"
+      "meaningZh": "v. 观看（watch的现在分词）",
+      "usageZh": "",
+      "example": ""
     },
     "funny": {
       "phonetic": "/ˈfʌni/",
       "pos": "adj.",
-      "meaningZh": "adj. 有趣的"
+      "meaningZh": "adj. 有趣的",
+      "usageZh": "",
+      "example": ""
     },
     "film": {
       "phonetic": "/fɪlm/",
       "pos": "n.",
-      "meaningZh": "n. 电影"
+      "meaningZh": "n. 电影",
+      "usageZh": "",
+      "example": ""
     },
     "that": {
       "phonetic": "/ðæt/",
       "pos": "pron.",
-      "meaningZh": "pron. 那，那个"
+      "meaningZh": "pron. 那，那个",
+      "usageZh": "",
+      "example": ""
     },
     "sitting": {
       "phonetic": "/ˈsɪtɪŋ/",
       "pos": "v.",
-      "meaningZh": "v. 坐（sit的动名词）"
+      "meaningZh": "v. 坐（sit的动名词）",
+      "usageZh": "",
+      "example": ""
     },
     "under": {
       "phonetic": "/ˈʌndə/",
       "pos": "prep.",
-      "meaningZh": "prep. 在...之下"
+      "meaningZh": "prep. 在...之下",
+      "usageZh": "",
+      "example": ""
     },
     "trees": {
       "phonetic": "/triːz/",
       "pos": "n.",
-      "meaningZh": "n. 树木（tree的复数形式）"
+      "meaningZh": "n. 树木（tree的复数形式）",
+      "usageZh": "",
+      "example": ""
     },
     "will": {
       "phonetic": "/wɪl/",
       "pos": "v.",
-      "meaningZh": "v. 将"
+      "meaningZh": "v. 将",
+      "usageZh": "",
+      "example": ""
     },
     "not": {
       "phonetic": "/nɒt/",
       "pos": "adv.",
-      "meaningZh": "adv. 不"
+      "meaningZh": "adv. 不",
+      "usageZh": "",
+      "example": ""
     },
     "be": {
       "phonetic": "/bi/",
       "pos": "v.",
-      "meaningZh": "v. 是"
+      "meaningZh": "v. 是",
+      "usageZh": "",
+      "example": ""
     },
     "boring": {
       "phonetic": "/ˈbɔːrɪŋ/",
       "pos": "adj.",
-      "meaningZh": "adj. 无聊的"
+      "meaningZh": "adj. 无聊的",
+      "usageZh": "",
+      "example": ""
     },
     "at": {
       "phonetic": "/æt/",
       "pos": "prep.",
-      "meaningZh": "prep. 在"
+      "meaningZh": "prep. 在",
+      "usageZh": "",
+      "example": ""
     },
     "it": {
       "phonetic": "/ɪt/",
       "pos": "pron.",
-      "meaningZh": "pron. 它"
+      "meaningZh": "pron. 它",
+      "usageZh": "",
+      "example": ""
     },
     "becomes": {
       "phonetic": "/bɪˈkʌmz/",
       "pos": "v.",
-      "meaningZh": "v. 变成（become的第三人称单数）"
+      "meaningZh": "v. 变成（become的第三人称单数）",
+      "usageZh": "",
+      "example": ""
     },
     "moment": {
       "phonetic": "/ˈməʊmənt/",
       "pos": "n.",
-      "meaningZh": "n. 时刻"
+      "meaningZh": "n. 时刻",
+      "usageZh": "",
+      "example": ""
     },
     "joy": {
       "phonetic": "/dʒɔɪ/",
       "pos": "n.",
-      "meaningZh": "n. 欢乐"
+      "meaningZh": "n. 欢乐",
+      "usageZh": "",
+      "example": ""
     },
     "also": {
       "phonetic": "/ˈɔːlsəʊ/",
       "pos": "adv.",
-      "meaningZh": "adv. 也"
+      "meaningZh": "adv. 也",
+      "usageZh": "",
+      "example": ""
     },
     "keeps": {
       "phonetic": "/kiːps/",
       "pos": "v.",
-      "meaningZh": "v. 保持（keep的第三人称单数）"
+      "meaningZh": "v. 保持（keep的第三人称单数）",
+      "usageZh": "",
+      "example": ""
     },
     "feeling": {
       "phonetic": "/ˈfiːlɪŋ/",
       "pos": "v.",
-      "meaningZh": "v. 感觉（feel的现在分词）"
+      "meaningZh": "v. 感觉（feel的现在分词）",
+      "usageZh": "",
+      "example": ""
     },
     "youthful": {
       "phonetic": "/ˈjuːθfl/",
       "pos": "adj.",
-      "meaningZh": "adj. 年轻的"
+      "meaningZh": "adj. 年轻的",
+      "usageZh": "",
+      "example": ""
     },
     "as": {
       "phonetic": "/æz/",
       "pos": "conj.",
-      "meaningZh": "conj. 正如，当...时"
+      "meaningZh": "conj. 正如，当...时",
+      "usageZh": "",
+      "example": ""
     },
     "george": {
       "phonetic": "/dʒɔːdʒ/",
       "pos": "n.",
-      "meaningZh": "n. 乔治"
+      "meaningZh": "n. 乔治",
+      "usageZh": "",
+      "example": ""
     },
     "bernard": {
       "phonetic": "/ˈbɜːnəd/",
       "pos": "n.",
-      "meaningZh": "n. 伯纳德"
+      "meaningZh": "n. 伯纳德",
+      "usageZh": "",
+      "example": ""
     },
     "shaw": {
       "phonetic": "/ʃɔː/",
       "pos": "n.",
-      "meaningZh": "n. 萧"
+      "meaningZh": "n. 萧",
+      "usageZh": "",
+      "example": ""
     },
     "once": {
       "phonetic": "/wʌns/",
       "pos": "adv.",
-      "meaningZh": "adv. 曾经"
+      "meaningZh": "adv. 曾经",
+      "usageZh": "",
+      "example": ""
     },
     "said": {
       "phonetic": "/sed/",
       "pos": "v.",
-      "meaningZh": "v. 说（say的过去式）"
+      "meaningZh": "v. 说（say的过去式）",
+      "usageZh": "",
+      "example": ""
     },
     "don't": {
       "phonetic": "/dəʊnt/",
       "pos": "abbr.",
-      "meaningZh": "v. 不（还原：do not）"
+      "meaningZh": "v. 不（还原：do not）",
+      "usageZh": "",
+      "example": ""
     },
     "stop": {
       "phonetic": "/stɒp/",
       "pos": "v.",
-      "meaningZh": "v. 停止"
+      "meaningZh": "v. 停止",
+      "usageZh": "",
+      "example": ""
     },
     "playing": {
       "phonetic": "/ˈpleɪɪŋ/",
       "pos": "v.",
-      "meaningZh": "v. 玩耍（play的动名词）"
+      "meaningZh": "v. 玩耍（play的动名词）",
+      "usageZh": "",
+      "example": ""
     },
     "because": {
       "phonetic": "/bɪˈkɒz/",
       "pos": "conj.",
-      "meaningZh": "conj. 因为"
+      "meaningZh": "conj. 因为",
+      "usageZh": "",
+      "example": ""
     },
     "grow": {
       "phonetic": "/ɡrəʊ/",
       "pos": "v.",
-      "meaningZh": "v. 生长，变得"
+      "meaningZh": "v. 生长，变得",
+      "usageZh": "",
+      "example": ""
     },
     "old": {
       "phonetic": "/əʊld/",
       "pos": "adj.",
-      "meaningZh": "adj. 老的"
+      "meaningZh": "adj. 老的",
+      "usageZh": "",
+      "example": ""
     },
     "research": {
       "phonetic": "/rɪˈsɜːtʃ/",
       "pos": "n.",
-      "meaningZh": "n. 研究"
+      "meaningZh": "n. 研究",
+      "usageZh": "",
+      "example": ""
     },
     "shows": {
       "phonetic": "/ʃəʊz/",
       "pos": "v.",
-      "meaningZh": "v. 展示（show的第三人称单数）"
+      "meaningZh": "v. 展示（show的第三人称单数）",
+      "usageZh": "",
+      "example": ""
     },
     "brings": {
       "phonetic": "/brɪŋz/",
       "pos": "v.",
-      "meaningZh": "v. 带来（bring的第三人称单数）"
+      "meaningZh": "v. 带来（bring的第三人称单数）",
+      "usageZh": "",
+      "example": ""
     },
     "closer": {
       "phonetic": "/ˈkləʊsə/",
       "pos": "adj.",
-      "meaningZh": "adj. 更近的"
+      "meaningZh": "adj. 更近的",
+      "usageZh": "",
+      "example": ""
     },
     "is": {
       "phonetic": "/ɪz/",
       "pos": "v.",
-      "meaningZh": "v. 是"
+      "meaningZh": "v. 是",
+      "usageZh": "",
+      "example": ""
     },
     "good": {
       "phonetic": "/ɡʊd/",
       "pos": "adj.",
-      "meaningZh": "adj. 好的"
+      "meaningZh": "adj. 好的",
+      "usageZh": "",
+      "example": ""
     },
     "way": {
       "phonetic": "/weɪ/",
       "pos": "n.",
-      "meaningZh": "n. 方式"
+      "meaningZh": "n. 方式",
+      "usageZh": "",
+      "example": ""
     },
     "connect": {
       "phonetic": "/kəˈnekt/",
       "pos": "v.",
-      "meaningZh": "v. 连接"
+      "meaningZh": "v. 连接",
+      "usageZh": "",
+      "example": ""
     },
     "others": {
       "phonetic": "/ˈʌðəz/",
       "pos": "pron.",
-      "meaningZh": "pron. 其他人（other的复数形式）"
+      "meaningZh": "pron. 其他人（other的复数形式）",
+      "usageZh": "",
+      "example": ""
     },
     "so": {
       "phonetic": "/səʊ/",
       "pos": "adv.",
-      "meaningZh": "adv. 所以"
+      "meaningZh": "adv. 所以",
+      "usageZh": "",
+      "example": ""
     },
     "next": {
       "phonetic": "/nekst/",
       "pos": "adj.",
-      "meaningZh": "adj. 下一个"
+      "meaningZh": "adj. 下一个",
+      "usageZh": "",
+      "example": ""
     },
     "time": {
       "phonetic": "/taɪm/",
       "pos": "n.",
-      "meaningZh": "n. 时间"
+      "meaningZh": "n. 时间",
+      "usageZh": "",
+      "example": ""
     },
     "invite": {
       "phonetic": "/ɪnˈvaɪt/",
       "pos": "v.",
-      "meaningZh": "v. 邀请"
+      "meaningZh": "v. 邀请",
+      "usageZh": "",
+      "example": ""
     },
     "friends": {
       "phonetic": "/frendz/",
       "pos": "n.",
-      "meaningZh": "n. 朋友（friend的复数形式）"
+      "meaningZh": "n. 朋友（friend的复数形式）",
+      "usageZh": "",
+      "example": ""
     },
     "enjoy": {
       "phonetic": "/ɪnˈdʒɔɪ/",
       "pos": "v.",
-      "meaningZh": "v. 享受"
+      "meaningZh": "v. 享受",
+      "usageZh": "",
+      "example": ""
     },
     "live": {
       "phonetic": "/laɪv/",
       "pos": "adj.",
       "meaningZh": "adj. 现场的；活的",
+      "usageZh": "",
+      "example": "",
       "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/D4zCyLsarhwv6Ya3BU5rkf.mp3"
     },
     "music": {
       "phonetic": "/ˈmjuːzɪk/",
       "pos": "n.",
-      "meaningZh": "n. 音乐"
+      "meaningZh": "n. 音乐",
+      "usageZh": "",
+      "example": ""
     },
     "together": {
       "phonetic": "/təˈɡeðə/",
       "pos": "adv.",
-      "meaningZh": "adv. 一起"
+      "meaningZh": "adv. 一起",
+      "usageZh": "",
+      "example": ""
     },
     "it's": {
       "phonetic": "/ɪts/",
       "pos": "abbr.",
-      "meaningZh": "v. 它是（还原：it is）"
+      "meaningZh": "v. 它是（还原：it is）",
+      "usageZh": "",
+      "example": ""
     },
     "shared": {
       "phonetic": "/ʃeəd/",
       "pos": "adj.",
-      "meaningZh": "adj. 共享的（share的过去分词）"
+      "meaningZh": "adj. 共享的（share的过去分词）",
+      "usageZh": "",
+      "example": ""
     },
     "experience": {
       "phonetic": "/ɪkˈspɪəriəns/",
       "pos": "n.",
-      "meaningZh": "n. 经验，经历"
+      "meaningZh": "n. 经验，经历",
+      "usageZh": "",
+      "example": ""
     },
     "important": {
       "phonetic": "/ɪmˈpɔːtnt/",
       "pos": "adj.",
-      "meaningZh": "adj. 重要的"
+      "meaningZh": "adj. 重要的",
+      "usageZh": "",
+      "example": ""
     },
     "number": {
       "phonetic": "/ˈnʌmbə/",
       "pos": "n.",
-      "meaningZh": "n. 数字，许多"
+      "meaningZh": "n. 数字，许多",
+      "usageZh": "",
+      "example": ""
     },
     "ways": {
       "phonetic": "/weɪz/",
       "pos": "n.",
-      "meaningZh": "n. 方式（way的复数形式）"
+      "meaningZh": "n. 方式（way的复数形式）",
+      "usageZh": "",
+      "example": ""
     },
     "forget": {
       "phonetic": "/fəˈɡet/",
       "pos": "v.",
-      "meaningZh": "v. 忘记"
+      "meaningZh": "v. 忘记",
+      "usageZh": "",
+      "example": ""
     },
     "some": {
       "phonetic": "/sʌm/",
       "pos": "adj.",
-      "meaningZh": "adj. 一些"
+      "meaningZh": "adj. 一些",
+      "usageZh": "",
+      "example": ""
     },
     "out": {
       "phonetic": "/aʊt/",
       "pos": "adv.",
-      "meaningZh": "adv. 出去"
+      "meaningZh": "adv. 出去",
+      "usageZh": "",
+      "example": ""
     },
     "life": {
       "phonetic": "/laɪf/",
       "pos": "n.",
-      "meaningZh": "n. 生活"
+      "meaningZh": "n. 生活",
+      "usageZh": "",
+      "example": ""
     },
     "need": {
       "phonetic": "/niːd/",
       "pos": "v.",
-      "meaningZh": "v. 需要"
+      "meaningZh": "v. 需要",
+      "usageZh": "",
+      "example": ""
     },
     "work": {
       "phonetic": "/wɜːk/",
       "pos": "v.",
-      "meaningZh": "v. 工作"
+      "meaningZh": "v. 工作",
+      "usageZh": "",
+      "example": ""
     },
     "hard": {
       "phonetic": "/hɑːd/",
       "pos": "adv.",
-      "meaningZh": "adv. 努力地"
+      "meaningZh": "adv. 努力地",
+      "usageZh": "",
+      "example": ""
     },
     "should": {
       "phonetic": "/ʃʊd/",
       "pos": "v.",
-      "meaningZh": "v. 应该"
+      "meaningZh": "v. 应该",
+      "usageZh": "",
+      "example": ""
     },
     "able": {
       "phonetic": "/ˈeɪbl/",
       "pos": "adj.",
-      "meaningZh": "adj. 能够"
+      "meaningZh": "adj. 能够",
+      "usageZh": "",
+      "example": ""
     },
     "too": {
       "phonetic": "/tuː/",
       "pos": "adv.",
-      "meaningZh": "adv. 也"
+      "meaningZh": "adv. 也",
+      "usageZh": "",
+      "example": ""
     }
   }
 }

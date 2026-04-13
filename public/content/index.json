@@ -5,10 +5,13 @@
     "unit": "Unit 1 The secrets of happiness",
     "unitNumber": 1,
     "unitTheme": "The secrets of happiness",
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
     "stage": "Understanding ideas",
     "stageLabel": "理解篇",
     "summary": "从《查理和巧克力工厂》里的家庭故事，理解“贫穷但充满爱”的幸福感。",
-    "order": 10
+    "order": 210
   },
   {
     "id": "u4-article",
@@ -16,10 +19,13 @@
     "unit": "Unit 1 The secrets of happiness",
     "unitNumber": 1,
     "unitTheme": "The secrets of happiness",
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
     "stage": "Reading for writing",
     "stageLabel": "写作篇",
     "summary": "通过周健捐发做假发的故事，感受帮助他人带来的幸福。",
-    "order": 11
+    "order": 211
   },
   {
     "id": "u6-article",
@@ -27,10 +33,13 @@
     "unit": "Unit 2 Go for it!",
     "unitNumber": 2,
     "unitTheme": "Go for it!",
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
     "stage": "Understanding ideas",
     "stageLabel": "理解篇",
     "summary": "北京马拉松终点线前的坚持，展现永不放弃的体育精神。",
-    "order": 20
+    "order": 220
   },
   {
     "id": "u7-article",
@@ -38,10 +47,13 @@
     "unit": "Unit 2 Go for it!",
     "unitNumber": 2,
     "unitTheme": "Go for it!",
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
     "stage": "Reading for writing",
     "stageLabel": "写作篇",
     "summary": "回望中国女足逆转夺冠，理解荣誉背后的长期奋斗。",
-    "order": 21
+    "order": 221
   },
   {
     "id": "u8-article",
@@ -49,10 +61,13 @@
     "unit": "Unit 3 Food matters",
     "unitNumber": 3,
     "unitTheme": "Food matters",
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
     "stage": "Understanding ideas",
     "stageLabel": "理解篇",
     "summary": "从家常食物唤起的记忆，理解食物与情感的联系。",
-    "order": 30
+    "order": 230
   },
   {
     "id": "u9-article",
@@ -60,10 +75,13 @@
     "unit": "Unit 3 Food matters",
     "unitNumber": 3,
     "unitTheme": "Food matters",
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
     "stage": "Reading for writing",
     "stageLabel": "写作篇",
     "summary": "追溯冰淇淋、番茄和马铃薯的传播，理解食物跨文化流动。",
-    "order": 31
+    "order": 231
   },
   {
     "id": "u10-article",
@@ -71,10 +89,13 @@
     "unit": "Unit 4 The art of having fun",
     "unitNumber": 4,
     "unitTheme": "The art of having fun",
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
     "stage": "Understanding ideas",
     "stageLabel": "理解篇",
     "summary": "在孤岛想象和日常生活中讨论“休闲”的价值。",
-    "order": 40
+    "order": 240
   },
   {
     "id": "u11-article",
@@ -82,10 +103,13 @@
     "unit": "Unit 4 The art of having fun",
     "unitNumber": 4,
     "unitTheme": "The art of having fun",
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
     "stage": "Reading for writing",
     "stageLabel": "写作篇",
     "summary": "识别吞噬时间的娱乐陷阱，学习保持有节制的快乐。",
-    "order": 41
+    "order": 241
   },
   {
     "id": "u12-article",
@@ -93,10 +117,13 @@
     "unit": "Unit 5 Amazing nature",
     "unitNumber": 5,
     "unitTheme": "Amazing nature",
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
     "stage": "Understanding ideas",
     "stageLabel": "理解篇",
     "summary": "用色彩描绘青藏高原故乡景象，感受自然之美。",
-    "order": 50
+    "order": 250
   },
   {
     "id": "u13-article",
@@ -104,10 +131,13 @@
     "unit": "Unit 5 Amazing nature",
     "unitNumber": 5,
     "unitTheme": "Amazing nature",
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
     "stage": "Reading for writing",
     "stageLabel": "写作篇",
     "summary": "借死海、马达加斯加雨林与冰川的第一人称“呼救”，理解生态危机。",
-    "order": 51
+    "order": 251
   },
   {
     "id": "u14-article",
@@ -115,10 +145,13 @@
     "unit": "Unit 6 Hitting the road",
     "unitNumber": 6,
     "unitTheme": "Hitting the road",
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
     "stage": "Understanding ideas",
     "stageLabel": "理解篇",
     "summary": "在成都与青城山之间切换，体验旅途中的冷热反差。",
-    "order": 60
+    "order": 260
   },
   {
     "id": "u15-article",
@@ -126,9 +159,152 @@
     "unit": "Unit 6 Hitting the road",
     "unitNumber": 6,
     "unitTheme": "Hitting the road",
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
     "stage": "Reading for writing",
     "stageLabel": "写作篇",
     "summary": "从徐霞客的行走人生，理解探索未知的勇气与价值。",
-    "order": 61
+    "order": 261
+  },
+  {
+    "id": "g8b-u1-p1",
+    "title": "Saying goodbye to my years up high",
+    "unit": "Unit 1 成长与未来",
+    "unitNumber": 1,
+    "unitTheme": "成长与未来",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "summary": "在回望过往经历的告别演讲中梳理成长和幸福感。",
+    "order": 410
+  },
+  {
+    "id": "g8b-u1-p2",
+    "title": "From mouse catcher to space tour guide...",
+    "unit": "Unit 1 成长与未来",
+    "unitNumber": 1,
+    "unitTheme": "成长与未来",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "summary": "从童年兴趣到职业想象，理解梦想是如何被慢慢打开的。",
+    "order": 411
+  },
+  {
+    "id": "g8b-u2-p1",
+    "title": "You just don't get me!",
+    "unit": "Unit 2 沟通与坚持",
+    "unitNumber": 2,
+    "unitTheme": "沟通与坚持",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "summary": "围绕误解与沟通，学习如何理解他人与表达自己。",
+    "order": 420
+  },
+  {
+    "id": "g8b-u2-p2",
+    "title": "From Pain to Gain",
+    "unit": "Unit 2 沟通与坚持",
+    "unitNumber": 2,
+    "unitTheme": "沟通与坚持",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "summary": "从疼痛到收获，理解坚持训练之后的成长和回报。",
+    "order": 421
+  },
+  {
+    "id": "g8b-u3-p1",
+    "title": "What can I do",
+    "unit": "Unit 3 行动与团队",
+    "unitNumber": 3,
+    "unitTheme": "行动与团队",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "summary": "面对真实问题时思考“我能做什么”，把责任转化为行动。",
+    "order": 430
+  },
+  {
+    "id": "g8b-u3-p2",
+    "title": "No I in team",
+    "unit": "Unit 3 行动与团队",
+    "unitNumber": 3,
+    "unitTheme": "行动与团队",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "summary": "通过团队故事理解合作、分工和共同目标的意义。",
+    "order": 431
+  },
+  {
+    "id": "g8b-u4-p1",
+    "title": "Adding some colour",
+    "unit": "Unit 4 创意与善意",
+    "unitNumber": 4,
+    "unitTheme": "创意与善意",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "summary": "通过色彩和创意表达，为日常生活增添温度与活力。",
+    "order": 440
+  },
+  {
+    "id": "g8b-u4-p2",
+    "title": "Circle of Goodwill",
+    "unit": "Unit 4 创意与善意",
+    "unitNumber": 4,
+    "unitTheme": "创意与善意",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "summary": "在善意不断传递的循环中，理解帮助他人的价值。",
+    "order": 441
+  },
+  {
+    "id": "g8b-u5-p1",
+    "title": "Secrets caught in time",
+    "unit": "Unit 5 时间与生命",
+    "unitNumber": 5,
+    "unitTheme": "时间与生命",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "summary": "在被时间保存下来的线索里，观察过去、记忆和变化。",
+    "order": 450
+  },
+  {
+    "id": "g8b-u5-p2",
+    "title": "Plants for life",
+    "unit": "Unit 5 时间与生命",
+    "unitNumber": 5,
+    "unitTheme": "时间与生命",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "summary": "从植物与生命之间的关系出发，理解自然的重要性。",
+    "order": 451
   }
 ]

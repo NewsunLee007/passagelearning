@@ -1,53 +1,53 @@
 {
   "meta": {
-    "schemaVersion": "1.0",
-    "source": "七年级下册英语教材",
-    "notes": "自动生成"
+    "schemaVersion": "2.0",
+    "source": "七年级下册互动课文",
+    "importedFrom": "Unit 2 Passage 2 The Steel Roses of China（互动课文教学动画）英语新教材外研版七年级下册.html",
+    "importedAt": "2026-04-13T04:50:28.060Z"
   },
   "article": {
     "id": "u7-article",
     "title": "The Steel Roses of China",
     "unit": "Unit 2 Go for it!",
-    "genre": "narrative",
     "paragraphs": [
       {
-        "id": "u7-p1",
+        "id": "u7-article-p1",
         "sentenceIds": [
-          "u7-s1",
-          "u7-s2",
-          "u7-s3",
-          "u7-s4",
-          "u7-s5",
-          "u7-s6",
-          "u7-s7"
+          "u7-article-s1",
+          "u7-article-s2",
+          "u7-article-s3",
+          "u7-article-s4",
+          "u7-article-s5",
+          "u7-article-s6",
+          "u7-article-s7"
         ]
       },
       {
-        "id": "u7-p2",
+        "id": "u7-article-p2",
         "sentenceIds": [
-          "u7-s8",
-          "u7-s9",
-          "u7-s10",
-          "u7-s11",
-          "u7-s12",
-          "u7-s13"
+          "u7-article-s8",
+          "u7-article-s9",
+          "u7-article-s10",
+          "u7-article-s11",
+          "u7-article-s12",
+          "u7-article-s13"
         ]
       },
       {
-        "id": "u7-p3",
+        "id": "u7-article-p3",
         "sentenceIds": [
-          "u7-s14",
-          "u7-s15",
-          "u7-s16"
+          "u7-article-s14",
+          "u7-article-s15",
+          "u7-article-s16"
         ]
       },
       {
-        "id": "u7-p4",
+        "id": "u7-article-p4",
         "sentenceIds": [
-          "u7-s17",
-          "u7-s18",
-          "u7-s19",
-          "u7-s20"
+          "u7-article-s17",
+          "u7-article-s18",
+          "u7-article-s19",
+          "u7-article-s20"
         ]
       }
     ],
@@ -55,437 +55,1032 @@
     "stageLabel": "写作篇",
     "unitNumber": 2,
     "unitTheme": "Go for it!",
-    "bookOrder": 21,
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
+    "bookOrder": 221,
     "summary": "回望中国女足逆转夺冠，理解荣誉背后的长期奋斗。"
   },
   "sentences": [
     {
-      "id": "u7-s1",
-      "text": "The 2022 Women's Asian Cup final was a difficult match.",
-      "paragraphId": "u7-p1",
-      "keywords": [
-        "Asian Cup",
-        "final",
-        "difficult"
-      ]
+      "id": "u7-article-s1",
+      "text": "The 2022 Women’s Asian Cup final was a difficult match.",
+      "paragraphId": "u7-article-p1",
+      "tr": "2022年女足亚洲杯决赛是一场艰难的比赛。",
+      "g": "主语 + 系动词 + 表语",
+      "d": "Women’s Asian Cup final 是主语；was 是系动词；difficult match 是表语。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sETiRCaQtohpjJPqENdSYf.mp3"
     },
     {
-      "id": "u7-s2",
-      "text": "At half-time, the Chinese team was losing 2-0.",
-      "paragraphId": "u7-p1",
-      "keywords": [
-        "half-time",
-        "losing"
-      ]
+      "id": "u7-article-s2",
+      "text": "At half-time, the Chinese team was losing 2–0.",
+      "paragraphId": "u7-article-p1",
+      "tr": "半场结束时，中国队以0-2落后。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "At half-time 是时间状语；was losing 是过去进行时。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/TabxCPY39rYAVSGsH6Ss6Q.mp3"
     },
     {
-      "id": "u7-s3",
-      "text": "Even worse, the team's best player hurt her foot badly.",
-      "paragraphId": "u7-p1",
-      "keywords": [
-        "hurt",
-        "foot",
-        "badly"
-      ]
+      "id": "u7-article-s3",
+      "text": "Even worse, the team’s best player hurt her foot badly.",
+      "paragraphId": "u7-article-p1",
+      "tr": "更糟糕的是，队中最好的球员脚部严重受伤。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "Even worse 是插入语；hurt 是过去式；badly 是副词修饰动词。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ENeBdr5XMkKdCYjuGPr4dB.mp3"
     },
     {
-      "id": "u7-s4",
+      "id": "u7-article-s4",
       "text": "But she paid no attention to the pain and continued to play.",
-      "paragraphId": "u7-p1",
-      "keywords": [
-        "paid no attention",
-        "pain",
-        "continued"
-      ]
+      "paragraphId": "u7-article-p1",
+      "tr": "但她没有在意疼痛，继续比赛。",
+      "g": "并列复合句",
+      "d": "pay attention to 意为“注意”；continued to play 意为“继续做某事”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/wR9oYfs4oxHnyhx3DE8bBZ.mp3"
     },
     {
-      "id": "u7-s5",
+      "id": "u7-article-s5",
       "text": "Her brave actions encouraged the whole team.",
-      "paragraphId": "u7-p1",
-      "keywords": [
-        "brave",
-        "actions",
-        "encouraged"
-      ]
+      "paragraphId": "u7-article-p1",
+      "tr": "她的勇敢行为鼓舞了全队。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "brave actions 是主语；encouraged 是谓语动词。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Jjt9xCaRFgpbPT9dqhatdA.mp3"
     },
     {
-      "id": "u7-s6",
+      "id": "u7-article-s6",
       "text": "None of the players lost heart.",
-      "paragraphId": "u7-p1",
-      "keywords": [
-        "lost heart"
-      ]
+      "paragraphId": "u7-article-p1",
+      "tr": "没有一名球员丧失信心。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "None of... 意为“没有人...”；lost heart 意为“丧失信心/灰心”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6W85vuLwPkohirb5FfUbM4.mp3"
     },
     {
-      "id": "u7-s7",
+      "id": "u7-article-s7",
       "text": "They fought on and scored three goals in the last 25 minutes.",
-      "paragraphId": "u7-p1",
-      "keywords": [
-        "fought on",
-        "scored",
-        "goals"
-      ]
+      "paragraphId": "u7-article-p1",
+      "tr": "她们继续战斗，并在最后25分钟内攻入三球。",
+      "g": "并列复合句",
+      "d": "fought on 意为“继续战斗”；scored 意为“得分/进球”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iFXRjrnrFz9X3ouMD7CDJh.mp3"
     },
     {
-      "id": "u7-s8",
-      "text": "The amazing victory led people to look back at the team's early days.",
-      "paragraphId": "u7-p2",
-      "keywords": [
-        "amazing",
-        "victory",
-        "look back",
-        "early days"
-      ]
+      "id": "u7-article-s8",
+      "text": "The amazing victory led people to look back at the team’s early days.",
+      "paragraphId": "u7-article-p2",
+      "tr": "这场惊人的胜利让人们回想起球队早期的日子。",
+      "g": "主语 + 谓语 + 宾语 + 宾语补足语",
+      "d": "led sb. to do sth. 意为“引导某人做某事”；look back at 意为“回顾”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/nCQy2ngCY8LuvAu9Z5QubA.mp3"
     },
     {
-      "id": "u7-s9",
+      "id": "u7-article-s9",
       "text": "Those were years of great challenges.",
-      "paragraphId": "u7-p2",
-      "keywords": [
-        "years",
-        "great challenges"
-      ]
+      "paragraphId": "u7-article-p2",
+      "tr": "那是充满巨大挑战的岁月。",
+      "g": "主语 + 系动词 + 表语",
+      "d": "Those 是代词作主语；challenges 意为“挑战”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/tQAyJy49fFEVDmczzdSPKB.mp3"
     },
     {
-      "id": "u7-s10",
-      "text": "In 1986, the China women's football team played its first international match.",
-      "paragraphId": "u7-p2",
-      "keywords": [
-        "1986",
-        "first international match"
-      ]
+      "id": "u7-article-s10",
+      "text": "In 1986, the China women’s football team played its first international match.",
+      "paragraphId": "u7-article-p2",
+      "tr": "1986年，中国女足参加了首场国际比赛。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "international match 意为“国际比赛”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/uTH4gjAu5cJ2SLwemVVFQm.mp3"
     },
     {
-      "id": "u7-s11",
-      "text": "Both of the teams played hard, but China lost 2-1 to the USA.",
-      "paragraphId": "u7-p2",
-      "keywords": [
-        "played hard",
-        "lost"
-      ]
+      "id": "u7-article-s11",
+      "text": "Both of the teams played hard, but China lost 2–1 to the USA.",
+      "paragraphId": "u7-article-p2",
+      "tr": "两支球队都打得很努力，但中国队以1-2负于美国队。",
+      "g": "并列复合句",
+      "d": "Both of... 意为“两者都...”；lost to... 意为“输给...”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WXcu4ptqF8f557Chmsdcrd.mp3"
     },
     {
-      "id": "u7-s12",
+      "id": "u7-article-s12",
       "text": "However, the players never gave up.",
-      "paragraphId": "u7-p2",
-      "keywords": [
-        "never gave up"
-      ]
+      "paragraphId": "u7-article-p2",
+      "tr": "然而，球员们从未放弃。",
+      "g": "主语 + 谓语",
+      "d": "However 是副词作状语；gave up 意为“放弃”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hrfLRMkmym6uevSZhJMxLS.mp3"
     },
     {
-      "id": "u7-s13",
+      "id": "u7-article-s13",
       "text": "They took every chance to learn and improve.",
-      "paragraphId": "u7-p2",
-      "keywords": [
-        "took every chance",
-        "learn",
-        "improve"
-      ]
+      "paragraphId": "u7-article-p2",
+      "tr": "她们抓住每一个机会学习和提高。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "take every chance 意为“抓住每一个机会”；to learn... 是不定式作定语。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ybXA3eTQVcbUGTn3eMbaRB.mp3"
     },
     {
-      "id": "u7-s14",
-      "text": "For years, the team created many \"firsts\" in China's sporting history.",
-      "paragraphId": "u7-p3",
-      "keywords": [
-        "created",
-        "firsts",
-        "sporting history"
-      ]
+      "id": "u7-article-s14",
+      "text": "For years, the team created many “firsts” in China’s sporting history.",
+      "paragraphId": "u7-article-p3",
+      "tr": "多年来，这支球队在中国体育史上创造了许多“第一”。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "sporting history 意为“体育史”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RYGgZbmkwojGyLsQDMHymE.mp3"
     },
     {
-      "id": "u7-s15",
+      "id": "u7-article-s15",
       "text": "People wondered about the key to their success.",
-      "paragraphId": "u7-p3",
-      "keywords": [
-        "wondered",
-        "key",
-        "success"
-      ]
+      "paragraphId": "u7-article-p3",
+      "tr": "人们想知道她们成功的关键。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "wondered about 意为“想知道”；key to... 意为“...的关键”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Xi6akxwzZ3cZZoFviKvwBP.mp3"
     },
     {
-      "id": "u7-s16",
-      "text": "A team member explained it with just one simple sentence: \"All of us love football and have the same goal.\"",
-      "paragraphId": "u7-p3",
-      "keywords": [
-        "explained",
-        "simple sentence",
-        "same goal"
-      ]
+      "id": "u7-article-s16",
+      "text": "A team member explained it with just one simple sentence: “All of us love football and have the same goal.”",
+      "paragraphId": "u7-article-p3",
+      "tr": "一位队员用一句简单的话解释了这一点：“我们所有人都热爱足球，并且有着相同的目标。”",
+      "g": "主从复合句",
+      "d": "explained...with... 用...解释...；same goal 意为“相同的目标”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/mNybex3oH7Rea24u5WrS9W.mp3"
     },
     {
-      "id": "u7-s17",
-      "text": "Known as the Steel Roses of China, the team is close to many people's hearts.",
-      "paragraphId": "u7-p4",
-      "keywords": [
-        "Steel Roses",
-        "close to",
-        "hearts"
-      ]
+      "id": "u7-article-s17",
+      "text": "Known as the Steel Roses of China, the team is close to many people’s hearts.",
+      "paragraphId": "u7-article-p4",
+      "tr": "中国女足以“铿锵玫瑰”著称，深受许多人的喜爱。",
+      "g": "主语 + 系动词 + 表语",
+      "d": "Known as... 意为“以...著称”；close to one's heart 意为“深受某人喜爱”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hAPHr227s8Ff4qccdJDUQJ.mp3"
     },
     {
-      "id": "u7-s18",
+      "id": "u7-article-s18",
       "text": "People love them for their courage and hard work.",
-      "paragraphId": "u7-p4",
-      "keywords": [
-        "love",
-        "courage",
-        "hard work"
-      ]
+      "paragraphId": "u7-article-p4",
+      "tr": "人们因为她们的勇气和努力而爱她们。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "love sb. for sth. 因为某事而爱某人；courage 意为“勇气”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/QVKPCFzdERjjF9krdHTsmj.mp3"
     },
     {
-      "id": "u7-s19",
+      "id": "u7-article-s19",
       "text": "There are still many difficulties ahead.",
-      "paragraphId": "u7-p4",
-      "keywords": [
-        "difficulties",
-        "ahead"
-      ]
+      "paragraphId": "u7-article-p4",
+      "tr": "前方仍有许多困难。",
+      "g": "There be 存在句",
+      "d": "difficulties ahead 意为“前方的困难”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/giLKnMbxcXtQGfWg9CGnSB.mp3"
     },
     {
-      "id": "u7-s20",
+      "id": "u7-article-s20",
       "text": "But they will rise to every challenge, thanks to their shining spirit.",
-      "paragraphId": "u7-p4",
-      "keywords": [
-        "rise to",
-        "challenge",
-        "shining spirit"
-      ]
+      "paragraphId": "u7-article-p4",
+      "tr": "但是凭借着她们昂扬闪耀的精神，她们定能直面所有挑战。",
+      "g": "主语 + 谓语",
+      "d": "rise to the challenge 意为“迎接挑战”；thanks to 意为“由于/多亏”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/8jv7ceuDndmpwiqssNdBoE.mp3"
     }
   ],
   "vocabItems": [
     {
-      "id": "u7-v1",
-      "term": "paid no attention to",
-      "meaningZh": "没有理会，不在意",
-      "exampleSentenceId": "u7-s4",
-      "distractorsZh": [
-        "非常关注",
-        "仔细研究",
-        "认真对待"
-      ]
+      "id": "u7-article-v1",
+      "term": "difficult",
+      "meaningZh": "困难的",
+      "exampleSentenceId": "u7-article-s1"
     },
     {
-      "id": "u7-v2",
-      "term": "lost heart",
-      "meaningZh": "灰心，失去信心",
-      "exampleSentenceId": "u7-s6",
-      "distractorsZh": [
-        "获得勇气",
-        "找到方向",
-        "增强信心"
-      ]
+      "id": "u7-article-v2",
+      "term": "match",
+      "meaningZh": "比赛",
+      "exampleSentenceId": "u7-article-s1"
     },
     {
-      "id": "u7-v3",
-      "term": "look back at",
-      "meaningZh": "回顾，回想",
-      "exampleSentenceId": "u7-s8",
-      "distractorsZh": [
-        "向前看",
-        "忽视过去",
-        "展望未来"
-      ]
+      "id": "u7-article-v3",
+      "term": "half-time",
+      "meaningZh": "中场休息",
+      "exampleSentenceId": "u7-article-s2"
     },
     {
-      "id": "u7-v4",
-      "term": "gave up",
-      "meaningZh": "放弃",
-      "exampleSentenceId": "u7-s12",
-      "distractorsZh": [
-        "坚持",
-        "努力",
-        "继续"
-      ]
+      "id": "u7-article-v4",
+      "term": "paid",
+      "meaningZh": "支付；付出 (pay的过去式)",
+      "exampleSentenceId": "u7-article-s4"
     },
     {
-      "id": "u7-v5",
-      "term": "rise to",
-      "meaningZh": "迎接，应对",
-      "exampleSentenceId": "u7-s20",
-      "distractorsZh": [
-        "逃避",
-        "忽略",
-        "拒绝"
-      ]
+      "id": "u7-article-v5",
+      "term": "best",
+      "meaningZh": "最好的",
+      "exampleSentenceId": "u7-article-s3"
     },
     {
-      "id": "u7-v6",
-      "term": "shining spirit",
-      "meaningZh": "闪耀的精神",
-      "exampleSentenceId": "u7-s20",
-      "distractorsZh": [
-        "暗淡的情绪",
-        "普通的态度",
-        "消极的心态"
-      ]
+      "id": "u7-article-v6",
+      "term": "play",
+      "meaningZh": "玩；比赛；播放",
+      "exampleSentenceId": "u7-article-s3"
+    },
+    {
+      "id": "u7-article-v7",
+      "term": "great",
+      "meaningZh": "伟大的；巨大的",
+      "exampleSentenceId": "u7-article-s9"
+    },
+    {
+      "id": "u7-article-v8",
+      "term": "key",
+      "meaningZh": "关键；钥匙；关键的",
+      "exampleSentenceId": "u7-article-s15"
+    },
+    {
+      "id": "u7-article-v9",
+      "term": "losing",
+      "meaningZh": "输掉 (lose的现在分词)",
+      "exampleSentenceId": "u7-article-s2"
+    },
+    {
+      "id": "u7-article-v10",
+      "term": "worse",
+      "meaningZh": "更糟的",
+      "exampleSentenceId": "u7-article-s3"
+    },
+    {
+      "id": "u7-article-v11",
+      "term": "hurt",
+      "meaningZh": "受伤",
+      "exampleSentenceId": "u7-article-s3"
+    },
+    {
+      "id": "u7-article-v12",
+      "term": "badly",
+      "meaningZh": "严重地",
+      "exampleSentenceId": "u7-article-s3"
+    },
+    {
+      "id": "u7-article-v13",
+      "term": "attention",
+      "meaningZh": "注意力",
+      "exampleSentenceId": "u7-article-s4"
+    },
+    {
+      "id": "u7-article-v14",
+      "term": "pain",
+      "meaningZh": "疼痛",
+      "exampleSentenceId": "u7-article-s4"
+    },
+    {
+      "id": "u7-article-v15",
+      "term": "continued",
+      "meaningZh": "继续 (continue的过去式)",
+      "exampleSentenceId": "u7-article-s4"
+    },
+    {
+      "id": "u7-article-v16",
+      "term": "brave",
+      "meaningZh": "勇敢的",
+      "exampleSentenceId": "u7-article-s5"
+    },
+    {
+      "id": "u7-article-v17",
+      "term": "actions",
+      "meaningZh": "行为 (action的名词复数)",
+      "exampleSentenceId": "u7-article-s5"
+    },
+    {
+      "id": "u7-article-v18",
+      "term": "encouraged",
+      "meaningZh": "鼓励 (encourage的过去式)",
+      "exampleSentenceId": "u7-article-s5"
+    },
+    {
+      "id": "u7-article-v19",
+      "term": "heart",
+      "meaningZh": "心，信心",
+      "exampleSentenceId": "u7-article-s6"
+    },
+    {
+      "id": "u7-article-v20",
+      "term": "fought",
+      "meaningZh": "战斗 (fight的过去式)",
+      "exampleSentenceId": "u7-article-s7"
+    },
+    {
+      "id": "u7-article-v21",
+      "term": "scored",
+      "meaningZh": "得分 (score的过去式)",
+      "exampleSentenceId": "u7-article-s7"
+    },
+    {
+      "id": "u7-article-v22",
+      "term": "victory",
+      "meaningZh": "胜利",
+      "exampleSentenceId": "u7-article-s8"
+    },
+    {
+      "id": "u7-article-v23",
+      "term": "challenges",
+      "meaningZh": "挑战 (challenge的名词复数)",
+      "exampleSentenceId": "u7-article-s9"
+    },
+    {
+      "id": "u7-article-v24",
+      "term": "international",
+      "meaningZh": "国际的",
+      "exampleSentenceId": "u7-article-s10"
+    },
+    {
+      "id": "u7-article-v25",
+      "term": "improve",
+      "meaningZh": "提高",
+      "exampleSentenceId": "u7-article-s13"
+    },
+    {
+      "id": "u7-article-v26",
+      "term": "success",
+      "meaningZh": "成功",
+      "exampleSentenceId": "u7-article-s15"
+    },
+    {
+      "id": "u7-article-v27",
+      "term": "courage",
+      "meaningZh": "勇气",
+      "exampleSentenceId": "u7-article-s5"
+    },
+    {
+      "id": "u7-article-v28",
+      "term": "spirit",
+      "meaningZh": "精神",
+      "exampleSentenceId": "u7-article-s20"
+    },
+    {
+      "id": "u7-article-v29",
+      "term": "final",
+      "meaningZh": "决赛；最终的",
+      "exampleSentenceId": "u7-article-s1"
+    },
+    {
+      "id": "u7-article-v30",
+      "term": "player",
+      "meaningZh": "球员；选手",
+      "exampleSentenceId": "u7-article-s3"
+    },
+    {
+      "id": "u7-article-v31",
+      "term": "foot",
+      "meaningZh": "脚",
+      "exampleSentenceId": "u7-article-s3"
+    },
+    {
+      "id": "u7-article-v32",
+      "term": "whole",
+      "meaningZh": "整个的；全部的",
+      "exampleSentenceId": "u7-article-s5"
+    },
+    {
+      "id": "u7-article-v33",
+      "term": "goals",
+      "meaningZh": "进球；目标 (goal的名词复数)",
+      "exampleSentenceId": "u7-article-s7"
+    },
+    {
+      "id": "u7-article-v34",
+      "term": "minutes",
+      "meaningZh": "分钟 (minute的名词复数)",
+      "exampleSentenceId": "u7-article-s7"
+    },
+    {
+      "id": "u7-article-v35",
+      "term": "amazing",
+      "meaningZh": "惊人的；了不起的",
+      "exampleSentenceId": "u7-article-s8"
+    },
+    {
+      "id": "u7-article-v36",
+      "term": "early",
+      "meaningZh": "早期的；早",
+      "exampleSentenceId": "u7-article-s8"
+    },
+    {
+      "id": "u7-article-v37",
+      "term": "history",
+      "meaningZh": "历史",
+      "exampleSentenceId": "u7-article-s14"
+    },
+    {
+      "id": "u7-article-v38",
+      "term": "sporting",
+      "meaningZh": "体育的；运动的",
+      "exampleSentenceId": "u7-article-s14"
+    },
+    {
+      "id": "u7-article-v39",
+      "term": "wondered",
+      "meaningZh": "想知道；纳闷 (wonder的过去式)",
+      "exampleSentenceId": "u7-article-s15"
+    },
+    {
+      "id": "u7-article-v40",
+      "term": "explained",
+      "meaningZh": "解释 (explain的过去式)",
+      "exampleSentenceId": "u7-article-s16"
+    },
+    {
+      "id": "u7-article-v41",
+      "term": "simple",
+      "meaningZh": "简单的",
+      "exampleSentenceId": "u7-article-s16"
+    },
+    {
+      "id": "u7-article-v42",
+      "term": "goal",
+      "meaningZh": "目标；进球",
+      "exampleSentenceId": "u7-article-s7"
+    },
+    {
+      "id": "u7-article-v43",
+      "term": "shining",
+      "meaningZh": "闪耀的；光辉的 (shine的现在分词)",
+      "exampleSentenceId": "u7-article-s20"
+    },
+    {
+      "id": "u7-article-v44",
+      "term": "difficulties",
+      "meaningZh": "困难 (difficulty的名词复数)",
+      "exampleSentenceId": "u7-article-s19"
+    },
+    {
+      "id": "u7-article-v45",
+      "term": "rise",
+      "meaningZh": "上升；迎接(挑战)",
+      "exampleSentenceId": "u7-article-s20"
+    },
+    {
+      "id": "u7-article-v46",
+      "term": "asian",
+      "meaningZh": "亚洲的；亚洲人",
+      "exampleSentenceId": "u7-article-s1"
+    },
+    {
+      "id": "u7-article-v47",
+      "term": "teams",
+      "meaningZh": "团队；队伍 (team的名词复数)",
+      "exampleSentenceId": "u7-article-s11"
+    },
+    {
+      "id": "u7-article-v48",
+      "term": "hearts",
+      "meaningZh": "心；信心 (heart的名词复数)",
+      "exampleSentenceId": "u7-article-s17"
+    },
+    {
+      "id": "u7-article-v49",
+      "term": "same",
+      "meaningZh": "相同的",
+      "exampleSentenceId": "u7-article-s16"
+    },
+    {
+      "id": "u7-article-v50",
+      "term": "created",
+      "meaningZh": "创造 (create的过去式)",
+      "exampleSentenceId": "u7-article-s14"
+    },
+    {
+      "id": "u7-article-v51",
+      "term": "close",
+      "meaningZh": "亲近的；近地；(close to) 深受...喜爱",
+      "exampleSentenceId": "u7-article-s17"
+    },
+    {
+      "id": "u7-article-v52",
+      "term": "hard",
+      "meaningZh": "努力的；辛苦的；猛烈地",
+      "exampleSentenceId": "u7-article-s11"
+    },
+    {
+      "id": "u7-article-v53",
+      "term": "known",
+      "meaningZh": "出名的；众所周知的；(known as) 以...著称",
+      "exampleSentenceId": "u7-article-s17"
+    },
+    {
+      "id": "u7-article-v54",
+      "term": "as",
+      "meaningZh": "作为；当...时；像...一样",
+      "exampleSentenceId": "u7-article-s1"
+    },
+    {
+      "id": "u7-article-v55",
+      "term": "lost",
+      "meaningZh": "丢失；输掉 (lose的过去式)",
+      "exampleSentenceId": "u7-article-s6"
+    },
+    {
+      "id": "u7-article-v56",
+      "term": "led",
+      "meaningZh": "引导；导致 (lead的过去式)",
+      "exampleSentenceId": "u7-article-s8"
+    },
+    {
+      "id": "u7-article-v57",
+      "term": "look",
+      "meaningZh": "看；显得；(look back at) 回顾",
+      "exampleSentenceId": "u7-article-s8"
+    },
+    {
+      "id": "u7-article-v58",
+      "term": "played",
+      "meaningZh": "参加(比赛)；演奏；播放 (play的过去式)",
+      "exampleSentenceId": "u7-article-s10"
+    },
+    {
+      "id": "u7-article-v59",
+      "term": "chance",
+      "meaningZh": "机会；可能性",
+      "exampleSentenceId": "u7-article-s13"
     }
   ],
-  "sentenceTasks": [
-    {
-      "id": "u7-st1",
-      "sentenceId": "u7-s16",
-      "type": "chunk_reorder",
-      "promptZh": "把句子语块按正确顺序拖拽排列",
-      "chunks": [
-        {
-          "id": "u7-c1",
-          "text": "A team member",
-          "tag": "主语"
-        },
-        {
-          "id": "u7-c2",
-          "text": "explained it",
-          "tag": "谓语+宾语"
-        },
-        {
-          "id": "u7-c3",
-          "text": "with just one simple sentence",
-          "tag": "方式状语"
-        },
-        {
-          "id": "u7-c4",
-          "text": "\"All of us love football and have the same goal.\"",
-          "tag": "直接引语"
-        }
-      ],
-      "correctOrder": [
-        "u7-c1",
-        "u7-c2",
-        "u7-c3",
-        "u7-c4"
-      ],
-      "focusPointsZh": [
-        "直接引语的用法",
-        "方式状语的位置"
-      ]
-    },
-    {
-      "id": "u7-st2",
-      "sentenceId": "u7-s17",
-      "type": "chunk_reorder",
-      "promptZh": "把句子语块按正确顺序拖拽排列",
-      "chunks": [
-        {
-          "id": "u7-c5",
-          "text": "Known as the Steel Roses of China",
-          "tag": "过去分词短语作状语"
-        },
-        {
-          "id": "u7-c6",
-          "text": "the team",
-          "tag": "主语"
-        },
-        {
-          "id": "u7-c7",
-          "text": "is close to many people's hearts",
-          "tag": "系表结构"
-        }
-      ],
-      "correctOrder": [
-        "u7-c5",
-        "u7-c6",
-        "u7-c7"
-      ],
-      "focusPointsZh": [
-        "过去分词短语作状语",
-        "系表结构"
-      ]
-    }
-  ],
+  "sentenceTasks": [],
   "readingQuestions": [
     {
-      "id": "u7-rq1",
+      "id": "reading-q1",
       "type": "single_choice",
-      "stem": "What happened to the Chinese team's best player during the 2022 Asian Cup final?",
+      "stem": "What happened at half-time in the 2022 Women’s Asian Cup final?",
       "options": [
-        "She scored the winning goal.",
-        "She hurt her foot badly.",
-        "She gave up playing.",
-        "She lost heart."
+        "A. China was winning 2-0",
+        "B. China was losing 2-0",
+        "C. The match was over",
+        "D. The USA won the match"
       ],
-      "answer": "She hurt her foot badly.",
-      "rationaleZh": "文章第三句明确指出球队最好的球员脚部严重受伤。",
-      "evidenceSentenceIds": [
-        "u7-s3"
-      ]
+      "answer": "B. China was losing 2-0",
+      "rationaleZh": "文中提到：At half-time, the Chinese team was losing 2–0。"
     },
     {
-      "id": "u7-rq2",
+      "id": "reading-q2",
       "type": "single_choice",
-      "stem": "How did the Chinese team perform in the last 25 minutes of the match?",
+      "stem": "What does the phrase 'lost heart' mean in paragraph 1?",
       "options": [
-        "They lost 2-0.",
-        "They scored three goals.",
-        "They gave up.",
-        "They played defensively."
+        "A. Lost the game",
+        "B. Became discouraged",
+        "C. Felt happy",
+        "D. Hurt the foot"
       ],
-      "answer": "They scored three goals.",
-      "rationaleZh": "文章第七句说明球队在最后25分钟进了三个球。",
-      "evidenceSentenceIds": [
-        "u7-s7"
-      ]
+      "answer": "B. Became discouraged",
+      "rationaleZh": "lost heart 意为‘丧失信心/灰心’，即 became discouraged。"
     },
     {
-      "id": "u7-rq3",
+      "id": "reading-q3",
       "type": "single_choice",
-      "stem": "When did the China women's football team play its first international match?",
+      "stem": "When did the China women’s football team play its first international match?",
       "options": [
-        "2022",
-        "1986",
-        "1990",
-        "2000"
+        "A. In 2022",
+        "B. In 1986",
+        "C. In 1996",
+        "D. In 2000"
       ],
-      "answer": "1986",
-      "rationaleZh": "文章第十句明确指出中国女足的第一场国际比赛是在1986年。",
-      "evidenceSentenceIds": [
-        "u7-s10"
-      ]
+      "answer": "B. In 1986",
+      "rationaleZh": "文中提到：In 1986, the China women’s football team played its first international match。"
     },
     {
-      "id": "u7-rq4",
+      "id": "reading-q4",
       "type": "single_choice",
-      "stem": "According to a team member, what is the key to their success?",
+      "stem": "What is the key to the team's success according to a team member?",
       "options": [
-        "Having the best players",
-        "Winning every match",
-        "Love for football and shared goal",
-        "Government support"
+        "A. They are all very tall",
+        "B. They love football and have the same goal",
+        "C. They never play against the USA",
+        "D. They only play in China"
       ],
-      "answer": "Love for football and shared goal",
-      "rationaleZh": "文章第十六句引用队员的话，说明成功的关键是热爱足球和拥有共同目标。",
-      "evidenceSentenceIds": [
-        "u7-s16"
-      ]
+      "answer": "B. They love football and have the same goal",
+      "rationaleZh": "文中提到：All of us love football and have the same goal。"
     },
     {
-      "id": "u7-rq5",
+      "id": "reading-q5",
       "type": "single_choice",
-      "stem": "What does \"rise to every challenge\" mean in the context?",
+      "stem": "What is the best title for this passage?",
       "options": [
-        "Avoid challenges",
-        "Face and overcome challenges",
-        "Ignore challenges",
-        "Create challenges"
+        "A. The History of Football",
+        "B. The Steel Roses of China",
+        "C. A Match Against the USA",
+        "D. How to Play Football"
       ],
-      "answer": "Face and overcome challenges",
-      "rationaleZh": "结合上下文，\"rise to every challenge\" 表示迎接并克服每一个挑战。",
-      "evidenceSentenceIds": [
-        "u7-s20"
-      ]
+      "answer": "B. The Steel Roses of China",
+      "rationaleZh": "整篇文章都在讲述中国女足（Steel Roses）的奋斗历程和精神。"
     }
   ],
-  "quoteCandidates": [
-    {
-      "sentenceId": "u7-s4",
-      "reasonZh": "这句话生动展现了运动员的坚韧和奉献精神，用\"paid no attention to the pain\"简洁有力地表达了克服困难的决心。"
+  "quoteCandidates": [],
+  "lexicon": {
+    "difficult": {
+      "phonetic": "/ˈdɪfɪkəlt/",
+      "pos": "adj.",
+      "meaningZh": "困难的",
+      "usageZh": "",
+      "example": ""
     },
-    {
-      "sentenceId": "u7-s16",
-      "reasonZh": "这句直接引语简洁而深刻地揭示了团队成功的核心——对足球的热爱和共同的目标，具有很好的激励作用。"
+    "match": {
+      "phonetic": "/mætʃ/",
+      "pos": "n.",
+      "meaningZh": "比赛",
+      "usageZh": "",
+      "example": ""
     },
-    {
-      "sentenceId": "u7-s20",
-      "reasonZh": "这句话用\"rise to every challenge\"和\"shining spirit\"的比喻，优美地表达了团队面对未来的积极态度和内在力量。"
+    "half-time": {
+      "phonetic": "/ˈhɑːf taɪm/",
+      "pos": "n.",
+      "meaningZh": "中场休息",
+      "usageZh": "",
+      "example": ""
+    },
+    "paid": {
+      "phonetic": "/peɪd/",
+      "pos": "v.",
+      "meaningZh": "支付；付出 (pay的过去式)",
+      "usageZh": "",
+      "example": ""
+    },
+    "best": {
+      "phonetic": "/best/",
+      "pos": "adj.",
+      "meaningZh": "最好的",
+      "usageZh": "",
+      "example": ""
+    },
+    "play": {
+      "phonetic": "/pleɪ/",
+      "pos": "v.",
+      "meaningZh": "玩；比赛；播放",
+      "usageZh": "",
+      "example": ""
+    },
+    "great": {
+      "phonetic": "/ɡreɪt/",
+      "pos": "adj.",
+      "meaningZh": "伟大的；巨大的",
+      "usageZh": "",
+      "example": ""
+    },
+    "key": {
+      "phonetic": "/kiː/",
+      "pos": "n./adj.",
+      "meaningZh": "关键；钥匙；关键的",
+      "usageZh": "",
+      "example": ""
+    },
+    "losing": {
+      "phonetic": "/ˈluːzɪŋ/",
+      "pos": "v.",
+      "meaningZh": "输掉 (lose的现在分词)",
+      "usageZh": "",
+      "example": ""
+    },
+    "worse": {
+      "phonetic": "/wɜːs/",
+      "pos": "adj.",
+      "meaningZh": "更糟的",
+      "usageZh": "",
+      "example": ""
+    },
+    "hurt": {
+      "phonetic": "/hɜːt/",
+      "pos": "v.",
+      "meaningZh": "受伤",
+      "usageZh": "",
+      "example": ""
+    },
+    "badly": {
+      "phonetic": "/ˈbædli/",
+      "pos": "adv.",
+      "meaningZh": "严重地",
+      "usageZh": "",
+      "example": ""
+    },
+    "attention": {
+      "phonetic": "/əˈtenʃn/",
+      "pos": "n.",
+      "meaningZh": "注意力",
+      "usageZh": "",
+      "example": ""
+    },
+    "pain": {
+      "phonetic": "/peɪn/",
+      "pos": "n.",
+      "meaningZh": "疼痛",
+      "usageZh": "",
+      "example": ""
+    },
+    "continued": {
+      "phonetic": "/kənˈtɪnjuːd/",
+      "pos": "v.",
+      "meaningZh": "继续 (continue的过去式)",
+      "usageZh": "",
+      "example": ""
+    },
+    "brave": {
+      "phonetic": "/breɪv/",
+      "pos": "adj.",
+      "meaningZh": "勇敢的",
+      "usageZh": "",
+      "example": ""
+    },
+    "actions": {
+      "phonetic": "/ˈækʃnz/",
+      "pos": "n.",
+      "meaningZh": "行为 (action的名词复数)",
+      "usageZh": "",
+      "example": ""
+    },
+    "encouraged": {
+      "phonetic": "/ɪnˈkʌrɪdʒd/",
+      "pos": "v.",
+      "meaningZh": "鼓励 (encourage的过去式)",
+      "usageZh": "",
+      "example": ""
+    },
+    "heart": {
+      "phonetic": "/hɑːt/",
+      "pos": "n.",
+      "meaningZh": "心，信心",
+      "usageZh": "",
+      "example": ""
+    },
+    "fought": {
+      "phonetic": "/fɔːt/",
+      "pos": "v.",
+      "meaningZh": "战斗 (fight的过去式)",
+      "usageZh": "",
+      "example": ""
+    },
+    "scored": {
+      "phonetic": "/skɔːd/",
+      "pos": "v.",
+      "meaningZh": "得分 (score的过去式)",
+      "usageZh": "",
+      "example": ""
+    },
+    "victory": {
+      "phonetic": "/ˈvɪktəri/",
+      "pos": "n.",
+      "meaningZh": "胜利",
+      "usageZh": "",
+      "example": ""
+    },
+    "challenges": {
+      "phonetic": "/ˈtʃælɪndʒɪz/",
+      "pos": "n.",
+      "meaningZh": "挑战 (challenge的名词复数)",
+      "usageZh": "",
+      "example": ""
+    },
+    "international": {
+      "phonetic": "/ˌɪntəˈnæʃnəl/",
+      "pos": "adj.",
+      "meaningZh": "国际的",
+      "usageZh": "",
+      "example": ""
+    },
+    "improve": {
+      "phonetic": "/ɪmˈpruːv/",
+      "pos": "v.",
+      "meaningZh": "提高",
+      "usageZh": "",
+      "example": ""
+    },
+    "success": {
+      "phonetic": "/səkˈses/",
+      "pos": "n.",
+      "meaningZh": "成功",
+      "usageZh": "",
+      "example": ""
+    },
+    "courage": {
+      "phonetic": "/ˈkʌrɪdʒ/",
+      "pos": "n.",
+      "meaningZh": "勇气",
+      "usageZh": "",
+      "example": ""
+    },
+    "spirit": {
+      "phonetic": "/ˈspɪrɪt/",
+      "pos": "n.",
+      "meaningZh": "精神",
+      "usageZh": "",
+      "example": ""
+    },
+    "final": {
+      "phonetic": "/ˈfaɪnl/",
+      "pos": "n./adj.",
+      "meaningZh": "决赛；最终的",
+      "usageZh": "",
+      "example": ""
+    },
+    "player": {
+      "phonetic": "/ˈpleɪə(r)/",
+      "pos": "n.",
+      "meaningZh": "球员；选手",
+      "usageZh": "",
+      "example": ""
+    },
+    "foot": {
+      "phonetic": "/fʊt/",
+      "pos": "n.",
+      "meaningZh": "脚",
+      "usageZh": "",
+      "example": ""
+    },
+    "whole": {
+      "phonetic": "/həʊl/",
+      "pos": "adj.",
+      "meaningZh": "整个的；全部的",
+      "usageZh": "",
+      "example": ""
+    },
+    "goals": {
+      "phonetic": "/ɡəʊlz/",
+      "pos": "n.",
+      "meaningZh": "进球；目标 (goal的名词复数)",
+      "usageZh": "",
+      "example": ""
+    },
+    "minutes": {
+      "phonetic": "/ˈmɪnɪts/",
+      "pos": "n.",
+      "meaningZh": "分钟 (minute的名词复数)",
+      "usageZh": "",
+      "example": ""
+    },
+    "amazing": {
+      "phonetic": "/əˈmeɪzɪŋ/",
+      "pos": "adj.",
+      "meaningZh": "惊人的；了不起的",
+      "usageZh": "",
+      "example": ""
+    },
+    "early": {
+      "phonetic": "/ˈɜːli/",
+      "pos": "adj./adv.",
+      "meaningZh": "早期的；早",
+      "usageZh": "",
+      "example": ""
+    },
+    "history": {
+      "phonetic": "/ˈhɪstri/",
+      "pos": "n.",
+      "meaningZh": "历史",
+      "usageZh": "",
+      "example": ""
+    },
+    "sporting": {
+      "phonetic": "/ˈspɔːtɪŋ/",
+      "pos": "adj.",
+      "meaningZh": "体育的；运动的",
+      "usageZh": "",
+      "example": ""
+    },
+    "wondered": {
+      "phonetic": "/ˈwʌndəd/",
+      "pos": "v.",
+      "meaningZh": "想知道；纳闷 (wonder的过去式)",
+      "usageZh": "",
+      "example": ""
+    },
+    "explained": {
+      "phonetic": "/ɪkˈspleɪnd/",
+      "pos": "v.",
+      "meaningZh": "解释 (explain的过去式)",
+      "usageZh": "",
+      "example": ""
+    },
+    "simple": {
+      "phonetic": "/ˈsɪmpl/",
+      "pos": "adj.",
+      "meaningZh": "简单的",
+      "usageZh": "",
+      "example": ""
+    },
+    "goal": {
+      "phonetic": "/ɡəʊl/",
+      "pos": "n.",
+      "meaningZh": "目标；进球",
+      "usageZh": "",
+      "example": ""
+    },
+    "shining": {
+      "phonetic": "/ˈʃaɪnɪŋ/",
+      "pos": "adj.",
+      "meaningZh": "闪耀的；光辉的 (shine的现在分词)",
+      "usageZh": "",
+      "example": ""
+    },
+    "difficulties": {
+      "phonetic": "/ˈdɪfɪkəltiz/",
+      "pos": "n.",
+      "meaningZh": "困难 (difficulty的名词复数)",
+      "usageZh": "",
+      "example": ""
+    },
+    "rise": {
+      "phonetic": "/raɪz/",
+      "pos": "v.",
+      "meaningZh": "上升；迎接(挑战)",
+      "usageZh": "",
+      "example": ""
+    },
+    "asian": {
+      "phonetic": "/ˈeɪʒn/",
+      "pos": "adj./n.",
+      "meaningZh": "亚洲的；亚洲人",
+      "usageZh": "",
+      "example": ""
+    },
+    "teams": {
+      "phonetic": "/tiːmz/",
+      "pos": "n.",
+      "meaningZh": "团队；队伍 (team的名词复数)",
+      "usageZh": "",
+      "example": ""
+    },
+    "hearts": {
+      "phonetic": "/hɑːts/",
+      "pos": "n.",
+      "meaningZh": "心；信心 (heart的名词复数)",
+      "usageZh": "",
+      "example": ""
+    },
+    "same": {
+      "phonetic": "/seɪm/",
+      "pos": "adj.",
+      "meaningZh": "相同的",
+      "usageZh": "",
+      "example": ""
+    },
+    "created": {
+      "phonetic": "/kriˈeɪtɪd/",
+      "pos": "v.",
+      "meaningZh": "创造 (create的过去式)",
+      "usageZh": "",
+      "example": ""
+    },
+    "close": {
+      "phonetic": "/kləʊs/",
+      "pos": "adj./adv.",
+      "meaningZh": "亲近的；近地；(close to) 深受...喜爱",
+      "usageZh": "",
+      "example": ""
+    },
+    "hard": {
+      "phonetic": "/hɑːd/",
+      "pos": "adj./adv.",
+      "meaningZh": "努力的；辛苦的；猛烈地",
+      "usageZh": "",
+      "example": ""
+    },
+    "known": {
+      "phonetic": "/nəʊn/",
+      "pos": "v./adj.",
+      "meaningZh": "出名的；众所周知的；(known as) 以...著称",
+      "usageZh": "",
+      "example": ""
+    },
+    "as": {
+      "phonetic": "/æz/",
+      "pos": "prep./conj.",
+      "meaningZh": "作为；当...时；像...一样",
+      "usageZh": "",
+      "example": ""
+    },
+    "lost": {
+      "phonetic": "/lɒst/",
+      "pos": "v.",
+      "meaningZh": "丢失；输掉 (lose的过去式)",
+      "usageZh": "",
+      "example": ""
+    },
+    "led": {
+      "phonetic": "/led/",
+      "pos": "v.",
+      "meaningZh": "引导；导致 (lead的过去式)",
+      "usageZh": "",
+      "example": ""
+    },
+    "look": {
+      "phonetic": "/lʊk/",
+      "pos": "v./n.",
+      "meaningZh": "看；显得；(look back at) 回顾",
+      "usageZh": "",
+      "example": ""
+    },
+    "played": {
+      "phonetic": "/pleɪd/",
+      "pos": "v.",
+      "meaningZh": "参加(比赛)；演奏；播放 (play的过去式)",
+      "usageZh": "",
+      "example": ""
+    },
+    "chance": {
+      "phonetic": "/tʃɑːns/",
+      "pos": "n.",
+      "meaningZh": "机会；可能性",
+      "usageZh": "",
+      "example": ""
     }
-  ]
+  }
 }

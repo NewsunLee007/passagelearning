@@ -1,56 +1,60 @@
 {
   "meta": {
-    "schemaVersion": "1.0",
-    "source": "七年级下册英语教材",
-    "notes": "自动生成"
+    "schemaVersion": "2.0",
+    "source": "七年级下册互动课文",
+    "importedFrom": "Unit 6 Passage 2 Exploring the unexplored（互动课文教学动画）英语新教材外研版七年级下册.html",
+    "importedAt": "2026-04-13T04:50:28.081Z"
   },
   "article": {
     "id": "u15-article",
     "title": "Exploring the unexplored",
     "unit": "Unit 6 Hitting the road",
-    "genre": "narrative",
     "paragraphs": [
       {
-        "id": "u15-p1",
+        "id": "u15-article-p1",
         "sentenceIds": [
-          "u15-s1",
-          "u15-s2",
-          "u15-s3",
-          "u15-s4",
-          "u15-s5"
+          "u15-article-s1",
+          "u15-article-s2",
+          "u15-article-s3"
         ]
       },
       {
-        "id": "u15-p2",
+        "id": "u15-article-p2",
         "sentenceIds": [
-          "u15-s6",
-          "u15-s7",
-          "u15-s8"
+          "u15-article-s4",
+          "u15-article-s5",
+          "u15-article-s6",
+          "u15-article-s7"
         ]
       },
       {
-        "id": "u15-p3",
+        "id": "u15-article-p3",
         "sentenceIds": [
-          "u15-s9",
-          "u15-s10",
-          "u15-s11",
-          "u15-s12"
+          "u15-article-s8",
+          "u15-article-s9",
+          "u15-article-s10",
+          "u15-article-s11",
+          "u15-article-s12"
         ]
       },
       {
-        "id": "u15-p4",
+        "id": "u15-article-p4",
         "sentenceIds": [
-          "u15-s13",
-          "u15-s14",
-          "u15-s15",
-          "u15-s16",
-          "u15-s17",
-          "u15-s18",
-          "u15-s19",
-          "u15-s20",
-          "u15-s21",
-          "u15-s22",
-          "u15-s23"
+          "u15-article-s13",
+          "u15-article-s14",
+          "u15-article-s15",
+          "u15-article-s16",
+          "u15-article-s17",
+          "u15-article-s18"
+        ]
+      },
+      {
+        "id": "u15-article-p5",
+        "sentenceIds": [
+          "u15-article-s19",
+          "u15-article-s20",
+          "u15-article-s21",
+          "u15-article-s22"
         ]
       }
     ],
@@ -58,483 +62,2215 @@
     "stageLabel": "写作篇",
     "unitNumber": 6,
     "unitTheme": "Hitting the road",
-    "bookOrder": 61,
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
+    "bookOrder": 261,
     "summary": "从徐霞客的行走人生，理解探索未知的勇气与价值。"
   },
   "sentences": [
     {
-      "id": "u15-s1",
+      "id": "u15-article-s1",
       "text": "In 1640, a man was seriously ill.",
-      "paragraphId": "u15-p1",
-      "keywords": [
-        "seriously",
-        "ill"
-      ]
+      "paragraphId": "u15-article-p1",
+      "tr": "1640年，一个男人病得很重。",
+      "g": "时间状语 + 主系表",
+      "d": "'In 1640'是时间状语。'was seriously ill'是系表结构，seriously修饰形容词ill。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/raq39RhQcJVByMz4ByY2YU.mp3"
     },
     {
-      "id": "u15-s2",
+      "id": "u15-article-s2",
       "text": "He had to end the last trip of his life.",
-      "paragraphId": "u15-p1",
-      "keywords": [
-        "end",
-        "trip"
-      ]
+      "paragraphId": "u15-article-p1",
+      "tr": "他不得不结束他生命中的最后一次旅行。",
+      "g": "主语 + 情态动词 + 谓语 + 宾语",
+      "d": "'had to'不得不，表示客观需要。'the last trip of his life'作宾语。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UwgdUeQUb97bJV7uDPdDXg.mp3"
     },
     {
-      "id": "u15-s3",
-      "text": "Back home, people asked him, \"You spent your whole life on the road.",
-      "paragraphId": "u15-p1",
-      "keywords": [
-        "spent",
-        "whole life",
-        "road"
-      ]
+      "id": "u15-article-s3",
+      "text": "Back home, people asked him, “You spent your whole life on the road. Do you regret it?”",
+      "paragraphId": "u15-article-p1",
+      "tr": "回到家后，人们问他：“你把一生都花在了路上。你后悔吗？”",
+      "g": "直接引语",
+      "d": "'spend time on sth'花费时间在某事上。'regret'后悔。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/kMAqwqAC8xxzjVdW8iAHQa.mp3"
     },
     {
-      "id": "u15-s4",
-      "text": "Do you regret it?\"",
-      "paragraphId": "u15-p1",
-      "keywords": [
-        "regret"
-      ]
+      "id": "u15-article-s4",
+      "text": "“I walked through many fantastic places in China,” he replied.",
+      "paragraphId": "u15-article-p2",
+      "tr": "“我走遍了中国许多奇妙的地方，”他回答道。",
+      "g": "主谓宾 + 地点状语",
+      "d": "'walk through'走过，穿越。'fantastic'极好的。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/MbYoQ3g2w7Rp9bg2sUFu2D.mp3"
     },
     {
-      "id": "u15-s5",
-      "text": "\"I walked through many fantastic places in China,\" he replied.",
-      "paragraphId": "u15-p1",
-      "keywords": [
-        "walked through",
-        "fantastic places"
-      ]
+      "id": "u15-article-s5",
+      "text": "“People say I’m as great as Zhang Qian and Xuanzang.",
+      "paragraphId": "u15-article-p2",
+      "tr": "“人们说我和张骞、玄奘一样伟大。",
+      "g": "宾语从句 + 同级比较",
+      "d": "'as great as'像...一样伟大，同级比较结构。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6wHEp3vtUqkhYJMyhxUnnY.mp3"
     },
     {
-      "id": "u15-s6",
-      "text": "\"People say I'm as great as Zhang Qian and Xuanzang.",
-      "paragraphId": "u15-p2",
-      "keywords": [
-        "as great as",
-        "Zhang Qian",
-        "Xuanzang"
-      ]
+      "id": "u15-article-s6",
+      "text": "So I have no regrets at all.”",
+      "paragraphId": "u15-article-p2",
+      "tr": "所以我一点也不后悔。”",
+      "g": "结果状语",
+      "d": "'have no regrets'没有遗憾。'at all'根本，完全。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ArAFHMbtjis4rMLKQyQjmd.mp3"
     },
     {
-      "id": "u15-s7",
-      "text": "So I have no regrets at all.\"",
-      "paragraphId": "u15-p2",
-      "keywords": [
-        "no regrets"
-      ]
-    },
-    {
-      "id": "u15-s8",
+      "id": "u15-article-s7",
       "text": "This man was Xu Xiake, the greatest traveller in Chinese history.",
-      "paragraphId": "u15-p2",
-      "keywords": [
-        "Xu Xiake",
-        "greatest traveller",
-        "Chinese history"
-      ]
+      "paragraphId": "u15-article-p2",
+      "tr": "这个人就是徐霞客，中国历史上最伟大的旅行家。",
+      "g": "主系表 + 同位语",
+      "d": "'the greatest traveller...'是Xu Xiake的同位语，对其进行补充说明。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/avNwF3dDnBmP52ynnX9LkP.mp3"
     },
     {
-      "id": "u15-s9",
-      "text": "From an early age, Xu dreamt of visiting China's seas and mountains.",
-      "paragraphId": "u15-p3",
-      "keywords": [
-        "early age",
-        "dreamt of",
-        "seas and mountains"
-      ]
+      "id": "u15-article-s8",
+      "text": "From an early age, Xu dreamed of visiting China’s seas and mountains.",
+      "paragraphId": "u15-article-p3",
+      "tr": "徐霞客从小就梦想着游览中国的名山大川。",
+      "g": "时间状语 + 主谓宾",
+      "d": "'dream of doing sth'梦想做某事。'seas and mountains'指山水。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pHwyzEA82JWt8CL6jav6x9.mp3"
     },
     {
-      "id": "u15-s10",
+      "id": "u15-article-s9",
       "text": "But at the time, it was very difficult to travel far.",
-      "paragraphId": "u15-p3",
-      "keywords": [
-        "difficult",
-        "travel far"
-      ]
+      "paragraphId": "u15-article-p3",
+      "tr": "但在当时，出远门是非常困难的。",
+      "g": "形式主语",
+      "d": "'it'是形式主语，真正的主语是后面的不定式'to travel far'。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dBUUQakYREL58xAkL3yeQ7.mp3"
     },
     {
-      "id": "u15-s11",
-      "text": "This didn't stop him, however.",
-      "paragraphId": "u15-p3",
-      "keywords": [
-        "stop",
-        "however"
-      ]
+      "id": "u15-article-s10",
+      "text": "This didn’t stop him, however.",
+      "paragraphId": "u15-article-p3",
+      "tr": "然而，这并没有阻止他。",
+      "g": "主谓宾 + 插入语",
+      "d": "'however'作为插入语，表示转折。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/8jrZnoa4Q65DTUc6P2Y6Lg.mp3"
     },
     {
-      "id": "u15-s12",
-      "text": "At 22, he set out on his life's journey.",
-      "paragraphId": "u15-p3",
-      "keywords": [
-        "set out",
-        "life's journey"
-      ]
+      "id": "u15-article-s11",
+      "text": "At 22, he set out on his life’s journey.",
+      "paragraphId": "u15-article-p3",
+      "tr": "22岁时，他踏上了他的人生旅程。",
+      "g": "时间状语 + 主谓宾",
+      "d": "'set out'出发，开始旅程。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/s4iYV44oKuWmhTG7KrgzJN.mp3"
     },
     {
-      "id": "u15-s13",
+      "id": "u15-article-s12",
       "text": "He travelled for about 30 years, and achieved his dream.",
-      "paragraphId": "u15-p4",
-      "keywords": [
-        "travelled",
-        "30 years",
-        "achieved",
-        "dream"
-      ]
+      "paragraphId": "u15-article-p3",
+      "tr": "他游历了大约30年，实现了他的梦想。",
+      "g": "并列谓语",
+      "d": "'travelled'和'achieved'是并列的过去式动词。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/HiAPjFNNNDDLS8Cksi2hNh.mp3"
     },
     {
-      "id": "u15-s14",
+      "id": "u15-article-s13",
       "text": "Xu made many geographical discoveries during his journey.",
-      "paragraphId": "u15-p4",
-      "keywords": [
-        "geographical discoveries",
-        "journey"
-      ]
+      "paragraphId": "u15-article-p4",
+      "tr": "徐霞客在旅途中有了许多地理发现。",
+      "g": "主谓宾 + 时间状语",
+      "d": "'make discoveries'做出发现。'geographical'地理的。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sy4RZRQa75U2oqddEHKWXc.mp3"
     },
     {
-      "id": "u15-s15",
+      "id": "u15-article-s14",
       "text": "Once, he visited Mount Huangshan.",
-      "paragraphId": "u15-p4",
-      "keywords": [
-        "visited",
-        "Mount Huangshan"
-      ]
+      "paragraphId": "u15-article-p4",
+      "tr": "有一次，他游览了黄山。",
+      "g": "主谓宾",
+      "d": "'Once'曾经，有一次。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Gepk2Dn4nrpr8B9xWtKxD5.mp3"
     },
     {
-      "id": "u15-s16",
+      "id": "u15-article-s15",
       "text": "People then thought Tiandu Peak was higher than Lianhua Peak.",
-      "paragraphId": "u15-p4",
-      "keywords": [
-        "thought",
-        "Tiandu Peak",
-        "higher than",
-        "Lianhua Peak"
-      ]
+      "paragraphId": "u15-article-p4",
+      "tr": "当时人们认为天都峰比莲花峰高。",
+      "g": "宾语从句 + 比较级",
+      "d": "'thought'后接省略that的宾语从句。'higher than'比较级。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iUpvqiApnH3YbgZqSrnwh5.mp3"
     },
     {
-      "id": "u15-s17",
+      "id": "u15-article-s16",
       "text": "To find out the truth, Xu climbed both peaks.",
-      "paragraphId": "u15-p4",
-      "keywords": [
-        "find out",
-        "truth",
-        "climbed",
-        "peaks"
-      ]
+      "paragraphId": "u15-article-p4",
+      "tr": "为了找出真相，徐霞客攀登了两座山峰。",
+      "g": "目的状语 + 主谓宾",
+      "d": "不定式'To find out...'作目的状语。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/syo9kU2tPnszv5FyhmKg72.mp3"
     },
     {
-      "id": "u15-s18",
+      "id": "u15-article-s17",
       "text": "He discovered that Lianhua Peak gave a wider view, so it must be higher.",
-      "paragraphId": "u15-p4",
-      "keywords": [
-        "discovered",
-        "Lianhua Peak",
-        "wider view",
-        "higher"
-      ]
+      "paragraphId": "u15-article-p4",
+      "tr": "他发现莲花峰视野更开阔，所以它一定更高。",
+      "g": "宾语从句 + 结果状语从句",
+      "d": "'must be'表示肯定的推测。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/zbQ2wi4SqwDnSKDCXwVybX.mp3"
     },
     {
-      "id": "u15-s19",
+      "id": "u15-article-s18",
       "text": "He was right!",
-      "paragraphId": "u15-p4",
-      "keywords": [
-        "right"
-      ]
+      "paragraphId": "u15-article-p4",
+      "tr": "他是对的！",
+      "g": "主系表",
+      "d": "简单的主系表结构。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qvSVCVJhGkVViuKgtrTHEe.mp3"
     },
     {
-      "id": "u15-s20",
+      "id": "u15-article-s19",
       "text": "Xu recorded his travel experiences in his diary.",
-      "paragraphId": "u15-p4",
-      "keywords": [
-        "recorded",
-        "travel experiences",
-        "diary"
-      ]
+      "paragraphId": "u15-article-p5",
+      "tr": "徐霞客在日记中记录了他的旅行经历。",
+      "g": "主谓宾 + 地点状语",
+      "d": "'record'记录。'diary'日记。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZMtRcKnD79qEKqgoBkAn4W.mp3"
     },
     {
-      "id": "u15-s21",
-      "text": "This later became Xu Xiake's Travel Notes.",
-      "paragraphId": "u15-p4",
-      "keywords": [
-        "became",
-        "Xu Xiake's Travel Notes"
-      ]
+      "id": "u15-article-s20",
+      "text": "This later became Xu Xiake’s Travel Notes.",
+      "paragraphId": "u15-article-p5",
+      "tr": "这后来成为了《徐霞客游记》。",
+      "g": "主系表",
+      "d": "'became'系动词，后接表语。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7qzNXSzEf5aCJV8cBgt3Qd.mp3"
     },
     {
-      "id": "u15-s22",
+      "id": "u15-article-s21",
       "text": "Thanks to this book, we can learn about China almost 400 years ago.",
-      "paragraphId": "u15-p4",
-      "keywords": [
-        "Thanks to",
-        "learn about",
-        "400 years ago"
-      ]
+      "paragraphId": "u15-article-p5",
+      "tr": "多亏了这本书，我们可以了解近400年前的中国。",
+      "g": "原因状语 + 主谓宾",
+      "d": "'Thanks to'多亏，由于。'learn about'了解。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/F9yv8phUKayA4R4aaxTR6Q.mp3"
     },
     {
-      "id": "u15-s23",
-      "text": "\"Exploring the unexplored\" is the best description of Xu's life.",
-      "paragraphId": "u15-p4",
-      "keywords": [
-        "Exploring the unexplored",
-        "best description"
-      ]
+      "id": "u15-article-s22",
+      "text": "“Exploring the unexplored” is the best description of Xu’s life.",
+      "paragraphId": "u15-article-p5",
+      "tr": "“探索未知”是徐霞客一生的最佳写照。",
+      "g": "主系表",
+      "d": "'Exploring the unexplored'动名词短语作主语。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/JyaDv5w4cqdEBBSb8HzdFi.mp3"
     }
   ],
   "vocabItems": [
     {
-      "id": "u15-v1",
-      "term": "seriously ill",
-      "meaningZh": "病得很重",
-      "exampleSentenceId": "u15-s1",
-      "distractorsZh": [
-        "轻微生病",
-        "健康",
-        "疲劳"
-      ]
+      "id": "u15-article-v1",
+      "term": "22",
+      "meaningZh": "22",
+      "exampleSentenceId": "u15-article-s11"
     },
     {
-      "id": "u15-v2",
+      "id": "u15-article-v2",
+      "term": "30",
+      "meaningZh": "30",
+      "exampleSentenceId": "u15-article-s12"
+    },
+    {
+      "id": "u15-article-v3",
+      "term": "400",
+      "meaningZh": "400",
+      "exampleSentenceId": "u15-article-s21"
+    },
+    {
+      "id": "u15-article-v4",
+      "term": "1640",
+      "meaningZh": "1640年",
+      "exampleSentenceId": "u15-article-s1"
+    },
+    {
+      "id": "u15-article-v5",
+      "term": "in",
+      "meaningZh": "在...里",
+      "exampleSentenceId": "u15-article-s1"
+    },
+    {
+      "id": "u15-article-v6",
+      "term": "man",
+      "meaningZh": "男人",
+      "exampleSentenceId": "u15-article-s1"
+    },
+    {
+      "id": "u15-article-v7",
+      "term": "was",
+      "meaningZh": "是（is/am的过去式）",
+      "exampleSentenceId": "u15-article-s1"
+    },
+    {
+      "id": "u15-article-v8",
+      "term": "seriously",
+      "meaningZh": "严重地",
+      "exampleSentenceId": "u15-article-s1"
+    },
+    {
+      "id": "u15-article-v9",
+      "term": "ill",
+      "meaningZh": "生病的",
+      "exampleSentenceId": "u15-article-s1"
+    },
+    {
+      "id": "u15-article-v10",
+      "term": "he",
+      "meaningZh": "他",
+      "exampleSentenceId": "u15-article-s2"
+    },
+    {
+      "id": "u15-article-v11",
+      "term": "had",
+      "meaningZh": "有（have的过去式）",
+      "exampleSentenceId": "u15-article-s2"
+    },
+    {
+      "id": "u15-article-v12",
+      "term": "to",
+      "meaningZh": "向，朝",
+      "exampleSentenceId": "u15-article-s2"
+    },
+    {
+      "id": "u15-article-v13",
+      "term": "end",
+      "meaningZh": "结束",
+      "exampleSentenceId": "u15-article-s2"
+    },
+    {
+      "id": "u15-article-v14",
+      "term": "the",
+      "meaningZh": "这，那",
+      "exampleSentenceId": "u15-article-s2"
+    },
+    {
+      "id": "u15-article-v15",
+      "term": "last",
+      "meaningZh": "最后的",
+      "exampleSentenceId": "u15-article-s2"
+    },
+    {
+      "id": "u15-article-v16",
+      "term": "trip",
+      "meaningZh": "旅行",
+      "exampleSentenceId": "u15-article-s2"
+    },
+    {
+      "id": "u15-article-v17",
+      "term": "of",
+      "meaningZh": "...的",
+      "exampleSentenceId": "u15-article-s2"
+    },
+    {
+      "id": "u15-article-v18",
+      "term": "his",
+      "meaningZh": "他的",
+      "exampleSentenceId": "u15-article-s2"
+    },
+    {
+      "id": "u15-article-v19",
+      "term": "life",
+      "meaningZh": "生活，生命",
+      "exampleSentenceId": "u15-article-s2"
+    },
+    {
+      "id": "u15-article-v20",
+      "term": "life's",
+      "meaningZh": "生命的",
+      "exampleSentenceId": "u15-article-s11"
+    },
+    {
+      "id": "u15-article-v21",
+      "term": "back",
+      "meaningZh": "回原处",
+      "exampleSentenceId": "u15-article-s3"
+    },
+    {
+      "id": "u15-article-v22",
+      "term": "home",
+      "meaningZh": "家",
+      "exampleSentenceId": "u15-article-s3"
+    },
+    {
+      "id": "u15-article-v23",
+      "term": "people",
+      "meaningZh": "人们",
+      "exampleSentenceId": "u15-article-s3"
+    },
+    {
+      "id": "u15-article-v24",
+      "term": "asked",
+      "meaningZh": "问（ask的过去式）",
+      "exampleSentenceId": "u15-article-s3"
+    },
+    {
+      "id": "u15-article-v25",
+      "term": "him",
+      "meaningZh": "他（宾格）",
+      "exampleSentenceId": "u15-article-s3"
+    },
+    {
+      "id": "u15-article-v26",
+      "term": "you",
+      "meaningZh": "你",
+      "exampleSentenceId": "u15-article-s3"
+    },
+    {
+      "id": "u15-article-v27",
+      "term": "spent",
+      "meaningZh": "花费（spend的过去式）",
+      "exampleSentenceId": "u15-article-s3"
+    },
+    {
+      "id": "u15-article-v28",
+      "term": "your",
+      "meaningZh": "你的",
+      "exampleSentenceId": "u15-article-s3"
+    },
+    {
+      "id": "u15-article-v29",
+      "term": "whole",
+      "meaningZh": "整个的",
+      "exampleSentenceId": "u15-article-s3"
+    },
+    {
+      "id": "u15-article-v30",
+      "term": "on",
+      "meaningZh": "在...上",
+      "exampleSentenceId": "u15-article-s3"
+    },
+    {
+      "id": "u15-article-v31",
+      "term": "road",
+      "meaningZh": "路",
+      "exampleSentenceId": "u15-article-s3"
+    },
+    {
+      "id": "u15-article-v32",
+      "term": "do",
+      "meaningZh": "做",
+      "exampleSentenceId": "u15-article-s3"
+    },
+    {
+      "id": "u15-article-v33",
       "term": "regret",
       "meaningZh": "后悔",
-      "exampleSentenceId": "u15-s4",
-      "distractorsZh": [
-        "高兴",
-        "忘记",
-        "期待"
-      ]
+      "exampleSentenceId": "u15-article-s3"
     },
     {
-      "id": "u15-v3",
-      "term": "fantastic places",
-      "meaningZh": "奇妙的地方",
-      "exampleSentenceId": "u15-s5",
-      "distractorsZh": [
-        "普通地点",
-        "危险区域",
-        "熟悉场所"
-      ]
+      "id": "u15-article-v34",
+      "term": "it",
+      "meaningZh": "它",
+      "exampleSentenceId": "u15-article-s3"
     },
     {
-      "id": "u15-v4",
-      "term": "geographical discoveries",
-      "meaningZh": "地理发现",
-      "exampleSentenceId": "u15-s14",
-      "distractorsZh": [
-        "历史事件",
-        "科学实验",
-        "文化传统"
-      ]
+      "id": "u15-article-v35",
+      "term": "i",
+      "meaningZh": "我",
+      "exampleSentenceId": "u15-article-s1"
     },
     {
-      "id": "u15-v5",
-      "term": "set out",
-      "meaningZh": "出发",
-      "exampleSentenceId": "u15-s12",
-      "distractorsZh": [
-        "返回",
-        "停留",
-        "计划"
-      ]
+      "id": "u15-article-v36",
+      "term": "walked",
+      "meaningZh": "走（walk的过去式）",
+      "exampleSentenceId": "u15-article-s4"
     },
     {
-      "id": "u15-v6",
-      "term": "achieved his dream",
-      "meaningZh": "实现了他的梦想",
-      "exampleSentenceId": "u15-s13",
-      "distractorsZh": [
-        "放弃目标",
-        "改变计划",
-        "忘记梦想"
-      ]
+      "id": "u15-article-v37",
+      "term": "through",
+      "meaningZh": "穿过",
+      "exampleSentenceId": "u15-article-s4"
     },
     {
-      "id": "u15-v7",
-      "term": "wider view",
-      "meaningZh": "更广阔的视野",
-      "exampleSentenceId": "u15-s18",
-      "distractorsZh": [
-        "狭窄视角",
-        "模糊景象",
-        "相同景色"
-      ]
+      "id": "u15-article-v38",
+      "term": "many",
+      "meaningZh": "许多",
+      "exampleSentenceId": "u15-article-s4"
     },
     {
-      "id": "u15-v8",
-      "term": "Exploring the unexplored",
-      "meaningZh": "探索未知",
-      "exampleSentenceId": "u15-s23",
-      "distractorsZh": [
-        "重复已知",
-        "忽略冒险",
-        "保守生活"
-      ]
+      "id": "u15-article-v39",
+      "term": "fantastic",
+      "meaningZh": "极好的",
+      "exampleSentenceId": "u15-article-s4"
+    },
+    {
+      "id": "u15-article-v40",
+      "term": "places",
+      "meaningZh": "地方",
+      "exampleSentenceId": "u15-article-s4"
+    },
+    {
+      "id": "u15-article-v41",
+      "term": "china",
+      "meaningZh": "中国",
+      "exampleSentenceId": "u15-article-s4"
+    },
+    {
+      "id": "u15-article-v42",
+      "term": "china's",
+      "meaningZh": "中国的",
+      "exampleSentenceId": "u15-article-s8"
+    },
+    {
+      "id": "u15-article-v43",
+      "term": "replied",
+      "meaningZh": "回答（reply的过去式）",
+      "exampleSentenceId": "u15-article-s4"
+    },
+    {
+      "id": "u15-article-v44",
+      "term": "say",
+      "meaningZh": "说",
+      "exampleSentenceId": "u15-article-s5"
+    },
+    {
+      "id": "u15-article-v45",
+      "term": "i'm",
+      "meaningZh": "我是（I am的缩写）",
+      "exampleSentenceId": "u15-article-s5"
+    },
+    {
+      "id": "u15-article-v46",
+      "term": "as",
+      "meaningZh": "像...一样",
+      "exampleSentenceId": "u15-article-s1"
+    },
+    {
+      "id": "u15-article-v47",
+      "term": "great",
+      "meaningZh": "伟大的",
+      "exampleSentenceId": "u15-article-s5"
+    },
+    {
+      "id": "u15-article-v48",
+      "term": "zhang",
+      "meaningZh": "张（姓氏）",
+      "exampleSentenceId": "u15-article-s5"
+    },
+    {
+      "id": "u15-article-v49",
+      "term": "qian",
+      "meaningZh": "骞（名）",
+      "exampleSentenceId": "u15-article-s5"
+    },
+    {
+      "id": "u15-article-v50",
+      "term": "and",
+      "meaningZh": "和",
+      "exampleSentenceId": "u15-article-s5"
+    },
+    {
+      "id": "u15-article-v51",
+      "term": "xuanzang",
+      "meaningZh": "玄奘",
+      "exampleSentenceId": "u15-article-s5"
+    },
+    {
+      "id": "u15-article-v52",
+      "term": "so",
+      "meaningZh": "所以",
+      "exampleSentenceId": "u15-article-s6"
+    },
+    {
+      "id": "u15-article-v53",
+      "term": "have",
+      "meaningZh": "有",
+      "exampleSentenceId": "u15-article-s6"
+    },
+    {
+      "id": "u15-article-v54",
+      "term": "no",
+      "meaningZh": "不",
+      "exampleSentenceId": "u15-article-s6"
+    },
+    {
+      "id": "u15-article-v55",
+      "term": "regrets",
+      "meaningZh": "遗憾",
+      "exampleSentenceId": "u15-article-s6"
+    },
+    {
+      "id": "u15-article-v56",
+      "term": "at",
+      "meaningZh": "在",
+      "exampleSentenceId": "u15-article-s5"
+    },
+    {
+      "id": "u15-article-v57",
+      "term": "all",
+      "meaningZh": "完全",
+      "exampleSentenceId": "u15-article-s6"
+    },
+    {
+      "id": "u15-article-v58",
+      "term": "this",
+      "meaningZh": "这",
+      "exampleSentenceId": "u15-article-s7"
+    },
+    {
+      "id": "u15-article-v59",
+      "term": "xu",
+      "meaningZh": "徐（姓氏）",
+      "exampleSentenceId": "u15-article-s5"
+    },
+    {
+      "id": "u15-article-v60",
+      "term": "xiake",
+      "meaningZh": "霞客（名）",
+      "exampleSentenceId": "u15-article-s7"
+    },
+    {
+      "id": "u15-article-v61",
+      "term": "xiake's",
+      "meaningZh": "霞客的",
+      "exampleSentenceId": "u15-article-s20"
+    },
+    {
+      "id": "u15-article-v62",
+      "term": "greatest",
+      "meaningZh": "最伟大的",
+      "exampleSentenceId": "u15-article-s7"
+    },
+    {
+      "id": "u15-article-v63",
+      "term": "traveller",
+      "meaningZh": "旅行者",
+      "exampleSentenceId": "u15-article-s7"
+    },
+    {
+      "id": "u15-article-v64",
+      "term": "history",
+      "meaningZh": "历史",
+      "exampleSentenceId": "u15-article-s7"
+    },
+    {
+      "id": "u15-article-v65",
+      "term": "from",
+      "meaningZh": "来自",
+      "exampleSentenceId": "u15-article-s8"
+    },
+    {
+      "id": "u15-article-v66",
+      "term": "an",
+      "meaningZh": "一个",
+      "exampleSentenceId": "u15-article-s1"
+    },
+    {
+      "id": "u15-article-v67",
+      "term": "a",
+      "meaningZh": "一个",
+      "exampleSentenceId": "u15-article-s1"
+    },
+    {
+      "id": "u15-article-v68",
+      "term": "early",
+      "meaningZh": "早的",
+      "exampleSentenceId": "u15-article-s8"
+    },
+    {
+      "id": "u15-article-v69",
+      "term": "age",
+      "meaningZh": "年龄",
+      "exampleSentenceId": "u15-article-s8"
+    },
+    {
+      "id": "u15-article-v70",
+      "term": "dreamed",
+      "meaningZh": "梦想（dream的过去式）",
+      "exampleSentenceId": "u15-article-s8"
+    },
+    {
+      "id": "u15-article-v71",
+      "term": "visiting",
+      "meaningZh": "访问",
+      "exampleSentenceId": "u15-article-s8"
+    },
+    {
+      "id": "u15-article-v72",
+      "term": "seas",
+      "meaningZh": "海",
+      "exampleSentenceId": "u15-article-s8"
+    },
+    {
+      "id": "u15-article-v73",
+      "term": "mountains",
+      "meaningZh": "山",
+      "exampleSentenceId": "u15-article-s8"
+    },
+    {
+      "id": "u15-article-v74",
+      "term": "but",
+      "meaningZh": "但是",
+      "exampleSentenceId": "u15-article-s9"
+    },
+    {
+      "id": "u15-article-v75",
+      "term": "time",
+      "meaningZh": "时间",
+      "exampleSentenceId": "u15-article-s9"
+    },
+    {
+      "id": "u15-article-v76",
+      "term": "very",
+      "meaningZh": "非常",
+      "exampleSentenceId": "u15-article-s9"
+    },
+    {
+      "id": "u15-article-v77",
+      "term": "difficult",
+      "meaningZh": "困难的",
+      "exampleSentenceId": "u15-article-s9"
+    },
+    {
+      "id": "u15-article-v78",
+      "term": "travel",
+      "meaningZh": "旅行",
+      "exampleSentenceId": "u15-article-s7"
+    },
+    {
+      "id": "u15-article-v79",
+      "term": "far",
+      "meaningZh": "远",
+      "exampleSentenceId": "u15-article-s9"
+    },
+    {
+      "id": "u15-article-v80",
+      "term": "didn't",
+      "meaningZh": "没有（did not的缩写）",
+      "exampleSentenceId": "u15-article-s10"
+    },
+    {
+      "id": "u15-article-v81",
+      "term": "stop",
+      "meaningZh": "停止",
+      "exampleSentenceId": "u15-article-s10"
+    },
+    {
+      "id": "u15-article-v82",
+      "term": "however",
+      "meaningZh": "然而",
+      "exampleSentenceId": "u15-article-s10"
+    },
+    {
+      "id": "u15-article-v83",
+      "term": "set",
+      "meaningZh": "放置，开始",
+      "exampleSentenceId": "u15-article-s11"
+    },
+    {
+      "id": "u15-article-v84",
+      "term": "out",
+      "meaningZh": "出去",
+      "exampleSentenceId": "u15-article-s11"
+    },
+    {
+      "id": "u15-article-v85",
+      "term": "journey",
+      "meaningZh": "旅程",
+      "exampleSentenceId": "u15-article-s11"
+    },
+    {
+      "id": "u15-article-v86",
+      "term": "travelled",
+      "meaningZh": "旅行（travel的过去式）",
+      "exampleSentenceId": "u15-article-s12"
+    },
+    {
+      "id": "u15-article-v87",
+      "term": "for",
+      "meaningZh": "为了，持续",
+      "exampleSentenceId": "u15-article-s12"
+    },
+    {
+      "id": "u15-article-v88",
+      "term": "about",
+      "meaningZh": "关于，大约",
+      "exampleSentenceId": "u15-article-s12"
+    },
+    {
+      "id": "u15-article-v89",
+      "term": "years",
+      "meaningZh": "年",
+      "exampleSentenceId": "u15-article-s12"
+    },
+    {
+      "id": "u15-article-v90",
+      "term": "achieved",
+      "meaningZh": "实现（achieve的过去式）",
+      "exampleSentenceId": "u15-article-s12"
+    },
+    {
+      "id": "u15-article-v91",
+      "term": "dream",
+      "meaningZh": "梦想",
+      "exampleSentenceId": "u15-article-s8"
+    },
+    {
+      "id": "u15-article-v92",
+      "term": "made",
+      "meaningZh": "做（make的过去式）",
+      "exampleSentenceId": "u15-article-s13"
+    },
+    {
+      "id": "u15-article-v93",
+      "term": "geographical",
+      "meaningZh": "地理的",
+      "exampleSentenceId": "u15-article-s13"
+    },
+    {
+      "id": "u15-article-v94",
+      "term": "discoveries",
+      "meaningZh": "发现",
+      "exampleSentenceId": "u15-article-s13"
+    },
+    {
+      "id": "u15-article-v95",
+      "term": "during",
+      "meaningZh": "在...期间",
+      "exampleSentenceId": "u15-article-s13"
+    },
+    {
+      "id": "u15-article-v96",
+      "term": "once",
+      "meaningZh": "曾经",
+      "exampleSentenceId": "u15-article-s14"
+    },
+    {
+      "id": "u15-article-v97",
+      "term": "visited",
+      "meaningZh": "访问（visit的过去式）",
+      "exampleSentenceId": "u15-article-s14"
+    },
+    {
+      "id": "u15-article-v98",
+      "term": "mount",
+      "meaningZh": "山",
+      "exampleSentenceId": "u15-article-s8"
+    },
+    {
+      "id": "u15-article-v99",
+      "term": "huangshan",
+      "meaningZh": "黄山",
+      "exampleSentenceId": "u15-article-s14"
+    },
+    {
+      "id": "u15-article-v100",
+      "term": "then",
+      "meaningZh": "那时",
+      "exampleSentenceId": "u15-article-s15"
+    },
+    {
+      "id": "u15-article-v101",
+      "term": "thought",
+      "meaningZh": "认为（think的过去式）",
+      "exampleSentenceId": "u15-article-s15"
+    },
+    {
+      "id": "u15-article-v102",
+      "term": "tiandu",
+      "meaningZh": "天都（峰名）",
+      "exampleSentenceId": "u15-article-s15"
+    },
+    {
+      "id": "u15-article-v103",
+      "term": "peak",
+      "meaningZh": "山峰",
+      "exampleSentenceId": "u15-article-s15"
+    },
+    {
+      "id": "u15-article-v104",
+      "term": "higher",
+      "meaningZh": "更高的",
+      "exampleSentenceId": "u15-article-s15"
+    },
+    {
+      "id": "u15-article-v105",
+      "term": "than",
+      "meaningZh": "比",
+      "exampleSentenceId": "u15-article-s15"
+    },
+    {
+      "id": "u15-article-v106",
+      "term": "lianhua",
+      "meaningZh": "莲花（峰名）",
+      "exampleSentenceId": "u15-article-s15"
+    },
+    {
+      "id": "u15-article-v107",
+      "term": "find",
+      "meaningZh": "发现",
+      "exampleSentenceId": "u15-article-s16"
+    },
+    {
+      "id": "u15-article-v108",
+      "term": "truth",
+      "meaningZh": "真相",
+      "exampleSentenceId": "u15-article-s16"
+    },
+    {
+      "id": "u15-article-v109",
+      "term": "climbed",
+      "meaningZh": "攀登（climb的过去式）",
+      "exampleSentenceId": "u15-article-s16"
+    },
+    {
+      "id": "u15-article-v110",
+      "term": "both",
+      "meaningZh": "两者的",
+      "exampleSentenceId": "u15-article-s16"
+    },
+    {
+      "id": "u15-article-v111",
+      "term": "peaks",
+      "meaningZh": "山峰",
+      "exampleSentenceId": "u15-article-s16"
+    },
+    {
+      "id": "u15-article-v112",
+      "term": "discovered",
+      "meaningZh": "发现（discover的过去式）",
+      "exampleSentenceId": "u15-article-s17"
+    },
+    {
+      "id": "u15-article-v113",
+      "term": "that",
+      "meaningZh": "那个",
+      "exampleSentenceId": "u15-article-s17"
+    },
+    {
+      "id": "u15-article-v114",
+      "term": "gave",
+      "meaningZh": "给（give的过去式）",
+      "exampleSentenceId": "u15-article-s17"
+    },
+    {
+      "id": "u15-article-v115",
+      "term": "wider",
+      "meaningZh": "更宽的",
+      "exampleSentenceId": "u15-article-s17"
+    },
+    {
+      "id": "u15-article-v116",
+      "term": "view",
+      "meaningZh": "视野",
+      "exampleSentenceId": "u15-article-s17"
+    },
+    {
+      "id": "u15-article-v117",
+      "term": "must",
+      "meaningZh": "必须，一定",
+      "exampleSentenceId": "u15-article-s17"
+    },
+    {
+      "id": "u15-article-v118",
+      "term": "be",
+      "meaningZh": "是",
+      "exampleSentenceId": "u15-article-s16"
+    },
+    {
+      "id": "u15-article-v119",
+      "term": "right",
+      "meaningZh": "正确的",
+      "exampleSentenceId": "u15-article-s18"
+    },
+    {
+      "id": "u15-article-v120",
+      "term": "recorded",
+      "meaningZh": "记录（record的过去式）",
+      "exampleSentenceId": "u15-article-s19"
+    },
+    {
+      "id": "u15-article-v121",
+      "term": "experiences",
+      "meaningZh": "经历",
+      "exampleSentenceId": "u15-article-s19"
+    },
+    {
+      "id": "u15-article-v122",
+      "term": "diary",
+      "meaningZh": "日记",
+      "exampleSentenceId": "u15-article-s19"
+    },
+    {
+      "id": "u15-article-v123",
+      "term": "later",
+      "meaningZh": "后来",
+      "exampleSentenceId": "u15-article-s20"
+    },
+    {
+      "id": "u15-article-v124",
+      "term": "became",
+      "meaningZh": "成为（become的过去式）",
+      "exampleSentenceId": "u15-article-s20"
+    },
+    {
+      "id": "u15-article-v125",
+      "term": "notes",
+      "meaningZh": "笔记",
+      "exampleSentenceId": "u15-article-s20"
+    },
+    {
+      "id": "u15-article-v126",
+      "term": "thanks",
+      "meaningZh": "感谢",
+      "exampleSentenceId": "u15-article-s21"
+    },
+    {
+      "id": "u15-article-v127",
+      "term": "book",
+      "meaningZh": "书",
+      "exampleSentenceId": "u15-article-s21"
+    },
+    {
+      "id": "u15-article-v128",
+      "term": "we",
+      "meaningZh": "我们",
+      "exampleSentenceId": "u15-article-s10"
+    },
+    {
+      "id": "u15-article-v129",
+      "term": "can",
+      "meaningZh": "能",
+      "exampleSentenceId": "u15-article-s21"
+    },
+    {
+      "id": "u15-article-v130",
+      "term": "learn",
+      "meaningZh": "学习",
+      "exampleSentenceId": "u15-article-s21"
+    },
+    {
+      "id": "u15-article-v131",
+      "term": "almost",
+      "meaningZh": "几乎",
+      "exampleSentenceId": "u15-article-s21"
+    },
+    {
+      "id": "u15-article-v132",
+      "term": "ago",
+      "meaningZh": "以前",
+      "exampleSentenceId": "u15-article-s21"
+    },
+    {
+      "id": "u15-article-v133",
+      "term": "exploring",
+      "meaningZh": "探索",
+      "exampleSentenceId": "u15-article-s22"
+    },
+    {
+      "id": "u15-article-v134",
+      "term": "unexplored",
+      "meaningZh": "未探索的",
+      "exampleSentenceId": "u15-article-s22"
+    },
+    {
+      "id": "u15-article-v135",
+      "term": "is",
+      "meaningZh": "是",
+      "exampleSentenceId": "u15-article-s2"
+    },
+    {
+      "id": "u15-article-v136",
+      "term": "best",
+      "meaningZh": "最好的",
+      "exampleSentenceId": "u15-article-s22"
+    },
+    {
+      "id": "u15-article-v137",
+      "term": "description",
+      "meaningZh": "描述",
+      "exampleSentenceId": "u15-article-s22"
+    },
+    {
+      "id": "u15-article-v138",
+      "term": "chinese",
+      "meaningZh": "中国的",
+      "exampleSentenceId": "u15-article-s7"
     }
   ],
-  "sentenceTasks": [
-    {
-      "id": "u15-st1",
-      "sentenceId": "u15-s18",
-      "type": "chunk_reorder",
-      "promptZh": "把句子语块按正确顺序拖拽排列",
-      "chunks": [
-        {
-          "id": "u15-c1",
-          "text": "He discovered",
-          "tag": "主语+谓语"
-        },
-        {
-          "id": "u15-c2",
-          "text": "that Lianhua Peak gave a wider view",
-          "tag": "宾语从句"
-        },
-        {
-          "id": "u15-c3",
-          "text": "so it must be higher",
-          "tag": "结果状语"
-        }
-      ],
-      "correctOrder": [
-        "u15-c1",
-        "u15-c2",
-        "u15-c3"
-      ],
-      "focusPointsZh": [
-        "宾语从句结构",
-        "结果状语从句"
-      ]
-    },
-    {
-      "id": "u15-st2",
-      "sentenceId": "u15-s22",
-      "type": "chunk_reorder",
-      "promptZh": "把句子语块按正确顺序拖拽排列",
-      "chunks": [
-        {
-          "id": "u15-c4",
-          "text": "Thanks to this book",
-          "tag": "原因状语"
-        },
-        {
-          "id": "u15-c5",
-          "text": "we can learn about China",
-          "tag": "主句"
-        },
-        {
-          "id": "u15-c6",
-          "text": "almost 400 years ago",
-          "tag": "时间状语"
-        }
-      ],
-      "correctOrder": [
-        "u15-c4",
-        "u15-c5",
-        "u15-c6"
-      ],
-      "focusPointsZh": [
-        "原因状语短语",
-        "时间状语位置"
-      ]
-    }
-  ],
+  "sentenceTasks": [],
   "readingQuestions": [
     {
-      "id": "u15-rq1",
+      "id": "reading-q1",
       "type": "single_choice",
-      "stem": "What did people ask Xu Xiake when he returned home?",
+      "stem": "Why did Xu Xiake have no regrets about his life? (Detail)",
       "options": [
-        "How many places did you visit?",
-        "Do you regret spending your life traveling?",
-        "Who inspired you to travel?",
-        "What was your favorite discovery?"
+        "A. Because he was very rich.",
+        "B. Because he visited many fantastic places.",
+        "C. Because he wrote a famous book.",
+        "D. Because he lived a long life."
       ],
-      "answer": "Do you regret spending your life traveling?",
-      "rationaleZh": "文章第一段提到人们问他是否后悔一生在路上。",
-      "evidenceSentenceIds": [
-        "u15-s3",
-        "u15-s4"
-      ]
+      "answer": "B. Because he visited many fantastic places.",
+      "rationaleZh": "细节理解题。文章中徐霞客回答说：'I walked through many fantastic places in China... So I have no regrets at all.'"
     },
     {
-      "id": "u15-rq2",
+      "id": "reading-q2",
       "type": "single_choice",
-      "stem": "How long did Xu Xiake travel to achieve his dream?",
+      "stem": "What does the underlined word 'set out' mean in Paragraph 3? (Vocabulary)",
       "options": [
-        "About 10 years",
-        "About 20 years",
-        "About 30 years",
-        "About 40 years"
+        "A. To start a journey.",
+        "B. To write a book.",
+        "C. To climb a mountain.",
+        "D. To go back home."
       ],
-      "answer": "About 30 years",
-      "rationaleZh": "文章第三段明确指出他旅行了大约30年并实现了梦想。",
-      "evidenceSentenceIds": [
-        "u15-s13"
-      ]
+      "answer": "A. To start a journey.",
+      "rationaleZh": "词义猜测题。根据语境'At 22, he set out on his life’s journey'，他在22岁开始了他的人生旅程。"
     },
     {
-      "id": "u15-rq3",
+      "id": "reading-q3",
       "type": "single_choice",
-      "stem": "What did Xu Xiake discover about Mount Huangshan?",
+      "stem": "Why did Xu climb both Tiandu Peak and Lianhua Peak? (Detail)",
       "options": [
-        "Tiandu Peak is higher than Lianhua Peak.",
-        "Lianhua Peak is higher than Tiandu Peak.",
-        "Both peaks are the same height.",
-        "The view from Tiandu Peak is wider."
+        "A. To exercise his body.",
+        "B. To enjoy the view.",
+        "C. To find out which one was higher.",
+        "D. To meet his friends."
       ],
-      "answer": "Lianhua Peak is higher than Tiandu Peak.",
-      "rationaleZh": "文章描述他发现莲花峰视野更广，因此一定更高，证明他纠正了人们的错误看法。",
-      "evidenceSentenceIds": [
-        "u15-s16",
-        "u15-s18"
-      ]
+      "answer": "C. To find out which one was higher.",
+      "rationaleZh": "细节理解题。文章提到'To find out the truth (about which peak was higher), Xu climbed both peaks.'"
     },
     {
-      "id": "u15-rq4",
+      "id": "reading-q4",
       "type": "single_choice",
-      "stem": "What is the main purpose of Xu Xiake's Travel Notes?",
+      "stem": "What can we infer about Xu Xiake from the passage? (Inference)",
       "options": [
-        "To describe his illnesses",
-        "To compare himself to other travelers",
-        "To record his geographical discoveries and experiences",
-        "To list all the mountains in China"
+        "A. He was afraid of difficulties.",
+        "B. He liked to stay at home.",
+        "C. He was brave and loved exploring.",
+        "D. He didn't like writing diaries."
       ],
-      "answer": "To record his geographical discoveries and experiences",
-      "rationaleZh": "文章说明他记录旅行经历成书，让我们了解400年前的中国。",
-      "evidenceSentenceIds": [
-        "u15-s20",
-        "u15-s21",
-        "u15-s22"
-      ]
+      "answer": "C. He was brave and loved exploring.",
+      "rationaleZh": "推理判断题。徐霞客克服困难远游，攀登高峰探求真相，说明他勇敢且热爱探索。"
     },
     {
-      "id": "u15-rq5",
+      "id": "reading-q5",
       "type": "single_choice",
-      "stem": "Which phrase best describes Xu Xiake's life according to the article?",
+      "stem": "What is the best title for this passage? (Main Idea)",
       "options": [
-        "Staying safe at home",
-        "Exploring the unexplored",
-        "Following traditional routes",
-        "Writing many books"
+        "A. The History of Mount Huangshan.",
+        "B. A Famous Book about China.",
+        "C. Xu Xiake: The Greatest Traveller.",
+        "D. How to Travel in Ancient China."
       ],
-      "answer": "Exploring the unexplored",
-      "rationaleZh": "文章最后一句直接指出这是对他一生的最佳描述。",
-      "evidenceSentenceIds": [
-        "u15-s23"
-      ]
+      "answer": "C. Xu Xiake: The Greatest Traveller.",
+      "rationaleZh": "主旨大意题。文章主要介绍了徐霞客的生平、旅行经历和成就，他是中国历史上最伟大的旅行家。"
     }
   ],
-  "quoteCandidates": [
-    {
-      "sentenceId": "u15-s5",
-      "reasonZh": "这句话生动描绘了徐霞客游历中国的奇妙经历，用词优美且富有画面感。"
+  "quoteCandidates": [],
+  "lexicon": {
+    "22": {
+      "phonetic": "/ˈtwenti tuː/",
+      "pos": "num.",
+      "meaningZh": "22",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6WT6TZzigiYogmefWLJ47T.mp3"
     },
-    {
-      "sentenceId": "u15-s8",
-      "reasonZh": "简洁有力地总结了徐霞客的历史地位，具有激励性。"
+    "30": {
+      "phonetic": "/ˈθɜːti/",
+      "pos": "num.",
+      "meaningZh": "30",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/8jDbXrdF3JvRQ8n8QkBsFf.mp3"
     },
-    {
-      "sentenceId": "u15-s23",
-      "reasonZh": "作为文章标题和结尾，深刻概括了徐霞客一生的探索精神，寓意深远。"
+    "400": {
+      "phonetic": "/fɔː ˈhʌndrəd/",
+      "pos": "num.",
+      "meaningZh": "400",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/f2YQjKqQ4CercneBLpV9uL.mp3"
+    },
+    "1640": {
+      "phonetic": "/sɪkˈstiːn ˈfɔːti/",
+      "pos": "num.",
+      "meaningZh": "1640年",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pfhxZd3JsDAtkVzSXxha2C.mp3"
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "pos": "prep.",
+      "meaningZh": "在...里",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/nVRQmUhQ2w4kAGjUoLK7G3.mp3"
+    },
+    "man": {
+      "phonetic": "/mæn/",
+      "pos": "n.",
+      "meaningZh": "男人",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Arfs8kXr9gTAxEAuM2Bpte.mp3"
+    },
+    "was": {
+      "phonetic": "/wɒz/",
+      "pos": "v.",
+      "meaningZh": "是（is/am的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/aGJyhER8wtumD3r3zUDoST.mp3"
+    },
+    "seriously": {
+      "phonetic": "/ˈsɪəriəsli/",
+      "pos": "adv.",
+      "meaningZh": "严重地",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/geTxcLPRMWgMVJtgDnqRk3.mp3"
+    },
+    "ill": {
+      "phonetic": "/ɪl/",
+      "pos": "adj.",
+      "meaningZh": "生病的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/yrVswhzncTi4ooUZVQKHS8.mp3"
+    },
+    "he": {
+      "phonetic": "/hiː/",
+      "pos": "pron.",
+      "meaningZh": "他",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hnPwxUGXJuAfHGiVMP7xmV.mp3"
+    },
+    "had": {
+      "phonetic": "/hæd/",
+      "pos": "v.",
+      "meaningZh": "有（have的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7jNpYYtLtKEgkYrBE4fUSc.mp3"
+    },
+    "to": {
+      "phonetic": "/tuː/",
+      "pos": "prep.",
+      "meaningZh": "向，朝",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/h7N2o2USxcQCpRcbApT4JE.mp3"
+    },
+    "end": {
+      "phonetic": "/end/",
+      "pos": "v.",
+      "meaningZh": "结束",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ejtUMpneejxmcALHBaaymj.mp3"
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "pos": "art.",
+      "meaningZh": "这，那",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/eCaEXT6WcAZ7f9xryb6gUS.mp3"
+    },
+    "last": {
+      "phonetic": "/lɑːst/",
+      "pos": "adj.",
+      "meaningZh": "最后的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/VyHVgvwcm44QXjv7hY8397.mp3"
+    },
+    "trip": {
+      "phonetic": "/trɪp/",
+      "pos": "n.",
+      "meaningZh": "旅行",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Jups5nEcwK5bSf73XDkveb.mp3"
+    },
+    "of": {
+      "phonetic": "/ɒv/",
+      "pos": "prep.",
+      "meaningZh": "...的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/fKB5hcQsy9zB4tMYZjTTMb.mp3"
+    },
+    "his": {
+      "phonetic": "/hɪz/",
+      "pos": "pron.",
+      "meaningZh": "他的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/geLxicqh9nx7BtQE2hCxuE.mp3"
+    },
+    "life": {
+      "phonetic": "/laɪf/",
+      "pos": "n.",
+      "meaningZh": "生活，生命",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/eNeXBxZJJR8sug6m54oty4.mp3"
+    },
+    "life's": {
+      "phonetic": "/laɪfs/",
+      "pos": "n.",
+      "meaningZh": "生命的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/SA8TGR3piHPcuhpdoxwta2.mp3"
+    },
+    "back": {
+      "phonetic": "/bæk/",
+      "pos": "adv.",
+      "meaningZh": "回原处",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/C66qoqDXtNwFDjmLEn7nWC.mp3"
+    },
+    "home": {
+      "phonetic": "/həʊm/",
+      "pos": "n.",
+      "meaningZh": "家",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/9TnHLmU5TaJsFnAxd3jWUU.mp3"
+    },
+    "people": {
+      "phonetic": "/ˈpiːpl/",
+      "pos": "n.",
+      "meaningZh": "人们",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/tV4QR6K2H9JudGJYfrLJWj.mp3"
+    },
+    "asked": {
+      "phonetic": "/ɑːskt/",
+      "pos": "v.",
+      "meaningZh": "问（ask的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RGKM57cDQBV4mb4hKFbs6Q.mp3"
+    },
+    "him": {
+      "phonetic": "/hɪm/",
+      "pos": "pron.",
+      "meaningZh": "他（宾格）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hfw7LWzAroxM8Gcs9GNof3.mp3"
+    },
+    "you": {
+      "phonetic": "/juː/",
+      "pos": "pron.",
+      "meaningZh": "你",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3ixiyRaUBnFBZSPrKcNjp9.mp3"
+    },
+    "spent": {
+      "phonetic": "/spent/",
+      "pos": "v.",
+      "meaningZh": "花费（spend的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/X9RSxZzBWxv8sutG9UP555.mp3"
+    },
+    "your": {
+      "phonetic": "/jɔː/",
+      "pos": "pron.",
+      "meaningZh": "你的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WnrJBVqbF6LfgEvsBqCVEa.mp3"
+    },
+    "whole": {
+      "phonetic": "/həʊl/",
+      "pos": "adj.",
+      "meaningZh": "整个的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qVERqAqM2gY2vf2JGmmZY2.mp3"
+    },
+    "on": {
+      "phonetic": "/ɒn/",
+      "pos": "prep.",
+      "meaningZh": "在...上",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/HADFAFYh3Y3VLJsje9FB5J.mp3"
+    },
+    "road": {
+      "phonetic": "/rəʊd/",
+      "pos": "n.",
+      "meaningZh": "路",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/acHZ3jzphHGKCeY4oYj5Cb.mp3"
+    },
+    "do": {
+      "phonetic": "/duː/",
+      "pos": "v.",
+      "meaningZh": "做",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3V2vssN5bUyz8GAptZg3hT.mp3"
+    },
+    "regret": {
+      "phonetic": "/rɪˈgret/",
+      "pos": "v.",
+      "meaningZh": "后悔",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/VCVdbC9nf5NPhEpAVW6QxH.mp3"
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "pos": "pron.",
+      "meaningZh": "它",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/9Babdr2biWcoExT8zRDiKD.mp3"
+    },
+    "i": {
+      "phonetic": "/aɪ/",
+      "pos": "pron.",
+      "meaningZh": "我",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dxKLR8QzkHSF6pwRY5yEvC.mp3"
+    },
+    "walked": {
+      "phonetic": "/wɔːkt/",
+      "pos": "v.",
+      "meaningZh": "走（walk的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/jdgRCZ5s9qrssRTewUcvRA.mp3"
+    },
+    "through": {
+      "phonetic": "/θruː/",
+      "pos": "prep.",
+      "meaningZh": "穿过",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/nu9j6DqXynszF2QjjR2FZc.mp3"
+    },
+    "many": {
+      "phonetic": "/ˈmeni/",
+      "pos": "adj.",
+      "meaningZh": "许多",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/q29cXvNFXLyJpwwwJZpAUh.mp3"
+    },
+    "fantastic": {
+      "phonetic": "/fænˈtæstɪk/",
+      "pos": "adj.",
+      "meaningZh": "极好的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/CNn6FjRZmQLE7J4UjDUcPM.mp3"
+    },
+    "places": {
+      "phonetic": "/ˈpleɪsɪz/",
+      "pos": "n.",
+      "meaningZh": "地方",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/oNvEuo4ciPLEngCM5z4mF9.mp3"
+    },
+    "china": {
+      "phonetic": "/ˈtʃaɪnə/",
+      "pos": "n.",
+      "meaningZh": "中国",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2ZMuJtN6aEUPWifcbJFkV6.mp3"
+    },
+    "china's": {
+      "phonetic": "/ˈtʃaɪnəz/",
+      "pos": "n.",
+      "meaningZh": "中国的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/nVEvpQZiJCvPMBudHJ8CfY.mp3"
+    },
+    "replied": {
+      "phonetic": "/rɪˈplaɪd/",
+      "pos": "v.",
+      "meaningZh": "回答（reply的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZmNtvCBSprUbT9sckh6i3f.mp3"
+    },
+    "say": {
+      "phonetic": "/seɪ/",
+      "pos": "v.",
+      "meaningZh": "说",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qLVQ67TZNmbkdLoJc5VhDM.mp3"
+    },
+    "i'm": {
+      "phonetic": "/aɪm/",
+      "pos": "v.",
+      "meaningZh": "我是（I am的缩写）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WVpS5u8wvo5iPGHKDtgbnP.mp3"
+    },
+    "as": {
+      "phonetic": "/æz/",
+      "pos": "conj.",
+      "meaningZh": "像...一样",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hRUNWFsZHwfx6QNTRZXf4g.mp3"
+    },
+    "great": {
+      "phonetic": "/greɪt/",
+      "pos": "adj.",
+      "meaningZh": "伟大的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/tEbWnmW8go67HsTeqo3LvM.mp3"
+    },
+    "zhang": {
+      "phonetic": "/dʒæŋ/",
+      "pos": "n.",
+      "meaningZh": "张（姓氏）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/29uSYgLmG3FBweCKMH997Q.mp3"
+    },
+    "qian": {
+      "phonetic": "/tʃiːˈæn/",
+      "pos": "n.",
+      "meaningZh": "骞（名）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/9EESLbXVGHiygc4gvv7ptG.mp3"
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "pos": "conj.",
+      "meaningZh": "和",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/38B2w7Ek6xZXvEtzpR4t4a.mp3"
+    },
+    "xuanzang": {
+      "phonetic": "/ʃuːˈænˈzæŋ/",
+      "pos": "n.",
+      "meaningZh": "玄奘",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iHFdD7r6oMpnRh6cRjLBrh.mp3"
+    },
+    "so": {
+      "phonetic": "/səʊ/",
+      "pos": "conj.",
+      "meaningZh": "所以",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/AH3ZeNjT3o9m3ZSR4d9hAT.mp3"
+    },
+    "have": {
+      "phonetic": "/hæv/",
+      "pos": "v.",
+      "meaningZh": "有",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/DaMeuPdkZouhFj7C5YUJud.mp3"
+    },
+    "no": {
+      "phonetic": "/nəʊ/",
+      "pos": "adv.",
+      "meaningZh": "不",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/wrUKxdc2cSfcdCuZ8N6h2c.mp3"
+    },
+    "regrets": {
+      "phonetic": "/rɪˈgrets/",
+      "pos": "n.",
+      "meaningZh": "遗憾",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Vgujbxb5gAn7Jgs7Gke976.mp3"
+    },
+    "at": {
+      "phonetic": "/æt/",
+      "pos": "prep.",
+      "meaningZh": "在",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rhsvjtscsipjhHAVootrim.mp3"
+    },
+    "all": {
+      "phonetic": "/ɔːl/",
+      "pos": "adv.",
+      "meaningZh": "完全",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Faup37A5qaQ8o3fnN86527.mp3"
+    },
+    "this": {
+      "phonetic": "/ðɪs/",
+      "pos": "pron.",
+      "meaningZh": "这",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/tyMDTcEv6fSPMogrE5dK4d.mp3"
+    },
+    "xu": {
+      "phonetic": "/ʃuː/",
+      "pos": "n.",
+      "meaningZh": "徐（姓氏）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6wg5Ekz9QuYTx9h98qBjCm.mp3"
+    },
+    "xiake": {
+      "phonetic": "/ʃiːˈɑːkə/",
+      "pos": "n.",
+      "meaningZh": "霞客（名）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/a8LXBJ8mYJzZ5nJPsK4Ajg.mp3"
+    },
+    "xiake's": {
+      "phonetic": "/ʃiːˈɑːkəz/",
+      "pos": "n.",
+      "meaningZh": "霞客的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/N9nKwFGCoQAnXhqpN6cgF9.mp3"
+    },
+    "greatest": {
+      "phonetic": "/ˈgreɪtɪst/",
+      "pos": "adj.",
+      "meaningZh": "最伟大的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KGrYTY3Jnd5KgHm26umd3D.mp3"
+    },
+    "traveller": {
+      "phonetic": "/ˈtrævlə/",
+      "pos": "n.",
+      "meaningZh": "旅行者",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Fd3UvN7FCiLxEvYsBWGE9X.mp3"
+    },
+    "history": {
+      "phonetic": "/ˈhɪstri/",
+      "pos": "n.",
+      "meaningZh": "历史",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/LtkMfc68CMtTtpiGpxfvHc.mp3"
+    },
+    "from": {
+      "phonetic": "/frɒm/",
+      "pos": "prep.",
+      "meaningZh": "来自",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/N8DRhC7C7w6yaRyv2VZi5i.mp3"
+    },
+    "an": {
+      "phonetic": "/æn/",
+      "pos": "art.",
+      "meaningZh": "一个",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/PQpK9JjkJuVLGnyVLwuHWg.mp3"
+    },
+    "a": {
+      "phonetic": "/ə/",
+      "pos": "art.",
+      "meaningZh": "一个",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KfXuGWEWh9dB3WGogbUrSX.mp3"
+    },
+    "early": {
+      "phonetic": "/ˈɜːli/",
+      "pos": "adj.",
+      "meaningZh": "早的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rnwoPXKvPzCMJnjWqXzxu3.mp3"
+    },
+    "age": {
+      "phonetic": "/eɪdʒ/",
+      "pos": "n.",
+      "meaningZh": "年龄",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KRLMnQjaVT4jRtvMxM5uLA.mp3"
+    },
+    "dreamed": {
+      "phonetic": "/driːmd/",
+      "pos": "v.",
+      "meaningZh": "梦想（dream的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/QwAeP7DkdECKy7aG2ubV3G.mp3"
+    },
+    "visiting": {
+      "phonetic": "/ˈvɪzɪtɪŋ/",
+      "pos": "v.",
+      "meaningZh": "访问",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/4cZmVzTxnhgxptgZqtpxjC.mp3"
+    },
+    "seas": {
+      "phonetic": "/siːz/",
+      "pos": "n.",
+      "meaningZh": "海",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/m5LXSQch7pQezHMHq84Hja.mp3"
+    },
+    "mountains": {
+      "phonetic": "/ˈmaʊntɪnz/",
+      "pos": "n.",
+      "meaningZh": "山",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/mhsdK7dHQeNnenPMPJHrk6.mp3"
+    },
+    "but": {
+      "phonetic": "/bʌt/",
+      "pos": "conj.",
+      "meaningZh": "但是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RBf7LmTTy8ZJowiYPJE8ud.mp3"
+    },
+    "time": {
+      "phonetic": "/taɪm/",
+      "pos": "n.",
+      "meaningZh": "时间",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qbfyngNDFpjY3d23mG3X5g.mp3"
+    },
+    "very": {
+      "phonetic": "/ˈveri/",
+      "pos": "adv.",
+      "meaningZh": "非常",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/cZUm4b8wLGR68JgnkBgwBo.mp3"
+    },
+    "difficult": {
+      "phonetic": "/ˈdɪfɪkəlt/",
+      "pos": "adj.",
+      "meaningZh": "困难的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/kSmcEWxwryC6RujbdmqFJE.mp3"
+    },
+    "travel": {
+      "phonetic": "/ˈtrævl/",
+      "pos": "v.",
+      "meaningZh": "旅行",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/x8QepgPvCNBgpJnrV82BHj.mp3"
+    },
+    "far": {
+      "phonetic": "/fɑː/",
+      "pos": "adv.",
+      "meaningZh": "远",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/mYf7tKwZZqnwaTgSUmVuGk.mp3"
+    },
+    "didn't": {
+      "phonetic": "/ˈdɪdnt/",
+      "pos": "v.",
+      "meaningZh": "没有（did not的缩写）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/bqVLF35djbgyhF4DnfP4gi.mp3"
+    },
+    "stop": {
+      "phonetic": "/stɒp/",
+      "pos": "v.",
+      "meaningZh": "停止",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gEEZswvBqRW7w5znvhTwX7.mp3"
+    },
+    "however": {
+      "phonetic": "/haʊˈevə/",
+      "pos": "adv.",
+      "meaningZh": "然而",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/LCEEBsrxGttufCkZu5SxcN.mp3"
+    },
+    "set": {
+      "phonetic": "/set/",
+      "pos": "v.",
+      "meaningZh": "放置，开始",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6Z9gVrD5GSy8Y3H3T6LpdM.mp3"
+    },
+    "out": {
+      "phonetic": "/aʊt/",
+      "pos": "adv.",
+      "meaningZh": "出去",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Z6wbG3Q53SaTPjkkWNXHtP.mp3"
+    },
+    "journey": {
+      "phonetic": "/ˈdʒɜːni/",
+      "pos": "n.",
+      "meaningZh": "旅程",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/jXX3mbpEtcjWFpJimevmXA.mp3"
+    },
+    "travelled": {
+      "phonetic": "/ˈtrævld/",
+      "pos": "v.",
+      "meaningZh": "旅行（travel的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/quW9gfxxm4qTbongWvm6gm.mp3"
+    },
+    "for": {
+      "phonetic": "/fɔː/",
+      "pos": "prep.",
+      "meaningZh": "为了，持续",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/yuFmdkNUr3UfVSn5GkxqL7.mp3"
+    },
+    "about": {
+      "phonetic": "/əˈbaʊt/",
+      "pos": "prep.",
+      "meaningZh": "关于，大约",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/NMkUhUBvYPm2VCMgLgFiUd.mp3"
+    },
+    "years": {
+      "phonetic": "/jɪəz/",
+      "pos": "n.",
+      "meaningZh": "年",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/LVNZtNzrjJgVTfpBqrTm2J.mp3"
+    },
+    "achieved": {
+      "phonetic": "/əˈtʃiːvd/",
+      "pos": "v.",
+      "meaningZh": "实现（achieve的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pdgCQ2Cebe4yVCbvdAXk8i.mp3"
+    },
+    "dream": {
+      "phonetic": "/driːm/",
+      "pos": "n.",
+      "meaningZh": "梦想",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hZ74gPaZCsvSCVx8hVL4fU.mp3"
+    },
+    "made": {
+      "phonetic": "/meɪd/",
+      "pos": "v.",
+      "meaningZh": "做（make的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/phQVUCAhN8mQUF4qfKJrbR.mp3"
+    },
+    "geographical": {
+      "phonetic": "/ˌdʒiːəˈgræfɪkl/",
+      "pos": "adj.",
+      "meaningZh": "地理的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/kqF4wMpZAUTLAJAKG7XJaB.mp3"
+    },
+    "discoveries": {
+      "phonetic": "/dɪˈskʌvəriz/",
+      "pos": "n.",
+      "meaningZh": "发现",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dgAX2ggacdk9ZgKNTsKWBH.mp3"
+    },
+    "during": {
+      "phonetic": "/ˈdjʊərɪŋ/",
+      "pos": "prep.",
+      "meaningZh": "在...期间",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/mAnArpaBqYgkH5Lf36Av42.mp3"
+    },
+    "once": {
+      "phonetic": "/wʌns/",
+      "pos": "adv.",
+      "meaningZh": "曾经",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/kE3BBDT79swr7MNzVeREhM.mp3"
+    },
+    "visited": {
+      "phonetic": "/ˈvɪzɪtɪd/",
+      "pos": "v.",
+      "meaningZh": "访问（visit的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RadN2LqvdmqeWeFBwT6KC7.mp3"
+    },
+    "mount": {
+      "phonetic": "/maʊnt/",
+      "pos": "n.",
+      "meaningZh": "山",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/V7sM2qQNXLX8KcktcmRjfS.mp3"
+    },
+    "huangshan": {
+      "phonetic": "/hwɑːŋˈʃæn/",
+      "pos": "n.",
+      "meaningZh": "黄山",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7fJYyAmawiuvT8BeK6QsJS.mp3"
+    },
+    "then": {
+      "phonetic": "/ðen/",
+      "pos": "adv.",
+      "meaningZh": "那时",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FoAo5FqVh4rzFzdcpddDDF.mp3"
+    },
+    "thought": {
+      "phonetic": "/θɔːt/",
+      "pos": "v.",
+      "meaningZh": "认为（think的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hCj3cvjzNkBjka3oFqvZL3.mp3"
+    },
+    "tiandu": {
+      "phonetic": "/tiːˈænˈduː/",
+      "pos": "n.",
+      "meaningZh": "天都（峰名）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/oMXMPqikgN8ixq9bMnJua9.mp3"
+    },
+    "peak": {
+      "phonetic": "/piːk/",
+      "pos": "n.",
+      "meaningZh": "山峰",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/5EdN6SnGCdq5LqfkoBfNJ3.mp3"
+    },
+    "higher": {
+      "phonetic": "/ˈhaɪə/",
+      "pos": "adj.",
+      "meaningZh": "更高的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ayFAAxWeFeEuXgXhToXqaZ.mp3"
+    },
+    "than": {
+      "phonetic": "/ðæn/",
+      "pos": "conj.",
+      "meaningZh": "比",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/uhmq3miwk3QrRLkg3z5KUN.mp3"
+    },
+    "lianhua": {
+      "phonetic": "/liːˈænˈhwɑː/",
+      "pos": "n.",
+      "meaningZh": "莲花（峰名）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2rqYZ3jfvX3gvrxAhpHsqc.mp3"
+    },
+    "find": {
+      "phonetic": "/faɪnd/",
+      "pos": "v.",
+      "meaningZh": "发现",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rGKWfGczg5MNmn9pkVRJrJ.mp3"
+    },
+    "truth": {
+      "phonetic": "/truːθ/",
+      "pos": "n.",
+      "meaningZh": "真相",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/YTfJ9BuNQXyqKYXZCTAVZj.mp3"
+    },
+    "climbed": {
+      "phonetic": "/klaɪmd/",
+      "pos": "v.",
+      "meaningZh": "攀登（climb的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XfXECoi46zczvma3DZiCAJ.mp3"
+    },
+    "both": {
+      "phonetic": "/bəʊθ/",
+      "pos": "adj.",
+      "meaningZh": "两者的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pYaMaY8sxmfvJ7WCirKrHe.mp3"
+    },
+    "peaks": {
+      "phonetic": "/piːks/",
+      "pos": "n.",
+      "meaningZh": "山峰",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dCUjrPoJvSzPuTRsyWAAuJ.mp3"
+    },
+    "discovered": {
+      "phonetic": "/dɪˈskʌvəd/",
+      "pos": "v.",
+      "meaningZh": "发现（discover的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iWvWSiKgTnx43yZ72qKi2Y.mp3"
+    },
+    "that": {
+      "phonetic": "/ðæt/",
+      "pos": "conj.",
+      "meaningZh": "那个",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/wnYhutDvSnntVqtPZ3AHX4.mp3"
+    },
+    "gave": {
+      "phonetic": "/geɪv/",
+      "pos": "v.",
+      "meaningZh": "给（give的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pQewsGq3U9ecsYFTi9i9fR.mp3"
+    },
+    "wider": {
+      "phonetic": "/ˈwaɪdə/",
+      "pos": "adj.",
+      "meaningZh": "更宽的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/vgXrPStmQGSC8E7RSmSyaC.mp3"
+    },
+    "view": {
+      "phonetic": "/vjuː/",
+      "pos": "n.",
+      "meaningZh": "视野",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hK2m3LvL6RCmDMYokgAeuj.mp3"
+    },
+    "must": {
+      "phonetic": "/mʌst/",
+      "pos": "v.",
+      "meaningZh": "必须，一定",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/txSBrdtshrq2WuU27pXzqY.mp3"
+    },
+    "be": {
+      "phonetic": "/biː/",
+      "pos": "v.",
+      "meaningZh": "是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Hz2fpGx2ybiAqt5qMZkjBH.mp3"
+    },
+    "right": {
+      "phonetic": "/raɪt/",
+      "pos": "adj.",
+      "meaningZh": "正确的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/LFHHGkfTAXXBgEGzKbhkp7.mp3"
+    },
+    "recorded": {
+      "phonetic": "/rɪˈkɔːdɪd/",
+      "pos": "v.",
+      "meaningZh": "记录（record的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ShyqJLNm8NNZknaMAkdeXU.mp3"
+    },
+    "experiences": {
+      "phonetic": "/ɪkˈspɪəriənsɪz/",
+      "pos": "n.",
+      "meaningZh": "经历",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/5et9gLHCVEPiBYegrPfUjL.mp3"
+    },
+    "diary": {
+      "phonetic": "/ˈdaɪəri/",
+      "pos": "n.",
+      "meaningZh": "日记",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ExFBmw7BTMtEhVfsFAyU6f.mp3"
+    },
+    "later": {
+      "phonetic": "/ˈleɪtə/",
+      "pos": "adv.",
+      "meaningZh": "后来",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/i2MoC9QRSasATCRLgokaHG.mp3"
+    },
+    "became": {
+      "phonetic": "/bɪˈkeɪm/",
+      "pos": "v.",
+      "meaningZh": "成为（become的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UgBf3SHnEhRmbpmofr4iFd.mp3"
+    },
+    "notes": {
+      "phonetic": "/nəʊts/",
+      "pos": "n.",
+      "meaningZh": "笔记",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hkGnFt6BNtG9pTdKadVY7J.mp3"
+    },
+    "thanks": {
+      "phonetic": "/θæŋks/",
+      "pos": "n.",
+      "meaningZh": "感谢",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZorbXU3GKT2pVwjWhB7TTK.mp3"
+    },
+    "book": {
+      "phonetic": "/bʊk/",
+      "pos": "n.",
+      "meaningZh": "书",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gxoeZs9MdfBHWN2LWQ2wtJ.mp3"
+    },
+    "we": {
+      "phonetic": "/wiː/",
+      "pos": "pron.",
+      "meaningZh": "我们",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/BWofcZzEFWayHtaCSw5L28.mp3"
+    },
+    "can": {
+      "phonetic": "/kæn/",
+      "pos": "v.",
+      "meaningZh": "能",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qNAqcMKyhPUpL5Afh4227f.mp3"
+    },
+    "learn": {
+      "phonetic": "/lɜːn/",
+      "pos": "v.",
+      "meaningZh": "学习",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/eiwPrViZDXXhvAW2QXrYvM.mp3"
+    },
+    "almost": {
+      "phonetic": "/ˈɔːlməʊst/",
+      "pos": "adv.",
+      "meaningZh": "几乎",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/j2BZ5hVjx5i3kZYkZcmdVc.mp3"
+    },
+    "ago": {
+      "phonetic": "/əˈgəʊ/",
+      "pos": "adv.",
+      "meaningZh": "以前",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/wgLLA9h45vJ7iTFKZjxxSE.mp3"
+    },
+    "exploring": {
+      "phonetic": "/ɪkˈsplɔːrɪŋ/",
+      "pos": "v.",
+      "meaningZh": "探索",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Gyxoj9L7j9j5AYzPTeSTi9.mp3"
+    },
+    "unexplored": {
+      "phonetic": "/ˌʌnɪkˈsplɔːd/",
+      "pos": "adj.",
+      "meaningZh": "未探索的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/HGsXUAqsxV3W9nKNUBWs82.mp3"
+    },
+    "is": {
+      "phonetic": "/ɪz/",
+      "pos": "v.",
+      "meaningZh": "是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/cdJAySjjAtfDqU2uaZmhWb.mp3"
+    },
+    "best": {
+      "phonetic": "/best/",
+      "pos": "adj.",
+      "meaningZh": "最好的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hhuQkxKmH3fWqSc3jw4PnS.mp3"
+    },
+    "description": {
+      "phonetic": "/dɪˈskrɪpʃn/",
+      "pos": "n.",
+      "meaningZh": "描述",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XC7rcB7pgUvcuZ84kLGVxM.mp3"
+    },
+    "chinese": {
+      "phonetic": "/ˌtʃaɪˈniːz/",
+      "pos": "adj.",
+      "meaningZh": "中国的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/cuxoivCapGKzXp3rRb72Rf.mp3"
     }
-  ]
+  }
 }

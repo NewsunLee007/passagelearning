@@ -1,0 +1,2711 @@
+{
+  "meta": {
+    "schemaVersion": "2.0",
+    "source": "八年级下册互动课文",
+    "importedFrom": "Unit 1 Passage 2 From mouse catcher to space tour guide...（互动课文教学动画）英语新教材外研版八年级下册.html",
+    "importedAt": "2026-04-13T04:50:28.088Z"
+  },
+  "article": {
+    "id": "g8b-u1-p2",
+    "title": "From mouse catcher to space tour guide...",
+    "unit": "Unit 1 成长与未来",
+    "paragraphs": [
+      {
+        "id": "g8b-u1-p2-p1",
+        "sentenceIds": [
+          "g8b-u1-p2-s1",
+          "g8b-u1-p2-s2",
+          "g8b-u1-p2-s3",
+          "g8b-u1-p2-s4",
+          "g8b-u1-p2-s5",
+          "g8b-u1-p2-s6"
+        ]
+      },
+      {
+        "id": "g8b-u1-p2-p2",
+        "sentenceIds": [
+          "g8b-u1-p2-s7",
+          "g8b-u1-p2-s8",
+          "g8b-u1-p2-s9"
+        ]
+      },
+      {
+        "id": "g8b-u1-p2-p3",
+        "sentenceIds": [
+          "g8b-u1-p2-s10",
+          "g8b-u1-p2-s11"
+        ]
+      },
+      {
+        "id": "g8b-u1-p2-p4",
+        "sentenceIds": [
+          "g8b-u1-p2-s12",
+          "g8b-u1-p2-s13",
+          "g8b-u1-p2-s14"
+        ]
+      },
+      {
+        "id": "g8b-u1-p2-p5",
+        "sentenceIds": [
+          "g8b-u1-p2-s15",
+          "g8b-u1-p2-s16"
+        ]
+      },
+      {
+        "id": "g8b-u1-p2-p6",
+        "sentenceIds": [
+          "g8b-u1-p2-s17",
+          "g8b-u1-p2-s18",
+          "g8b-u1-p2-s19"
+        ]
+      },
+      {
+        "id": "g8b-u1-p2-p7",
+        "sentenceIds": [
+          "g8b-u1-p2-s20",
+          "g8b-u1-p2-s21",
+          "g8b-u1-p2-s22"
+        ]
+      },
+      {
+        "id": "g8b-u1-p2-p8",
+        "sentenceIds": [
+          "g8b-u1-p2-s23",
+          "g8b-u1-p2-s24"
+        ]
+      }
+    ],
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "unitNumber": 1,
+    "unitTheme": "成长与未来",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "bookOrder": 411,
+    "summary": "从童年兴趣到职业想象，理解梦想是如何被慢慢打开的。"
+  },
+  "sentences": [
+    {
+      "id": "g8b-u1-p2-s1",
+      "text": "People's jobs have changed throughout history.",
+      "paragraphId": "g8b-u1-p2-p1",
+      "tr": "纵观历史，人们的工作一直在变化。",
+      "g": "现在完成时 + 时间状语",
+      "d": "'have changed'现在完成时表示从过去到现在的变化。'throughout history'表示贯穿整个历史。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/U9ULLLjdMNVYdnSBHS7gbk.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s2",
+      "text": "If you lived in the mid-1300s, you might have been a mouse catcher.",
+      "paragraphId": "g8b-u1-p2-p1",
+      "tr": "如果你生活在14世纪中期，你可能会是一名捕鼠人。",
+      "g": "虚拟条件句（与过去事实相反）",
+      "d": "条件从句用过去时'lived'，主句用'might have been'，表示对过去情况的虚拟假设。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZMkcigsvreLKchdgNMYXY2.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s3",
+      "text": "The job was well respected centuries ago, but few people do it today.",
+      "paragraphId": "g8b-u1-p2-p1",
+      "tr": "这份工作在几个世纪前很受尊重，但今天很少有人做这个工作。",
+      "g": "转折复合句 + 时间对比",
+      "d": "'but'连接转折关系，对比过去和现在的情况。'well respected'表示被动含义。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ERu3WWw4ngdH6BupFcpZqG.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s4",
+      "text": "Now, technology is developing at an even faster speed.",
+      "paragraphId": "g8b-u1-p2-p1",
+      "tr": "现在，技术正以更快的速度发展。",
+      "g": "现在进行时 + 比较级",
+      "d": "'is developing'现在进行时强调正在进行的动作。'even faster'使用比较级强调速度更快。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XseUniHEc7MAqwXNarQD8g.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s5",
+      "text": "Some traditional jobs are disappearing.",
+      "paragraphId": "g8b-u1-p2-p1",
+      "tr": "一些传统工作正在消失。",
+      "g": "现在进行时",
+      "d": "'are disappearing'现在进行时表示正在发生的变化趋势。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/YYpVwjUuhWX2wG2pSGMDPh.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s6",
+      "text": "However, new ones are springing up to meet new needs.",
+      "paragraphId": "g8b-u1-p2-p1",
+      "tr": "然而，新的工作正在涌现以满足新的需求。",
+      "g": "转折句 + 目的状语",
+      "d": "'spring up'是短语动词，表示快速出现。'to meet'不定式作目的状语。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/88XNgBmEUPjNTc6mjMVEic.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s7",
+      "text": "Cashiers in shops and supermarkets may not be necessary in the near future.",
+      "paragraphId": "g8b-u1-p2-p2",
+      "tr": "在不久的将来，商店和超市的收银员可能不再必要。",
+      "g": "情态动词 + 否定 + 时间状语",
+      "d": "'may not be'表示可能性的否定推测。'in the near future'表示不久的将来。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/bdbshaRNWDQjHAQTWoZBqU.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s8",
+      "text": "They may soon be replaced by machines.",
+      "paragraphId": "g8b-u1-p2-p2",
+      "tr": "他们可能很快会被机器取代。",
+      "g": "情态动词 + 被动语态",
+      "d": "'may be replaced'情态动词加被动语态，表示可能被取代。'by machines'表示动作执行者。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/oTcboyfsAisRQzexMBDZFX.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s9",
+      "text": "People can pay on their own in these places.",
+      "paragraphId": "g8b-u1-p2-p2",
+      "tr": "人们可以在这些地方自助付款。",
+      "g": "情态动词 + 动词原形",
+      "d": "'on their own'表示独立地、自己。'can'表示能力。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/M3uV9ptrRdiPRRRTxZExR3.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s10",
+      "text": "Autopilots were first used in planes over a century ago.",
+      "paragraphId": "g8b-u1-p2-p3",
+      "tr": "自动驾驶仪在一个多世纪前首次用于飞机。",
+      "g": "被动语态 + 时间状语",
+      "d": "'were used'被动语态表示被使用。'over a century ago'表示一百多年前。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/AUPenvN5HpmxyNrJi6s9NS.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s11",
+      "text": "With the development of new technology, perhaps there will be no human pilots in the future!",
+      "paragraphId": "g8b-u1-p2-p3",
+      "tr": "随着新技术的发展，也许未来将不会有人类飞行员！",
+      "g": "with短语 + there be结构 + 将来时",
+      "d": "'with'表示伴随。'there will be'表示将来存在。'perhaps'表示可能性。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/orCoVzFdk5TSraNWaRxLSX.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s12",
+      "text": "Space tourism started over 20 years ago.",
+      "paragraphId": "g8b-u1-p2-p4",
+      "tr": "太空旅游在20多年前就开始了。",
+      "g": "一般过去时 + 时间状语",
+      "d": "'started'一般过去时表示过去发生的动作。'over 20 years ago'表示20多年前。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/zJctiPiL6kDiidUX6zvUEK.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s13",
+      "text": "In the future, travelling to space will surely be provided at a lower cost.",
+      "paragraphId": "g8b-u1-p2-p4",
+      "tr": "在未来，太空旅行肯定会以更低的成本提供。",
+      "g": "将来时被动语态 + 副词修饰",
+      "d": "'will be provided'将来时被动语态。'surely'副词表示肯定。'at a lower cost'表示以更低的成本。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/LLDcGixKVKPb5MpnMSMf9S.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s14",
+      "text": "Space tour guides will be needed to lead people to the moon and beyond!",
+      "paragraphId": "g8b-u1-p2-p4",
+      "tr": "将需要太空导游带领人们前往月球及更远的地方！",
+      "g": "将来时被动语态 + 目的状语",
+      "d": "'will be needed'将来时被动语态。'to lead'不定式作目的状语。'and beyond'表示更远的地方。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/63oBfSUeDJsuozcmjnGXsZ.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s15",
+      "text": "In the future, more people will work and play in virtual reality.",
+      "paragraphId": "g8b-u1-p2-p5",
+      "tr": "在未来，更多的人将在虚拟现实中工作和娱乐。",
+      "g": "将来时 + 并列谓语",
+      "d": "'will work and play'并列谓语表示两个动作。'in virtual reality'表示在虚拟现实中。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/p3jaa2kWR5KEq5K9esEMw4.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s16",
+      "text": "People will need cool and fashionable clothes, so VR fashion designers will be greatly needed!",
+      "paragraphId": "g8b-u1-p2-p5",
+      "tr": "人们将需要酷炫时尚的服装，所以VR时尚设计师将非常需要！",
+      "g": "因果复合句 + 被动语态",
+      "d": "'so'连接因果关系。'will be needed'将来时被动语态，'greatly'副词修饰。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/NxawkkEDF6XsDSmpb2RaRG.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s17",
+      "text": "The idea of flying in a plane without a human pilot is scary!",
+      "paragraphId": "g8b-u1-p2-p6",
+      "tr": "在没有人类飞行员的飞机上飞行的想法很可怕！",
+      "g": "主系表结构 + 介词短语作定语",
+      "d": "'of flying'介词短语作定语修饰idea。'without'表示没有。'is scary'主系表结构。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/q7ZePsxNCuzniYCRBt6VM3.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s18",
+      "text": "Is the technology safe enough?",
+      "paragraphId": "g8b-u1-p2-p6",
+      "tr": "这项技术足够安全吗？",
+      "g": "一般疑问句 + enough修饰形容词",
+      "d": "'enough'修饰形容词时后置。疑问句表示质疑。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/GTE3KqXEkzDFCqjZ5ZaTe4.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s19",
+      "text": "Will pilots' jobs go up in smoke?",
+      "paragraphId": "g8b-u1-p2-p6",
+      "tr": "飞行员的工作会化为乌有吗？",
+      "g": "一般将来时疑问句 + 习语",
+      "d": "'go up in smoke'是习语，表示化为乌有、失败。所有格'pilots''表示飞行员的。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/kGm8YMwLMSDH55MDLMq2LG.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s20",
+      "text": "Um, sign me up for a space tour, please!",
+      "paragraphId": "g8b-u1-p2-p7",
+      "tr": "嗯，请给我报名参加太空旅行！",
+      "g": "祈使句 + 短语动词",
+      "d": "'sign up for'是短语动词，表示报名参加。'me'是宾语。'please'表示礼貌请求。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/kFHqmQoqgStNZo7PUgJGfR.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s21",
+      "text": "But what if I lose my job as a cashier?",
+      "paragraphId": "g8b-u1-p2-p7",
+      "tr": "但如果我失去收银员的工作怎么办？",
+      "g": "what if句型 + 条件从句",
+      "d": "'what if'表示假设，相当于'如果...会怎样'。'as a cashier'表示作为收银员的身份。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WUcpfukrxe7RYHVb3XY2vT.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s22",
+      "text": "How will I make enough money to pay for the tour?",
+      "paragraphId": "g8b-u1-p2-p7",
+      "tr": "我怎么赚足够的钱来支付旅行费用？",
+      "g": "特殊疑问句 + 目的状语",
+      "d": "'How will I'询问方式。'to pay for'不定式作目的状语。'enough'修饰money。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rvtBJAjrAfhaZZbys9s6TS.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s23",
+      "text": "How fast the job market changes!",
+      "paragraphId": "g8b-u1-p2-p8",
+      "tr": "就业市场变化得多快啊！",
+      "g": "感叹句",
+      "d": "'How + 形容词/副词 + 主语 + 谓语'构成感叹句。'fast'副词修饰changes。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Rj2sEt68jeaea7HoCb74P6.mp3"
+    },
+    {
+      "id": "g8b-u1-p2-s24",
+      "text": "We can't just sit at our desks and expect things to stay the same.",
+      "paragraphId": "g8b-u1-p2-p8",
+      "tr": "我们不能只是坐在办公桌前，期待事情保持不变。",
+      "g": "否定句 + 并列谓语 + 复合宾语",
+      "d": "'sit'和'expect'是并列谓语。'expect + 宾语(things) + 不定式(to stay)'构成复合宾语结构，表示期待某事做某事。'stay the same'保持不变。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/abKRqdp9P2qSctV7KFeBFe.mp3"
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "g8b-u1-p2-v1",
+      "term": "20",
+      "meaningZh": "二十",
+      "exampleSentenceId": "g8b-u1-p2-s12"
+    },
+    {
+      "id": "g8b-u1-p2-v2",
+      "term": "which",
+      "meaningZh": "哪一个，哪些"
+    },
+    {
+      "id": "g8b-u1-p2-v3",
+      "term": "jobs",
+      "meaningZh": "工作（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s1"
+    },
+    {
+      "id": "g8b-u1-p2-v4",
+      "term": "will",
+      "meaningZh": "将要",
+      "exampleSentenceId": "g8b-u1-p2-s11"
+    },
+    {
+      "id": "g8b-u1-p2-v5",
+      "term": "soon",
+      "meaningZh": "很快，不久",
+      "exampleSentenceId": "g8b-u1-p2-s8"
+    },
+    {
+      "id": "g8b-u1-p2-v6",
+      "term": "be",
+      "meaningZh": "是，成为",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
+      "id": "g8b-u1-p2-v7",
+      "term": "and",
+      "meaningZh": "和，与",
+      "exampleSentenceId": "g8b-u1-p2-s7"
+    },
+    {
+      "id": "g8b-u1-p2-v8",
+      "term": "ones",
+      "meaningZh": "一些（代词）",
+      "exampleSentenceId": "g8b-u1-p2-s6"
+    },
+    {
+      "id": "g8b-u1-p2-v9",
+      "term": "are",
+      "meaningZh": "是（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s5"
+    },
+    {
+      "id": "g8b-u1-p2-v10",
+      "term": "on",
+      "meaningZh": "在...上",
+      "exampleSentenceId": "g8b-u1-p2-s5"
+    },
+    {
+      "id": "g8b-u1-p2-v11",
+      "term": "the",
+      "meaningZh": "这个，那个（定冠词）",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
+      "id": "g8b-u1-p2-v12",
+      "term": "way",
+      "meaningZh": "道路，方式"
+    },
+    {
+      "id": "g8b-u1-p2-v13",
+      "term": "people's",
+      "meaningZh": "人们的",
+      "exampleSentenceId": "g8b-u1-p2-s1"
+    },
+    {
+      "id": "g8b-u1-p2-v14",
+      "term": "people",
+      "meaningZh": "人们",
+      "exampleSentenceId": "g8b-u1-p2-s1"
+    },
+    {
+      "id": "g8b-u1-p2-v15",
+      "term": "have",
+      "meaningZh": "有，已经",
+      "exampleSentenceId": "g8b-u1-p2-s1"
+    },
+    {
+      "id": "g8b-u1-p2-v16",
+      "term": "changed",
+      "meaningZh": "改变（过去分词）",
+      "exampleSentenceId": "g8b-u1-p2-s1"
+    },
+    {
+      "id": "g8b-u1-p2-v17",
+      "term": "throughout",
+      "meaningZh": "贯穿，遍及",
+      "exampleSentenceId": "g8b-u1-p2-s1"
+    },
+    {
+      "id": "g8b-u1-p2-v18",
+      "term": "if",
+      "meaningZh": "如果",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
+      "id": "g8b-u1-p2-v19",
+      "term": "you",
+      "meaningZh": "你，你们",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
+      "id": "g8b-u1-p2-v20",
+      "term": "lived",
+      "meaningZh": "生活（过去式）",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
+      "id": "g8b-u1-p2-v21",
+      "term": "in",
+      "meaningZh": "在...里面",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
+      "id": "g8b-u1-p2-v22",
+      "term": "mid",
+      "meaningZh": "中间的",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
+      "id": "g8b-u1-p2-v23",
+      "term": "1300s",
+      "meaningZh": "14世纪",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
+      "id": "g8b-u1-p2-v24",
+      "term": "mid-1300s",
+      "meaningZh": "14世纪中期",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
+      "id": "g8b-u1-p2-v25",
+      "term": "might",
+      "meaningZh": "可能",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
+      "id": "g8b-u1-p2-v26",
+      "term": "been",
+      "meaningZh": "是（过去分词）",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
+      "id": "g8b-u1-p2-v27",
+      "term": "a",
+      "meaningZh": "一个（不定冠词）",
+      "exampleSentenceId": "g8b-u1-p2-s1"
+    },
+    {
+      "id": "g8b-u1-p2-v28",
+      "term": "job",
+      "meaningZh": "工作",
+      "exampleSentenceId": "g8b-u1-p2-s1"
+    },
+    {
+      "id": "g8b-u1-p2-v29",
+      "term": "was",
+      "meaningZh": "是（过去式）",
+      "exampleSentenceId": "g8b-u1-p2-s3"
+    },
+    {
+      "id": "g8b-u1-p2-v30",
+      "term": "well",
+      "meaningZh": "很好地",
+      "exampleSentenceId": "g8b-u1-p2-s3"
+    },
+    {
+      "id": "g8b-u1-p2-v31",
+      "term": "ago",
+      "meaningZh": "以前",
+      "exampleSentenceId": "g8b-u1-p2-s3"
+    },
+    {
+      "id": "g8b-u1-p2-v32",
+      "term": "but",
+      "meaningZh": "但是",
+      "exampleSentenceId": "g8b-u1-p2-s3"
+    },
+    {
+      "id": "g8b-u1-p2-v33",
+      "term": "few",
+      "meaningZh": "很少的",
+      "exampleSentenceId": "g8b-u1-p2-s3"
+    },
+    {
+      "id": "g8b-u1-p2-v34",
+      "term": "do",
+      "meaningZh": "做",
+      "exampleSentenceId": "g8b-u1-p2-s3"
+    },
+    {
+      "id": "g8b-u1-p2-v35",
+      "term": "it",
+      "meaningZh": "它",
+      "exampleSentenceId": "g8b-u1-p2-s3"
+    },
+    {
+      "id": "g8b-u1-p2-v36",
+      "term": "today",
+      "meaningZh": "今天",
+      "exampleSentenceId": "g8b-u1-p2-s3"
+    },
+    {
+      "id": "g8b-u1-p2-v37",
+      "term": "now",
+      "meaningZh": "现在",
+      "exampleSentenceId": "g8b-u1-p2-s4"
+    },
+    {
+      "id": "g8b-u1-p2-v38",
+      "term": "is",
+      "meaningZh": "是",
+      "exampleSentenceId": "g8b-u1-p2-s1"
+    },
+    {
+      "id": "g8b-u1-p2-v39",
+      "term": "at",
+      "meaningZh": "在",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
+      "id": "g8b-u1-p2-v40",
+      "term": "an",
+      "meaningZh": "一个（元音前）",
+      "exampleSentenceId": "g8b-u1-p2-s1"
+    },
+    {
+      "id": "g8b-u1-p2-v41",
+      "term": "even",
+      "meaningZh": "甚至",
+      "exampleSentenceId": "g8b-u1-p2-s4"
+    },
+    {
+      "id": "g8b-u1-p2-v42",
+      "term": "faster",
+      "meaningZh": "更快的",
+      "exampleSentenceId": "g8b-u1-p2-s4"
+    },
+    {
+      "id": "g8b-u1-p2-v43",
+      "term": "some",
+      "meaningZh": "一些",
+      "exampleSentenceId": "g8b-u1-p2-s5"
+    },
+    {
+      "id": "g8b-u1-p2-v44",
+      "term": "however",
+      "meaningZh": "然而",
+      "exampleSentenceId": "g8b-u1-p2-s6"
+    },
+    {
+      "id": "g8b-u1-p2-v45",
+      "term": "new",
+      "meaningZh": "新的",
+      "exampleSentenceId": "g8b-u1-p2-s6"
+    },
+    {
+      "id": "g8b-u1-p2-v46",
+      "term": "to",
+      "meaningZh": "到，向",
+      "exampleSentenceId": "g8b-u1-p2-s1"
+    },
+    {
+      "id": "g8b-u1-p2-v47",
+      "term": "meet",
+      "meaningZh": "满足，遇见",
+      "exampleSentenceId": "g8b-u1-p2-s6"
+    },
+    {
+      "id": "g8b-u1-p2-v48",
+      "term": "cashiers",
+      "meaningZh": "收银员（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s7"
+    },
+    {
+      "id": "g8b-u1-p2-v49",
+      "term": "shops",
+      "meaningZh": "商店（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s7"
+    },
+    {
+      "id": "g8b-u1-p2-v50",
+      "term": "supermarkets",
+      "meaningZh": "超市（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s7"
+    },
+    {
+      "id": "g8b-u1-p2-v51",
+      "term": "may",
+      "meaningZh": "可能",
+      "exampleSentenceId": "g8b-u1-p2-s7"
+    },
+    {
+      "id": "g8b-u1-p2-v52",
+      "term": "not",
+      "meaningZh": "不",
+      "exampleSentenceId": "g8b-u1-p2-s7"
+    },
+    {
+      "id": "g8b-u1-p2-v53",
+      "term": "near",
+      "meaningZh": "近的",
+      "exampleSentenceId": "g8b-u1-p2-s7"
+    },
+    {
+      "id": "g8b-u1-p2-v54",
+      "term": "they",
+      "meaningZh": "他们",
+      "exampleSentenceId": "g8b-u1-p2-s8"
+    },
+    {
+      "id": "g8b-u1-p2-v55",
+      "term": "by",
+      "meaningZh": "被，由",
+      "exampleSentenceId": "g8b-u1-p2-s8"
+    },
+    {
+      "id": "g8b-u1-p2-v56",
+      "term": "can",
+      "meaningZh": "能够",
+      "exampleSentenceId": "g8b-u1-p2-s9"
+    },
+    {
+      "id": "g8b-u1-p2-v57",
+      "term": "pay",
+      "meaningZh": "支付",
+      "exampleSentenceId": "g8b-u1-p2-s9"
+    },
+    {
+      "id": "g8b-u1-p2-v58",
+      "term": "their",
+      "meaningZh": "他们的",
+      "exampleSentenceId": "g8b-u1-p2-s9"
+    },
+    {
+      "id": "g8b-u1-p2-v59",
+      "term": "own",
+      "meaningZh": "自己的",
+      "exampleSentenceId": "g8b-u1-p2-s9"
+    },
+    {
+      "id": "g8b-u1-p2-v60",
+      "term": "these",
+      "meaningZh": "这些",
+      "exampleSentenceId": "g8b-u1-p2-s9"
+    },
+    {
+      "id": "g8b-u1-p2-v61",
+      "term": "places",
+      "meaningZh": "地方（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s9"
+    },
+    {
+      "id": "g8b-u1-p2-v62",
+      "term": "autopilots",
+      "meaningZh": "自动驾驶仪（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s10"
+    },
+    {
+      "id": "g8b-u1-p2-v63",
+      "term": "were",
+      "meaningZh": "是（过去式复数）",
+      "exampleSentenceId": "g8b-u1-p2-s10"
+    },
+    {
+      "id": "g8b-u1-p2-v64",
+      "term": "first",
+      "meaningZh": "第一的",
+      "exampleSentenceId": "g8b-u1-p2-s10"
+    },
+    {
+      "id": "g8b-u1-p2-v65",
+      "term": "used",
+      "meaningZh": "使用（过去分词）",
+      "exampleSentenceId": "g8b-u1-p2-s10"
+    },
+    {
+      "id": "g8b-u1-p2-v66",
+      "term": "planes",
+      "meaningZh": "飞机（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s10"
+    },
+    {
+      "id": "g8b-u1-p2-v67",
+      "term": "over",
+      "meaningZh": "超过",
+      "exampleSentenceId": "g8b-u1-p2-s10"
+    },
+    {
+      "id": "g8b-u1-p2-v68",
+      "term": "century",
+      "meaningZh": "世纪",
+      "exampleSentenceId": "g8b-u1-p2-s10"
+    },
+    {
+      "id": "g8b-u1-p2-v69",
+      "term": "with",
+      "meaningZh": "随着，与",
+      "exampleSentenceId": "g8b-u1-p2-s11"
+    },
+    {
+      "id": "g8b-u1-p2-v70",
+      "term": "of",
+      "meaningZh": "...的",
+      "exampleSentenceId": "g8b-u1-p2-s11"
+    },
+    {
+      "id": "g8b-u1-p2-v71",
+      "term": "perhaps",
+      "meaningZh": "也许",
+      "exampleSentenceId": "g8b-u1-p2-s11"
+    },
+    {
+      "id": "g8b-u1-p2-v72",
+      "term": "there",
+      "meaningZh": "那里",
+      "exampleSentenceId": "g8b-u1-p2-s11"
+    },
+    {
+      "id": "g8b-u1-p2-v73",
+      "term": "no",
+      "meaningZh": "没有",
+      "exampleSentenceId": "g8b-u1-p2-s4"
+    },
+    {
+      "id": "g8b-u1-p2-v74",
+      "term": "human",
+      "meaningZh": "人类的",
+      "exampleSentenceId": "g8b-u1-p2-s11"
+    },
+    {
+      "id": "g8b-u1-p2-v75",
+      "term": "started",
+      "meaningZh": "开始（过去式）",
+      "exampleSentenceId": "g8b-u1-p2-s12"
+    },
+    {
+      "id": "g8b-u1-p2-v76",
+      "term": "years",
+      "meaningZh": "年（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s12"
+    },
+    {
+      "id": "g8b-u1-p2-v77",
+      "term": "travelling",
+      "meaningZh": "旅行（现在分词）",
+      "exampleSentenceId": "g8b-u1-p2-s13"
+    },
+    {
+      "id": "g8b-u1-p2-v78",
+      "term": "surely",
+      "meaningZh": "肯定地",
+      "exampleSentenceId": "g8b-u1-p2-s13"
+    },
+    {
+      "id": "g8b-u1-p2-v79",
+      "term": "lower",
+      "meaningZh": "更低的",
+      "exampleSentenceId": "g8b-u1-p2-s13"
+    },
+    {
+      "id": "g8b-u1-p2-v80",
+      "term": "needed",
+      "meaningZh": "需要（过去分词）",
+      "exampleSentenceId": "g8b-u1-p2-s14"
+    },
+    {
+      "id": "g8b-u1-p2-v81",
+      "term": "more",
+      "meaningZh": "更多的",
+      "exampleSentenceId": "g8b-u1-p2-s15"
+    },
+    {
+      "id": "g8b-u1-p2-v82",
+      "term": "work",
+      "meaningZh": "工作",
+      "exampleSentenceId": "g8b-u1-p2-s15"
+    },
+    {
+      "id": "g8b-u1-p2-v83",
+      "term": "play",
+      "meaningZh": "玩",
+      "exampleSentenceId": "g8b-u1-p2-s15"
+    },
+    {
+      "id": "g8b-u1-p2-v84",
+      "term": "need",
+      "meaningZh": "需要",
+      "exampleSentenceId": "g8b-u1-p2-s6"
+    },
+    {
+      "id": "g8b-u1-p2-v85",
+      "term": "cool",
+      "meaningZh": "酷的",
+      "exampleSentenceId": "g8b-u1-p2-s16"
+    },
+    {
+      "id": "g8b-u1-p2-v86",
+      "term": "clothes",
+      "meaningZh": "衣服",
+      "exampleSentenceId": "g8b-u1-p2-s16"
+    },
+    {
+      "id": "g8b-u1-p2-v87",
+      "term": "so",
+      "meaningZh": "所以",
+      "exampleSentenceId": "g8b-u1-p2-s5"
+    },
+    {
+      "id": "g8b-u1-p2-v88",
+      "term": "vr",
+      "meaningZh": "虚拟现实",
+      "exampleSentenceId": "g8b-u1-p2-s16"
+    },
+    {
+      "id": "g8b-u1-p2-v89",
+      "term": "ai",
+      "meaningZh": "人工智能"
+    },
+    {
+      "id": "g8b-u1-p2-v90",
+      "term": "fashion",
+      "meaningZh": "时尚",
+      "exampleSentenceId": "g8b-u1-p2-s16"
+    },
+    {
+      "id": "g8b-u1-p2-v91",
+      "term": "idea",
+      "meaningZh": "想法，主意",
+      "exampleSentenceId": "g8b-u1-p2-s17"
+    },
+    {
+      "id": "g8b-u1-p2-v92",
+      "term": "without",
+      "meaningZh": "没有",
+      "exampleSentenceId": "g8b-u1-p2-s17"
+    },
+    {
+      "id": "g8b-u1-p2-v93",
+      "term": "pilot",
+      "meaningZh": "飞行员",
+      "exampleSentenceId": "g8b-u1-p2-s10"
+    },
+    {
+      "id": "g8b-u1-p2-v94",
+      "term": "safe",
+      "meaningZh": "安全的",
+      "exampleSentenceId": "g8b-u1-p2-s18"
+    },
+    {
+      "id": "g8b-u1-p2-v95",
+      "term": "um",
+      "meaningZh": "嗯（语气词）",
+      "exampleSentenceId": "g8b-u1-p2-s11"
+    },
+    {
+      "id": "g8b-u1-p2-v96",
+      "term": "sign",
+      "meaningZh": "签名，报名",
+      "exampleSentenceId": "g8b-u1-p2-s16"
+    },
+    {
+      "id": "g8b-u1-p2-v97",
+      "term": "me",
+      "meaningZh": "我（宾格）",
+      "exampleSentenceId": "g8b-u1-p2-s5"
+    },
+    {
+      "id": "g8b-u1-p2-v98",
+      "term": "up",
+      "meaningZh": "向上",
+      "exampleSentenceId": "g8b-u1-p2-s6"
+    },
+    {
+      "id": "g8b-u1-p2-v99",
+      "term": "for",
+      "meaningZh": "为了",
+      "exampleSentenceId": "g8b-u1-p2-s20"
+    },
+    {
+      "id": "g8b-u1-p2-v100",
+      "term": "please",
+      "meaningZh": "请",
+      "exampleSentenceId": "g8b-u1-p2-s20"
+    },
+    {
+      "id": "g8b-u1-p2-v101",
+      "term": "what",
+      "meaningZh": "什么",
+      "exampleSentenceId": "g8b-u1-p2-s21"
+    },
+    {
+      "id": "g8b-u1-p2-v102",
+      "term": "i",
+      "meaningZh": "我",
+      "exampleSentenceId": "g8b-u1-p2-s1"
+    },
+    {
+      "id": "g8b-u1-p2-v103",
+      "term": "my",
+      "meaningZh": "我的",
+      "exampleSentenceId": "g8b-u1-p2-s21"
+    },
+    {
+      "id": "g8b-u1-p2-v104",
+      "term": "as",
+      "meaningZh": "作为",
+      "exampleSentenceId": "g8b-u1-p2-s3"
+    },
+    {
+      "id": "g8b-u1-p2-v105",
+      "term": "how",
+      "meaningZh": "如何，多么",
+      "exampleSentenceId": "g8b-u1-p2-s6"
+    },
+    {
+      "id": "g8b-u1-p2-v106",
+      "term": "make",
+      "meaningZh": "制作，赚取",
+      "exampleSentenceId": "g8b-u1-p2-s22"
+    },
+    {
+      "id": "g8b-u1-p2-v107",
+      "term": "money",
+      "meaningZh": "钱",
+      "exampleSentenceId": "g8b-u1-p2-s22"
+    },
+    {
+      "id": "g8b-u1-p2-v108",
+      "term": "fast",
+      "meaningZh": "快速地",
+      "exampleSentenceId": "g8b-u1-p2-s4"
+    },
+    {
+      "id": "g8b-u1-p2-v109",
+      "term": "we",
+      "meaningZh": "我们",
+      "exampleSentenceId": "g8b-u1-p2-s3"
+    },
+    {
+      "id": "g8b-u1-p2-v110",
+      "term": "can't",
+      "meaningZh": "不能（cannot缩写）",
+      "exampleSentenceId": "g8b-u1-p2-s24"
+    },
+    {
+      "id": "g8b-u1-p2-v111",
+      "term": "just",
+      "meaningZh": "仅仅，只是",
+      "exampleSentenceId": "g8b-u1-p2-s24"
+    },
+    {
+      "id": "g8b-u1-p2-v112",
+      "term": "sit",
+      "meaningZh": "坐",
+      "exampleSentenceId": "g8b-u1-p2-s24"
+    },
+    {
+      "id": "g8b-u1-p2-v113",
+      "term": "our",
+      "meaningZh": "我们的",
+      "exampleSentenceId": "g8b-u1-p2-s12"
+    },
+    {
+      "id": "g8b-u1-p2-v114",
+      "term": "things",
+      "meaningZh": "事情（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s24"
+    },
+    {
+      "id": "g8b-u1-p2-v115",
+      "term": "i'm",
+      "meaningZh": "我是（I am缩写）"
+    },
+    {
+      "id": "g8b-u1-p2-v116",
+      "term": "pilot's",
+      "meaningZh": "飞行员的"
+    },
+    {
+      "id": "g8b-u1-p2-v117",
+      "term": "cashier",
+      "meaningZh": "收银员",
+      "exampleSentenceId": "g8b-u1-p2-s7"
+    },
+    {
+      "id": "g8b-u1-p2-v118",
+      "term": "space",
+      "meaningZh": "太空",
+      "exampleSentenceId": "g8b-u1-p2-s12"
+    },
+    {
+      "id": "g8b-u1-p2-v119",
+      "term": "tour",
+      "meaningZh": "旅行，游览",
+      "exampleSentenceId": "g8b-u1-p2-s12"
+    },
+    {
+      "id": "g8b-u1-p2-v120",
+      "term": "guide",
+      "meaningZh": "导游，指南",
+      "exampleSentenceId": "g8b-u1-p2-s14"
+    },
+    {
+      "id": "g8b-u1-p2-v121",
+      "term": "virtual",
+      "meaningZh": "虚拟的",
+      "exampleSentenceId": "g8b-u1-p2-s15"
+    },
+    {
+      "id": "g8b-u1-p2-v122",
+      "term": "reality",
+      "meaningZh": "现实",
+      "exampleSentenceId": "g8b-u1-p2-s15"
+    },
+    {
+      "id": "g8b-u1-p2-v123",
+      "term": "designer",
+      "meaningZh": "设计师",
+      "exampleSentenceId": "g8b-u1-p2-s16"
+    },
+    {
+      "id": "g8b-u1-p2-v124",
+      "term": "comments",
+      "meaningZh": "评论（复数）"
+    },
+    {
+      "id": "g8b-u1-p2-v125",
+      "term": "history",
+      "meaningZh": "历史；成为过去的事物",
+      "exampleSentenceId": "g8b-u1-p2-s1"
+    },
+    {
+      "id": "g8b-u1-p2-v126",
+      "term": "mouse",
+      "meaningZh": "老鼠",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
+      "id": "g8b-u1-p2-v127",
+      "term": "catcher",
+      "meaningZh": "捕捉者",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
+      "id": "g8b-u1-p2-v128",
+      "term": "respected",
+      "meaningZh": "受尊敬的",
+      "exampleSentenceId": "g8b-u1-p2-s3"
+    },
+    {
+      "id": "g8b-u1-p2-v129",
+      "term": "centuries",
+      "meaningZh": "世纪（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s3"
+    },
+    {
+      "id": "g8b-u1-p2-v130",
+      "term": "technology",
+      "meaningZh": "技术，科技",
+      "exampleSentenceId": "g8b-u1-p2-s4"
+    },
+    {
+      "id": "g8b-u1-p2-v131",
+      "term": "developing",
+      "meaningZh": "发展（现在分词）",
+      "exampleSentenceId": "g8b-u1-p2-s4"
+    },
+    {
+      "id": "g8b-u1-p2-v132",
+      "term": "speed",
+      "meaningZh": "速度",
+      "exampleSentenceId": "g8b-u1-p2-s4"
+    },
+    {
+      "id": "g8b-u1-p2-v133",
+      "term": "traditional",
+      "meaningZh": "传统的",
+      "exampleSentenceId": "g8b-u1-p2-s5"
+    },
+    {
+      "id": "g8b-u1-p2-v134",
+      "term": "disappearing",
+      "meaningZh": "消失（现在分词）",
+      "exampleSentenceId": "g8b-u1-p2-s5"
+    },
+    {
+      "id": "g8b-u1-p2-v135",
+      "term": "springing",
+      "meaningZh": "涌现（现在分词）",
+      "exampleSentenceId": "g8b-u1-p2-s6"
+    },
+    {
+      "id": "g8b-u1-p2-v136",
+      "term": "needs",
+      "meaningZh": "需求（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s6"
+    },
+    {
+      "id": "g8b-u1-p2-v137",
+      "term": "necessary",
+      "meaningZh": "必要的",
+      "exampleSentenceId": "g8b-u1-p2-s7"
+    },
+    {
+      "id": "g8b-u1-p2-v138",
+      "term": "replaced",
+      "meaningZh": "取代（过去分词）",
+      "exampleSentenceId": "g8b-u1-p2-s8"
+    },
+    {
+      "id": "g8b-u1-p2-v139",
+      "term": "machines",
+      "meaningZh": "机器（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s8"
+    },
+    {
+      "id": "g8b-u1-p2-v140",
+      "term": "autopilot",
+      "meaningZh": "自动驾驶仪",
+      "exampleSentenceId": "g8b-u1-p2-s10"
+    },
+    {
+      "id": "g8b-u1-p2-v141",
+      "term": "pilots",
+      "meaningZh": "飞行员（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s10"
+    },
+    {
+      "id": "g8b-u1-p2-v142",
+      "term": "pilots'",
+      "meaningZh": "飞行员的（复数所有格）",
+      "exampleSentenceId": "g8b-u1-p2-s19"
+    },
+    {
+      "id": "g8b-u1-p2-v143",
+      "term": "go",
+      "meaningZh": "去，进行",
+      "exampleSentenceId": "g8b-u1-p2-s3"
+    },
+    {
+      "id": "g8b-u1-p2-v144",
+      "term": "development",
+      "meaningZh": "发展",
+      "exampleSentenceId": "g8b-u1-p2-s11"
+    },
+    {
+      "id": "g8b-u1-p2-v145",
+      "term": "future",
+      "meaningZh": "未来",
+      "exampleSentenceId": "g8b-u1-p2-s7"
+    },
+    {
+      "id": "g8b-u1-p2-v146",
+      "term": "tourism",
+      "meaningZh": "旅游业",
+      "exampleSentenceId": "g8b-u1-p2-s12"
+    },
+    {
+      "id": "g8b-u1-p2-v147",
+      "term": "provided",
+      "meaningZh": "提供（过去分词）",
+      "exampleSentenceId": "g8b-u1-p2-s13"
+    },
+    {
+      "id": "g8b-u1-p2-v148",
+      "term": "cost",
+      "meaningZh": "成本，费用",
+      "exampleSentenceId": "g8b-u1-p2-s13"
+    },
+    {
+      "id": "g8b-u1-p2-v149",
+      "term": "guides",
+      "meaningZh": "导游（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s14"
+    },
+    {
+      "id": "g8b-u1-p2-v150",
+      "term": "lead",
+      "meaningZh": "带领，引导",
+      "exampleSentenceId": "g8b-u1-p2-s14"
+    },
+    {
+      "id": "g8b-u1-p2-v151",
+      "term": "moon",
+      "meaningZh": "月球",
+      "exampleSentenceId": "g8b-u1-p2-s14"
+    },
+    {
+      "id": "g8b-u1-p2-v152",
+      "term": "beyond",
+      "meaningZh": "超过，在...之外",
+      "exampleSentenceId": "g8b-u1-p2-s14"
+    },
+    {
+      "id": "g8b-u1-p2-v153",
+      "term": "fashionable",
+      "meaningZh": "时尚的",
+      "exampleSentenceId": "g8b-u1-p2-s16"
+    },
+    {
+      "id": "g8b-u1-p2-v154",
+      "term": "designers",
+      "meaningZh": "设计师（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s16"
+    },
+    {
+      "id": "g8b-u1-p2-v155",
+      "term": "greatly",
+      "meaningZh": "非常，大大地",
+      "exampleSentenceId": "g8b-u1-p2-s16"
+    },
+    {
+      "id": "g8b-u1-p2-v156",
+      "term": "flying",
+      "meaningZh": "飞行（现在分词）",
+      "exampleSentenceId": "g8b-u1-p2-s17"
+    },
+    {
+      "id": "g8b-u1-p2-v157",
+      "term": "plane",
+      "meaningZh": "飞机",
+      "exampleSentenceId": "g8b-u1-p2-s10"
+    },
+    {
+      "id": "g8b-u1-p2-v158",
+      "term": "scary",
+      "meaningZh": "可怕的",
+      "exampleSentenceId": "g8b-u1-p2-s17"
+    },
+    {
+      "id": "g8b-u1-p2-v159",
+      "term": "enough",
+      "meaningZh": "足够地",
+      "exampleSentenceId": "g8b-u1-p2-s18"
+    },
+    {
+      "id": "g8b-u1-p2-v160",
+      "term": "smoke",
+      "meaningZh": "烟",
+      "exampleSentenceId": "g8b-u1-p2-s19"
+    },
+    {
+      "id": "g8b-u1-p2-v161",
+      "term": "lose",
+      "meaningZh": "失去",
+      "exampleSentenceId": "g8b-u1-p2-s21"
+    },
+    {
+      "id": "g8b-u1-p2-v162",
+      "term": "market",
+      "meaningZh": "市场",
+      "exampleSentenceId": "g8b-u1-p2-s7"
+    },
+    {
+      "id": "g8b-u1-p2-v163",
+      "term": "changes",
+      "meaningZh": "变化（第三人称单数）",
+      "exampleSentenceId": "g8b-u1-p2-s23"
+    },
+    {
+      "id": "g8b-u1-p2-v164",
+      "term": "desks",
+      "meaningZh": "书桌（复数）",
+      "exampleSentenceId": "g8b-u1-p2-s24"
+    },
+    {
+      "id": "g8b-u1-p2-v165",
+      "term": "expect",
+      "meaningZh": "期待，预期",
+      "exampleSentenceId": "g8b-u1-p2-s24"
+    },
+    {
+      "id": "g8b-u1-p2-v166",
+      "term": "stay",
+      "meaningZh": "保持",
+      "exampleSentenceId": "g8b-u1-p2-s24"
+    },
+    {
+      "id": "g8b-u1-p2-v167",
+      "term": "same",
+      "meaningZh": "相同的",
+      "exampleSentenceId": "g8b-u1-p2-s24"
+    }
+  ],
+  "sentenceTasks": [],
+  "readingQuestions": [
+    {
+      "id": "reading-q1",
+      "type": "single_choice",
+      "stem": "According to the passage, what does the phrase 'go up in smoke' in the comments section most likely mean?",
+      "options": [
+        "A. Become very popular",
+        "B. Disappear or be destroyed",
+        "C. Move to a higher position",
+        "D. Create pollution"
+      ],
+      "answer": "B. Disappear or be destroyed",
+      "rationaleZh": "从上下文'Will pilots' jobs go up in smoke?'可以看出，这是在担心飞行员的工作会消失，因此'go up in smoke'是习语，表示化为乌有、消失，答案是B。"
+    },
+    {
+      "id": "reading-q2",
+      "type": "single_choice",
+      "stem": "Which of the following jobs is mentioned as an example of a job that existed in the past but is rare today?",
+      "options": [
+        "A. Space tour guide",
+        "B. Mouse catcher",
+        "C. VR fashion designer",
+        "D. Cashier"
+      ],
+      "answer": "B. Mouse catcher",
+      "rationaleZh": "文章第一段明确提到'If you lived in the mid-1300s, you might have been a mouse catcher. The job was well respected centuries ago, but few people do it today.'，因此答案是B。"
+    },
+    {
+      "id": "reading-q3",
+      "type": "single_choice",
+      "stem": "What is the main reason given for why cashiers may not be necessary in the future?",
+      "options": [
+        "A. People prefer online shopping",
+        "B. Cashiers are too expensive",
+        "C. Machines can replace them for self-payment",
+        "D. There are not enough cashiers"
+      ],
+      "answer": "C. Machines can replace them for self-payment",
+      "rationaleZh": "文章提到'They may soon be replaced by machines. People can pay on their own in these places.'，说明收银员可能被机器取代，人们可以自助付款，因此答案是C。"
+    },
+    {
+      "id": "reading-q4",
+      "type": "single_choice",
+      "stem": "We can infer from the passage that the author's attitude towards future job changes is:",
+      "options": [
+        "A. Worried and pessimistic",
+        "B. Neutral and informative",
+        "C. Excited and optimistic",
+        "D. Angry and critical"
+      ],
+      "answer": "B. Neutral and informative",
+      "rationaleZh": "文章客观地介绍了工作的变化趋势，既提到传统工作消失，也提到新工作涌现，没有明显的情感倾向，只是提供信息，因此作者的态度是中立和信息性的，答案是B。"
+    },
+    {
+      "id": "reading-q5",
+      "type": "single_choice",
+      "stem": "What is the main purpose of this passage?",
+      "options": [
+        "A. To warn people about job loss",
+        "B. To promote space tourism",
+        "C. To explain how jobs are changing due to technology",
+        "D. To criticize modern technology"
+      ],
+      "answer": "C. To explain how jobs are changing due to technology",
+      "rationaleZh": "文章标题是'From Mouse Catcher to Space Tour Guide'，全文围绕技术发展如何导致工作变化展开，既讲述了消失的工作，也介绍了新兴的工作，因此主旨是解释技术如何改变工作，答案是C。"
+    }
+  ],
+  "quoteCandidates": [],
+  "lexicon": {
+    "20": {
+      "phonetic": "/ˈtwenti/",
+      "pos": "num.",
+      "meaningZh": "二十",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UmxL7Lwke7AcygpMRGTaBa.mp3"
+    },
+    "which": {
+      "phonetic": "/wɪtʃ/",
+      "pos": "pron.",
+      "meaningZh": "哪一个，哪些",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/M39VQ5zDhaiT7V4XZCj8Rf.mp3"
+    },
+    "jobs": {
+      "phonetic": "/dʒɒbz/",
+      "pos": "n.",
+      "meaningZh": "工作（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/f2ysxTnvhq8uJVf8ne4Bfn.mp3"
+    },
+    "will": {
+      "phonetic": "/wɪl/",
+      "pos": "v.",
+      "meaningZh": "将要",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XHAmzwoCSMENK59LbZnW55.mp3"
+    },
+    "soon": {
+      "phonetic": "/suːn/",
+      "pos": "adv.",
+      "meaningZh": "很快，不久",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2d9oj9imHferEDcHTTCsTU.mp3"
+    },
+    "be": {
+      "phonetic": "/biː/",
+      "pos": "v.",
+      "meaningZh": "是，成为",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/DELZmZiaqZTqfULP3TNWFB.mp3"
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "pos": "conj.",
+      "meaningZh": "和，与",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Sc4ZymmPgefgJdC2ZcMVMV.mp3"
+    },
+    "ones": {
+      "phonetic": "/wʌnz/",
+      "pos": "pron.",
+      "meaningZh": "一些（代词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/uMqPPKFp5qwtH2MhRg6P4e.mp3"
+    },
+    "are": {
+      "phonetic": "/ɑː/",
+      "pos": "v.",
+      "meaningZh": "是（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/4dB2dWAnHtsDSisTwgLdTF.mp3"
+    },
+    "on": {
+      "phonetic": "/ɒn/",
+      "pos": "prep.",
+      "meaningZh": "在...上",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pyVnkLaq3iCPh278oSxYhT.mp3"
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "pos": "art.",
+      "meaningZh": "这个，那个（定冠词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/tsMS7YF94anuDyVe3fi7BS.mp3"
+    },
+    "way": {
+      "phonetic": "/weɪ/",
+      "pos": "n.",
+      "meaningZh": "道路，方式",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/AFHFaKqk2qQ3Gj7x9UkrGS.mp3"
+    },
+    "people's": {
+      "phonetic": "/ˈpiːplz/",
+      "pos": "n.",
+      "meaningZh": "人们的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ACaDU6AcbzqhMf9Phsd3FW.mp3"
+    },
+    "people": {
+      "phonetic": "/ˈpiːpl/",
+      "pos": "n.",
+      "meaningZh": "人们",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/yiitGAJRwYM6Khfp3xSpbZ.mp3"
+    },
+    "have": {
+      "phonetic": "/hæv/",
+      "pos": "v.",
+      "meaningZh": "有，已经",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/opAqZrNHWuTgYzRtwCqgMY.mp3"
+    },
+    "changed": {
+      "phonetic": "/tʃeɪndʒd/",
+      "pos": "v.",
+      "meaningZh": "改变（过去分词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WEgPCLmgzsKZWQmPFqcPn3.mp3"
+    },
+    "throughout": {
+      "phonetic": "/θruːˈaʊt/",
+      "pos": "prep.",
+      "meaningZh": "贯穿，遍及",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/utLxEoMrz5vQMNEG39DDiJ.mp3"
+    },
+    "if": {
+      "phonetic": "/ɪf/",
+      "pos": "conj.",
+      "meaningZh": "如果",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/V7iuhafjbEJWQbzs59pYrB.mp3"
+    },
+    "you": {
+      "phonetic": "/juː/",
+      "pos": "pron.",
+      "meaningZh": "你，你们",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sKrgwF6F3xqDVE75rFGkNA.mp3"
+    },
+    "lived": {
+      "phonetic": "/lɪvd/",
+      "pos": "v.",
+      "meaningZh": "生活（过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/zMdLk3h8fKRPwfDbdjHRZT.mp3"
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "pos": "prep.",
+      "meaningZh": "在...里面",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/vAABdZaKdq7UViTf2J5AbL.mp3"
+    },
+    "mid": {
+      "phonetic": "/mɪd/",
+      "pos": "adj.",
+      "meaningZh": "中间的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FLbMp2qGkbJ7sSUKUetDgA.mp3"
+    },
+    "1300s": {
+      "phonetic": "/ˈθɜːtiːn ˈhʌndrədz/",
+      "pos": "n.",
+      "meaningZh": "14世纪",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FLbMp2qGkbJ7sSUKUetDgA.mp3"
+    },
+    "mid-1300s": {
+      "phonetic": "/mɪd ˈθɜːtiːn ˈhʌndrədz/",
+      "pos": "n.",
+      "meaningZh": "14世纪中期",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RGynBG8sr9rpGwpmFouwub.mp3"
+    },
+    "might": {
+      "phonetic": "/maɪt/",
+      "pos": "v.",
+      "meaningZh": "可能",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Vr9tZjoEK8Lj6EVfQLFcRd.mp3"
+    },
+    "been": {
+      "phonetic": "/biːn/",
+      "pos": "v.",
+      "meaningZh": "是（过去分词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WKcFrxzTFwhnzDMBF6Bsck.mp3"
+    },
+    "a": {
+      "phonetic": "/ə/",
+      "pos": "art.",
+      "meaningZh": "一个（不定冠词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZmqLdZqMKdvz3N4DeDcxxZ.mp3"
+    },
+    "job": {
+      "phonetic": "/dʒɒb/",
+      "pos": "n.",
+      "meaningZh": "工作",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/nekUGPhHzWp9H3z7iUKRFi.mp3"
+    },
+    "was": {
+      "phonetic": "/wɒz/",
+      "pos": "v.",
+      "meaningZh": "是（过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/YCNxmhc4c9HnSdK4s6ZQRQ.mp3"
+    },
+    "well": {
+      "phonetic": "/wel/",
+      "pos": "adv.",
+      "meaningZh": "很好地",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/B6MwSYwCruN3rq97Wfaw8j.mp3"
+    },
+    "ago": {
+      "phonetic": "/əˈɡəʊ/",
+      "pos": "adv.",
+      "meaningZh": "以前",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iPAVuautEyU5tDbTTiCWp6.mp3"
+    },
+    "but": {
+      "phonetic": "/bʌt/",
+      "pos": "conj.",
+      "meaningZh": "但是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/HtysFuQvcxAWeaUfCwzhwA.mp3"
+    },
+    "few": {
+      "phonetic": "/fjuː/",
+      "pos": "adj.",
+      "meaningZh": "很少的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hk6bbiZaorzVWJ4bXGgQz4.mp3"
+    },
+    "do": {
+      "phonetic": "/duː/",
+      "pos": "v.",
+      "meaningZh": "做",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/HTozF9yNqPgQ7mbURxj3xi.mp3"
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "pos": "pron.",
+      "meaningZh": "它",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iNHQCxHLT6ECHZ7pSc8tML.mp3"
+    },
+    "today": {
+      "phonetic": "/təˈdeɪ/",
+      "pos": "adv.",
+      "meaningZh": "今天",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3Di9ZuyJY62rjE7i7YAe23.mp3"
+    },
+    "now": {
+      "phonetic": "/naʊ/",
+      "pos": "adv.",
+      "meaningZh": "现在",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KsmeGKcRk7A2AozWojQByD.mp3"
+    },
+    "is": {
+      "phonetic": "/ɪz/",
+      "pos": "v.",
+      "meaningZh": "是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/er2WJt56rxU3PkBjCwcpHW.mp3"
+    },
+    "at": {
+      "phonetic": "/æt/",
+      "pos": "prep.",
+      "meaningZh": "在",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/NofCpv7odCyksDrYVbKvfG.mp3"
+    },
+    "an": {
+      "phonetic": "/æn/",
+      "pos": "art.",
+      "meaningZh": "一个（元音前）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Bm2XGn7n9Bqj2w7QkdevUZ.mp3"
+    },
+    "even": {
+      "phonetic": "/ˈiːvn/",
+      "pos": "adv.",
+      "meaningZh": "甚至",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gchjUAo6FDu9pfczSKJaAb.mp3"
+    },
+    "faster": {
+      "phonetic": "/ˈfɑːstə/",
+      "pos": "adj.",
+      "meaningZh": "更快的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/AGbMJWobDH5LUReZEeRZ4a.mp3"
+    },
+    "some": {
+      "phonetic": "/sʌm/",
+      "pos": "adj.",
+      "meaningZh": "一些",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/HS2B2CdY4bfDpnz7X7v5VX.mp3"
+    },
+    "however": {
+      "phonetic": "/haʊˈevə/",
+      "pos": "adv.",
+      "meaningZh": "然而",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ANdhwTonSALTjqi3uhsLBT.mp3"
+    },
+    "new": {
+      "phonetic": "/njuː/",
+      "pos": "adj.",
+      "meaningZh": "新的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sLXFgAWyQAhgE2oVAJNiUB.mp3"
+    },
+    "to": {
+      "phonetic": "/tuː/",
+      "pos": "prep.",
+      "meaningZh": "到，向",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/jDY3pwTQvdcFVeBbpZWfLS.mp3"
+    },
+    "meet": {
+      "phonetic": "/miːt/",
+      "pos": "v.",
+      "meaningZh": "满足，遇见",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FePKagPLgjGqErPtjqeAUW.mp3"
+    },
+    "cashiers": {
+      "phonetic": "/kæˈʃɪəz/",
+      "pos": "n.",
+      "meaningZh": "收银员（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZjKj5WPRVJSpCr9gQ76r5E.mp3"
+    },
+    "shops": {
+      "phonetic": "/ʃɒps/",
+      "pos": "n.",
+      "meaningZh": "商店（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/b75XBVqBBwFfn6GgmAFRpd.mp3"
+    },
+    "supermarkets": {
+      "phonetic": "/ˈsuːpəmɑːkɪts/",
+      "pos": "n.",
+      "meaningZh": "超市（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Q6JPyQJgAGLhd8uMhijyvF.mp3"
+    },
+    "may": {
+      "phonetic": "/meɪ/",
+      "pos": "v.",
+      "meaningZh": "可能",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/4juBv8eDa3nGkDnUmKqCNh.mp3"
+    },
+    "not": {
+      "phonetic": "/nɒt/",
+      "pos": "adv.",
+      "meaningZh": "不",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FSm5LfBrGTjPp4oCR6M9YG.mp3"
+    },
+    "near": {
+      "phonetic": "/nɪə/",
+      "pos": "adj.",
+      "meaningZh": "近的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/8d4rfouaei7GusMb3zoDJn.mp3"
+    },
+    "they": {
+      "phonetic": "/ðeɪ/",
+      "pos": "pron.",
+      "meaningZh": "他们",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/peBi7k79xKyS3pJzatWyWo.mp3"
+    },
+    "by": {
+      "phonetic": "/baɪ/",
+      "pos": "prep.",
+      "meaningZh": "被，由",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/g6M2hzGvdhLxv9N785zt8M.mp3"
+    },
+    "can": {
+      "phonetic": "/kæn/",
+      "pos": "v.",
+      "meaningZh": "能够",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3SGgAbKJsxUxQDSRjJva3U.mp3"
+    },
+    "pay": {
+      "phonetic": "/peɪ/",
+      "pos": "v.",
+      "meaningZh": "支付",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/kr426QuNY7H8u4oxqgVvX3.mp3"
+    },
+    "their": {
+      "phonetic": "/ðeə/",
+      "pos": "pron.",
+      "meaningZh": "他们的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/GSNCzkEH8hMJHWaj8rhiri.mp3"
+    },
+    "own": {
+      "phonetic": "/əʊn/",
+      "pos": "adj.",
+      "meaningZh": "自己的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FG9FvqU7MubKSbSNHkPjhk.mp3"
+    },
+    "these": {
+      "phonetic": "/ðiːz/",
+      "pos": "pron.",
+      "meaningZh": "这些",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RvMcKhWoxQdA7GnMeQD5dZ.mp3"
+    },
+    "places": {
+      "phonetic": "/ˈpleɪsɪz/",
+      "pos": "n.",
+      "meaningZh": "地方（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/i8QSfYcxgtcTU5KqjMSDsJ.mp3"
+    },
+    "autopilots": {
+      "phonetic": "/ˈɔːtəʊpaɪləts/",
+      "pos": "n.",
+      "meaningZh": "自动驾驶仪（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/T2WyxMmfEd8mfCXVKXGskJ.mp3"
+    },
+    "were": {
+      "phonetic": "/wɜː/",
+      "pos": "v.",
+      "meaningZh": "是（过去式复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/xjGPYa8W8G7epySUd9QMic.mp3"
+    },
+    "first": {
+      "phonetic": "/fɜːst/",
+      "pos": "adj.",
+      "meaningZh": "第一的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/xKHHYtJNwabfE3ScjBLKRM.mp3"
+    },
+    "used": {
+      "phonetic": "/juːzd/",
+      "pos": "v.",
+      "meaningZh": "使用（过去分词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/zxAns6q3V5HFUQ7Qm5FytW.mp3"
+    },
+    "planes": {
+      "phonetic": "/pleɪnz/",
+      "pos": "n.",
+      "meaningZh": "飞机（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/4tro66NmWz8qXVy97z2Vvf.mp3"
+    },
+    "over": {
+      "phonetic": "/ˈəʊvə/",
+      "pos": "prep.",
+      "meaningZh": "超过",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/MN2N4jqQ76WP4AQEEoguaX.mp3"
+    },
+    "century": {
+      "phonetic": "/ˈsentʃəri/",
+      "pos": "n.",
+      "meaningZh": "世纪",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/bNqFGTk5DBEk57rZeVX6aC.mp3"
+    },
+    "with": {
+      "phonetic": "/wɪð/",
+      "pos": "prep.",
+      "meaningZh": "随着，与",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/MZQGqiZxXXLdNMxV4Ab2wD.mp3"
+    },
+    "of": {
+      "phonetic": "/ɒv/",
+      "pos": "prep.",
+      "meaningZh": "...的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WegSBiboGTjsQVPKjdBkS8.mp3"
+    },
+    "perhaps": {
+      "phonetic": "/pəˈhæps/",
+      "pos": "adv.",
+      "meaningZh": "也许",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/HA2j8sDADh69QBPvmg5AEQ.mp3"
+    },
+    "there": {
+      "phonetic": "/ðeə/",
+      "pos": "adv.",
+      "meaningZh": "那里",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/e9JoQNvWxYW5By744sVnzT.mp3"
+    },
+    "no": {
+      "phonetic": "/nəʊ/",
+      "pos": "adj.",
+      "meaningZh": "没有",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FfNz2fQXSJU8RRwdArPFiD.mp3"
+    },
+    "human": {
+      "phonetic": "/ˈhjuːmən/",
+      "pos": "adj.",
+      "meaningZh": "人类的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/njFDiWu2zYEmwc6EnLSYVk.mp3"
+    },
+    "started": {
+      "phonetic": "/ˈstɑːtɪd/",
+      "pos": "v.",
+      "meaningZh": "开始（过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Cs9J8yZjH8rVqRLdyr6so3.mp3"
+    },
+    "years": {
+      "phonetic": "/jɪəz/",
+      "pos": "n.",
+      "meaningZh": "年（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gPVXmjFjqiH2ggt6F4XWfk.mp3"
+    },
+    "travelling": {
+      "phonetic": "/ˈtrævəlɪŋ/",
+      "pos": "v.",
+      "meaningZh": "旅行（现在分词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3w4tovxPmLJSguqYVDNx7T.mp3"
+    },
+    "surely": {
+      "phonetic": "/ˈʃʊəli/",
+      "pos": "adv.",
+      "meaningZh": "肯定地",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/zr2xVvKpKua7ifY9S9G6Yj.mp3"
+    },
+    "lower": {
+      "phonetic": "/ˈləʊə/",
+      "pos": "adj.",
+      "meaningZh": "更低的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZsQ8d9nPiTC6d96teRF8FY.mp3"
+    },
+    "needed": {
+      "phonetic": "/ˈniːdɪd/",
+      "pos": "v.",
+      "meaningZh": "需要（过去分词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KaMPgbyTMZ9rzBt2iGXk48.mp3"
+    },
+    "more": {
+      "phonetic": "/mɔː/",
+      "pos": "adj.",
+      "meaningZh": "更多的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iteskweKuSuQLih5Ke9fGK.mp3"
+    },
+    "work": {
+      "phonetic": "/wɜːk/",
+      "pos": "v.",
+      "meaningZh": "工作",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/uGZHGVDE8mXAiVkNNsDfKg.mp3"
+    },
+    "play": {
+      "phonetic": "/pleɪ/",
+      "pos": "v.",
+      "meaningZh": "玩",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/krXHfdmLw46uMw5rKDB5Jg.mp3"
+    },
+    "need": {
+      "phonetic": "/niːd/",
+      "pos": "v.",
+      "meaningZh": "需要",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/wm8eFSbT3ybeAkV4reuu7a.mp3"
+    },
+    "cool": {
+      "phonetic": "/kuːl/",
+      "pos": "adj.",
+      "meaningZh": "酷的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ydo7q2UFszqY7Yt3bLYxiF.mp3"
+    },
+    "clothes": {
+      "phonetic": "/kləʊðz/",
+      "pos": "n.",
+      "meaningZh": "衣服",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/BQL9vqVTtuTGxzNo3fgXW8.mp3"
+    },
+    "so": {
+      "phonetic": "/səʊ/",
+      "pos": "conj.",
+      "meaningZh": "所以",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/QcohN6M3zPtMXbjn3ZE7UU.mp3"
+    },
+    "vr": {
+      "phonetic": "/ˌviː ˈɑː/",
+      "pos": "n.",
+      "meaningZh": "虚拟现实",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/g3qnHF2xBjeB4NyVCdZUSb.mp3"
+    },
+    "ai": {
+      "phonetic": "/ˌeɪ ˈaɪ/",
+      "pos": "n.",
+      "meaningZh": "人工智能",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ozGYP4R7iiRpBQpSRxrHDS.mp3"
+    },
+    "fashion": {
+      "phonetic": "/ˈfæʃn/",
+      "pos": "n.",
+      "meaningZh": "时尚",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Pv5HGL3oEyLYn6cCCkHYVN.mp3"
+    },
+    "idea": {
+      "phonetic": "/aɪˈdɪə/",
+      "pos": "n.",
+      "meaningZh": "想法，主意",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/BCjRjdGSaXfuWT8NEYzkuL.mp3"
+    },
+    "without": {
+      "phonetic": "/wɪˈðaʊt/",
+      "pos": "prep.",
+      "meaningZh": "没有",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/xWJmiMuuMbQH5mLkF7vwDP.mp3"
+    },
+    "pilot": {
+      "phonetic": "/ˈpaɪlət/",
+      "pos": "n.",
+      "meaningZh": "飞行员",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/kxtSJKjjNbayeHo6CjjKmW.mp3"
+    },
+    "safe": {
+      "phonetic": "/seɪf/",
+      "pos": "adj.",
+      "meaningZh": "安全的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rijFnUxj3743eUT73QPbEe.mp3"
+    },
+    "um": {
+      "phonetic": "/ʌm/",
+      "pos": "interj.",
+      "meaningZh": "嗯（语气词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rrKmEQDZs3ngFoPysWtjz8.mp3"
+    },
+    "sign": {
+      "phonetic": "/saɪn/",
+      "pos": "v.",
+      "meaningZh": "签名，报名",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sBcZvzejnQUDskTTxHsLrk.mp3"
+    },
+    "me": {
+      "phonetic": "/miː/",
+      "pos": "pron.",
+      "meaningZh": "我（宾格）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/BSEAd4hZNoZze9SU9UsVdW.mp3"
+    },
+    "up": {
+      "phonetic": "/ʌp/",
+      "pos": "adv.",
+      "meaningZh": "向上",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/d4uat9P2qtZncEdppYQNtG.mp3"
+    },
+    "for": {
+      "phonetic": "/fɔː/",
+      "pos": "prep.",
+      "meaningZh": "为了",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/8p7an2UABzqvk66bKowugG.mp3"
+    },
+    "please": {
+      "phonetic": "/pliːz/",
+      "pos": "interj.",
+      "meaningZh": "请",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/TRiTifX6UqXfbhfH4yvFTN.mp3"
+    },
+    "what": {
+      "phonetic": "/wɒt/",
+      "pos": "pron.",
+      "meaningZh": "什么",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qzodZt2XxRp9tPJRiWASiD.mp3"
+    },
+    "i": {
+      "phonetic": "/aɪ/",
+      "pos": "pron.",
+      "meaningZh": "我",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/GqhqhTLHXGM2XK7gPpNvDG.mp3"
+    },
+    "my": {
+      "phonetic": "/maɪ/",
+      "pos": "pron.",
+      "meaningZh": "我的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/A6kAfQZJyhsgnpF5CNkqa9.mp3"
+    },
+    "as": {
+      "phonetic": "/æz/",
+      "pos": "prep.",
+      "meaningZh": "作为",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/PnV4smUzqLJbjZstcKGo22.mp3"
+    },
+    "how": {
+      "phonetic": "/haʊ/",
+      "pos": "adv.",
+      "meaningZh": "如何，多么",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qPVp7uF5PYyALdfxRWZCpn.mp3"
+    },
+    "make": {
+      "phonetic": "/meɪk/",
+      "pos": "v.",
+      "meaningZh": "制作，赚取",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WcSRAwTE95iBCQRA6drnYf.mp3"
+    },
+    "money": {
+      "phonetic": "/ˈmʌni/",
+      "pos": "n.",
+      "meaningZh": "钱",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/vwmNyiXfrdw4TUbGEUD3EM.mp3"
+    },
+    "fast": {
+      "phonetic": "/fɑːst/",
+      "pos": "adv.",
+      "meaningZh": "快速地",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/EaJyexNj6T9Bakbec9CrUg.mp3"
+    },
+    "we": {
+      "phonetic": "/wiː/",
+      "pos": "pron.",
+      "meaningZh": "我们",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/DxNoeWjzswUY4W6N96tETa.mp3"
+    },
+    "can't": {
+      "phonetic": "/kɑːnt/",
+      "pos": "v.",
+      "meaningZh": "不能（cannot缩写）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/b9iFwBxxXpvapyjy5SAkKm.mp3"
+    },
+    "just": {
+      "phonetic": "/dʒʌst/",
+      "pos": "adv.",
+      "meaningZh": "仅仅，只是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iVqfTcqwmZYwuyhziGBf6h.mp3"
+    },
+    "sit": {
+      "phonetic": "/sɪt/",
+      "pos": "v.",
+      "meaningZh": "坐",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/MRKBpkTjtrMoDY9jZi7vPD.mp3"
+    },
+    "our": {
+      "phonetic": "/ˈaʊə/",
+      "pos": "pron.",
+      "meaningZh": "我们的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XvfG2Ffb6xDW5RMmj69Mqg.mp3"
+    },
+    "things": {
+      "phonetic": "/θɪŋz/",
+      "pos": "n.",
+      "meaningZh": "事情（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/StYJYaXCpwjT8XKtoyPW8h.mp3"
+    },
+    "i'm": {
+      "phonetic": "/aɪm/",
+      "pos": "pron.",
+      "meaningZh": "我是（I am缩写）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/NnQcQJwYMrzacfeL5jjARH.mp3"
+    },
+    "pilot's": {
+      "phonetic": "/ˈpaɪləts/",
+      "pos": "n.",
+      "meaningZh": "飞行员的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/th4ymJhMyWWYzWvLUiiYwF.mp3"
+    },
+    "cashier": {
+      "phonetic": "/kæˈʃɪə/",
+      "pos": "n.",
+      "meaningZh": "收银员",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gyBVQ6gFg3LYU5EkxaQRES.mp3"
+    },
+    "space": {
+      "phonetic": "/speɪs/",
+      "pos": "n.",
+      "meaningZh": "太空",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/CuzXSNsFJsezT5Dar5Hug8.mp3"
+    },
+    "tour": {
+      "phonetic": "/tʊə/",
+      "pos": "n.",
+      "meaningZh": "旅行，游览",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/YRYQgNNemMSWMcYhFFoSqC.mp3"
+    },
+    "guide": {
+      "phonetic": "/ɡaɪd/",
+      "pos": "n.",
+      "meaningZh": "导游，指南",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/GCHosPVpPDjF28u4qUhEt8.mp3"
+    },
+    "virtual": {
+      "phonetic": "/ˈvɜːtʃuəl/",
+      "pos": "adj.",
+      "meaningZh": "虚拟的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/h8thsBgSQau7idKqxrFpyS.mp3"
+    },
+    "reality": {
+      "phonetic": "/riˈæləti/",
+      "pos": "n.",
+      "meaningZh": "现实",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/YQvDZLbJivRBUzH9vxquoT.mp3"
+    },
+    "designer": {
+      "phonetic": "/dɪˈzaɪnə/",
+      "pos": "n.",
+      "meaningZh": "设计师",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FVrj72g92cxde4zMVKEG8D.mp3"
+    },
+    "comments": {
+      "phonetic": "/ˈkɒments/",
+      "pos": "n.",
+      "meaningZh": "评论（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/mX2LLCftcfdNGxhuE6ixN7.mp3"
+    },
+    "history": {
+      "phonetic": "/ˈhɪstri/",
+      "pos": "n.",
+      "meaningZh": "历史；成为过去的事物",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gs8oqhiJKcvjASJLWVDbdC.mp3"
+    },
+    "mouse": {
+      "phonetic": "/maʊs/",
+      "pos": "n.",
+      "meaningZh": "老鼠",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hcf5PdYTmKmHrzv2sozZZM.mp3"
+    },
+    "catcher": {
+      "phonetic": "/ˈkætʃə/",
+      "pos": "n.",
+      "meaningZh": "捕捉者",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rgNxsQZbU4dpakvLDb3bTh.mp3"
+    },
+    "respected": {
+      "phonetic": "/rɪˈspektɪd/",
+      "pos": "adj.",
+      "meaningZh": "受尊敬的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/s8VKWyPWKDR29udt68cHCG.mp3"
+    },
+    "centuries": {
+      "phonetic": "/ˈsentʃəriz/",
+      "pos": "n.",
+      "meaningZh": "世纪（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UArCyVvceUnzydAApckdpm.mp3"
+    },
+    "technology": {
+      "phonetic": "/tekˈnɒlədʒi/",
+      "pos": "n.",
+      "meaningZh": "技术，科技",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Yhm3zdBsX7dRMopjwVcot5.mp3"
+    },
+    "developing": {
+      "phonetic": "/dɪˈveləpɪŋ/",
+      "pos": "v.",
+      "meaningZh": "发展（现在分词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dNgo3ikk4p5oLzw9vC465e.mp3"
+    },
+    "speed": {
+      "phonetic": "/spiːd/",
+      "pos": "n.",
+      "meaningZh": "速度",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/9RKGzx5rPzPj9KewyH4rLW.mp3"
+    },
+    "traditional": {
+      "phonetic": "/trəˈdɪʃənl/",
+      "pos": "adj.",
+      "meaningZh": "传统的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/si7yiJyN5H3Z8AL4AQyicA.mp3"
+    },
+    "disappearing": {
+      "phonetic": "/ˌdɪsəˈpɪərɪŋ/",
+      "pos": "v.",
+      "meaningZh": "消失（现在分词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/SwSRrPvZVFtN7zqtyKghiT.mp3"
+    },
+    "springing": {
+      "phonetic": "/ˈsprɪŋɪŋ/",
+      "pos": "v.",
+      "meaningZh": "涌现（现在分词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3N9zDg5hY74CFBmRydL2dU.mp3"
+    },
+    "needs": {
+      "phonetic": "/niːdz/",
+      "pos": "n.",
+      "meaningZh": "需求（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/PL6ofwaepzCrCRpLLNSQqS.mp3"
+    },
+    "necessary": {
+      "phonetic": "/ˈnesəsəri/",
+      "pos": "adj.",
+      "meaningZh": "必要的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7vPE4RU9nhBSwAnmqYMjWb.mp3"
+    },
+    "replaced": {
+      "phonetic": "/rɪˈpleɪst/",
+      "pos": "v.",
+      "meaningZh": "取代（过去分词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/vZSN3d28GfFy6KTuvEmofg.mp3"
+    },
+    "machines": {
+      "phonetic": "/məˈʃiːnz/",
+      "pos": "n.",
+      "meaningZh": "机器（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dGmdcPUEdc2ddMnJvxgnUZ.mp3"
+    },
+    "autopilot": {
+      "phonetic": "/ˈɔːtəʊpaɪlət/",
+      "pos": "n.",
+      "meaningZh": "自动驾驶仪",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/9ZJmTuGC8c7sJEuppcvwj8.mp3"
+    },
+    "pilots": {
+      "phonetic": "/ˈpaɪləts/",
+      "pos": "n.",
+      "meaningZh": "飞行员（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/HfvdTvQdioEU2hjHTV56NC.mp3"
+    },
+    "pilots'": {
+      "phonetic": "/ˈpaɪləts/",
+      "pos": "n.",
+      "meaningZh": "飞行员的（复数所有格）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/9YtrSL9839bjs2WSRU6747.mp3"
+    },
+    "go": {
+      "phonetic": "/ɡəʊ/",
+      "pos": "v.",
+      "meaningZh": "去，进行",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/vAgMpQnM6Sfo4ei4tgxiBP.mp3"
+    },
+    "development": {
+      "phonetic": "/dɪˈveləpmənt/",
+      "pos": "n.",
+      "meaningZh": "发展",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/HHvMgx375oXKVBJrNehTqA.mp3"
+    },
+    "future": {
+      "phonetic": "/ˈfjuːtʃə/",
+      "pos": "n.",
+      "meaningZh": "未来",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/vrkTZcjNhWPRqSeJipEoik.mp3"
+    },
+    "tourism": {
+      "phonetic": "/ˈtʊərɪzəm/",
+      "pos": "n.",
+      "meaningZh": "旅游业",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7D2ax6e4hrGU2YfdyBMsfP.mp3"
+    },
+    "provided": {
+      "phonetic": "/prəˈvaɪdɪd/",
+      "pos": "v.",
+      "meaningZh": "提供（过去分词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hpgbjfqAmoVjxcMPgptrEY.mp3"
+    },
+    "cost": {
+      "phonetic": "/kɒst/",
+      "pos": "n.",
+      "meaningZh": "成本，费用",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/H8Ui29rySRTeBCjuC2mTtZ.mp3"
+    },
+    "guides": {
+      "phonetic": "/ɡaɪdz/",
+      "pos": "n.",
+      "meaningZh": "导游（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iZE69TDAwRiSKkGgDDjZcN.mp3"
+    },
+    "lead": {
+      "phonetic": "/liːd/",
+      "pos": "v.",
+      "meaningZh": "带领，引导",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/QFyaUQust6QC6oXzbpRMMY.mp3"
+    },
+    "moon": {
+      "phonetic": "/muːn/",
+      "pos": "n.",
+      "meaningZh": "月球",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sgD5wjL2tQ6ecyDSsrFBpj.mp3"
+    },
+    "beyond": {
+      "phonetic": "/bɪˈjɒnd/",
+      "pos": "prep.",
+      "meaningZh": "超过，在...之外",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/b9Xnd4v2W6JKBbmi6KSN5S.mp3"
+    },
+    "fashionable": {
+      "phonetic": "/ˈfæʃnəbl/",
+      "pos": "adj.",
+      "meaningZh": "时尚的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/84XwnWVXEYJx6CmePLWBP4.mp3"
+    },
+    "designers": {
+      "phonetic": "/dɪˈzaɪnəz/",
+      "pos": "n.",
+      "meaningZh": "设计师（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/xKEPjbJ83aJ7aEGdaoVsE3.mp3"
+    },
+    "greatly": {
+      "phonetic": "/ˈɡreɪtli/",
+      "pos": "adv.",
+      "meaningZh": "非常，大大地",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/r6Q4GWTLSxRWxucVaqxD37.mp3"
+    },
+    "flying": {
+      "phonetic": "/ˈflaɪɪŋ/",
+      "pos": "v.",
+      "meaningZh": "飞行（现在分词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/orfkjyDvGa44WC8sq73MQc.mp3"
+    },
+    "plane": {
+      "phonetic": "/pleɪn/",
+      "pos": "n.",
+      "meaningZh": "飞机",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3CwvJuAETJ3JFX8KaZUnZ7.mp3"
+    },
+    "scary": {
+      "phonetic": "/ˈskeəri/",
+      "pos": "adj.",
+      "meaningZh": "可怕的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FosmUJFH29PkfRPmk2a83V.mp3"
+    },
+    "enough": {
+      "phonetic": "/ɪˈnʌf/",
+      "pos": "adv.",
+      "meaningZh": "足够地",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/fnuU9MiF4XaGZYfQJsq8Hh.mp3"
+    },
+    "smoke": {
+      "phonetic": "/sməʊk/",
+      "pos": "n.",
+      "meaningZh": "烟",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/bxCN5ttvtfZ7mSEEyyFeK3.mp3"
+    },
+    "lose": {
+      "phonetic": "/luːz/",
+      "pos": "v.",
+      "meaningZh": "失去",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/5DfpA5LPGmstEFkUxzqLFE.mp3"
+    },
+    "market": {
+      "phonetic": "/ˈmɑːkɪt/",
+      "pos": "n.",
+      "meaningZh": "市场",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/uHorUMxUyq6tnLELapCmKP.mp3"
+    },
+    "changes": {
+      "phonetic": "/ˈtʃeɪndʒɪz/",
+      "pos": "v.",
+      "meaningZh": "变化（第三人称单数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/zMb6sSMiVmtaLzhZr7pbUP.mp3"
+    },
+    "desks": {
+      "phonetic": "/desks/",
+      "pos": "n.",
+      "meaningZh": "书桌（复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/BhijtVE8kMyqNRd4LzZ7pb.mp3"
+    },
+    "expect": {
+      "phonetic": "/ɪkˈspekt/",
+      "pos": "v.",
+      "meaningZh": "期待，预期",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XAmLn9NPRVUeGtN8oGBTuF.mp3"
+    },
+    "stay": {
+      "phonetic": "/steɪ/",
+      "pos": "v.",
+      "meaningZh": "保持",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/equsNDkvFByvhz6SGcZ6ff.mp3"
+    },
+    "same": {
+      "phonetic": "/seɪm/",
+      "pos": "adj.",
+      "meaningZh": "相同的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/k7S4xbWBBZ3AZRgjGZiYom.mp3"
+    }
+  }
+}

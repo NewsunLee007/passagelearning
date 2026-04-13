@@ -1,0 +1,912 @@
+{
+  "meta": {
+    "schemaVersion": "2.0",
+    "source": "八年级下册互动课文",
+    "importedFrom": "Unit 4 Passage 1 Adding some colour（互动课文教学动画）英语新教材外研版八年级下册.html",
+    "importedAt": "2026-04-13T04:50:28.104Z"
+  },
+  "article": {
+    "id": "g8b-u4-p1",
+    "title": "Adding some colour",
+    "unit": "Unit 4 创意与善意",
+    "paragraphs": [
+      {
+        "id": "g8b-u4-p1-p1",
+        "sentenceIds": [
+          "g8b-u4-p1-s1",
+          "g8b-u4-p1-s2",
+          "g8b-u4-p1-s3"
+        ]
+      },
+      {
+        "id": "g8b-u4-p1-p2",
+        "sentenceIds": [
+          "g8b-u4-p1-s4",
+          "g8b-u4-p1-s5"
+        ]
+      },
+      {
+        "id": "g8b-u4-p1-p3",
+        "sentenceIds": [
+          "g8b-u4-p1-s6",
+          "g8b-u4-p1-s7",
+          "g8b-u4-p1-s8"
+        ]
+      },
+      {
+        "id": "g8b-u4-p1-p4",
+        "sentenceIds": [
+          "g8b-u4-p1-s9",
+          "g8b-u4-p1-s10",
+          "g8b-u4-p1-s11",
+          "g8b-u4-p1-s12"
+        ]
+      },
+      {
+        "id": "g8b-u4-p1-p5",
+        "sentenceIds": [
+          "g8b-u4-p1-s13",
+          "g8b-u4-p1-s14",
+          "g8b-u4-p1-s15",
+          "g8b-u4-p1-s16"
+        ]
+      },
+      {
+        "id": "g8b-u4-p1-p6",
+        "sentenceIds": [
+          "g8b-u4-p1-s17",
+          "g8b-u4-p1-s18",
+          "g8b-u4-p1-s19",
+          "g8b-u4-p1-s20"
+        ]
+      },
+      {
+        "id": "g8b-u4-p1-p7",
+        "sentenceIds": [
+          "g8b-u4-p1-s21",
+          "g8b-u4-p1-s22",
+          "g8b-u4-p1-s23"
+        ]
+      },
+      {
+        "id": "g8b-u4-p1-p8",
+        "sentenceIds": [
+          "g8b-u4-p1-s24",
+          "g8b-u4-p1-s25",
+          "g8b-u4-p1-s26"
+        ]
+      },
+      {
+        "id": "g8b-u4-p1-p9",
+        "sentenceIds": [
+          "g8b-u4-p1-s27",
+          "g8b-u4-p1-s28"
+        ]
+      }
+    ],
+    "stage": "Understanding ideas",
+    "stageLabel": "理解篇",
+    "unitNumber": 4,
+    "unitTheme": "创意与善意",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "bookOrder": 440,
+    "summary": "通过色彩和创意表达，为日常生活增添温度与活力。"
+  },
+  "sentences": [
+    {
+      "id": "g8b-u4-p1-s1",
+      "text": "What is your favourite colour?",
+      "paragraphId": "g8b-u4-p1-p1",
+      "tr": "你最喜欢的颜色是什么？",
+      "g": "特殊疑问词 + 系动词 + 主语",
+      "d": "表语：What（疑问代词，对主语的属性进行提问）<br>系动词：is（连接主语和表语）<br>主语：your favourite colour（句子的主体，被询问的对象）<br>What is... 询问某物是什么。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222222.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s2",
+      "text": "Do you like yellow, orange or red?",
+      "paragraphId": "g8b-u4-p1-p1",
+      "tr": "你喜欢黄色、橙色还是红色？",
+      "g": "助动词 + 主语 + 谓语 + 宾语",
+      "d": "助动词：Do（帮助构成一般疑问句）<br>主语：you（说明谁在执行动作）<br>谓语：like（表示动作）<br>宾语：yellow, orange or red（表示动作涉及的对象，or连接并列成分）<br>Do you like... 你喜欢...吗？",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222223.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s3",
+      "text": "If you do, you must be an active person who enjoys life.",
+      "paragraphId": "g8b-u4-p1-p1",
+      "tr": "如果你喜欢，那你一定是一个热爱生活的积极的人。",
+      "g": "条件状语从句 + 主句（含定语从句）",
+      "d": "条件状语从句：If you do（do代替like yellow...，表示假设条件）<br>主句主语：you（说明谁）<br>情态动词：must（表示肯定的推测）<br>系动词：be（连接主语和表语）<br>表语：an active person（说明主语的身份特征）<br>定语从句：who enjoys life（修饰先行词person，说明是什么样的人）<br>must be 一定是。active 积极的。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222224.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s4",
+      "text": "Do you like blue?",
+      "paragraphId": "g8b-u4-p1-p2",
+      "tr": "你喜欢蓝色吗？",
+      "g": "助动词 + 主语 + 谓语 + 宾语",
+      "d": "助动词：Do（帮助构成一般疑问句）<br>主语：you（说明谁在执行动作）<br>谓语：like（表示动作）<br>宾语：blue（表示动作涉及的对象）",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222225.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s5",
+      "text": "If you do, you are probably quiet, shy and maybe a little sad.",
+      "paragraphId": "g8b-u4-p1-p2",
+      "tr": "如果你喜欢，你可能安静、害羞，甚至有点忧伤。",
+      "g": "条件状语从句 + 主句",
+      "d": "条件状语从句：If you do（表示假设条件）<br>主句主语：you（说明谁）<br>系动词：are（连接主语和表语）<br>状语：probably（修饰系动词，表示可能性）<br>表语：quiet, shy and maybe a little sad（三个形容词并列，说明主语的性格特征）<br>probably 可能。a little 有点。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222226.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s6",
+      "text": "We all have our favourite colours.",
+      "paragraphId": "g8b-u4-p1-p3",
+      "tr": "我们都有自己最喜欢的颜色。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "主语：We all（we是主格，all作同位语，强调“我们大家”）<br>谓语：have（表示拥有）<br>宾语：our favourite colours（表示拥有的对象）",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222227.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s7",
+      "text": "But have you ever thought about how colours change our feelings and moods?",
+      "paragraphId": "g8b-u4-p1-p3",
+      "tr": "但你有没有想过颜色是如何改变我们的感觉和情绪的？",
+      "g": "助动词 + 主语 + 谓语 + 宾语从句",
+      "d": "连词：But（表示转折）<br>助动词：have（帮助构成现在完成时）<br>主语：you（说明谁）<br>状语：ever（曾经）<br>谓语：thought about（思考，consider）<br>宾语从句：how colours change our feelings and moods（作about的宾语，说明思考的内容）<br>have thought about 思考过。moods 情绪。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222228.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s8",
+      "text": "It is true that colours can affect us.",
+      "paragraphId": "g8b-u4-p1-p3",
+      "tr": "颜色确实会影响我们。",
+      "g": "形式主语 + 系动词 + 表语 + 主语从句",
+      "d": "形式主语：It（代替后面的that从句）<br>系动词：is（连接主语和表语）<br>表语：true（说明事情的真实性）<br>主语从句：that colours can affect us（真正的主语，说明什么事情是真的）<br>It is true that... ...是真的。affect 影响。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222229.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s9",
+      "text": "Many fast food restaurants use red to make customers eat faster.",
+      "paragraphId": "g8b-u4-p1-p4",
+      "tr": "许多快餐店使用红色来让顾客吃得更快。",
+      "g": "主语 + 谓语 + 宾语 + 宾语补足语（不定式）",
+      "d": "主语：Many fast food restaurants（说明谁在执行动作）<br>谓语：use（表示动作）<br>宾语：red（表示使用的对象）<br>目的状语：to make customers eat faster（说明使用红色的目的）<br>make sb. do sth. 让某人做某事（make后接不带to的不定式作宾补）。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222230.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s10",
+      "text": "Some scientists also say that colours can change our eating habits.",
+      "paragraphId": "g8b-u4-p1-p4",
+      "tr": "一些科学家也说颜色可以改变我们的饮食习惯。",
+      "g": "主语 + 谓语 + 宾语从句",
+      "d": "主语：Some scientists（说明谁在说话）<br>状语：also（也）<br>谓语：say（表示动作）<br>宾语从句：that colours can change our eating habits（说明说的内容）<br>eating habits 饮食习惯。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222231.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s11",
+      "text": "If you want to stay thin, you should not eat in a room with red walls.",
+      "paragraphId": "g8b-u4-p1-p4",
+      "tr": "如果你想保持苗条，就不应该在有红墙的房间里吃饭。",
+      "g": "条件状语从句 + 主句",
+      "d": "条件状语从句：If you want to stay thin（表示假设条件，stay thin保持苗条）<br>主句主语：you（说明谁）<br>情态动词：should not（建议不应该做）<br>谓语：eat（表示动作）<br>地点状语：in a room with red walls（说明动作发生的地点，with red walls修饰room）<br>stay + adj. 保持...状态。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222232.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s12",
+      "text": "It makes you eat more.",
+      "paragraphId": "g8b-u4-p1-p4",
+      "tr": "它会让你吃得更多。",
+      "g": "主语 + 谓语 + 宾语 + 宾语补足语",
+      "d": "主语：It（指代上一句提到的red walls环境）<br>谓语：makes（致使动词）<br>宾语：you（动作承受者）<br>宾语补足语：eat more（说明宾语发出的动作，省略to的不定式）<br>make sb. do sth. 使某人做某事。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222233.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s13",
+      "text": "Blue is a calm and peaceful colour.",
+      "paragraphId": "g8b-u4-p1-p5",
+      "tr": "蓝色是一种冷静而平和的颜色。",
+      "g": "主语 + 系动词 + 表语",
+      "d": "主语：Blue（说明句子讨论的对象）<br>系动词：is（连接主语和表语）<br>表语：a calm and peaceful colour（说明主语的属性）<br>calm 冷静的。peaceful 平和的。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222234.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s14",
+      "text": "It is good for the mind and body.",
+      "paragraphId": "g8b-u4-p1-p5",
+      "tr": "它对身心有益。",
+      "g": "主语 + 系动词 + 表语",
+      "d": "主语：It（指代Blue）<br>系动词：is（连接主语和表语）<br>表语：good（说明主语的性质）<br>状语：for the mind and body（说明对什么有益）<br>be good for 对...有益。mind and body 身心。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222235.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s15",
+      "text": "If you are feeling stressed, you should wear blue.",
+      "paragraphId": "g8b-u4-p1-p5",
+      "tr": "如果你感到压力大，你应该穿蓝色的衣服。",
+      "g": "条件状语从句 + 主句",
+      "d": "条件状语从句：If you are feeling stressed（表示假设条件，feel stressed感到有压力）<br>主句主语：you（说明谁）<br>情态动词：should（表示建议）<br>谓语：wear（表示动作）<br>宾语：blue（表示穿的颜色）<br>stressed 焦虑的，紧张的。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222236.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s16",
+      "text": "It will make you feel relaxed.",
+      "paragraphId": "g8b-u4-p1-p5",
+      "tr": "它会让你感到放松。",
+      "g": "主语 + 谓语 + 宾语 + 宾语补足语",
+      "d": "主语：It（指代wearing blue）<br>谓语：will make（将来时，致使动词）<br>宾语：you（动作承受者）<br>宾语补足语：feel relaxed（说明宾语的状态，feel是系动词接形容词relaxed）<br>relaxed 放松的。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222237.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s17",
+      "text": "Green is the colour of nature.",
+      "paragraphId": "g8b-u4-p1-p6",
+      "tr": "绿色是大自然的颜色。",
+      "g": "主语 + 系动词 + 表语",
+      "d": "主语：Green（说明句子讨论的对象）<br>系动词：is（连接主语和表语）<br>表语：the colour of nature（说明主语的属性，of nature修饰colour）<br>nature 大自然。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222238.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s18",
+      "text": "It represents new life and growth.",
+      "paragraphId": "g8b-u4-p1-p6",
+      "tr": "它代表着新生命和生长。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "主语：It（指代Green）<br>谓语：represents（表示动作，象征/代表）<br>宾语：new life and growth（表示代表的内容）<br>represent 代表。growth 生长。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222239.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s19",
+      "text": "It is also the colour of money and envy.",
+      "paragraphId": "g8b-u4-p1-p6",
+      "tr": "它也是金钱和嫉妒的颜色。",
+      "g": "主语 + 系动词 + 表语",
+      "d": "主语：It（指代Green）<br>系动词：is（连接主语和表语）<br>状语：also（也）<br>表语：the colour of money and envy（说明主语的象征意义）<br>envy 嫉妒（英语文化中绿色常与嫉妒联系，如green with envy）。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222240.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s20",
+      "text": "People who like green are usually friendly and helpful.",
+      "paragraphId": "g8b-u4-p1-p6",
+      "tr": "喜欢绿色的人通常友善且乐于助人。",
+      "g": "主语（含定语从句） + 系动词 + 表语",
+      "d": "主语：People（句子的主体）<br>定语从句：who like green（修饰People，说明是哪类人）<br>系动词：are（连接主语和表语）<br>状语：usually（通常）<br>表语：friendly and helpful（说明主语的性格特征）<br>friendly 友好的。helpful 有帮助的，乐于助人的。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222241.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s21",
+      "text": "Orange is a warm colour.",
+      "paragraphId": "g8b-u4-p1-p7",
+      "tr": "橙色是一种温暖的颜色。",
+      "g": "主语 + 系动词 + 表语",
+      "d": "主语：Orange（说明句子讨论的对象）<br>系动词：is（连接主语和表语）<br>表语：a warm colour（说明主语的属性）<br>warm 温暖的。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222242.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s22",
+      "text": "It represents joy.",
+      "paragraphId": "g8b-u4-p1-p7",
+      "tr": "它代表着快乐。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "主语：It（指代Orange）<br>谓语：represents（表示动作，象征）<br>宾语：joy（表示象征的内容）<br>joy 快乐，喜悦。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222243.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s23",
+      "text": "It can bring you success and cheer you up when you are sad.",
+      "paragraphId": "g8b-u4-p1-p7",
+      "tr": "当你悲伤时，它能带给你成功并让你振作起来。",
+      "g": "主语 + 并列谓语 + 状语从句",
+      "d": "主语：It（指代Orange）<br>情态动词：can（表示能力）<br>第一谓语：bring（带来） + 间接宾语you + 直接宾语success<br>第二谓语：cheer（振奋） + 宾语you + 副词up<br>时间状语从句：when you are sad（说明动作发生的时间）<br>cheer sb. up 让某人振作起来。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222244.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s24",
+      "text": "Yellow is the colour of the sun.",
+      "paragraphId": "g8b-u4-p1-p8",
+      "tr": "黄色是太阳的颜色。",
+      "g": "主语 + 系动词 + 表语",
+      "d": "主语：Yellow（说明句子讨论的对象）<br>系动词：is（连接主语和表语）<br>表语：the colour of the sun（说明主语的属性）",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222245.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s25",
+      "text": "It is also the colour of wisdom.",
+      "paragraphId": "g8b-u4-p1-p8",
+      "tr": "它也是智慧的颜色。",
+      "g": "主语 + 系动词 + 表语",
+      "d": "主语：It（指代Yellow）<br>系动词：is（连接主语和表语）<br>状语：also（也）<br>表语：the colour of wisdom（说明主语的象征意义）<br>wisdom 智慧。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222246.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s26",
+      "text": "Some people say that yellow can help you study better.",
+      "paragraphId": "g8b-u4-p1-p8",
+      "tr": "有些人说黄色可以帮助你更好地学习。",
+      "g": "主语 + 谓语 + 宾语从句",
+      "d": "主语：Some people（说明谁在说话）<br>谓语：say（表示动作）<br>宾语从句：that yellow can help you study better（说明说的内容）<br>从句分析：yellow（主）+ can help（谓）+ you（宾）+ study better（宾补，help sb. do sth.）",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222247.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s27",
+      "text": "So, what is your favourite colour now?",
+      "paragraphId": "g8b-u4-p1-p9",
+      "tr": "那么，现在你最喜欢的颜色是什么？",
+      "g": "特殊疑问句",
+      "d": "状语：So（那么，表示承接）<br>表语：what（疑问代词）<br>系动词：is（连接主语和表语）<br>主语：your favourite colour（被询问的对象）<br>时间状语：now（现在）",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222248.mp3"
+    },
+    {
+      "id": "g8b-u4-p1-s28",
+      "text": "Maybe you should think about it again.",
+      "paragraphId": "g8b-u4-p1-p9",
+      "tr": "也许你应该再考虑一下。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "状语：Maybe（也许，修饰全句）<br>主语：you（说明谁）<br>情态动词：should（应该）<br>谓语：think about（考虑）<br>宾语：it（指代favourite colour的问题）<br>状语：again（再一次）<br>think about 考虑。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2453222249.mp3"
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "g8b-u4-p1-v1",
+      "term": "nature",
+      "meaningZh": "n. 大自然",
+      "exampleSentenceId": "g8b-u4-p1-s17"
+    },
+    {
+      "id": "g8b-u4-p1-v2",
+      "term": "presents",
+      "meaningZh": "v. 呈现，展示（present的三单形式）",
+      "exampleSentenceId": "g8b-u4-p1-s18"
+    },
+    {
+      "id": "g8b-u4-p1-v3",
+      "term": "us",
+      "meaningZh": "pron. 我们（宾格）",
+      "exampleSentenceId": "g8b-u4-p1-s3"
+    },
+    {
+      "id": "g8b-u4-p1-v4",
+      "term": "endless",
+      "meaningZh": "adj. 无尽的"
+    },
+    {
+      "id": "g8b-u4-p1-v5",
+      "term": "wonders",
+      "meaningZh": "n. 奇迹（wonder的复数）"
+    },
+    {
+      "id": "g8b-u4-p1-v6",
+      "term": "active",
+      "meaningZh": "adj. 积极的；活跃的",
+      "exampleSentenceId": "g8b-u4-p1-s3"
+    },
+    {
+      "id": "g8b-u4-p1-v7",
+      "term": "enjoys",
+      "meaningZh": "v. 享受；喜爱（enjoy的三单形式）",
+      "exampleSentenceId": "g8b-u4-p1-s3"
+    },
+    {
+      "id": "g8b-u4-p1-v8",
+      "term": "probably",
+      "meaningZh": "adv. 可能；大概",
+      "exampleSentenceId": "g8b-u4-p1-s5"
+    },
+    {
+      "id": "g8b-u4-p1-v9",
+      "term": "quiet",
+      "meaningZh": "adj. 安静的",
+      "exampleSentenceId": "g8b-u4-p1-s5"
+    },
+    {
+      "id": "g8b-u4-p1-v10",
+      "term": "shy",
+      "meaningZh": "adj. 害羞的",
+      "exampleSentenceId": "g8b-u4-p1-s5"
+    },
+    {
+      "id": "g8b-u4-p1-v11",
+      "term": "sad",
+      "meaningZh": "adj. 悲伤的",
+      "exampleSentenceId": "g8b-u4-p1-s5"
+    },
+    {
+      "id": "g8b-u4-p1-v12",
+      "term": "feelings",
+      "meaningZh": "n. 感觉；感情（feeling的复数）",
+      "exampleSentenceId": "g8b-u4-p1-s7"
+    },
+    {
+      "id": "g8b-u4-p1-v13",
+      "term": "moods",
+      "meaningZh": "n. 情绪；心情（mood的复数）",
+      "exampleSentenceId": "g8b-u4-p1-s7"
+    },
+    {
+      "id": "g8b-u4-p1-v14",
+      "term": "affect",
+      "meaningZh": "v. 影响",
+      "exampleSentenceId": "g8b-u4-p1-s8"
+    },
+    {
+      "id": "g8b-u4-p1-v15",
+      "term": "restaurants",
+      "meaningZh": "n. 餐馆（restaurant的复数）",
+      "exampleSentenceId": "g8b-u4-p1-s9"
+    },
+    {
+      "id": "g8b-u4-p1-v16",
+      "term": "customers",
+      "meaningZh": "n. 顾客（customer的复数）",
+      "exampleSentenceId": "g8b-u4-p1-s9"
+    },
+    {
+      "id": "g8b-u4-p1-v17",
+      "term": "habits",
+      "meaningZh": "n. 习惯（habit的复数）",
+      "exampleSentenceId": "g8b-u4-p1-s10"
+    },
+    {
+      "id": "g8b-u4-p1-v18",
+      "term": "thin",
+      "meaningZh": "adj. 瘦的；薄的",
+      "exampleSentenceId": "g8b-u4-p1-s11"
+    },
+    {
+      "id": "g8b-u4-p1-v19",
+      "term": "calm",
+      "meaningZh": "adj. 冷静的；平静的",
+      "exampleSentenceId": "g8b-u4-p1-s13"
+    },
+    {
+      "id": "g8b-u4-p1-v20",
+      "term": "peaceful",
+      "meaningZh": "adj. 和平的；安宁的",
+      "exampleSentenceId": "g8b-u4-p1-s13"
+    },
+    {
+      "id": "g8b-u4-p1-v21",
+      "term": "mind",
+      "meaningZh": "n. 头脑；精神",
+      "exampleSentenceId": "g8b-u4-p1-s14"
+    },
+    {
+      "id": "g8b-u4-p1-v22",
+      "term": "body",
+      "meaningZh": "n. 身体",
+      "exampleSentenceId": "g8b-u4-p1-s14"
+    },
+    {
+      "id": "g8b-u4-p1-v23",
+      "term": "stressed",
+      "meaningZh": "adj. 紧张的；有压力的",
+      "exampleSentenceId": "g8b-u4-p1-s15"
+    },
+    {
+      "id": "g8b-u4-p1-v24",
+      "term": "relaxed",
+      "meaningZh": "adj. 放松的",
+      "exampleSentenceId": "g8b-u4-p1-s16"
+    },
+    {
+      "id": "g8b-u4-p1-v25",
+      "term": "represents",
+      "meaningZh": "v. 代表；象征（represent的三单形式）",
+      "exampleSentenceId": "g8b-u4-p1-s18"
+    },
+    {
+      "id": "g8b-u4-p1-v26",
+      "term": "growth",
+      "meaningZh": "n. 生长；增长",
+      "exampleSentenceId": "g8b-u4-p1-s18"
+    },
+    {
+      "id": "g8b-u4-p1-v27",
+      "term": "envy",
+      "meaningZh": "n. 嫉妒；羡慕",
+      "exampleSentenceId": "g8b-u4-p1-s19"
+    },
+    {
+      "id": "g8b-u4-p1-v28",
+      "term": "friendly",
+      "meaningZh": "adj. 友好的",
+      "exampleSentenceId": "g8b-u4-p1-s20"
+    },
+    {
+      "id": "g8b-u4-p1-v29",
+      "term": "helpful",
+      "meaningZh": "adj. 有帮助的；乐于助人的",
+      "exampleSentenceId": "g8b-u4-p1-s20"
+    },
+    {
+      "id": "g8b-u4-p1-v30",
+      "term": "joy",
+      "meaningZh": "n. 欢乐；喜悦",
+      "exampleSentenceId": "g8b-u4-p1-s3"
+    },
+    {
+      "id": "g8b-u4-p1-v31",
+      "term": "success",
+      "meaningZh": "n. 成功",
+      "exampleSentenceId": "g8b-u4-p1-s23"
+    },
+    {
+      "id": "g8b-u4-p1-v32",
+      "term": "cheer",
+      "meaningZh": "v. 欢呼；喝彩",
+      "exampleSentenceId": "g8b-u4-p1-s23"
+    },
+    {
+      "id": "g8b-u4-p1-v33",
+      "term": "wisdom",
+      "meaningZh": "n. 智慧",
+      "exampleSentenceId": "g8b-u4-p1-s25"
+    },
+    {
+      "id": "g8b-u4-p1-v34",
+      "term": "study",
+      "meaningZh": "v. 学习；研究",
+      "exampleSentenceId": "g8b-u4-p1-s26"
+    },
+    {
+      "id": "g8b-u4-p1-v35",
+      "term": "better",
+      "meaningZh": "adv. 更好地（well的比较级）",
+      "exampleSentenceId": "g8b-u4-p1-s26"
+    }
+  ],
+  "sentenceTasks": [],
+  "readingQuestions": [
+    {
+      "id": "reading-q1",
+      "type": "single_choice",
+      "stem": "What kind of person likes yellow, orange or red?",
+      "options": [
+        "A. A quiet person",
+        "B. A shy person",
+        "C. An active person",
+        "D. A sad person"
+      ],
+      "answer": "C. An active person",
+      "rationaleZh": "第二段提到：If you do, you must be an active person who enjoys life."
+    },
+    {
+      "id": "reading-q2",
+      "type": "single_choice",
+      "stem": "Why do fast food restaurants use red?",
+      "options": [
+        "A. To make customers happy",
+        "B. To make customers eat faster",
+        "C. To make food look better",
+        "D. To make customers stay longer"
+      ],
+      "answer": "B. To make customers eat faster",
+      "rationaleZh": "第三段提到：Many fast food restaurants use red to make customers eat faster."
+    },
+    {
+      "id": "reading-q3",
+      "type": "single_choice",
+      "stem": "Which colour should you wear if you feel stressed?",
+      "options": [
+        "A. Red",
+        "B. Yellow",
+        "C. Green",
+        "D. Blue"
+      ],
+      "answer": "D. Blue",
+      "rationaleZh": "第四段提到：If you are feeling stressed, you should wear blue."
+    },
+    {
+      "id": "reading-q4",
+      "type": "single_choice",
+      "stem": "What does green represent?",
+      "options": [
+        "A. Wisdom",
+        "B. Joy",
+        "C. New life and growth",
+        "D. Sadness"
+      ],
+      "answer": "C. New life and growth",
+      "rationaleZh": "第五段提到：It represents new life and growth."
+    },
+    {
+      "id": "reading-q5",
+      "type": "single_choice",
+      "stem": "What colour is associated with wisdom?",
+      "options": [
+        "A. Orange",
+        "B. Yellow",
+        "C. Blue",
+        "D. Red"
+      ],
+      "answer": "B. Yellow",
+      "rationaleZh": "最后一段提到：It is also the colour of wisdom."
+    }
+  ],
+  "quoteCandidates": [],
+  "lexicon": {
+    "nature": {
+      "phonetic": "/ˈneɪtʃə(r)/",
+      "pos": "",
+      "meaningZh": "n. 大自然",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/nWDTmfatQ2MyG45G67CEbS.mp3"
+    },
+    "presents": {
+      "phonetic": "/prɪˈzents/",
+      "pos": "",
+      "meaningZh": "v. 呈现，展示（present的三单形式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/JhCdufybsSZe8LKMbRwdAK.mp3"
+    },
+    "us": {
+      "phonetic": "/əs/",
+      "pos": "",
+      "meaningZh": "pron. 我们（宾格）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/crgHYqwPMrsx98mkPshjkJ.mp3"
+    },
+    "endless": {
+      "phonetic": "/ˈendləs/",
+      "pos": "",
+      "meaningZh": "adj. 无尽的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/fimkQg7JDjmtjg2auExfib.mp3"
+    },
+    "wonders": {
+      "phonetic": "/ˈwʌndəz/",
+      "pos": "",
+      "meaningZh": "n. 奇迹（wonder的复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/vmg5UzSyYdmidHxRnCNKuS.mp3"
+    },
+    "active": {
+      "phonetic": "/ˈæktɪv/",
+      "pos": "",
+      "meaningZh": "adj. 积极的；活跃的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/active.mp3"
+    },
+    "enjoys": {
+      "phonetic": "/ɪnˈdʒɔɪz/",
+      "pos": "",
+      "meaningZh": "v. 享受；喜爱（enjoy的三单形式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/enjoys.mp3"
+    },
+    "probably": {
+      "phonetic": "/ˈprɒbəbli/",
+      "pos": "",
+      "meaningZh": "adv. 可能；大概",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/probably.mp3"
+    },
+    "quiet": {
+      "phonetic": "/ˈkwaɪət/",
+      "pos": "",
+      "meaningZh": "adj. 安静的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/quiet.mp3"
+    },
+    "shy": {
+      "phonetic": "/ʃaɪ/",
+      "pos": "",
+      "meaningZh": "adj. 害羞的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/shy.mp3"
+    },
+    "sad": {
+      "phonetic": "/sæd/",
+      "pos": "",
+      "meaningZh": "adj. 悲伤的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sad.mp3"
+    },
+    "feelings": {
+      "phonetic": "/ˈfiːlɪŋz/",
+      "pos": "",
+      "meaningZh": "n. 感觉；感情（feeling的复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/feelings.mp3"
+    },
+    "moods": {
+      "phonetic": "/muːdz/",
+      "pos": "",
+      "meaningZh": "n. 情绪；心情（mood的复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/moods.mp3"
+    },
+    "affect": {
+      "phonetic": "/əˈfekt/",
+      "pos": "",
+      "meaningZh": "v. 影响",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/affect.mp3"
+    },
+    "restaurants": {
+      "phonetic": "/ˈrestrɒnts/",
+      "pos": "",
+      "meaningZh": "n. 餐馆（restaurant的复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/restaurants.mp3"
+    },
+    "customers": {
+      "phonetic": "/ˈkʌstəməz/",
+      "pos": "",
+      "meaningZh": "n. 顾客（customer的复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/customers.mp3"
+    },
+    "habits": {
+      "phonetic": "/ˈhæbɪts/",
+      "pos": "",
+      "meaningZh": "n. 习惯（habit的复数）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/habits.mp3"
+    },
+    "thin": {
+      "phonetic": "/θɪn/",
+      "pos": "",
+      "meaningZh": "adj. 瘦的；薄的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/thin.mp3"
+    },
+    "calm": {
+      "phonetic": "/kɑːm/",
+      "pos": "",
+      "meaningZh": "adj. 冷静的；平静的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/calm.mp3"
+    },
+    "peaceful": {
+      "phonetic": "/ˈpiːsfl/",
+      "pos": "",
+      "meaningZh": "adj. 和平的；安宁的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/peaceful.mp3"
+    },
+    "mind": {
+      "phonetic": "/maɪnd/",
+      "pos": "",
+      "meaningZh": "n. 头脑；精神",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/mind.mp3"
+    },
+    "body": {
+      "phonetic": "/ˈbɒdi/",
+      "pos": "",
+      "meaningZh": "n. 身体",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/body.mp3"
+    },
+    "stressed": {
+      "phonetic": "/strest/",
+      "pos": "",
+      "meaningZh": "adj. 紧张的；有压力的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/stressed.mp3"
+    },
+    "relaxed": {
+      "phonetic": "/rɪˈlækst/",
+      "pos": "",
+      "meaningZh": "adj. 放松的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/relaxed.mp3"
+    },
+    "represents": {
+      "phonetic": "/ˌreprɪˈzents/",
+      "pos": "",
+      "meaningZh": "v. 代表；象征（represent的三单形式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/represents.mp3"
+    },
+    "growth": {
+      "phonetic": "/ɡrəʊθ/",
+      "pos": "",
+      "meaningZh": "n. 生长；增长",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/growth.mp3"
+    },
+    "envy": {
+      "phonetic": "/ˈenvi/",
+      "pos": "",
+      "meaningZh": "n. 嫉妒；羡慕",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/envy.mp3"
+    },
+    "friendly": {
+      "phonetic": "/ˈfrendli/",
+      "pos": "",
+      "meaningZh": "adj. 友好的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/friendly.mp3"
+    },
+    "helpful": {
+      "phonetic": "/ˈhelpfl/",
+      "pos": "",
+      "meaningZh": "adj. 有帮助的；乐于助人的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/helpful.mp3"
+    },
+    "joy": {
+      "phonetic": "/dʒɔɪ/",
+      "pos": "",
+      "meaningZh": "n. 欢乐；喜悦",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/joy.mp3"
+    },
+    "success": {
+      "phonetic": "/səkˈses/",
+      "pos": "",
+      "meaningZh": "n. 成功",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/success.mp3"
+    },
+    "cheer": {
+      "phonetic": "/tʃɪə(r)/",
+      "pos": "",
+      "meaningZh": "v. 欢呼；喝彩",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/cheer.mp3"
+    },
+    "wisdom": {
+      "phonetic": "/ˈwɪzdəm/",
+      "pos": "",
+      "meaningZh": "n. 智慧",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/wisdom.mp3"
+    },
+    "study": {
+      "phonetic": "/ˈstʌdi/",
+      "pos": "",
+      "meaningZh": "v. 学习；研究",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/study.mp3"
+    },
+    "better": {
+      "phonetic": "/ˈbetə(r)/",
+      "pos": "",
+      "meaningZh": "adv. 更好地（well的比较级）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/better.mp3"
+    }
+  }
+}

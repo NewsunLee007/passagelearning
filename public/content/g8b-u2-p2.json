@@ -1,0 +1,2861 @@
+{
+  "meta": {
+    "schemaVersion": "2.0",
+    "source": "八年级下册互动课文",
+    "importedFrom": "Unit 2 Passage 2 From Pain to Gain（互动课文教学动画）英语新教材外研版八年级下册.html",
+    "importedAt": "2026-04-13T04:50:28.095Z"
+  },
+  "article": {
+    "id": "g8b-u2-p2",
+    "title": "From Pain to Gain",
+    "unit": "Unit 2 沟通与坚持",
+    "paragraphs": [
+      {
+        "id": "g8b-u2-p2-p1",
+        "sentenceIds": [
+          "g8b-u2-p2-s1"
+        ]
+      },
+      {
+        "id": "g8b-u2-p2-p2",
+        "sentenceIds": [
+          "g8b-u2-p2-s2",
+          "g8b-u2-p2-s3",
+          "g8b-u2-p2-s4",
+          "g8b-u2-p2-s5",
+          "g8b-u2-p2-s6",
+          "g8b-u2-p2-s7"
+        ]
+      },
+      {
+        "id": "g8b-u2-p2-p3",
+        "sentenceIds": [
+          "g8b-u2-p2-s8"
+        ]
+      },
+      {
+        "id": "g8b-u2-p2-p4",
+        "sentenceIds": [
+          "g8b-u2-p2-s9",
+          "g8b-u2-p2-s10",
+          "g8b-u2-p2-s11",
+          "g8b-u2-p2-s12",
+          "g8b-u2-p2-s13",
+          "g8b-u2-p2-s14",
+          "g8b-u2-p2-s15"
+        ]
+      },
+      {
+        "id": "g8b-u2-p2-p5",
+        "sentenceIds": [
+          "g8b-u2-p2-s16",
+          "g8b-u2-p2-s17",
+          "g8b-u2-p2-s18",
+          "g8b-u2-p2-s19",
+          "g8b-u2-p2-s20",
+          "g8b-u2-p2-s21"
+        ]
+      },
+      {
+        "id": "g8b-u2-p2-p6",
+        "sentenceIds": [
+          "g8b-u2-p2-s22",
+          "g8b-u2-p2-s23",
+          "g8b-u2-p2-s24"
+        ]
+      },
+      {
+        "id": "g8b-u2-p2-p7",
+        "sentenceIds": [
+          "g8b-u2-p2-s25",
+          "g8b-u2-p2-s26",
+          "g8b-u2-p2-s27",
+          "g8b-u2-p2-s28",
+          "g8b-u2-p2-s29",
+          "g8b-u2-p2-s30",
+          "g8b-u2-p2-s31"
+        ]
+      },
+      {
+        "id": "g8b-u2-p2-p8",
+        "sentenceIds": [
+          "g8b-u2-p2-s32"
+        ]
+      }
+    ],
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "unitNumber": 2,
+    "unitTheme": "沟通与坚持",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "bookOrder": 421,
+    "summary": "从疼痛到收获，理解坚持训练之后的成长和回报。"
+  },
+  "sentences": [
+    {
+      "id": "g8b-u2-p2-s1",
+      "text": "21 October 2021",
+      "paragraphId": "g8b-u2-p2-p1",
+      "tr": "2021年10月21日",
+      "g": "日期状语",
+      "d": "日记的标准日期格式。"
+    },
+    {
+      "id": "g8b-u2-p2-s2",
+      "text": "Dear diary,",
+      "paragraphId": "g8b-u2-p2-p2",
+      "tr": "亲爱的日记，",
+      "g": "称呼语",
+      "d": "日记的常用开头格式。"
+    },
+    {
+      "id": "g8b-u2-p2-s3",
+      "text": "I had a really bad day.",
+      "paragraphId": "g8b-u2-p2-p2",
+      "tr": "我今天过得很糟糕。",
+      "g": "主谓宾结构",
+      "d": "'had a bad day' 是常用搭配，表示过得不顺心。"
+    },
+    {
+      "id": "g8b-u2-p2-s4",
+      "text": "I tried out for the basketball team, but the coach said I wasn't tall enough.",
+      "paragraphId": "g8b-u2-p2-p2",
+      "tr": "我参加了篮球队的选拔，但教练说我不够高。",
+      "g": "并列句 (but) + 宾语从句",
+      "d": "'try out for' 意为参加选拔。'said' 后面省略了 that 引导宾语从句。"
+    },
+    {
+      "id": "g8b-u2-p2-s5",
+      "text": "This has been my dream since I was a little girl!",
+      "paragraphId": "g8b-u2-p2-p2",
+      "tr": "这是我从小女孩时期开始的梦想！",
+      "g": "现在完成时 + 时间状语从句",
+      "d": "'has been' 表示状态从过去持续到现在。'since' 引导时间状语从句。"
+    },
+    {
+      "id": "g8b-u2-p2-s6",
+      "text": "I have practised so much, and it all ended today.",
+      "paragraphId": "g8b-u2-p2-p2",
+      "tr": "我练习了这么多，而这一切都在今天结束了。",
+      "g": "并列句",
+      "d": "前半句用现在完成时强调过去的努力对现在的影响。"
+    },
+    {
+      "id": "g8b-u2-p2-s7",
+      "text": "I feel very bad...",
+      "paragraphId": "g8b-u2-p2-p2",
+      "tr": "我感觉非常糟糕...",
+      "g": "主系表结构",
+      "d": "'feel' 是系动词，后接形容词 'bad'。"
+    },
+    {
+      "id": "g8b-u2-p2-s8",
+      "text": "17 September 2025",
+      "paragraphId": "g8b-u2-p2-p3",
+      "tr": "2025年9月17日",
+      "g": "日期状语",
+      "d": "时间跨度到了四年后。"
+    },
+    {
+      "id": "g8b-u2-p2-s9",
+      "text": "Dear diary,",
+      "paragraphId": "g8b-u2-p2-p4",
+      "tr": "亲爱的日记，",
+      "g": "称呼语",
+      "d": "日记的常用开头格式。"
+    },
+    {
+      "id": "g8b-u2-p2-s10",
+      "text": "I was just reading my diary from four years ago.",
+      "paragraphId": "g8b-u2-p2-p4",
+      "tr": "我刚刚在读四年前的日记。",
+      "g": "过去进行时",
+      "d": "'was reading' 表示过去某个时刻正在进行的动作。"
+    },
+    {
+      "id": "g8b-u2-p2-s11",
+      "text": "How time flies!",
+      "paragraphId": "g8b-u2-p2-p4",
+      "tr": "时间过得真快啊！",
+      "g": "感叹句",
+      "d": "'How + 主语 + 谓语' 构成的感叹句，感叹时间流逝之快。"
+    },
+    {
+      "id": "g8b-u2-p2-s12",
+      "text": "Back then, I was so disappointed at being too short and failing to get on the basketball team.",
+      "paragraphId": "g8b-u2-p2-p4",
+      "tr": "那时，我对自己太矮以及没能进入篮球队感到非常失望。",
+      "g": "be disappointed at + 动名词",
+      "d": "'at' 后接两个并列的动名词短语 'being...' 和 'failing...'。"
+    },
+    {
+      "id": "g8b-u2-p2-s13",
+      "text": "I couldn't help laughing at my heartbreaking words then.",
+      "paragraphId": "g8b-u2-p2-p4",
+      "tr": "看着当时那些令人心碎的话，我忍不住笑了起来。",
+      "g": "couldn't help doing",
+      "d": "'couldn't help laughing' 意为忍不住笑。"
+    },
+    {
+      "id": "g8b-u2-p2-s14",
+      "text": "Basketball was really a big deal for me.",
+      "paragraphId": "g8b-u2-p2-p4",
+      "tr": "篮球对我来说真的是件大事。",
+      "g": "主系表结构",
+      "d": "'a big deal' 口语中常指重要的事情。"
+    },
+    {
+      "id": "g8b-u2-p2-s15",
+      "text": "But things changed soon after that.",
+      "paragraphId": "g8b-u2-p2-p4",
+      "tr": "但在那之后不久，情况发生了变化。",
+      "g": "简单句",
+      "d": "'things' 指代局势或情况。"
+    },
+    {
+      "id": "g8b-u2-p2-s16",
+      "text": "I was so hurt by my failure back then, and my friends were all worried.",
+      "paragraphId": "g8b-u2-p2-p5",
+      "tr": "那时的失败让我很受伤，我的朋友们都很担心。",
+      "g": "被动语态 + 并列句",
+      "d": "'was hurt by' 被...伤害。"
+    },
+    {
+      "id": "g8b-u2-p2-s17",
+      "text": "\"Why not try something else, like swimming, or skiing?\" suggested my best friend.",
+      "paragraphId": "g8b-u2-p2-p5",
+      "tr": "“为什么不试试别的呢，比如游泳或滑雪？”我最好的朋友建议道。",
+      "g": "直接引语 + 倒装",
+      "d": "'Why not do sth' 是提建议的常用句型。"
+    },
+    {
+      "id": "g8b-u2-p2-s18",
+      "text": "At first, I swam just to take my mind off things.",
+      "paragraphId": "g8b-u2-p2-p5",
+      "tr": "起初，我游泳只是为了转移注意力。",
+      "g": "不定式作目的状语",
+      "d": "'take one's mind off things' 意为转移注意力，暂时忘却烦恼。"
+    },
+    {
+      "id": "g8b-u2-p2-s19",
+      "text": "But soon, I fell completely in love with the sport.",
+      "paragraphId": "g8b-u2-p2-p5",
+      "tr": "但很快，我完全爱上了这项运动。",
+      "g": "固定短语",
+      "d": "'fall in love with' 爱上...。"
+    },
+    {
+      "id": "g8b-u2-p2-s20",
+      "text": "I've won several competitions now and I've made a lot of friends.",
+      "paragraphId": "g8b-u2-p2-p5",
+      "tr": "现在我已经赢得了几场比赛，还交了很多朋友。",
+      "g": "现在完成时",
+      "d": "强调过去的经历对现在的影响（赢了比赛，有了朋友）。"
+    },
+    {
+      "id": "g8b-u2-p2-s21",
+      "text": "My life has taken a different turn.",
+      "paragraphId": "g8b-u2-p2-p5",
+      "tr": "我的人生发生了转折。",
+      "g": "现在完成时",
+      "d": "'take a different turn' 意为发生转变。"
+    },
+    {
+      "id": "g8b-u2-p2-s22",
+      "text": "It's great to look back and see my pains and gains with fresh eyes.",
+      "paragraphId": "g8b-u2-p2-p6",
+      "tr": "回首往事，用新的眼光审视我的痛苦和收获，这种感觉真好。",
+      "g": "形式主语 It",
+      "d": "'It' 是形式主语，真正的主语是后面的不定式短语 'to look back...'。"
+    },
+    {
+      "id": "g8b-u2-p2-s23",
+      "text": "Growing up will never be an easy thing.",
+      "paragraphId": "g8b-u2-p2-p6",
+      "tr": "成长绝非易事。",
+      "g": "动名词作主语",
+      "d": "'Growing up' 作主语，谓语动词用单数。"
+    },
+    {
+      "id": "g8b-u2-p2-s24",
+      "text": "But we need to look at challenges the right way.",
+      "paragraphId": "g8b-u2-p2-p6",
+      "tr": "但我们需要以正确的方式看待挑战。",
+      "g": "need to do",
+      "d": "'the right way' 作方式状语。"
+    },
+    {
+      "id": "g8b-u2-p2-s25",
+      "text": "Now I understand that failure is a part of life.",
+      "paragraphId": "g8b-u2-p2-p7",
+      "tr": "现在我明白了，失败是生活的一部分。",
+      "g": "宾语从句",
+      "d": "'that' 引导 understand 的宾语从句。"
+    },
+    {
+      "id": "g8b-u2-p2-s26",
+      "text": "It may fall upon us at any stage in our lives.",
+      "paragraphId": "g8b-u2-p2-p7",
+      "tr": "它可能发生在我们人生的任何阶段。",
+      "g": "情态动词 may",
+      "d": "'fall upon' 意为降临到...身上。"
+    },
+    {
+      "id": "g8b-u2-p2-s27",
+      "text": "I have experienced many other terrible moments since then.",
+      "paragraphId": "g8b-u2-p2-p7",
+      "tr": "从那以后，我还经历过许多其他糟糕的时刻。",
+      "g": "现在完成时",
+      "d": "'since then' 是现在完成时的标志词。"
+    },
+    {
+      "id": "g8b-u2-p2-s28",
+      "text": "But I have never felt so bad again.",
+      "paragraphId": "g8b-u2-p2-p7",
+      "tr": "但我再也没有感到那么糟糕。",
+      "g": "现在完成时 + 否定",
+      "d": "'never' 表示从未。"
+    },
+    {
+      "id": "g8b-u2-p2-s29",
+      "text": "I know clearly that failure lasts just a moment.",
+      "paragraphId": "g8b-u2-p2-p7",
+      "tr": "我很清楚，失败只是一时的。",
+      "g": "宾语从句",
+      "d": "'lasts' 在这里是动词，意为持续。"
+    },
+    {
+      "id": "g8b-u2-p2-s30",
+      "text": "When one door closes, another opens.",
+      "paragraphId": "g8b-u2-p2-p7",
+      "tr": "上帝关上一扇门，就会为你打开另一扇窗。",
+      "g": "时间状语从句",
+      "d": "经典谚语，寓意机会总会有的。"
+    },
+    {
+      "id": "g8b-u2-p2-s31",
+      "text": "Life is waiting for us with many other surprises.",
+      "paragraphId": "g8b-u2-p2-p7",
+      "tr": "生活正以此许多其他的惊喜等待着我们。",
+      "g": "进行时表将来/状态",
+      "d": "'wait for' 等待。"
+    },
+    {
+      "id": "g8b-u2-p2-s32",
+      "text": "Tomorrow is another day.",
+      "paragraphId": "g8b-u2-p2-p8",
+      "tr": "明天又是新的一天。",
+      "g": "经典名句",
+      "d": "出自《乱世佳人》，表示对未来的希望。"
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "g8b-u2-p2-v1",
+      "term": "17",
+      "meaningZh": "十七",
+      "exampleSentenceId": "g8b-u2-p2-s8"
+    },
+    {
+      "id": "g8b-u2-p2-v2",
+      "term": "21",
+      "meaningZh": "二十一",
+      "exampleSentenceId": "g8b-u2-p2-s1"
+    },
+    {
+      "id": "g8b-u2-p2-v3",
+      "term": "2021",
+      "meaningZh": "2021年",
+      "exampleSentenceId": "g8b-u2-p2-s1"
+    },
+    {
+      "id": "g8b-u2-p2-v4",
+      "term": "2025",
+      "meaningZh": "2025年",
+      "exampleSentenceId": "g8b-u2-p2-s8"
+    },
+    {
+      "id": "g8b-u2-p2-v5",
+      "term": "october",
+      "meaningZh": "十月",
+      "exampleSentenceId": "g8b-u2-p2-s1"
+    },
+    {
+      "id": "g8b-u2-p2-v6",
+      "term": "dear",
+      "meaningZh": "亲爱的",
+      "exampleSentenceId": "g8b-u2-p2-s2"
+    },
+    {
+      "id": "g8b-u2-p2-v7",
+      "term": "diary",
+      "meaningZh": "日记",
+      "exampleSentenceId": "g8b-u2-p2-s2"
+    },
+    {
+      "id": "g8b-u2-p2-v8",
+      "term": "i",
+      "meaningZh": "我",
+      "exampleSentenceId": "g8b-u2-p2-s2"
+    },
+    {
+      "id": "g8b-u2-p2-v9",
+      "term": "had",
+      "meaningZh": "有；度过 (have的过去式)",
+      "exampleSentenceId": "g8b-u2-p2-s3"
+    },
+    {
+      "id": "g8b-u2-p2-v10",
+      "term": "a",
+      "meaningZh": "一个",
+      "exampleSentenceId": "g8b-u2-p2-s2"
+    },
+    {
+      "id": "g8b-u2-p2-v11",
+      "term": "really",
+      "meaningZh": "真正地；非常",
+      "exampleSentenceId": "g8b-u2-p2-s3"
+    },
+    {
+      "id": "g8b-u2-p2-v12",
+      "term": "bad",
+      "meaningZh": "坏的；糟糕的",
+      "exampleSentenceId": "g8b-u2-p2-s3"
+    },
+    {
+      "id": "g8b-u2-p2-v13",
+      "term": "day",
+      "meaningZh": "一天",
+      "exampleSentenceId": "g8b-u2-p2-s3"
+    },
+    {
+      "id": "g8b-u2-p2-v14",
+      "term": "tried",
+      "meaningZh": "尝试 (try的过去式)",
+      "exampleSentenceId": "g8b-u2-p2-s4"
+    },
+    {
+      "id": "g8b-u2-p2-v15",
+      "term": "out",
+      "meaningZh": "向外",
+      "exampleSentenceId": "g8b-u2-p2-s4"
+    },
+    {
+      "id": "g8b-u2-p2-v16",
+      "term": "for",
+      "meaningZh": "为了",
+      "exampleSentenceId": "g8b-u2-p2-s4"
+    },
+    {
+      "id": "g8b-u2-p2-v17",
+      "term": "the",
+      "meaningZh": "这；那",
+      "exampleSentenceId": "g8b-u2-p2-s4"
+    },
+    {
+      "id": "g8b-u2-p2-v18",
+      "term": "basketball",
+      "meaningZh": "篮球",
+      "exampleSentenceId": "g8b-u2-p2-s4"
+    },
+    {
+      "id": "g8b-u2-p2-v19",
+      "term": "team",
+      "meaningZh": "队伍",
+      "exampleSentenceId": "g8b-u2-p2-s4"
+    },
+    {
+      "id": "g8b-u2-p2-v20",
+      "term": "but",
+      "meaningZh": "但是",
+      "exampleSentenceId": "g8b-u2-p2-s4"
+    },
+    {
+      "id": "g8b-u2-p2-v21",
+      "term": "coach",
+      "meaningZh": "教练",
+      "exampleSentenceId": "g8b-u2-p2-s4"
+    },
+    {
+      "id": "g8b-u2-p2-v22",
+      "term": "said",
+      "meaningZh": "说 (say的过去式)",
+      "exampleSentenceId": "g8b-u2-p2-s4"
+    },
+    {
+      "id": "g8b-u2-p2-v23",
+      "term": "wasn't",
+      "meaningZh": "不是 (was not)",
+      "exampleSentenceId": "g8b-u2-p2-s4"
+    },
+    {
+      "id": "g8b-u2-p2-v24",
+      "term": "tall",
+      "meaningZh": "高的",
+      "exampleSentenceId": "g8b-u2-p2-s4"
+    },
+    {
+      "id": "g8b-u2-p2-v25",
+      "term": "enough",
+      "meaningZh": "足够地",
+      "exampleSentenceId": "g8b-u2-p2-s4"
+    },
+    {
+      "id": "g8b-u2-p2-v26",
+      "term": "this",
+      "meaningZh": "这",
+      "exampleSentenceId": "g8b-u2-p2-s5"
+    },
+    {
+      "id": "g8b-u2-p2-v27",
+      "term": "has",
+      "meaningZh": "有 (have的第三人称单数)",
+      "exampleSentenceId": "g8b-u2-p2-s5"
+    },
+    {
+      "id": "g8b-u2-p2-v28",
+      "term": "been",
+      "meaningZh": "是 (be的过去分词)",
+      "exampleSentenceId": "g8b-u2-p2-s5"
+    },
+    {
+      "id": "g8b-u2-p2-v29",
+      "term": "my",
+      "meaningZh": "我的",
+      "exampleSentenceId": "g8b-u2-p2-s5"
+    },
+    {
+      "id": "g8b-u2-p2-v30",
+      "term": "dream",
+      "meaningZh": "梦想",
+      "exampleSentenceId": "g8b-u2-p2-s5"
+    },
+    {
+      "id": "g8b-u2-p2-v31",
+      "term": "since",
+      "meaningZh": "自从",
+      "exampleSentenceId": "g8b-u2-p2-s5"
+    },
+    {
+      "id": "g8b-u2-p2-v32",
+      "term": "was",
+      "meaningZh": "是 (is/am的过去式)",
+      "exampleSentenceId": "g8b-u2-p2-s4"
+    },
+    {
+      "id": "g8b-u2-p2-v33",
+      "term": "little",
+      "meaningZh": "小的；年幼的",
+      "exampleSentenceId": "g8b-u2-p2-s5"
+    },
+    {
+      "id": "g8b-u2-p2-v34",
+      "term": "girl",
+      "meaningZh": "女孩",
+      "exampleSentenceId": "g8b-u2-p2-s5"
+    },
+    {
+      "id": "g8b-u2-p2-v35",
+      "term": "have",
+      "meaningZh": "有",
+      "exampleSentenceId": "g8b-u2-p2-s6"
+    },
+    {
+      "id": "g8b-u2-p2-v36",
+      "term": "practised",
+      "meaningZh": "练习 (practise的过去式)",
+      "exampleSentenceId": "g8b-u2-p2-s6"
+    },
+    {
+      "id": "g8b-u2-p2-v37",
+      "term": "so",
+      "meaningZh": "如此；非常",
+      "exampleSentenceId": "g8b-u2-p2-s6"
+    },
+    {
+      "id": "g8b-u2-p2-v38",
+      "term": "much",
+      "meaningZh": "非常；大量",
+      "exampleSentenceId": "g8b-u2-p2-s6"
+    },
+    {
+      "id": "g8b-u2-p2-v39",
+      "term": "and",
+      "meaningZh": "和",
+      "exampleSentenceId": "g8b-u2-p2-s6"
+    },
+    {
+      "id": "g8b-u2-p2-v40",
+      "term": "it",
+      "meaningZh": "它",
+      "exampleSentenceId": "g8b-u2-p2-s5"
+    },
+    {
+      "id": "g8b-u2-p2-v41",
+      "term": "all",
+      "meaningZh": "完全；都",
+      "exampleSentenceId": "g8b-u2-p2-s3"
+    },
+    {
+      "id": "g8b-u2-p2-v42",
+      "term": "ended",
+      "meaningZh": "结束 (end的过去式)",
+      "exampleSentenceId": "g8b-u2-p2-s6"
+    },
+    {
+      "id": "g8b-u2-p2-v43",
+      "term": "today",
+      "meaningZh": "今天",
+      "exampleSentenceId": "g8b-u2-p2-s6"
+    },
+    {
+      "id": "g8b-u2-p2-v44",
+      "term": "feel",
+      "meaningZh": "感觉",
+      "exampleSentenceId": "g8b-u2-p2-s7"
+    },
+    {
+      "id": "g8b-u2-p2-v45",
+      "term": "very",
+      "meaningZh": "非常",
+      "exampleSentenceId": "g8b-u2-p2-s7"
+    },
+    {
+      "id": "g8b-u2-p2-v46",
+      "term": "september",
+      "meaningZh": "九月",
+      "exampleSentenceId": "g8b-u2-p2-s8"
+    },
+    {
+      "id": "g8b-u2-p2-v47",
+      "term": "just",
+      "meaningZh": "刚刚；只是",
+      "exampleSentenceId": "g8b-u2-p2-s10"
+    },
+    {
+      "id": "g8b-u2-p2-v48",
+      "term": "reading",
+      "meaningZh": "阅读 (read的现在分词)",
+      "exampleSentenceId": "g8b-u2-p2-s10"
+    },
+    {
+      "id": "g8b-u2-p2-v49",
+      "term": "from",
+      "meaningZh": "来自",
+      "exampleSentenceId": "g8b-u2-p2-s10"
+    },
+    {
+      "id": "g8b-u2-p2-v50",
+      "term": "four",
+      "meaningZh": "四",
+      "exampleSentenceId": "g8b-u2-p2-s10"
+    },
+    {
+      "id": "g8b-u2-p2-v51",
+      "term": "years",
+      "meaningZh": "年 (复数)",
+      "exampleSentenceId": "g8b-u2-p2-s10"
+    },
+    {
+      "id": "g8b-u2-p2-v52",
+      "term": "ago",
+      "meaningZh": "以前",
+      "exampleSentenceId": "g8b-u2-p2-s10"
+    },
+    {
+      "id": "g8b-u2-p2-v53",
+      "term": "how",
+      "meaningZh": "多么",
+      "exampleSentenceId": "g8b-u2-p2-s11"
+    },
+    {
+      "id": "g8b-u2-p2-v54",
+      "term": "time",
+      "meaningZh": "时间",
+      "exampleSentenceId": "g8b-u2-p2-s11"
+    },
+    {
+      "id": "g8b-u2-p2-v55",
+      "term": "flies",
+      "meaningZh": "飞逝 (fly的第三人称单数)",
+      "exampleSentenceId": "g8b-u2-p2-s11"
+    },
+    {
+      "id": "g8b-u2-p2-v56",
+      "term": "too",
+      "meaningZh": "太",
+      "exampleSentenceId": "g8b-u2-p2-s12"
+    },
+    {
+      "id": "g8b-u2-p2-v57",
+      "term": "fast",
+      "meaningZh": "快"
+    },
+    {
+      "id": "g8b-u2-p2-v58",
+      "term": "disappointed",
+      "meaningZh": "失望的",
+      "exampleSentenceId": "g8b-u2-p2-s12"
+    },
+    {
+      "id": "g8b-u2-p2-v59",
+      "term": "at",
+      "meaningZh": "在",
+      "exampleSentenceId": "g8b-u2-p2-s12"
+    },
+    {
+      "id": "g8b-u2-p2-v60",
+      "term": "being",
+      "meaningZh": "是 (be的现在分词)",
+      "exampleSentenceId": "g8b-u2-p2-s12"
+    },
+    {
+      "id": "g8b-u2-p2-v61",
+      "term": "short",
+      "meaningZh": "矮的",
+      "exampleSentenceId": "g8b-u2-p2-s12"
+    },
+    {
+      "id": "g8b-u2-p2-v62",
+      "term": "then",
+      "meaningZh": "那时",
+      "exampleSentenceId": "g8b-u2-p2-s12"
+    },
+    {
+      "id": "g8b-u2-p2-v63",
+      "term": "failing",
+      "meaningZh": "失败 (fail的现在分词)",
+      "exampleSentenceId": "g8b-u2-p2-s12"
+    },
+    {
+      "id": "g8b-u2-p2-v64",
+      "term": "to",
+      "meaningZh": "去；向",
+      "exampleSentenceId": "g8b-u2-p2-s1"
+    },
+    {
+      "id": "g8b-u2-p2-v65",
+      "term": "get",
+      "meaningZh": "得到；进入",
+      "exampleSentenceId": "g8b-u2-p2-s12"
+    },
+    {
+      "id": "g8b-u2-p2-v66",
+      "term": "on",
+      "meaningZh": "在...上",
+      "exampleSentenceId": "g8b-u2-p2-s12"
+    },
+    {
+      "id": "g8b-u2-p2-v67",
+      "term": "couldn't",
+      "meaningZh": "不能 (could not)",
+      "exampleSentenceId": "g8b-u2-p2-s13"
+    },
+    {
+      "id": "g8b-u2-p2-v68",
+      "term": "help",
+      "meaningZh": "忍住；帮助",
+      "exampleSentenceId": "g8b-u2-p2-s13"
+    },
+    {
+      "id": "g8b-u2-p2-v69",
+      "term": "laughing",
+      "meaningZh": "笑 (laugh的现在分词)",
+      "exampleSentenceId": "g8b-u2-p2-s13"
+    },
+    {
+      "id": "g8b-u2-p2-v70",
+      "term": "heartbreaking",
+      "meaningZh": "令人心碎的",
+      "exampleSentenceId": "g8b-u2-p2-s13"
+    },
+    {
+      "id": "g8b-u2-p2-v71",
+      "term": "words",
+      "meaningZh": "话语 (复数)",
+      "exampleSentenceId": "g8b-u2-p2-s13"
+    },
+    {
+      "id": "g8b-u2-p2-v72",
+      "term": "big",
+      "meaningZh": "大的",
+      "exampleSentenceId": "g8b-u2-p2-s14"
+    },
+    {
+      "id": "g8b-u2-p2-v73",
+      "term": "deal",
+      "meaningZh": "交易；大事",
+      "exampleSentenceId": "g8b-u2-p2-s14"
+    },
+    {
+      "id": "g8b-u2-p2-v74",
+      "term": "me",
+      "meaningZh": "我 (宾格)",
+      "exampleSentenceId": "g8b-u2-p2-s11"
+    },
+    {
+      "id": "g8b-u2-p2-v75",
+      "term": "things",
+      "meaningZh": "事情 (复数)",
+      "exampleSentenceId": "g8b-u2-p2-s15"
+    },
+    {
+      "id": "g8b-u2-p2-v76",
+      "term": "changed",
+      "meaningZh": "改变 (change的过去式)",
+      "exampleSentenceId": "g8b-u2-p2-s15"
+    },
+    {
+      "id": "g8b-u2-p2-v77",
+      "term": "soon",
+      "meaningZh": "不久",
+      "exampleSentenceId": "g8b-u2-p2-s15"
+    },
+    {
+      "id": "g8b-u2-p2-v78",
+      "term": "after",
+      "meaningZh": "在...之后",
+      "exampleSentenceId": "g8b-u2-p2-s15"
+    },
+    {
+      "id": "g8b-u2-p2-v79",
+      "term": "that",
+      "meaningZh": "那",
+      "exampleSentenceId": "g8b-u2-p2-s15"
+    },
+    {
+      "id": "g8b-u2-p2-v80",
+      "term": "hurt",
+      "meaningZh": "受伤的",
+      "exampleSentenceId": "g8b-u2-p2-s16"
+    },
+    {
+      "id": "g8b-u2-p2-v81",
+      "term": "by",
+      "meaningZh": "被",
+      "exampleSentenceId": "g8b-u2-p2-s16"
+    },
+    {
+      "id": "g8b-u2-p2-v82",
+      "term": "failure",
+      "meaningZh": "失败",
+      "exampleSentenceId": "g8b-u2-p2-s16"
+    },
+    {
+      "id": "g8b-u2-p2-v83",
+      "term": "back",
+      "meaningZh": "回；向后",
+      "exampleSentenceId": "g8b-u2-p2-s12"
+    },
+    {
+      "id": "g8b-u2-p2-v84",
+      "term": "friends",
+      "meaningZh": "朋友 (复数)",
+      "exampleSentenceId": "g8b-u2-p2-s16"
+    },
+    {
+      "id": "g8b-u2-p2-v85",
+      "term": "were",
+      "meaningZh": "是 (are的过去式)",
+      "exampleSentenceId": "g8b-u2-p2-s16"
+    },
+    {
+      "id": "g8b-u2-p2-v86",
+      "term": "worried",
+      "meaningZh": "担心的",
+      "exampleSentenceId": "g8b-u2-p2-s16"
+    },
+    {
+      "id": "g8b-u2-p2-v87",
+      "term": "why",
+      "meaningZh": "为什么",
+      "exampleSentenceId": "g8b-u2-p2-s17"
+    },
+    {
+      "id": "g8b-u2-p2-v88",
+      "term": "not",
+      "meaningZh": "不",
+      "exampleSentenceId": "g8b-u2-p2-s17"
+    },
+    {
+      "id": "g8b-u2-p2-v89",
+      "term": "try",
+      "meaningZh": "尝试",
+      "exampleSentenceId": "g8b-u2-p2-s17"
+    },
+    {
+      "id": "g8b-u2-p2-v90",
+      "term": "something",
+      "meaningZh": "某事",
+      "exampleSentenceId": "g8b-u2-p2-s17"
+    },
+    {
+      "id": "g8b-u2-p2-v91",
+      "term": "else",
+      "meaningZh": "其他的",
+      "exampleSentenceId": "g8b-u2-p2-s17"
+    },
+    {
+      "id": "g8b-u2-p2-v92",
+      "term": "like",
+      "meaningZh": "像",
+      "exampleSentenceId": "g8b-u2-p2-s17"
+    },
+    {
+      "id": "g8b-u2-p2-v93",
+      "term": "swimming",
+      "meaningZh": "游泳",
+      "exampleSentenceId": "g8b-u2-p2-s17"
+    },
+    {
+      "id": "g8b-u2-p2-v94",
+      "term": "or",
+      "meaningZh": "或者",
+      "exampleSentenceId": "g8b-u2-p2-s4"
+    },
+    {
+      "id": "g8b-u2-p2-v95",
+      "term": "skiing",
+      "meaningZh": "滑雪",
+      "exampleSentenceId": "g8b-u2-p2-s17"
+    },
+    {
+      "id": "g8b-u2-p2-v96",
+      "term": "suggested",
+      "meaningZh": "建议 (suggest的过去式)",
+      "exampleSentenceId": "g8b-u2-p2-s17"
+    },
+    {
+      "id": "g8b-u2-p2-v97",
+      "term": "best",
+      "meaningZh": "最好的",
+      "exampleSentenceId": "g8b-u2-p2-s17"
+    },
+    {
+      "id": "g8b-u2-p2-v98",
+      "term": "friend",
+      "meaningZh": "朋友",
+      "exampleSentenceId": "g8b-u2-p2-s16"
+    },
+    {
+      "id": "g8b-u2-p2-v99",
+      "term": "first",
+      "meaningZh": "起初",
+      "exampleSentenceId": "g8b-u2-p2-s18"
+    },
+    {
+      "id": "g8b-u2-p2-v100",
+      "term": "swam",
+      "meaningZh": "游泳 (swim的过去式)",
+      "exampleSentenceId": "g8b-u2-p2-s18"
+    },
+    {
+      "id": "g8b-u2-p2-v101",
+      "term": "take",
+      "meaningZh": "拿；带",
+      "exampleSentenceId": "g8b-u2-p2-s18"
+    },
+    {
+      "id": "g8b-u2-p2-v102",
+      "term": "mind",
+      "meaningZh": "心思",
+      "exampleSentenceId": "g8b-u2-p2-s18"
+    },
+    {
+      "id": "g8b-u2-p2-v103",
+      "term": "off",
+      "meaningZh": "脱离",
+      "exampleSentenceId": "g8b-u2-p2-s18"
+    },
+    {
+      "id": "g8b-u2-p2-v104",
+      "term": "fell",
+      "meaningZh": "掉落 (fall的过去式)",
+      "exampleSentenceId": "g8b-u2-p2-s19"
+    },
+    {
+      "id": "g8b-u2-p2-v105",
+      "term": "completely",
+      "meaningZh": "完全地",
+      "exampleSentenceId": "g8b-u2-p2-s19"
+    },
+    {
+      "id": "g8b-u2-p2-v106",
+      "term": "in",
+      "meaningZh": "在...里",
+      "exampleSentenceId": "g8b-u2-p2-s5"
+    },
+    {
+      "id": "g8b-u2-p2-v107",
+      "term": "love",
+      "meaningZh": "爱",
+      "exampleSentenceId": "g8b-u2-p2-s19"
+    },
+    {
+      "id": "g8b-u2-p2-v108",
+      "term": "with",
+      "meaningZh": "和...在一起",
+      "exampleSentenceId": "g8b-u2-p2-s19"
+    },
+    {
+      "id": "g8b-u2-p2-v109",
+      "term": "sport",
+      "meaningZh": "运动",
+      "exampleSentenceId": "g8b-u2-p2-s19"
+    },
+    {
+      "id": "g8b-u2-p2-v110",
+      "term": "i've",
+      "meaningZh": "我有 (I have)",
+      "exampleSentenceId": "g8b-u2-p2-s20"
+    },
+    {
+      "id": "g8b-u2-p2-v111",
+      "term": "won",
+      "meaningZh": "赢得 (win的过去式)",
+      "exampleSentenceId": "g8b-u2-p2-s20"
+    },
+    {
+      "id": "g8b-u2-p2-v112",
+      "term": "several",
+      "meaningZh": "几个",
+      "exampleSentenceId": "g8b-u2-p2-s20"
+    },
+    {
+      "id": "g8b-u2-p2-v113",
+      "term": "competitions",
+      "meaningZh": "比赛 (复数)",
+      "exampleSentenceId": "g8b-u2-p2-s20"
+    },
+    {
+      "id": "g8b-u2-p2-v114",
+      "term": "now",
+      "meaningZh": "现在",
+      "exampleSentenceId": "g8b-u2-p2-s20"
+    },
+    {
+      "id": "g8b-u2-p2-v115",
+      "term": "made",
+      "meaningZh": "交(朋友)；制作",
+      "exampleSentenceId": "g8b-u2-p2-s20"
+    },
+    {
+      "id": "g8b-u2-p2-v116",
+      "term": "lot",
+      "meaningZh": "大量",
+      "exampleSentenceId": "g8b-u2-p2-s20"
+    },
+    {
+      "id": "g8b-u2-p2-v117",
+      "term": "of",
+      "meaningZh": "的",
+      "exampleSentenceId": "g8b-u2-p2-s18"
+    },
+    {
+      "id": "g8b-u2-p2-v118",
+      "term": "life",
+      "meaningZh": "生活；人生",
+      "exampleSentenceId": "g8b-u2-p2-s21"
+    },
+    {
+      "id": "g8b-u2-p2-v119",
+      "term": "taken",
+      "meaningZh": "拿 (take的过去分词)",
+      "exampleSentenceId": "g8b-u2-p2-s21"
+    },
+    {
+      "id": "g8b-u2-p2-v120",
+      "term": "different",
+      "meaningZh": "不同的",
+      "exampleSentenceId": "g8b-u2-p2-s21"
+    },
+    {
+      "id": "g8b-u2-p2-v121",
+      "term": "turn",
+      "meaningZh": "转折",
+      "exampleSentenceId": "g8b-u2-p2-s21"
+    },
+    {
+      "id": "g8b-u2-p2-v122",
+      "term": "it's",
+      "meaningZh": "它是 (it is)",
+      "exampleSentenceId": "g8b-u2-p2-s22"
+    },
+    {
+      "id": "g8b-u2-p2-v123",
+      "term": "great",
+      "meaningZh": "棒的",
+      "exampleSentenceId": "g8b-u2-p2-s22"
+    },
+    {
+      "id": "g8b-u2-p2-v124",
+      "term": "look",
+      "meaningZh": "看",
+      "exampleSentenceId": "g8b-u2-p2-s22"
+    },
+    {
+      "id": "g8b-u2-p2-v125",
+      "term": "see",
+      "meaningZh": "看见",
+      "exampleSentenceId": "g8b-u2-p2-s22"
+    },
+    {
+      "id": "g8b-u2-p2-v126",
+      "term": "pains",
+      "meaningZh": "痛苦 (复数)",
+      "exampleSentenceId": "g8b-u2-p2-s22"
+    },
+    {
+      "id": "g8b-u2-p2-v127",
+      "term": "gains",
+      "meaningZh": "收获 (复数)",
+      "exampleSentenceId": "g8b-u2-p2-s22"
+    },
+    {
+      "id": "g8b-u2-p2-v128",
+      "term": "fresh",
+      "meaningZh": "新鲜的",
+      "exampleSentenceId": "g8b-u2-p2-s22"
+    },
+    {
+      "id": "g8b-u2-p2-v129",
+      "term": "eyes",
+      "meaningZh": "眼睛 (复数)",
+      "exampleSentenceId": "g8b-u2-p2-s22"
+    },
+    {
+      "id": "g8b-u2-p2-v130",
+      "term": "growing",
+      "meaningZh": "成长 (grow的现在分词)",
+      "exampleSentenceId": "g8b-u2-p2-s23"
+    },
+    {
+      "id": "g8b-u2-p2-v131",
+      "term": "up",
+      "meaningZh": "向上",
+      "exampleSentenceId": "g8b-u2-p2-s23"
+    },
+    {
+      "id": "g8b-u2-p2-v132",
+      "term": "will",
+      "meaningZh": "将要",
+      "exampleSentenceId": "g8b-u2-p2-s23"
+    },
+    {
+      "id": "g8b-u2-p2-v133",
+      "term": "never",
+      "meaningZh": "从不",
+      "exampleSentenceId": "g8b-u2-p2-s23"
+    },
+    {
+      "id": "g8b-u2-p2-v134",
+      "term": "be",
+      "meaningZh": "是",
+      "exampleSentenceId": "g8b-u2-p2-s1"
+    },
+    {
+      "id": "g8b-u2-p2-v135",
+      "term": "an",
+      "meaningZh": "一个",
+      "exampleSentenceId": "g8b-u2-p2-s6"
+    },
+    {
+      "id": "g8b-u2-p2-v136",
+      "term": "easy",
+      "meaningZh": "容易的",
+      "exampleSentenceId": "g8b-u2-p2-s23"
+    },
+    {
+      "id": "g8b-u2-p2-v137",
+      "term": "thing",
+      "meaningZh": "事情",
+      "exampleSentenceId": "g8b-u2-p2-s15"
+    },
+    {
+      "id": "g8b-u2-p2-v138",
+      "term": "we",
+      "meaningZh": "我们",
+      "exampleSentenceId": "g8b-u2-p2-s16"
+    },
+    {
+      "id": "g8b-u2-p2-v139",
+      "term": "need",
+      "meaningZh": "需要",
+      "exampleSentenceId": "g8b-u2-p2-s24"
+    },
+    {
+      "id": "g8b-u2-p2-v140",
+      "term": "challenges",
+      "meaningZh": "挑战 (复数)",
+      "exampleSentenceId": "g8b-u2-p2-s24"
+    },
+    {
+      "id": "g8b-u2-p2-v141",
+      "term": "right",
+      "meaningZh": "正确的",
+      "exampleSentenceId": "g8b-u2-p2-s24"
+    },
+    {
+      "id": "g8b-u2-p2-v142",
+      "term": "way",
+      "meaningZh": "方式",
+      "exampleSentenceId": "g8b-u2-p2-s24"
+    },
+    {
+      "id": "g8b-u2-p2-v143",
+      "term": "understand",
+      "meaningZh": "理解",
+      "exampleSentenceId": "g8b-u2-p2-s25"
+    },
+    {
+      "id": "g8b-u2-p2-v144",
+      "term": "part",
+      "meaningZh": "部分",
+      "exampleSentenceId": "g8b-u2-p2-s25"
+    },
+    {
+      "id": "g8b-u2-p2-v145",
+      "term": "is",
+      "meaningZh": "是",
+      "exampleSentenceId": "g8b-u2-p2-s5"
+    },
+    {
+      "id": "g8b-u2-p2-v146",
+      "term": "may",
+      "meaningZh": "可能",
+      "exampleSentenceId": "g8b-u2-p2-s26"
+    },
+    {
+      "id": "g8b-u2-p2-v147",
+      "term": "fall",
+      "meaningZh": "降临；落下",
+      "exampleSentenceId": "g8b-u2-p2-s26"
+    },
+    {
+      "id": "g8b-u2-p2-v148",
+      "term": "upon",
+      "meaningZh": "在...之上",
+      "exampleSentenceId": "g8b-u2-p2-s26"
+    },
+    {
+      "id": "g8b-u2-p2-v149",
+      "term": "us",
+      "meaningZh": "我们 (宾格)",
+      "exampleSentenceId": "g8b-u2-p2-s10"
+    },
+    {
+      "id": "g8b-u2-p2-v150",
+      "term": "our",
+      "meaningZh": "我们的",
+      "exampleSentenceId": "g8b-u2-p2-s10"
+    },
+    {
+      "id": "g8b-u2-p2-v151",
+      "term": "any",
+      "meaningZh": "任何",
+      "exampleSentenceId": "g8b-u2-p2-s26"
+    },
+    {
+      "id": "g8b-u2-p2-v152",
+      "term": "stage",
+      "meaningZh": "阶段",
+      "exampleSentenceId": "g8b-u2-p2-s26"
+    },
+    {
+      "id": "g8b-u2-p2-v153",
+      "term": "lives",
+      "meaningZh": "生命 (life的复数)",
+      "exampleSentenceId": "g8b-u2-p2-s26"
+    },
+    {
+      "id": "g8b-u2-p2-v154",
+      "term": "experienced",
+      "meaningZh": "经历 (experience的过去分词)",
+      "exampleSentenceId": "g8b-u2-p2-s27"
+    },
+    {
+      "id": "g8b-u2-p2-v155",
+      "term": "many",
+      "meaningZh": "许多",
+      "exampleSentenceId": "g8b-u2-p2-s27"
+    },
+    {
+      "id": "g8b-u2-p2-v156",
+      "term": "other",
+      "meaningZh": "其他的",
+      "exampleSentenceId": "g8b-u2-p2-s27"
+    },
+    {
+      "id": "g8b-u2-p2-v157",
+      "term": "terrible",
+      "meaningZh": "可怕的",
+      "exampleSentenceId": "g8b-u2-p2-s27"
+    },
+    {
+      "id": "g8b-u2-p2-v158",
+      "term": "moments",
+      "meaningZh": "时刻 (复数)",
+      "exampleSentenceId": "g8b-u2-p2-s27"
+    },
+    {
+      "id": "g8b-u2-p2-v159",
+      "term": "felt",
+      "meaningZh": "感觉 (feel的过去式)",
+      "exampleSentenceId": "g8b-u2-p2-s28"
+    },
+    {
+      "id": "g8b-u2-p2-v160",
+      "term": "sad",
+      "meaningZh": "难过的"
+    },
+    {
+      "id": "g8b-u2-p2-v161",
+      "term": "again",
+      "meaningZh": "再一次",
+      "exampleSentenceId": "g8b-u2-p2-s28"
+    },
+    {
+      "id": "g8b-u2-p2-v162",
+      "term": "know",
+      "meaningZh": "知道",
+      "exampleSentenceId": "g8b-u2-p2-s29"
+    },
+    {
+      "id": "g8b-u2-p2-v163",
+      "term": "clearly",
+      "meaningZh": "清楚地",
+      "exampleSentenceId": "g8b-u2-p2-s29"
+    },
+    {
+      "id": "g8b-u2-p2-v164",
+      "term": "lasts",
+      "meaningZh": "持续 (last的第三人称单数)",
+      "exampleSentenceId": "g8b-u2-p2-s29"
+    },
+    {
+      "id": "g8b-u2-p2-v165",
+      "term": "moment",
+      "meaningZh": "片刻",
+      "exampleSentenceId": "g8b-u2-p2-s27"
+    },
+    {
+      "id": "g8b-u2-p2-v166",
+      "term": "when",
+      "meaningZh": "当...时候",
+      "exampleSentenceId": "g8b-u2-p2-s30"
+    },
+    {
+      "id": "g8b-u2-p2-v167",
+      "term": "one",
+      "meaningZh": "一个",
+      "exampleSentenceId": "g8b-u2-p2-s30"
+    },
+    {
+      "id": "g8b-u2-p2-v168",
+      "term": "door",
+      "meaningZh": "门",
+      "exampleSentenceId": "g8b-u2-p2-s30"
+    },
+    {
+      "id": "g8b-u2-p2-v169",
+      "term": "closes",
+      "meaningZh": "关闭 (close的第三人称单数)",
+      "exampleSentenceId": "g8b-u2-p2-s30"
+    },
+    {
+      "id": "g8b-u2-p2-v170",
+      "term": "another",
+      "meaningZh": "另一个",
+      "exampleSentenceId": "g8b-u2-p2-s30"
+    },
+    {
+      "id": "g8b-u2-p2-v171",
+      "term": "opens",
+      "meaningZh": "打开 (open的第三人称单数)",
+      "exampleSentenceId": "g8b-u2-p2-s30"
+    },
+    {
+      "id": "g8b-u2-p2-v172",
+      "term": "waiting",
+      "meaningZh": "等待 (wait的现在分词)",
+      "exampleSentenceId": "g8b-u2-p2-s31"
+    },
+    {
+      "id": "g8b-u2-p2-v173",
+      "term": "surprises",
+      "meaningZh": "惊喜 (复数)",
+      "exampleSentenceId": "g8b-u2-p2-s31"
+    },
+    {
+      "id": "g8b-u2-p2-v174",
+      "term": "tomorrow",
+      "meaningZh": "明天",
+      "exampleSentenceId": "g8b-u2-p2-s32"
+    }
+  ],
+  "sentenceTasks": [],
+  "readingQuestions": [
+    {
+      "id": "reading-q1",
+      "type": "single_choice",
+      "stem": "Why did the author feel bad in 2019?",
+      "options": [
+        "A. She lost her diary.",
+        "B. She failed to get on the basketball team.",
+        "C. She had a fight with her best friend.",
+        "D. She was sick."
+      ],
+      "answer": "B. She failed to get on the basketball team.",
+      "rationaleZh": "文章第一部分提到 'I tried out for the basketball team, but the coach said I wasn't tall enough.'，因此是因为落选篮球队而难过。"
+    },
+    {
+      "id": "reading-q2",
+      "type": "single_choice",
+      "stem": "What did the author's best friend suggest?",
+      "options": [
+        "A. To try out for the basketball team again.",
+        "B. To stop playing sports.",
+        "C. To try something else like swimming or skiing.",
+        "D. To write a diary."
+      ],
+      "answer": "C. To try something else like swimming or skiing.",
+      "rationaleZh": "文章中朋友建议：'Why not try something else, like swimming, or skiing?'"
+    },
+    {
+      "id": "reading-q3",
+      "type": "single_choice",
+      "stem": "How does the author feel about the past failure now (in 2023)?",
+      "options": [
+        "A. She is still very angry.",
+        "B. She feels ashamed.",
+        "C. She can look at it with fresh eyes and even laugh.",
+        "D. She wants to forget it completely."
+      ],
+      "answer": "C. She can look at it with fresh eyes and even laugh.",
+      "rationaleZh": "文中提到 'I couldn't help laughing at my heartbreaking words then' 和 'It's great to look back... with fresh eyes'。"
+    },
+    {
+      "id": "reading-q4",
+      "type": "single_choice",
+      "stem": "What does the sentence 'When one door closes, another opens' mean in this context?",
+      "options": [
+        "A. You should always keep doors open.",
+        "B. Failure in one area can lead to success in another.",
+        "C. Basketball is better than swimming.",
+        "D. Life is full of closed doors."
+      ],
+      "answer": "B. Failure in one area can lead to success in another.",
+      "rationaleZh": "这句话寓意失去一个机会往往会带来新的机会，正如作者篮球失败后在游泳中找到了成功。"
+    },
+    {
+      "id": "reading-q5",
+      "type": "single_choice",
+      "stem": "What is the main theme of this diary?",
+      "options": [
+        "A. How to play basketball.",
+        "B. The importance of keeping a diary.",
+        "C. Growth and turning failure into gain.",
+        "D. Friendship is the most important thing."
+      ],
+      "answer": "C. Growth and turning failure into gain.",
+      "rationaleZh": "文章标题 'From pain to gain' 以及内容描述的从失败痛苦到获得新生成长的过程，都指向选项C。"
+    }
+  ],
+  "quoteCandidates": [],
+  "lexicon": {
+    "17": {
+      "phonetic": "/ˌsevənˈtiːn/",
+      "pos": "num.",
+      "meaningZh": "十七",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Sk9cp4r9enMfWpLGkmf5Nd.mp3"
+    },
+    "21": {
+      "phonetic": "/ˌtwenti ˈwʌn/",
+      "pos": "num.",
+      "meaningZh": "二十一",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/huwWzWAKxhD9XUaKz5KFwB.mp3"
+    },
+    "2021": {
+      "phonetic": "/ˌtwenti ˈtwenti wʌn/",
+      "pos": "num.",
+      "meaningZh": "2021年",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/JcHmycuhscmQnfTouWALMe.mp3"
+    },
+    "2025": {
+      "phonetic": "/ˌtwenti ˈtwenti faɪv/",
+      "pos": "num.",
+      "meaningZh": "2025年",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZDzqvo5sjBMPfzcPFogqPT.mp3"
+    },
+    "october": {
+      "phonetic": "/ɒkˈtəʊbə(r)/",
+      "pos": "n.",
+      "meaningZh": "十月",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KTugqJKa2gZDEyVHtLSuF8.mp3"
+    },
+    "dear": {
+      "phonetic": "/dɪə(r)/",
+      "pos": "adj.",
+      "meaningZh": "亲爱的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/tYgFScx5c5uerri845qbGg.mp3"
+    },
+    "diary": {
+      "phonetic": "/ˈdaɪəri/",
+      "pos": "n.",
+      "meaningZh": "日记",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hrXH6pxx7SrLXSdvHnxLGG.mp3"
+    },
+    "i": {
+      "phonetic": "/aɪ/",
+      "pos": "pron.",
+      "meaningZh": "我",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/8s76JwQCWhwMcZHVJgZaMQ.mp3"
+    },
+    "had": {
+      "phonetic": "/hæd/",
+      "pos": "v.",
+      "meaningZh": "有；度过 (have的过去式)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dpVx65k3JhkdkvviNY4DKV.mp3"
+    },
+    "a": {
+      "phonetic": "/ə/",
+      "pos": "art.",
+      "meaningZh": "一个",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FG9LQxEo8U4fT5mxdpWdfP.mp3"
+    },
+    "really": {
+      "phonetic": "/ˈriːəli/",
+      "pos": "adv.",
+      "meaningZh": "真正地；非常",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/oM92r3DfgtQFAwpcnkFJjh.mp3"
+    },
+    "bad": {
+      "phonetic": "/bæd/",
+      "pos": "adj.",
+      "meaningZh": "坏的；糟糕的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/k5AcbHuhZjBiRpBgtmujKi.mp3"
+    },
+    "day": {
+      "phonetic": "/deɪ/",
+      "pos": "n.",
+      "meaningZh": "一天",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/xVdeHnWvt5zfUeDQW4zC4e.mp3"
+    },
+    "tried": {
+      "phonetic": "/traɪd/",
+      "pos": "v.",
+      "meaningZh": "尝试 (try的过去式)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/8BmERBa2c4h3DYAsBx26qg.mp3"
+    },
+    "out": {
+      "phonetic": "/aʊt/",
+      "pos": "adv.",
+      "meaningZh": "向外",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZcDnKMkLt8vQnfmCS6pBK3.mp3"
+    },
+    "for": {
+      "phonetic": "/fɔː(r)/",
+      "pos": "prep.",
+      "meaningZh": "为了",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/fo2tzXTL5V7bv7dXqympCH.mp3"
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "pos": "art.",
+      "meaningZh": "这；那",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/eC3GwCQTaC3LvFRcKTxmXK.mp3"
+    },
+    "basketball": {
+      "phonetic": "/ˈbɑːskɪtbɔːl/",
+      "pos": "n.",
+      "meaningZh": "篮球",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Mqh8BnAVfbkrtXVwUzMTkD.mp3"
+    },
+    "team": {
+      "phonetic": "/tiːm/",
+      "pos": "n.",
+      "meaningZh": "队伍",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Zt8sEc9GhsbhgqU538hPTY.mp3"
+    },
+    "but": {
+      "phonetic": "/bʌt/",
+      "pos": "conj.",
+      "meaningZh": "但是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/k5TWhuTehVXQmPAY454vdJ.mp3"
+    },
+    "coach": {
+      "phonetic": "/kəʊtʃ/",
+      "pos": "n.",
+      "meaningZh": "教练",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qH4F6zLgSYxXyU37B8yZ8h.mp3"
+    },
+    "said": {
+      "phonetic": "/sed/",
+      "pos": "v.",
+      "meaningZh": "说 (say的过去式)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/VKpp65FcmsGYbjrE5NpB83.mp3"
+    },
+    "wasn't": {
+      "phonetic": "/ˈwɒznt/",
+      "pos": "v.",
+      "meaningZh": "不是 (was not)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2XZgX385Y5zN2R3jcae8F2.mp3"
+    },
+    "tall": {
+      "phonetic": "/tɔːl/",
+      "pos": "adj.",
+      "meaningZh": "高的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UAdoo2nE4WN7XbjmeF3wFQ.mp3"
+    },
+    "enough": {
+      "phonetic": "/ɪˈnʌf/",
+      "pos": "adv.",
+      "meaningZh": "足够地",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/q9roLi8p6tg9uhfG3yn8zh.mp3"
+    },
+    "this": {
+      "phonetic": "/ðɪs/",
+      "pos": "pron.",
+      "meaningZh": "这",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/tu743pJYnYwEYnUv5ifzyV.mp3"
+    },
+    "has": {
+      "phonetic": "/hæz/",
+      "pos": "v.",
+      "meaningZh": "有 (have的第三人称单数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pQuG6CvUN6PspF2baoxAwX.mp3"
+    },
+    "been": {
+      "phonetic": "/biːn/",
+      "pos": "v.",
+      "meaningZh": "是 (be的过去分词)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/jWE45pfxmmfWQieRUuHT3R.mp3"
+    },
+    "my": {
+      "phonetic": "/maɪ/",
+      "pos": "pron.",
+      "meaningZh": "我的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/aytT6rPNTdyF5eXMpPsXyC.mp3"
+    },
+    "dream": {
+      "phonetic": "/driːm/",
+      "pos": "n.",
+      "meaningZh": "梦想",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/T89fKGwSUrf9WoMMSVLriN.mp3"
+    },
+    "since": {
+      "phonetic": "/sɪns/",
+      "pos": "conj.",
+      "meaningZh": "自从",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/b9iMbuHToCozcexTaRMoBF.mp3"
+    },
+    "was": {
+      "phonetic": "/wɒz/",
+      "pos": "v.",
+      "meaningZh": "是 (is/am的过去式)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/MamUQKUCtkz7AacWC4jY4f.mp3"
+    },
+    "little": {
+      "phonetic": "/ˈlɪtl/",
+      "pos": "adj.",
+      "meaningZh": "小的；年幼的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/VUz92bKeL4dtHG75tg4iZi.mp3"
+    },
+    "girl": {
+      "phonetic": "/ɡɜːl/",
+      "pos": "n.",
+      "meaningZh": "女孩",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/LZjvhuuRKGynsbYRM6cCzh.mp3"
+    },
+    "have": {
+      "phonetic": "/hæv/",
+      "pos": "v.",
+      "meaningZh": "有",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/zUMNcUwvGWHUPCsZquA7xH.mp3"
+    },
+    "practised": {
+      "phonetic": "/ˈpræktɪst/",
+      "pos": "v.",
+      "meaningZh": "练习 (practise的过去式)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/P6rWJWSNvX6sqfkBG25jvb.mp3"
+    },
+    "so": {
+      "phonetic": "/səʊ/",
+      "pos": "adv.",
+      "meaningZh": "如此；非常",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/5oVgLZohd2tDBV8qM42Ftc.mp3"
+    },
+    "much": {
+      "phonetic": "/mʌtʃ/",
+      "pos": "adv.",
+      "meaningZh": "非常；大量",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gnK9MEo2L7NBLbAcCTJZ84.mp3"
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "pos": "conj.",
+      "meaningZh": "和",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FQU86cur8ecpS9Ph55DL8f.mp3"
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "pos": "pron.",
+      "meaningZh": "它",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Z7NgiZSPRWvcxCnDvXKjse.mp3"
+    },
+    "all": {
+      "phonetic": "/ɔːl/",
+      "pos": "adv.",
+      "meaningZh": "完全；都",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Ppo9n2ncJjiapWqHSs7woj.mp3"
+    },
+    "ended": {
+      "phonetic": "/ˈendɪd/",
+      "pos": "v.",
+      "meaningZh": "结束 (end的过去式)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/jCT46B6NRvcYMeYiaXbcDL.mp3"
+    },
+    "today": {
+      "phonetic": "/təˈdeɪ/",
+      "pos": "n.",
+      "meaningZh": "今天",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KveQcitfzB755TNA4Y2xQN.mp3"
+    },
+    "feel": {
+      "phonetic": "/fiːl/",
+      "pos": "v.",
+      "meaningZh": "感觉",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/e5svth8ZXo2Fc9rJEu3cDm.mp3"
+    },
+    "very": {
+      "phonetic": "/ˈveri/",
+      "pos": "adv.",
+      "meaningZh": "非常",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/87YutQGNQtDextX9jD5DZH.mp3"
+    },
+    "september": {
+      "phonetic": "/sepˈtembə(r)/",
+      "pos": "n.",
+      "meaningZh": "九月",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/PnXWWfgdXeaMnf3Wfbhdh8.mp3"
+    },
+    "just": {
+      "phonetic": "/dʒʌst/",
+      "pos": "adv.",
+      "meaningZh": "刚刚；只是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/NPtMXRuNaifwR5nRUumiXL.mp3"
+    },
+    "reading": {
+      "phonetic": "/ˈriːdɪŋ/",
+      "pos": "v.",
+      "meaningZh": "阅读 (read的现在分词)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/jGiWtk5tGWaaRC3E5LJnrF.mp3"
+    },
+    "from": {
+      "phonetic": "/frɒm/",
+      "pos": "prep.",
+      "meaningZh": "来自",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/GZboGfef4MrEwNX4PfXEPR.mp3"
+    },
+    "four": {
+      "phonetic": "/fɔː(r)/",
+      "pos": "num.",
+      "meaningZh": "四",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/8y5WLUhfpiW3hpKShDuQw4.mp3"
+    },
+    "years": {
+      "phonetic": "/jɪəz/",
+      "pos": "n.",
+      "meaningZh": "年 (复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/TckwxkQk5hwVmGaLSxmf5j.mp3"
+    },
+    "ago": {
+      "phonetic": "/əˈɡəʊ/",
+      "pos": "adv.",
+      "meaningZh": "以前",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/PQo4LChKNNhLQBdnkj4sK6.mp3"
+    },
+    "how": {
+      "phonetic": "/haʊ/",
+      "pos": "adv.",
+      "meaningZh": "多么",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZHABomBSfvXfubxoBtkT2Q.mp3"
+    },
+    "time": {
+      "phonetic": "/taɪm/",
+      "pos": "n.",
+      "meaningZh": "时间",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/nibwt8ZwLxm3FNCmDiWvVD.mp3"
+    },
+    "flies": {
+      "phonetic": "/flaɪz/",
+      "pos": "v.",
+      "meaningZh": "飞逝 (fly的第三人称单数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/4Ma7zAYRDvhkvYKapdGQhm.mp3"
+    },
+    "too": {
+      "phonetic": "/tuː/",
+      "pos": "adv.",
+      "meaningZh": "太",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/e64opQz5zWdZAd9vP9kGcY.mp3"
+    },
+    "fast": {
+      "phonetic": "/fɑːst/",
+      "pos": "adv.",
+      "meaningZh": "快",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/56nDtK8i7vpa6mi2g2cr45.mp3"
+    },
+    "disappointed": {
+      "phonetic": "/ˌdɪsəˈpɔɪntɪd/",
+      "pos": "adj.",
+      "meaningZh": "失望的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/EdU5cWkWBkygGn9nFHyt7e.mp3"
+    },
+    "at": {
+      "phonetic": "/æt/",
+      "pos": "prep.",
+      "meaningZh": "在",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/tQuQGHM6bDk5n66qjHKQsG.mp3"
+    },
+    "being": {
+      "phonetic": "/ˈbiːɪŋ/",
+      "pos": "v.",
+      "meaningZh": "是 (be的现在分词)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rTpyh6pWkMwhpbHRdUDzy3.mp3"
+    },
+    "short": {
+      "phonetic": "/ʃɔːt/",
+      "pos": "adj.",
+      "meaningZh": "矮的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RQfuSauiMzjfaUSaD96X26.mp3"
+    },
+    "then": {
+      "phonetic": "/ðen/",
+      "pos": "adv.",
+      "meaningZh": "那时",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KUpmm9e8jBp45UwzJhwAjS.mp3"
+    },
+    "failing": {
+      "phonetic": "/ˈfeɪlɪŋ/",
+      "pos": "v.",
+      "meaningZh": "失败 (fail的现在分词)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3wvucUsbPYM2QyvDEF4o9m.mp3"
+    },
+    "to": {
+      "phonetic": "/tu/",
+      "pos": "prep.",
+      "meaningZh": "去；向",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/yHPqrpFkCiXVMo54iPZUQ7.mp3"
+    },
+    "get": {
+      "phonetic": "/ɡet/",
+      "pos": "v.",
+      "meaningZh": "得到；进入",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/eAUnypbe8JQQMpkwqSPMWB.mp3"
+    },
+    "on": {
+      "phonetic": "/ɒn/",
+      "pos": "prep.",
+      "meaningZh": "在...上",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/M4Shu55XMaoseUVp8bViMD.mp3"
+    },
+    "couldn't": {
+      "phonetic": "/ˈkʊdnt/",
+      "pos": "v.",
+      "meaningZh": "不能 (could not)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/vmNw4Q8qCBjrYw5ZTABg9d.mp3"
+    },
+    "help": {
+      "phonetic": "/help/",
+      "pos": "v.",
+      "meaningZh": "忍住；帮助",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/vArziEJZsM7z8QUJTuw6UH.mp3"
+    },
+    "laughing": {
+      "phonetic": "/ˈlɑːfɪŋ/",
+      "pos": "v.",
+      "meaningZh": "笑 (laugh的现在分词)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/w9VdoBZLLUHozPmCFEBrbB.mp3"
+    },
+    "heartbreaking": {
+      "phonetic": "/ˈhɑːtbreɪkɪŋ/",
+      "pos": "adj.",
+      "meaningZh": "令人心碎的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/aSfZoQKUy6pBsQTFKwKF9C.mp3"
+    },
+    "words": {
+      "phonetic": "/wɜːdz/",
+      "pos": "n.",
+      "meaningZh": "话语 (复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7DW3wXgVSXBrfBhqwtHEaG.mp3"
+    },
+    "big": {
+      "phonetic": "/bɪɡ/",
+      "pos": "adj.",
+      "meaningZh": "大的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/tebnspm5Ze68iDpBLqZUWF.mp3"
+    },
+    "deal": {
+      "phonetic": "/diːl/",
+      "pos": "n.",
+      "meaningZh": "交易；大事",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6nuvKuJD9nT5Q9gQnL9UxU.mp3"
+    },
+    "me": {
+      "phonetic": "/mi/",
+      "pos": "pron.",
+      "meaningZh": "我 (宾格)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/W9qdbSBvEzQS59j4B7rCJD.mp3"
+    },
+    "things": {
+      "phonetic": "/θɪŋz/",
+      "pos": "n.",
+      "meaningZh": "事情 (复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/eQ7DmWAjb8dLFMQn28tXgL.mp3"
+    },
+    "changed": {
+      "phonetic": "/tʃeɪndʒd/",
+      "pos": "v.",
+      "meaningZh": "改变 (change的过去式)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Fb9EkzHZJsXasZ82B3zFg4.mp3"
+    },
+    "soon": {
+      "phonetic": "/suːn/",
+      "pos": "adv.",
+      "meaningZh": "不久",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/zC96r6S8VaAzyvLyvs2oRR.mp3"
+    },
+    "after": {
+      "phonetic": "/ˈɑːftə(r)/",
+      "pos": "prep.",
+      "meaningZh": "在...之后",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6LCiubxsRsXp7z5vu5qPQ5.mp3"
+    },
+    "that": {
+      "phonetic": "/ðæt/",
+      "pos": "pron.",
+      "meaningZh": "那",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/J9WHUw3NJrkpa8qwN3oa9g.mp3"
+    },
+    "hurt": {
+      "phonetic": "/hɜːt/",
+      "pos": "adj.",
+      "meaningZh": "受伤的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/bGgv7kciKVcZqLuwzXtu2S.mp3"
+    },
+    "by": {
+      "phonetic": "/baɪ/",
+      "pos": "prep.",
+      "meaningZh": "被",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/LDgG4zDeJm8X76JjSsNvPN.mp3"
+    },
+    "failure": {
+      "phonetic": "/ˈfeɪljə(r)/",
+      "pos": "n.",
+      "meaningZh": "失败",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/MVn636NwpnXEBp9osY3BfG.mp3"
+    },
+    "back": {
+      "phonetic": "/bæk/",
+      "pos": "adv.",
+      "meaningZh": "回；向后",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/9Ro5c5roxWoWkkXSbRdQo8.mp3"
+    },
+    "friends": {
+      "phonetic": "/frendz/",
+      "pos": "n.",
+      "meaningZh": "朋友 (复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/xght6hZCewK9p6eE3FvigF.mp3"
+    },
+    "were": {
+      "phonetic": "/wɜː(r)/",
+      "pos": "v.",
+      "meaningZh": "是 (are的过去式)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/r9CJJRw94x7jZKWwMewvv5.mp3"
+    },
+    "worried": {
+      "phonetic": "/ˈwʌrid/",
+      "pos": "adj.",
+      "meaningZh": "担心的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/VReZpgRDEZLVfkmidPhjxU.mp3"
+    },
+    "why": {
+      "phonetic": "/waɪ/",
+      "pos": "adv.",
+      "meaningZh": "为什么",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/5UGj4oMLayMkkJ8uU6htYh.mp3"
+    },
+    "not": {
+      "phonetic": "/nɒt/",
+      "pos": "adv.",
+      "meaningZh": "不",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KQ5ZdgGLiWeN3XBMRmitCG.mp3"
+    },
+    "try": {
+      "phonetic": "/traɪ/",
+      "pos": "v.",
+      "meaningZh": "尝试",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/orULeyxWhn7NyYk9qTkfWn.mp3"
+    },
+    "something": {
+      "phonetic": "/ˈsʌmθɪŋ/",
+      "pos": "pron.",
+      "meaningZh": "某事",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Bp7D6h9sx8jQZ2LrXnPn86.mp3"
+    },
+    "else": {
+      "phonetic": "/els/",
+      "pos": "adv.",
+      "meaningZh": "其他的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qfnFHdBYUwhsn3FMV9T3GV.mp3"
+    },
+    "like": {
+      "phonetic": "/laɪk/",
+      "pos": "prep.",
+      "meaningZh": "像",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RnAHu294xnaSYYzSE2a9DE.mp3"
+    },
+    "swimming": {
+      "phonetic": "/ˈswɪmɪŋ/",
+      "pos": "n.",
+      "meaningZh": "游泳",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/F2vWjerPucb3oSug4yxsDC.mp3"
+    },
+    "or": {
+      "phonetic": "/ɔː(r)/",
+      "pos": "conj.",
+      "meaningZh": "或者",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2BzpSQAPyqYiZm6ii9EaiX.mp3"
+    },
+    "skiing": {
+      "phonetic": "/ˈskiːɪŋ/",
+      "pos": "n.",
+      "meaningZh": "滑雪",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/vn8hmj6RnaocixsE3fF9H5.mp3"
+    },
+    "suggested": {
+      "phonetic": "/səˈdʒestɪd/",
+      "pos": "v.",
+      "meaningZh": "建议 (suggest的过去式)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/4oXiF8UxsxygPbqFBMpF2J.mp3"
+    },
+    "best": {
+      "phonetic": "/best/",
+      "pos": "adj.",
+      "meaningZh": "最好的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/QsUcU57UJKcCMkkgj46gyi.mp3"
+    },
+    "friend": {
+      "phonetic": "/frend/",
+      "pos": "n.",
+      "meaningZh": "朋友",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3NBupj3NZhXU5T2FJEumv2.mp3"
+    },
+    "first": {
+      "phonetic": "/fɜːst/",
+      "pos": "adv.",
+      "meaningZh": "起初",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7mpJS2hTECe5dkf2WU3EtT.mp3"
+    },
+    "swam": {
+      "phonetic": "/swæm/",
+      "pos": "v.",
+      "meaningZh": "游泳 (swim的过去式)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dL79Uh3r69Ep7nQxP6mzYM.mp3"
+    },
+    "take": {
+      "phonetic": "/teɪk/",
+      "pos": "v.",
+      "meaningZh": "拿；带",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Y4wvSck6RGmTX839cbf7y2.mp3"
+    },
+    "mind": {
+      "phonetic": "/maɪnd/",
+      "pos": "n.",
+      "meaningZh": "心思",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Wv9UPtogugGwmMRSm8MzZP.mp3"
+    },
+    "off": {
+      "phonetic": "/ɒf/",
+      "pos": "prep.",
+      "meaningZh": "脱离",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/shZXT5StgsxNsDuBRG3LqM.mp3"
+    },
+    "fell": {
+      "phonetic": "/fel/",
+      "pos": "v.",
+      "meaningZh": "掉落 (fall的过去式)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/aQ5KV37MqjvFRZ23fheqni.mp3"
+    },
+    "completely": {
+      "phonetic": "/kəmˈpliːtli/",
+      "pos": "adv.",
+      "meaningZh": "完全地",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/229JRCtYopKZPFSLPtcRfP.mp3"
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "pos": "prep.",
+      "meaningZh": "在...里",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/QLoBgw9zGLpL4L5PBMbTJ6.mp3"
+    },
+    "love": {
+      "phonetic": "/lʌv/",
+      "pos": "n.",
+      "meaningZh": "爱",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iLeXx7pbkAjrEiQB5mS3wW.mp3"
+    },
+    "with": {
+      "phonetic": "/wɪð/",
+      "pos": "prep.",
+      "meaningZh": "和...在一起",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/PhXbc9AY3zUZoqrsoEv5iF.mp3"
+    },
+    "sport": {
+      "phonetic": "/spɔːt/",
+      "pos": "n.",
+      "meaningZh": "运动",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/owSG3XJhFSWT9Yug3cASMJ.mp3"
+    },
+    "i've": {
+      "phonetic": "/aɪv/",
+      "pos": "v.",
+      "meaningZh": "我有 (I have)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/62gpMdWoMJ9uPGd8G5fh5d.mp3"
+    },
+    "won": {
+      "phonetic": "/wʌn/",
+      "pos": "v.",
+      "meaningZh": "赢得 (win的过去式)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/U3StQC5vexFXhtFqWY3bbF.mp3"
+    },
+    "several": {
+      "phonetic": "/ˈsevrəl/",
+      "pos": "adj.",
+      "meaningZh": "几个",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6qn2octFtxrGvRUbmgpakh.mp3"
+    },
+    "competitions": {
+      "phonetic": "/ˌkɒmpəˈtɪʃnz/",
+      "pos": "n.",
+      "meaningZh": "比赛 (复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/e5hFKPfnV7ARro4kfKMeGT.mp3"
+    },
+    "now": {
+      "phonetic": "/naʊ/",
+      "pos": "adv.",
+      "meaningZh": "现在",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/F4tVb8Yjhi54GUTRaLspF9.mp3"
+    },
+    "made": {
+      "phonetic": "/meɪd/",
+      "pos": "v.",
+      "meaningZh": "交(朋友)；制作",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/eS2B4vrZJjWKv9mT3KG3x3.mp3"
+    },
+    "lot": {
+      "phonetic": "/lɒt/",
+      "pos": "n.",
+      "meaningZh": "大量",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/nHFZoLCmRos6XSJSKZhLZn.mp3"
+    },
+    "of": {
+      "phonetic": "/ɒv/",
+      "pos": "prep.",
+      "meaningZh": "的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/e3EpwNyMRcPf5wHuZNQFoA.mp3"
+    },
+    "life": {
+      "phonetic": "/laɪf/",
+      "pos": "n.",
+      "meaningZh": "生活；人生",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/T4U4D7ewgMgWbQj8BprY49.mp3"
+    },
+    "taken": {
+      "phonetic": "/ˈteɪkən/",
+      "pos": "v.",
+      "meaningZh": "拿 (take的过去分词)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7YRnL5vtsRXCEtFLB97pyR.mp3"
+    },
+    "different": {
+      "phonetic": "/ˈdɪfrənt/",
+      "pos": "adj.",
+      "meaningZh": "不同的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/t3knNJ5szE3sG9hhhnTpPi.mp3"
+    },
+    "turn": {
+      "phonetic": "/tɜːn/",
+      "pos": "n.",
+      "meaningZh": "转折",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/LzRKEjWcQKGLVHxACKneXE.mp3"
+    },
+    "it's": {
+      "phonetic": "/ɪts/",
+      "pos": "v.",
+      "meaningZh": "它是 (it is)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/oNWJrgTgh3MfeGkdDc6AWg.mp3"
+    },
+    "great": {
+      "phonetic": "/ɡreɪt/",
+      "pos": "adj.",
+      "meaningZh": "棒的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/aDnZAU8gj9wp3Qt3hR2etS.mp3"
+    },
+    "look": {
+      "phonetic": "/lʊk/",
+      "pos": "v.",
+      "meaningZh": "看",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RcadQct9ZM9g5dVzq57h2j.mp3"
+    },
+    "see": {
+      "phonetic": "/siː/",
+      "pos": "v.",
+      "meaningZh": "看见",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/PsqNUhFwdAr35kCi4soQ3E.mp3"
+    },
+    "pains": {
+      "phonetic": "/peɪnz/",
+      "pos": "n.",
+      "meaningZh": "痛苦 (复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sc2kaBQwBD8o4mKJpNReAe.mp3"
+    },
+    "gains": {
+      "phonetic": "/ɡeɪnz/",
+      "pos": "n.",
+      "meaningZh": "收获 (复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/tr8EgZqTTKTV9VsGGG8MpR.mp3"
+    },
+    "fresh": {
+      "phonetic": "/freʃ/",
+      "pos": "adj.",
+      "meaningZh": "新鲜的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/boi6o4p7svvuh2biUzdr2j.mp3"
+    },
+    "eyes": {
+      "phonetic": "/aɪz/",
+      "pos": "n.",
+      "meaningZh": "眼睛 (复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/YJi6jopRQ5YAoYqFge6xa8.mp3"
+    },
+    "growing": {
+      "phonetic": "/ˈɡrəʊɪŋ/",
+      "pos": "v.",
+      "meaningZh": "成长 (grow的现在分词)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/CKXYyvAU6k38qwz4o48YqZ.mp3"
+    },
+    "up": {
+      "phonetic": "/ʌp/",
+      "pos": "adv.",
+      "meaningZh": "向上",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/aUJB8HhTbN3wDu4kNiQMDM.mp3"
+    },
+    "will": {
+      "phonetic": "/wɪl/",
+      "pos": "aux.",
+      "meaningZh": "将要",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/p2jA9LprCoaQrLMTVtaep4.mp3"
+    },
+    "never": {
+      "phonetic": "/ˈnevə(r)/",
+      "pos": "adv.",
+      "meaningZh": "从不",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZaKEsGrtrMWXPJUs7pLDRS.mp3"
+    },
+    "be": {
+      "phonetic": "/bi/",
+      "pos": "v.",
+      "meaningZh": "是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/wqSukjENQiDaLQvtN5yqSW.mp3"
+    },
+    "an": {
+      "phonetic": "/ən/",
+      "pos": "art.",
+      "meaningZh": "一个",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/cfoYKFPXFtPrATPCgRgkZ3.mp3"
+    },
+    "easy": {
+      "phonetic": "/ˈiːzi/",
+      "pos": "adj.",
+      "meaningZh": "容易的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/x6PAvi7BbN6K5kMSL7fJDV.mp3"
+    },
+    "thing": {
+      "phonetic": "/θɪŋ/",
+      "pos": "n.",
+      "meaningZh": "事情",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rRmEx8yX4WGJ9HNSKXH7ve.mp3"
+    },
+    "we": {
+      "phonetic": "/wi/",
+      "pos": "pron.",
+      "meaningZh": "我们",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/c9zcT5V52mbzSUwaUAqhNY.mp3"
+    },
+    "need": {
+      "phonetic": "/niːd/",
+      "pos": "v.",
+      "meaningZh": "需要",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RuNuGnWNtuMtrSuM2cjn2D.mp3"
+    },
+    "challenges": {
+      "phonetic": "/ˈtʃælɪndʒɪz/",
+      "pos": "n.",
+      "meaningZh": "挑战 (复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/LJmTfURfyVYitqpzzJJeqT.mp3"
+    },
+    "right": {
+      "phonetic": "/raɪt/",
+      "pos": "adj.",
+      "meaningZh": "正确的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dZcBCdWZfgozgDTHTHFFVS.mp3"
+    },
+    "way": {
+      "phonetic": "/weɪ/",
+      "pos": "n.",
+      "meaningZh": "方式",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XTrV2ehTusmLcsKTkQNoE7.mp3"
+    },
+    "understand": {
+      "phonetic": "/ˌʌndəˈstænd/",
+      "pos": "v.",
+      "meaningZh": "理解",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7hh8XA5qNwXRYBsiZVqZUD.mp3"
+    },
+    "part": {
+      "phonetic": "/pɑːt/",
+      "pos": "n.",
+      "meaningZh": "部分",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6bEPPEGyC4oEdEiNeEqEt7.mp3"
+    },
+    "is": {
+      "phonetic": "/ɪz/",
+      "pos": "v.",
+      "meaningZh": "是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qaPSGZJ7UGsRye4DQQd6DQ.mp3"
+    },
+    "may": {
+      "phonetic": "/meɪ/",
+      "pos": "aux.",
+      "meaningZh": "可能",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/a8RgDhxbWLyxw6Ms2zB8sS.mp3"
+    },
+    "fall": {
+      "phonetic": "/fɔːl/",
+      "pos": "v.",
+      "meaningZh": "降临；落下",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/PF6wkgoVJi8yAbY9vUkjrj.mp3"
+    },
+    "upon": {
+      "phonetic": "/əˈpɒn/",
+      "pos": "prep.",
+      "meaningZh": "在...之上",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/na5LJ3592VgL8TCw9uLMJ8.mp3"
+    },
+    "us": {
+      "phonetic": "/ʌs/",
+      "pos": "pron.",
+      "meaningZh": "我们 (宾格)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Ahqpnt5N3XeUxEGTeAphx7.mp3"
+    },
+    "our": {
+      "phonetic": "/ˈaʊə(r)/",
+      "pos": "pron.",
+      "meaningZh": "我们的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dUD7MCmMHXGXneWKX5PUob.mp3"
+    },
+    "any": {
+      "phonetic": "/ˈeni/",
+      "pos": "adj.",
+      "meaningZh": "任何",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3PUjkGvZVaUyKp3erf3WxR.mp3"
+    },
+    "stage": {
+      "phonetic": "/steɪdʒ/",
+      "pos": "n.",
+      "meaningZh": "阶段",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3jYovX4fZSSffhD8Fdd5L9.mp3"
+    },
+    "lives": {
+      "phonetic": "/laɪvz/",
+      "pos": "n.",
+      "meaningZh": "生命 (life的复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RqdDwhxTeE7VT2ABPTnePW.mp3"
+    },
+    "experienced": {
+      "phonetic": "/ɪkˈspɪəriənst/",
+      "pos": "v.",
+      "meaningZh": "经历 (experience的过去分词)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/92pMnWCLSRf9oL82PdF8Na.mp3"
+    },
+    "many": {
+      "phonetic": "/ˈmeni/",
+      "pos": "adj.",
+      "meaningZh": "许多",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/HM9BGttiet9Kg2NmP6tMaD.mp3"
+    },
+    "other": {
+      "phonetic": "/ˈʌðə(r)/",
+      "pos": "adj.",
+      "meaningZh": "其他的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/DEzTBLGd6GoCohFw2ymSxH.mp3"
+    },
+    "terrible": {
+      "phonetic": "/ˈterəbl/",
+      "pos": "adj.",
+      "meaningZh": "可怕的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hCPEqzibDXEhJYbTGfMWsQ.mp3"
+    },
+    "moments": {
+      "phonetic": "/ˈməʊmənts/",
+      "pos": "n.",
+      "meaningZh": "时刻 (复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/bLtjD6KdUP3heWaARthye3.mp3"
+    },
+    "felt": {
+      "phonetic": "/felt/",
+      "pos": "v.",
+      "meaningZh": "感觉 (feel的过去式)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rtik3SQtz7fmvEEtJ8SNBM.mp3"
+    },
+    "sad": {
+      "phonetic": "/sæd/",
+      "pos": "adj.",
+      "meaningZh": "难过的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/xmPRaJ9RGSqiuLkinUXMc5.mp3"
+    },
+    "again": {
+      "phonetic": "/əˈɡeɪn/",
+      "pos": "adv.",
+      "meaningZh": "再一次",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/zsKAv8FqPAaAuR8xrhFKtk.mp3"
+    },
+    "know": {
+      "phonetic": "/nəʊ/",
+      "pos": "v.",
+      "meaningZh": "知道",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/z62wBTXyZ2586X53ZJPWnA.mp3"
+    },
+    "clearly": {
+      "phonetic": "/ˈklɪəli/",
+      "pos": "adv.",
+      "meaningZh": "清楚地",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hQyvFB7tM2BY6TaKCba9hY.mp3"
+    },
+    "lasts": {
+      "phonetic": "/lɑːsts/",
+      "pos": "v.",
+      "meaningZh": "持续 (last的第三人称单数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/LAsW5F5jP9gEAFMqGVQni5.mp3"
+    },
+    "moment": {
+      "phonetic": "/ˈməʊmənt/",
+      "pos": "n.",
+      "meaningZh": "片刻",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/EBYurvZrc82TqZMQuUspuS.mp3"
+    },
+    "when": {
+      "phonetic": "/wen/",
+      "pos": "adv.",
+      "meaningZh": "当...时候",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sPKfNU3L3UcjrCZ8TE7L33.mp3"
+    },
+    "one": {
+      "phonetic": "/wʌn/",
+      "pos": "num.",
+      "meaningZh": "一个",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/AgFd7AVC4qxPF9N6gJauGb.mp3"
+    },
+    "door": {
+      "phonetic": "/dɔː(r)/",
+      "pos": "n.",
+      "meaningZh": "门",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/e65fcdrcdzkH9YgxLrgJYQ.mp3"
+    },
+    "closes": {
+      "phonetic": "/ˈkləʊzɪz/",
+      "pos": "v.",
+      "meaningZh": "关闭 (close的第三人称单数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/PWkYiugu8t8i2yoCawSLBg.mp3"
+    },
+    "another": {
+      "phonetic": "/əˈnʌðə(r)/",
+      "pos": "pron.",
+      "meaningZh": "另一个",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/npUgCGiAP5ujFJQ7nb2mCj.mp3"
+    },
+    "opens": {
+      "phonetic": "/ˈəʊpənz/",
+      "pos": "v.",
+      "meaningZh": "打开 (open的第三人称单数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dK7qqxozvytTiiARnnTyZY.mp3"
+    },
+    "waiting": {
+      "phonetic": "/ˈweɪtɪŋ/",
+      "pos": "v.",
+      "meaningZh": "等待 (wait的现在分词)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Cvaf9NG2NsyAQ2Ye8XUy25.mp3"
+    },
+    "surprises": {
+      "phonetic": "/səˈpraɪzɪz/",
+      "pos": "n.",
+      "meaningZh": "惊喜 (复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gbULPCtFXXXD8sNAhuxN7i.mp3"
+    },
+    "tomorrow": {
+      "phonetic": "/təˈmɒrəʊ/",
+      "pos": "n.",
+      "meaningZh": "明天",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/svCmG8o6pGJDHSchjARec9.mp3"
+    }
+  }
+}

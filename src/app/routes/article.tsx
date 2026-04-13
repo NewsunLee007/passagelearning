@@ -13,7 +13,7 @@ const taskCards = [
   {
     to: "sentence",
     title: "再看词句",
-    desc: "词汇页和句子页负责补充词义、用法、译文和句式。"
+    desc: "一个页面同时看词汇音形意用和句子译文、结构、详解。"
   },
   {
     to: "reading",

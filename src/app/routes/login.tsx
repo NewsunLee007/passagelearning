@@ -2,7 +2,7 @@ import type { FormEvent } from "react";
 import { useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { loginWithClassAndName } from "../../features/auth/login";
-import { TEXTBOOK_UNITS } from "../../features/content/catalog";
+import { LOADED_TEXTBOOK_BOOKS, TEXTBOOK_BOOKS } from "../../features/content/catalog";
 
 export function LoginRoute() {
   const nav = useNavigate();
@@ -32,29 +32,45 @@ export function LoginRoute() {
     <div className="grid min-h-[calc(100dvh-8rem)] items-center gap-8 py-6 lg:grid-cols-[1.1fr_0.9fr]">
       <section className="space-y-6">
         <div className="inline-flex rounded-full border border-primary/15 bg-primary/5 px-3 py-1 text-xs font-semibold uppercase tracking-[0.24em] text-primary">
-          七年级下册英语
+          初中英语（外研版）
         </div>
         <div className="space-y-4">
           <h1 className="max-w-3xl font-display text-5xl leading-[1.05] text-secondary sm:text-6xl">
-            把教材语篇真正整理成可学习、可操作、可追踪的阅读流程。
+            把三年六册真正整理成一个可学习、可操作、可扩展的阅读系统。
           </h1>
           <p className="max-w-2xl text-sm leading-8 text-slate-600 sm:text-base">
-            这里不再是散乱文章列表，而是按教材单元推进的互动阅读入口。先录入班级和姓名，再从每个单元的
-            理解篇与写作篇开始学习。
+            这里不再是散乱文章列表，而是按外研版初中英语六册建立的互动阅读入口。当前已接入
+            七下和八下，后续册次可以继续按同一框架扩展。
           </p>
         </div>
 
         <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
-          {TEXTBOOK_UNITS.map((unit) => (
+          {TEXTBOOK_BOOKS.map((book) => {
+            const articleCount = book.units.reduce((sum, unit) => sum + unit.articles.length, 0);
+            return (
             <div
-              key={unit.unitNumber}
+              key={book.id}
               className="rounded-[1.6rem] border border-white/75 bg-white/80 p-5 shadow-[0_16px_40px_rgba(15,23,42,0.05)]"
             >
-              <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">Unit {unit.unitNumber}</div>
-              <div className="mt-2 font-display text-2xl text-secondary">{unit.theme}</div>
-              <p className="mt-3 text-sm leading-7 text-slate-600">{unit.overview}</p>
+              <div className="flex items-center justify-between gap-3">
+                <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">{book.shortLabel}</div>
+                <span
+                  className={[
+                    "rounded-full px-3 py-1 text-[11px] font-semibold",
+                    book.loaded ? "bg-emerald-50 text-emerald-700" : "bg-slate-100 text-slate-500"
+                  ].join(" ")}
+                >
+                  {book.loaded ? "已导入" : "待导入"}
+                </span>
+              </div>
+              <div className="mt-2 font-display text-2xl text-secondary">{book.label}</div>
+              <p className="mt-3 text-sm leading-7 text-slate-600">{book.overview}</p>
+              <div className="mt-4 text-xs text-slate-500">
+                {book.units.length} 个单元 · {articleCount} 篇语篇
+              </div>
             </div>
-          ))}
+          );
+          })}
         </div>
       </section>
 
@@ -64,6 +80,11 @@ export function LoginRoute() {
         <p className="mt-3 text-sm leading-7 text-slate-600">
           目前使用“班级名称 + 学生姓名”进入系统。登录后会自动保存学习记录，并按教材目录进入阅读。
         </p>
+        <div className="mt-4 rounded-[1rem] bg-slate-50 px-4 py-3 text-sm text-slate-600">
+          当前可直接进入的册次：
+          {" "}
+          {LOADED_TEXTBOOK_BOOKS.map((book) => book.label).join("、")}
+        </div>
 
         <form onSubmit={onSubmit} className="mt-8 space-y-5">
           <label className="block">

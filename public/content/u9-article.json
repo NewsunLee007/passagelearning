@@ -1,48 +1,48 @@
 {
   "meta": {
-    "schemaVersion": "1.0",
-    "source": "七年级下册英语教材",
-    "notes": "自动生成"
+    "schemaVersion": "2.0",
+    "source": "七年级下册互动课文",
+    "importedFrom": "Unit 3 Passage 2 Food across borders（互动课文教学动画）英语新教材外研版七年级下册.html",
+    "importedAt": "2026-04-13T04:50:28.067Z"
   },
   "article": {
     "id": "u9-article",
     "title": "Food across borders",
     "unit": "Unit 3 Food matters",
-    "genre": "narrative",
     "paragraphs": [
       {
-        "id": "u9-p1",
+        "id": "u9-article-p1",
         "sentenceIds": [
-          "u9-s1",
-          "u9-s2",
-          "u9-s3",
-          "u9-s4",
-          "u9-s5",
-          "u9-s6",
-          "u9-s7",
-          "u9-s8",
-          "u9-s9",
-          "u9-s10",
-          "u9-s11"
+          "u9-article-s1",
+          "u9-article-s2",
+          "u9-article-s3",
+          "u9-article-s4",
+          "u9-article-s5",
+          "u9-article-s6",
+          "u9-article-s7",
+          "u9-article-s8",
+          "u9-article-s9",
+          "u9-article-s10",
+          "u9-article-s11"
         ]
       },
       {
-        "id": "u9-p2",
+        "id": "u9-article-p2",
         "sentenceIds": [
-          "u9-s12",
-          "u9-s13",
-          "u9-s14",
-          "u9-s15",
-          "u9-s16",
-          "u9-s17",
-          "u9-s18"
+          "u9-article-s12",
+          "u9-article-s13",
+          "u9-article-s14",
+          "u9-article-s15",
+          "u9-article-s16",
+          "u9-article-s17",
+          "u9-article-s18"
         ]
       },
       {
-        "id": "u9-p3",
+        "id": "u9-article-p3",
         "sentenceIds": [
-          "u9-s19",
-          "u9-s20"
+          "u9-article-s19",
+          "u9-article-s20"
         ]
       }
     ],
@@ -50,513 +50,1843 @@
     "stageLabel": "写作篇",
     "unitNumber": 3,
     "unitTheme": "Food matters",
-    "bookOrder": 31,
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
+    "bookOrder": 231,
     "summary": "追溯冰淇淋、番茄和马铃薯的传播，理解食物跨文化流动。"
   },
   "sentences": [
     {
-      "id": "u9-s1",
-      "text": "The history of food is never simple.",
-      "paragraphId": "u9-p1",
-      "keywords": [
-        "history",
-        "food",
-        "simple"
-      ]
+      "id": "u9-article-s1",
+      "text": "The history of foods is never simple.",
+      "paragraphId": "u9-article-p1",
+      "tr": "食物的历史从来都不简单。",
+      "g": "主系表结构",
+      "d": "never 是频度副词，修饰系动词 is。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gKvkLrTFipMairdLMuzgpP.mp3"
     },
     {
-      "id": "u9-s2",
+      "id": "u9-article-s2",
       "text": "Think of ice cream.",
-      "paragraphId": "u9-p1",
-      "keywords": [
-        "think",
-        "ice cream"
-      ]
+      "paragraphId": "u9-article-p1",
+      "tr": "想想冰淇淋。",
+      "g": "祈使句",
+      "d": "think of 意为“考虑，想起”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZNzWQg48sHXbEfEawMpzJS.mp3"
     },
     {
-      "id": "u9-s3",
+      "id": "u9-article-s3",
       "text": "Many people see it as a Western dessert.",
-      "paragraphId": "u9-p1",
-      "keywords": [
-        "people",
-        "see",
-        "Western",
-        "dessert"
-      ]
+      "paragraphId": "u9-article-p1",
+      "tr": "许多人把它看作是一种西方甜点。",
+      "g": "主谓宾宾补",
+      "d": "see...as... 把...看作...。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7yCLxGMgyYaGSZKtF8JGsj.mp3"
     },
     {
-      "id": "u9-s4",
+      "id": "u9-article-s4",
       "text": "However, this sweet treat actually came from China!",
-      "paragraphId": "u9-p1",
-      "keywords": [
-        "however",
-        "sweet treat",
-        "actually",
-        "came",
-        "China"
-      ]
+      "paragraphId": "u9-article-p1",
+      "tr": "然而，这种甜点实际上来自中国！",
+      "g": "主谓状",
+      "d": "come from 来自；actually 是副词修饰动词。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6mbcvR2amVgEor3xBWkWoU.mp3"
     },
     {
-      "id": "u9-s5",
+      "id": "u9-article-s5",
       "text": "In the Zhou Dynasty, Chinese people began to store winter ice to enjoy in summer.",
-      "paragraphId": "u9-p1",
-      "keywords": [
-        "Zhou Dynasty",
-        "Chinese people",
-        "began",
-        "store",
-        "winter ice",
-        "enjoy",
-        "summer"
-      ]
+      "paragraphId": "u9-article-p1",
+      "tr": "在周朝，中国人开始储存冬天的冰，以便在夏天享用。",
+      "g": "时间状语 + 主谓宾 + 目的状语",
+      "d": "to enjoy... 是动词不定式作目的状语。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/4DYkRGyXJBQU2fzGGvFmgW.mp3"
     },
     {
-      "id": "u9-s6",
-      "text": "In the Song Dynasty, people started to make binglao - it just means \"ice cream\" in English.",
-      "paragraphId": "u9-p1",
-      "keywords": [
-        "Song Dynasty",
-        "people",
-        "started",
-        "make",
-        "binglao",
-        "means",
-        "ice cream",
-        "English"
-      ]
+      "id": "u9-article-s6",
+      "text": "In the Song Dynasty, people started to make binglao – it just means “ice cream” in English.",
+      "paragraphId": "u9-article-p1",
+      "tr": "在宋朝，人们开始制作“冰酪”——在英语中它的意思就是“冰淇淋”。",
+      "g": "并列句/解释说明",
+      "d": "means 是谓语动词，意为“意思是”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/NEkphfvYWjfGwAXfD7WSaR.mp3"
     },
     {
-      "id": "u9-s7",
+      "id": "u9-article-s7",
       "text": "It was a lot like modern ice cream.",
-      "paragraphId": "u9-p1",
-      "keywords": [
-        "lot",
-        "like",
-        "modern",
-        "ice cream"
-      ]
+      "paragraphId": "u9-article-p1",
+      "tr": "它很像现代的冰淇淋。",
+      "g": "主系表",
+      "d": "be like 像...；a lot 修饰 like 表示程度。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/jRVVzFTLUsJCmtxa8d8t4H.mp3"
     },
     {
-      "id": "u9-s8",
+      "id": "u9-article-s8",
       "text": "Folk tales have it that Emperor Huizong suffered from stomach pains after eating too much ice.",
-      "paragraphId": "u9-p1",
-      "keywords": [
-        "folk tales",
-        "Emperor Huizong",
-        "suffered",
-        "stomach pains",
-        "eating",
-        "too much",
-        "ice"
-      ]
+      "paragraphId": "u9-article-p1",
+      "tr": "民间传说宋徽宗在吃了太多的冰后感到胃痛。",
+      "g": "主谓宾（宾语从句）",
+      "d": "have it that... 有说法认为...；suffer from 遭受...之苦。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/K3yXPin2zg9oAxxQXWCetR.mp3"
     },
     {
-      "id": "u9-s9",
+      "id": "u9-article-s9",
       "text": "In the Yuan Dynasty, Marco Polo tasted binglao and carried the idea all the way back to Europe.",
-      "paragraphId": "u9-p1",
-      "keywords": [
-        "Yuan Dynasty",
-        "Marco Polo",
-        "tasted",
-        "binglao",
-        "carried",
-        "idea",
-        "all the way",
-        "back",
-        "Europe"
-      ]
+      "paragraphId": "u9-article-p1",
+      "tr": "在元朝，马可·波罗品尝了冰酪，并将这个创意一路带回了欧洲。",
+      "g": "并列谓语",
+      "d": "all the way 一路上。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/nRRi9akd6jDroqiJzd9UAY.mp3"
     },
     {
-      "id": "u9-s10",
+      "id": "u9-article-s10",
       "text": "People there added heavy cream and new tastes.",
-      "paragraphId": "u9-p1",
-      "keywords": [
-        "people",
-        "added",
-        "heavy cream",
-        "new tastes"
-      ]
+      "paragraphId": "u9-article-p1",
+      "tr": "那里的人们加入了厚奶油和新的口味。",
+      "g": "主谓宾",
+      "d": "add...to... 向...加入...。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hdazSbuMKpP3RiZ7Fi6fG9.mp3"
     },
     {
-      "id": "u9-s11",
+      "id": "u9-article-s11",
       "text": "The rest is history!",
-      "paragraphId": "u9-p1",
-      "keywords": [
-        "rest",
-        "history"
-      ]
+      "paragraphId": "u9-article-p1",
+      "tr": "剩下的就是历史了（众所周知了）！",
+      "g": "固定表达",
+      "d": "常用于描述某事发生后引发了一系列连锁反应。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2bXhAQLrRv983J83pQCdqd.mp3"
     },
     {
-      "id": "u9-s12",
+      "id": "u9-article-s12",
       "text": "Sometimes, totally different cultures have similar dishes.",
-      "paragraphId": "u9-p2",
-      "keywords": [
-        "sometimes",
-        "totally",
-        "different",
-        "cultures",
-        "have",
-        "similar",
-        "dishes"
-      ]
+      "paragraphId": "u9-article-p2",
+      "tr": "有时，完全不同的文化会有相似的菜肴。",
+      "g": "主谓宾",
+      "d": "similar 相似的。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/DrBnHYwm5M3M4XMnBxAr26.mp3"
     },
     {
-      "id": "u9-s13",
+      "id": "u9-article-s13",
       "text": "Iranians love a kind of flat bread, sangak.",
-      "paragraphId": "u9-p2",
-      "keywords": [
-        "Iranians",
-        "love",
-        "kind",
-        "flat bread",
-        "sangak"
-      ]
+      "paragraphId": "u9-article-p2",
+      "tr": "伊朗人喜欢一种扁平的面包，叫作 sangak。",
+      "g": "主谓宾 + 同位语",
+      "d": "sangak 是 flat bread 的同位语。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/CmKB5jfZSHyB4DUELxoPd6.mp3"
     },
     {
-      "id": "u9-s14",
+      "id": "u9-article-s14",
       "text": "People in Shaanxi, China, love stone pancakes.",
-      "paragraphId": "u9-p2",
-      "keywords": [
-        "people",
-        "Shaanxi",
-        "China",
-        "love",
-        "stone pancakes"
-      ]
+      "paragraphId": "u9-article-p2",
+      "tr": "中国陕西的人们喜欢石子馍。",
+      "g": "主谓宾",
+      "d": "stone pancakes 对应中文的石子馍。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gzeRQSQ6EBcP3iXG7S3kag.mp3"
     },
     {
-      "id": "u9-s15",
+      "id": "u9-article-s15",
       "text": "These two look almost the same!",
-      "paragraphId": "u9-p2",
-      "keywords": [
-        "these",
-        "two",
-        "look",
-        "almost",
-        "same"
-      ]
+      "paragraphId": "u9-article-p2",
+      "tr": "这两者看起来几乎一模一样！",
+      "g": "主系表",
+      "d": "look the same 看起来一样。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Uo2wbn8VeAYpApisJ7t3jA.mp3"
     },
     {
-      "id": "u9-s16",
+      "id": "u9-article-s16",
       "text": "People often compare roujiamo to hamburgers, a symbol of American food.",
-      "paragraphId": "u9-p2",
-      "keywords": [
-        "people",
-        "often",
-        "compare",
-        "roujiamo",
-        "hamburgers",
-        "symbol",
-        "American food"
-      ]
+      "paragraphId": "u9-article-p2",
+      "tr": "人们经常把肉夹馍比作汉堡，那是美国食物的象征。",
+      "g": "主谓宾 + 宾补",
+      "d": "compare A to B 把A比作B。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gUrrGvLwq7Ry8qrGt7i4Tb.mp3"
     },
     {
-      "id": "u9-s17",
-      "text": "Many people call it the \"Chinese hamburger\".",
-      "paragraphId": "u9-p2",
-      "keywords": [
-        "many people",
-        "call",
-        "Chinese hamburger"
-      ]
+      "id": "u9-article-s17",
+      "text": "Many people call it the “Chinese hamburger”.",
+      "paragraphId": "u9-article-p2",
+      "tr": "许多人称它为“中式汉堡”。",
+      "g": "主谓宾宾补",
+      "d": "call sth + name 称某物为...",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ioFExZNJuXsDGHysYnfDGP.mp3"
     },
     {
-      "id": "u9-s18",
+      "id": "u9-article-s18",
       "text": "But in fact, arepas of Venezuela look more like the twin brother of roujiamo!",
-      "paragraphId": "u9-p2",
-      "keywords": [
-        "but",
-        "in fact",
-        "arepas",
-        "Venezuela",
-        "look",
-        "more like",
-        "twin brother",
-        "roujiamo"
-      ]
+      "paragraphId": "u9-article-p2",
+      "tr": "但事实上，委内瑞拉的 arepas 看起来更像是肉夹馍的孪生兄弟！",
+      "g": "主系表",
+      "d": "look like 看起来像。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/jKEh4ACcuB5ziT32QTjfRn.mp3"
     },
     {
-      "id": "u9-s19",
+      "id": "u9-article-s19",
       "text": "Food is a bridge between cultures.",
-      "paragraphId": "u9-p3",
-      "keywords": [
-        "food",
-        "bridge",
-        "between",
-        "cultures"
-      ]
+      "paragraphId": "u9-article-p3",
+      "tr": "食物是文化之间的桥梁。",
+      "g": "主系表",
+      "d": "bridge 桥梁，比喻沟通的媒介。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/q4svHcmNsTYsTXmmmC6GCV.mp3"
     },
     {
-      "id": "u9-s20",
-      "text": "When food crosses borders, sweet things can happen.",
-      "paragraphId": "u9-p3",
-      "keywords": [
-        "when",
-        "food",
-        "crosses",
-        "borders",
-        "sweet things",
-        "can",
-        "happen"
-      ]
+      "id": "u9-article-s20",
+      "text": "When foods cross borders, sweet things can happen.",
+      "paragraphId": "u9-article-p3",
+      "tr": "当食物跨越国界时，美好的事情就会发生。",
+      "g": "时间状语从句 + 主谓",
+      "d": "cross borders 跨越国界。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UvUFGUcAc2rbTr2Ywpxn8B.mp3"
     }
   ],
   "vocabItems": [
     {
-      "id": "u9-v1",
+      "id": "u9-article-v1",
+      "term": "the",
+      "meaningZh": "这，那",
+      "exampleSentenceId": "u9-article-s1"
+    },
+    {
+      "id": "u9-article-v2",
+      "term": "history",
+      "meaningZh": "历史",
+      "exampleSentenceId": "u9-article-s1"
+    },
+    {
+      "id": "u9-article-v3",
+      "term": "of",
+      "meaningZh": "……的",
+      "exampleSentenceId": "u9-article-s1"
+    },
+    {
+      "id": "u9-article-v4",
+      "term": "foods",
+      "meaningZh": "食物（food的复数形式）",
+      "exampleSentenceId": "u9-article-s1"
+    },
+    {
+      "id": "u9-article-v5",
+      "term": "food",
+      "meaningZh": "食物",
+      "exampleSentenceId": "u9-article-s1"
+    },
+    {
+      "id": "u9-article-v6",
+      "term": "is",
+      "meaningZh": "是",
+      "exampleSentenceId": "u9-article-s1"
+    },
+    {
+      "id": "u9-article-v7",
+      "term": "never",
+      "meaningZh": "从不",
+      "exampleSentenceId": "u9-article-s1"
+    },
+    {
+      "id": "u9-article-v8",
+      "term": "simple",
+      "meaningZh": "简单的",
+      "exampleSentenceId": "u9-article-s1"
+    },
+    {
+      "id": "u9-article-v9",
+      "term": "think",
+      "meaningZh": "思考，认为",
+      "exampleSentenceId": "u9-article-s2"
+    },
+    {
+      "id": "u9-article-v10",
+      "term": "ice",
+      "meaningZh": "冰",
+      "exampleSentenceId": "u9-article-s2"
+    },
+    {
+      "id": "u9-article-v11",
+      "term": "cream",
+      "meaningZh": "奶油",
+      "exampleSentenceId": "u9-article-s2"
+    },
+    {
+      "id": "u9-article-v12",
+      "term": "many",
+      "meaningZh": "许多的",
+      "exampleSentenceId": "u9-article-s3"
+    },
+    {
+      "id": "u9-article-v13",
+      "term": "people",
+      "meaningZh": "人们",
+      "exampleSentenceId": "u9-article-s3"
+    },
+    {
+      "id": "u9-article-v14",
+      "term": "see",
+      "meaningZh": "看见，看作",
+      "exampleSentenceId": "u9-article-s3"
+    },
+    {
+      "id": "u9-article-v15",
+      "term": "it",
+      "meaningZh": "它",
+      "exampleSentenceId": "u9-article-s3"
+    },
+    {
+      "id": "u9-article-v16",
+      "term": "as",
+      "meaningZh": "作为",
+      "exampleSentenceId": "u9-article-s3"
+    },
+    {
+      "id": "u9-article-v17",
+      "term": "a",
+      "meaningZh": "一个",
+      "exampleSentenceId": "u9-article-s2"
+    },
+    {
+      "id": "u9-article-v18",
+      "term": "western",
+      "meaningZh": "西方的",
+      "exampleSentenceId": "u9-article-s3"
+    },
+    {
+      "id": "u9-article-v19",
       "term": "dessert",
       "meaningZh": "甜点",
-      "exampleSentenceId": "u9-s3",
-      "distractorsZh": [
-        "沙漠",
-        "设计",
-        "决定"
-      ]
+      "exampleSentenceId": "u9-article-s3"
     },
     {
-      "id": "u9-v2",
-      "term": "folk tales",
-      "meaningZh": "民间故事",
-      "exampleSentenceId": "u9-s8",
-      "distractorsZh": [
-        "民间音乐",
-        "民间舞蹈",
-        "民间艺术"
-      ]
+      "id": "u9-article-v20",
+      "term": "however",
+      "meaningZh": "然而",
+      "exampleSentenceId": "u9-article-s4"
     },
     {
-      "id": "u9-v3",
-      "term": "carried the idea",
-      "meaningZh": "传播了这个想法",
-      "exampleSentenceId": "u9-s9",
-      "distractorsZh": [
-        "携带了物品",
-        "搬运了货物",
-        "传递了信息"
-      ]
+      "id": "u9-article-v21",
+      "term": "this",
+      "meaningZh": "这，这个",
+      "exampleSentenceId": "u9-article-s4"
     },
     {
-      "id": "u9-v4",
-      "term": "similar dishes",
-      "meaningZh": "相似的菜肴",
-      "exampleSentenceId": "u9-s12",
-      "distractorsZh": [
-        "相似的文化",
-        "相似的语言",
-        "相似的建筑"
-      ]
+      "id": "u9-article-v22",
+      "term": "sweet",
+      "meaningZh": "甜的，美好的",
+      "exampleSentenceId": "u9-article-s4"
     },
     {
-      "id": "u9-v5",
-      "term": "compare to",
-      "meaningZh": "与...比较",
-      "exampleSentenceId": "u9-s16",
-      "distractorsZh": [
-        "与...竞争",
-        "与...合作",
-        "与...分享"
-      ]
+      "id": "u9-article-v23",
+      "term": "treat",
+      "meaningZh": "乐事，款待",
+      "exampleSentenceId": "u9-article-s4"
     },
     {
-      "id": "u9-v6",
-      "term": "crosses borders",
-      "meaningZh": "跨越边界",
-      "exampleSentenceId": "u9-s20",
-      "distractorsZh": [
-        "穿越河流",
-        "跨越山脉",
-        "穿越海洋"
-      ]
+      "id": "u9-article-v24",
+      "term": "actually",
+      "meaningZh": "实际上",
+      "exampleSentenceId": "u9-article-s4"
+    },
+    {
+      "id": "u9-article-v25",
+      "term": "and",
+      "meaningZh": "和，而且",
+      "exampleSentenceId": "u9-article-s9"
+    },
+    {
+      "id": "u9-article-v26",
+      "term": "came",
+      "meaningZh": "来（come的过去式）",
+      "exampleSentenceId": "u9-article-s4"
+    },
+    {
+      "id": "u9-article-v27",
+      "term": "from",
+      "meaningZh": "来自",
+      "exampleSentenceId": "u9-article-s4"
+    },
+    {
+      "id": "u9-article-v28",
+      "term": "china",
+      "meaningZh": "中国",
+      "exampleSentenceId": "u9-article-s4"
+    },
+    {
+      "id": "u9-article-v29",
+      "term": "in",
+      "meaningZh": "在……里",
+      "exampleSentenceId": "u9-article-s2"
+    },
+    {
+      "id": "u9-article-v30",
+      "term": "zhou",
+      "meaningZh": "周（朝）",
+      "exampleSentenceId": "u9-article-s5"
+    },
+    {
+      "id": "u9-article-v31",
+      "term": "dynasty",
+      "meaningZh": "朝代",
+      "exampleSentenceId": "u9-article-s5"
+    },
+    {
+      "id": "u9-article-v32",
+      "term": "chinese",
+      "meaningZh": "中国的",
+      "exampleSentenceId": "u9-article-s5"
+    },
+    {
+      "id": "u9-article-v33",
+      "term": "began",
+      "meaningZh": "开始（begin的过去式）",
+      "exampleSentenceId": "u9-article-s5"
+    },
+    {
+      "id": "u9-article-v34",
+      "term": "to",
+      "meaningZh": "去，向",
+      "exampleSentenceId": "u9-article-s1"
+    },
+    {
+      "id": "u9-article-v35",
+      "term": "store",
+      "meaningZh": "储存",
+      "exampleSentenceId": "u9-article-s5"
+    },
+    {
+      "id": "u9-article-v36",
+      "term": "winter",
+      "meaningZh": "冬天",
+      "exampleSentenceId": "u9-article-s5"
+    },
+    {
+      "id": "u9-article-v37",
+      "term": "enjoy",
+      "meaningZh": "享受",
+      "exampleSentenceId": "u9-article-s5"
+    },
+    {
+      "id": "u9-article-v38",
+      "term": "summer",
+      "meaningZh": "夏天",
+      "exampleSentenceId": "u9-article-s5"
+    },
+    {
+      "id": "u9-article-v39",
+      "term": "song",
+      "meaningZh": "宋（朝）",
+      "exampleSentenceId": "u9-article-s6"
+    },
+    {
+      "id": "u9-article-v40",
+      "term": "started",
+      "meaningZh": "开始（start的过去式）",
+      "exampleSentenceId": "u9-article-s6"
+    },
+    {
+      "id": "u9-article-v41",
+      "term": "make",
+      "meaningZh": "制作",
+      "exampleSentenceId": "u9-article-s6"
+    },
+    {
+      "id": "u9-article-v42",
+      "term": "binglao",
+      "meaningZh": "冰酪",
+      "exampleSentenceId": "u9-article-s6"
+    },
+    {
+      "id": "u9-article-v43",
+      "term": "just",
+      "meaningZh": "仅仅，只是",
+      "exampleSentenceId": "u9-article-s6"
+    },
+    {
+      "id": "u9-article-v44",
+      "term": "means",
+      "meaningZh": "意思是（mean的三单形式）",
+      "exampleSentenceId": "u9-article-s6"
+    },
+    {
+      "id": "u9-article-v45",
+      "term": "english",
+      "meaningZh": "英语",
+      "exampleSentenceId": "u9-article-s6"
+    },
+    {
+      "id": "u9-article-v46",
+      "term": "was",
+      "meaningZh": "是（过去式）",
+      "exampleSentenceId": "u9-article-s7"
+    },
+    {
+      "id": "u9-article-v47",
+      "term": "lot",
+      "meaningZh": "大量",
+      "exampleSentenceId": "u9-article-s7"
+    },
+    {
+      "id": "u9-article-v48",
+      "term": "like",
+      "meaningZh": "像",
+      "exampleSentenceId": "u9-article-s7"
+    },
+    {
+      "id": "u9-article-v49",
+      "term": "modern",
+      "meaningZh": "现代的",
+      "exampleSentenceId": "u9-article-s7"
+    },
+    {
+      "id": "u9-article-v50",
+      "term": "folk",
+      "meaningZh": "民间的",
+      "exampleSentenceId": "u9-article-s8"
+    },
+    {
+      "id": "u9-article-v51",
+      "term": "tales",
+      "meaningZh": "故事，传说（tale的复数形式）",
+      "exampleSentenceId": "u9-article-s8"
+    },
+    {
+      "id": "u9-article-v52",
+      "term": "have",
+      "meaningZh": "有",
+      "exampleSentenceId": "u9-article-s8"
+    },
+    {
+      "id": "u9-article-v53",
+      "term": "that",
+      "meaningZh": "（引导从句）",
+      "exampleSentenceId": "u9-article-s8"
+    },
+    {
+      "id": "u9-article-v54",
+      "term": "emperor",
+      "meaningZh": "皇帝",
+      "exampleSentenceId": "u9-article-s8"
+    },
+    {
+      "id": "u9-article-v55",
+      "term": "huizong",
+      "meaningZh": "徽宗",
+      "exampleSentenceId": "u9-article-s8"
+    },
+    {
+      "id": "u9-article-v56",
+      "term": "suffered",
+      "meaningZh": "遭受（suffer的过去式）",
+      "exampleSentenceId": "u9-article-s8"
+    },
+    {
+      "id": "u9-article-v57",
+      "term": "stomach",
+      "meaningZh": "胃",
+      "exampleSentenceId": "u9-article-s8"
+    },
+    {
+      "id": "u9-article-v58",
+      "term": "pains",
+      "meaningZh": "疼痛（pain的复数形式）",
+      "exampleSentenceId": "u9-article-s8"
+    },
+    {
+      "id": "u9-article-v59",
+      "term": "after",
+      "meaningZh": "在……之后",
+      "exampleSentenceId": "u9-article-s8"
+    },
+    {
+      "id": "u9-article-v60",
+      "term": "eating",
+      "meaningZh": "吃（eat的动名词形式）",
+      "exampleSentenceId": "u9-article-s8"
+    },
+    {
+      "id": "u9-article-v61",
+      "term": "too",
+      "meaningZh": "太，过于",
+      "exampleSentenceId": "u9-article-s8"
+    },
+    {
+      "id": "u9-article-v62",
+      "term": "much",
+      "meaningZh": "许多的",
+      "exampleSentenceId": "u9-article-s8"
+    },
+    {
+      "id": "u9-article-v63",
+      "term": "yuan",
+      "meaningZh": "元（朝）",
+      "exampleSentenceId": "u9-article-s9"
+    },
+    {
+      "id": "u9-article-v64",
+      "term": "marco",
+      "meaningZh": "马可",
+      "exampleSentenceId": "u9-article-s9"
+    },
+    {
+      "id": "u9-article-v65",
+      "term": "polo",
+      "meaningZh": "波罗",
+      "exampleSentenceId": "u9-article-s9"
+    },
+    {
+      "id": "u9-article-v66",
+      "term": "tasted",
+      "meaningZh": "品尝（taste的过去式）",
+      "exampleSentenceId": "u9-article-s9"
+    },
+    {
+      "id": "u9-article-v67",
+      "term": "carried",
+      "meaningZh": "携带，运送（carry的过去式）",
+      "exampleSentenceId": "u9-article-s9"
+    },
+    {
+      "id": "u9-article-v68",
+      "term": "idea",
+      "meaningZh": "主意，创意",
+      "exampleSentenceId": "u9-article-s9"
+    },
+    {
+      "id": "u9-article-v69",
+      "term": "all",
+      "meaningZh": "全部，一直",
+      "exampleSentenceId": "u9-article-s4"
+    },
+    {
+      "id": "u9-article-v70",
+      "term": "way",
+      "meaningZh": "道路，方向",
+      "exampleSentenceId": "u9-article-s9"
+    },
+    {
+      "id": "u9-article-v71",
+      "term": "back",
+      "meaningZh": "回来，向后",
+      "exampleSentenceId": "u9-article-s9"
+    },
+    {
+      "id": "u9-article-v72",
+      "term": "europe",
+      "meaningZh": "欧洲",
+      "exampleSentenceId": "u9-article-s9"
+    },
+    {
+      "id": "u9-article-v73",
+      "term": "there",
+      "meaningZh": "在那里",
+      "exampleSentenceId": "u9-article-s10"
+    },
+    {
+      "id": "u9-article-v74",
+      "term": "added",
+      "meaningZh": "添加（add的过去式）",
+      "exampleSentenceId": "u9-article-s10"
+    },
+    {
+      "id": "u9-article-v75",
+      "term": "heavy",
+      "meaningZh": "重的，浓厚的",
+      "exampleSentenceId": "u9-article-s10"
+    },
+    {
+      "id": "u9-article-v76",
+      "term": "new",
+      "meaningZh": "新的",
+      "exampleSentenceId": "u9-article-s10"
+    },
+    {
+      "id": "u9-article-v77",
+      "term": "tastes",
+      "meaningZh": "味道，口味（taste的复数形式）",
+      "exampleSentenceId": "u9-article-s10"
+    },
+    {
+      "id": "u9-article-v78",
+      "term": "rest",
+      "meaningZh": "剩余部分",
+      "exampleSentenceId": "u9-article-s11"
+    },
+    {
+      "id": "u9-article-v79",
+      "term": "sometimes",
+      "meaningZh": "有时",
+      "exampleSentenceId": "u9-article-s12"
+    },
+    {
+      "id": "u9-article-v80",
+      "term": "totally",
+      "meaningZh": "完全地",
+      "exampleSentenceId": "u9-article-s12"
+    },
+    {
+      "id": "u9-article-v81",
+      "term": "different",
+      "meaningZh": "不同的",
+      "exampleSentenceId": "u9-article-s12"
+    },
+    {
+      "id": "u9-article-v82",
+      "term": "cultures",
+      "meaningZh": "文化（culture的复数形式）",
+      "exampleSentenceId": "u9-article-s12"
+    },
+    {
+      "id": "u9-article-v83",
+      "term": "similar",
+      "meaningZh": "相似的",
+      "exampleSentenceId": "u9-article-s12"
+    },
+    {
+      "id": "u9-article-v84",
+      "term": "dishes",
+      "meaningZh": "菜肴（dish的复数形式）",
+      "exampleSentenceId": "u9-article-s12"
+    },
+    {
+      "id": "u9-article-v85",
+      "term": "iranians",
+      "meaningZh": "伊朗人（iranian的复数形式）",
+      "exampleSentenceId": "u9-article-s13"
+    },
+    {
+      "id": "u9-article-v86",
+      "term": "love",
+      "meaningZh": "喜欢，爱",
+      "exampleSentenceId": "u9-article-s13"
+    },
+    {
+      "id": "u9-article-v87",
+      "term": "kind",
+      "meaningZh": "种类",
+      "exampleSentenceId": "u9-article-s13"
+    },
+    {
+      "id": "u9-article-v88",
+      "term": "flat",
+      "meaningZh": "扁平的",
+      "exampleSentenceId": "u9-article-s13"
+    },
+    {
+      "id": "u9-article-v89",
+      "term": "bread",
+      "meaningZh": "面包",
+      "exampleSentenceId": "u9-article-s13"
+    },
+    {
+      "id": "u9-article-v90",
+      "term": "sangak",
+      "meaningZh": "桑嘎克（伊朗面包）",
+      "exampleSentenceId": "u9-article-s13"
+    },
+    {
+      "id": "u9-article-v91",
+      "term": "shaanxi",
+      "meaningZh": "陕西",
+      "exampleSentenceId": "u9-article-s14"
+    },
+    {
+      "id": "u9-article-v92",
+      "term": "stone",
+      "meaningZh": "石头",
+      "exampleSentenceId": "u9-article-s14"
+    },
+    {
+      "id": "u9-article-v93",
+      "term": "pancakes",
+      "meaningZh": "薄饼，煎饼（pancake的复数形式）",
+      "exampleSentenceId": "u9-article-s14"
+    },
+    {
+      "id": "u9-article-v94",
+      "term": "these",
+      "meaningZh": "这些",
+      "exampleSentenceId": "u9-article-s15"
+    },
+    {
+      "id": "u9-article-v95",
+      "term": "two",
+      "meaningZh": "二，两个",
+      "exampleSentenceId": "u9-article-s15"
+    },
+    {
+      "id": "u9-article-v96",
+      "term": "look",
+      "meaningZh": "看起来",
+      "exampleSentenceId": "u9-article-s15"
+    },
+    {
+      "id": "u9-article-v97",
+      "term": "almost",
+      "meaningZh": "几乎",
+      "exampleSentenceId": "u9-article-s15"
+    },
+    {
+      "id": "u9-article-v98",
+      "term": "same",
+      "meaningZh": "相同的",
+      "exampleSentenceId": "u9-article-s15"
+    },
+    {
+      "id": "u9-article-v99",
+      "term": "often",
+      "meaningZh": "经常",
+      "exampleSentenceId": "u9-article-s16"
+    },
+    {
+      "id": "u9-article-v100",
+      "term": "compare",
+      "meaningZh": "比较，比作",
+      "exampleSentenceId": "u9-article-s16"
+    },
+    {
+      "id": "u9-article-v101",
+      "term": "roujiamo",
+      "meaningZh": "肉夹馍",
+      "exampleSentenceId": "u9-article-s16"
+    },
+    {
+      "id": "u9-article-v102",
+      "term": "hamburgers",
+      "meaningZh": "汉堡包（hamburger的复数形式）",
+      "exampleSentenceId": "u9-article-s16"
+    },
+    {
+      "id": "u9-article-v103",
+      "term": "hamburger",
+      "meaningZh": "汉堡包",
+      "exampleSentenceId": "u9-article-s16"
+    },
+    {
+      "id": "u9-article-v104",
+      "term": "symbol",
+      "meaningZh": "象征",
+      "exampleSentenceId": "u9-article-s16"
+    },
+    {
+      "id": "u9-article-v105",
+      "term": "american",
+      "meaningZh": "美国的",
+      "exampleSentenceId": "u9-article-s16"
+    },
+    {
+      "id": "u9-article-v106",
+      "term": "call",
+      "meaningZh": "称呼，呼叫",
+      "exampleSentenceId": "u9-article-s17"
+    },
+    {
+      "id": "u9-article-v107",
+      "term": "but",
+      "meaningZh": "但是",
+      "exampleSentenceId": "u9-article-s18"
+    },
+    {
+      "id": "u9-article-v108",
+      "term": "fact",
+      "meaningZh": "事实",
+      "exampleSentenceId": "u9-article-s18"
+    },
+    {
+      "id": "u9-article-v109",
+      "term": "arepas",
+      "meaningZh": "阿瑞巴（arepa的复数形式）",
+      "exampleSentenceId": "u9-article-s18"
+    },
+    {
+      "id": "u9-article-v110",
+      "term": "venezuela",
+      "meaningZh": "委内瑞拉",
+      "exampleSentenceId": "u9-article-s18"
+    },
+    {
+      "id": "u9-article-v111",
+      "term": "more",
+      "meaningZh": "更多地",
+      "exampleSentenceId": "u9-article-s18"
+    },
+    {
+      "id": "u9-article-v112",
+      "term": "twin",
+      "meaningZh": "孪生的",
+      "exampleSentenceId": "u9-article-s18"
+    },
+    {
+      "id": "u9-article-v113",
+      "term": "brother",
+      "meaningZh": "兄弟",
+      "exampleSentenceId": "u9-article-s18"
+    },
+    {
+      "id": "u9-article-v114",
+      "term": "bridge",
+      "meaningZh": "桥梁",
+      "exampleSentenceId": "u9-article-s19"
+    },
+    {
+      "id": "u9-article-v115",
+      "term": "between",
+      "meaningZh": "在……之间",
+      "exampleSentenceId": "u9-article-s19"
+    },
+    {
+      "id": "u9-article-v116",
+      "term": "when",
+      "meaningZh": "当……时",
+      "exampleSentenceId": "u9-article-s20"
+    },
+    {
+      "id": "u9-article-v117",
+      "term": "cross",
+      "meaningZh": "跨越",
+      "exampleSentenceId": "u9-article-s20"
+    },
+    {
+      "id": "u9-article-v118",
+      "term": "borders",
+      "meaningZh": "边界，国界（border的复数形式）",
+      "exampleSentenceId": "u9-article-s20"
+    },
+    {
+      "id": "u9-article-v119",
+      "term": "things",
+      "meaningZh": "事情",
+      "exampleSentenceId": "u9-article-s20"
+    },
+    {
+      "id": "u9-article-v120",
+      "term": "can",
+      "meaningZh": "能，可以",
+      "exampleSentenceId": "u9-article-s16"
+    },
+    {
+      "id": "u9-article-v121",
+      "term": "happen",
+      "meaningZh": "发生",
+      "exampleSentenceId": "u9-article-s20"
     }
   ],
-  "sentenceTasks": [
-    {
-      "id": "u9-st1",
-      "sentenceId": "u9-s9",
-      "type": "chunk_reorder",
-      "promptZh": "把句子语块按正确顺序拖拽排列",
-      "chunks": [
-        {
-          "id": "u9-c1",
-          "text": "In the Yuan Dynasty,",
-          "tag": "时间状语"
-        },
-        {
-          "id": "u9-c2",
-          "text": "Marco Polo",
-          "tag": "主语"
-        },
-        {
-          "id": "u9-c3",
-          "text": "tasted binglao",
-          "tag": "谓语1"
-        },
-        {
-          "id": "u9-c4",
-          "text": "and carried the idea",
-          "tag": "谓语2"
-        },
-        {
-          "id": "u9-c5",
-          "text": "all the way back to Europe.",
-          "tag": "地点状语"
-        }
-      ],
-      "correctOrder": [
-        "u9-c1",
-        "u9-c2",
-        "u9-c3",
-        "u9-c4",
-        "u9-c5"
-      ],
-      "focusPointsZh": [
-        "时间状语位置",
-        "并列谓语结构",
-        "地点状语用法"
-      ]
-    },
-    {
-      "id": "u9-st2",
-      "sentenceId": "u9-s18",
-      "type": "chunk_reorder",
-      "promptZh": "把句子语块按正确顺序拖拽排列",
-      "chunks": [
-        {
-          "id": "u9-c6",
-          "text": "But in fact,",
-          "tag": "转折状语"
-        },
-        {
-          "id": "u9-c7",
-          "text": "arepas of Venezuela",
-          "tag": "主语"
-        },
-        {
-          "id": "u9-c8",
-          "text": "look more like",
-          "tag": "谓语"
-        },
-        {
-          "id": "u9-c9",
-          "text": "the twin brother",
-          "tag": "宾语"
-        },
-        {
-          "id": "u9-c10",
-          "text": "of roujiamo!",
-          "tag": "定语"
-        }
-      ],
-      "correctOrder": [
-        "u9-c6",
-        "u9-c7",
-        "u9-c8",
-        "u9-c9",
-        "u9-c10"
-      ],
-      "focusPointsZh": [
-        "转折状语用法",
-        "比较级结构",
-        "名词所有格"
-      ]
-    }
-  ],
+  "sentenceTasks": [],
   "readingQuestions": [
     {
-      "id": "u9-rq1",
+      "id": "reading-q1",
       "type": "single_choice",
-      "stem": "Where did ice cream originally come from according to the article?",
+      "stem": "Where did ice cream originally come from according to the text?",
       "options": [
-        "Western countries",
-        "China",
-        "Europe",
-        "America"
+        "A. Europe",
+        "B. America",
+        "C. China",
+        "D. Iran"
       ],
-      "answer": "China",
-      "rationaleZh": "文章明确指出冰淇淋实际上来自中国，而不是西方甜点。",
-      "evidenceSentenceIds": [
-        "u9-s4"
-      ]
+      "answer": "C. China",
+      "rationaleZh": "文中明确提到 'this sweet treat actually came from China!'"
     },
     {
-      "id": "u9-rq2",
+      "id": "reading-q2",
       "type": "single_choice",
-      "stem": "Who brought the idea of binglao to Europe?",
+      "stem": "Who is said to have brought the idea of binglao to Europe?",
       "options": [
-        "Emperor Huizong",
-        "Chinese people",
-        "Marco Polo",
-        "Iranians"
+        "A. Emperor Huizong",
+        "B. Marco Polo",
+        "C. Iranians",
+        "D. Venezuelans"
       ],
-      "answer": "Marco Polo",
-      "rationaleZh": "文章提到马可·波罗在元朝品尝了冰酪并将这个想法带回了欧洲。",
-      "evidenceSentenceIds": [
-        "u9-s9"
-      ]
+      "answer": "B. Marco Polo",
+      "rationaleZh": "文中提到 'Marco Polo tasted binglao and carried the idea all the way back to Europe.'"
     },
     {
-      "id": "u9-rq3",
+      "id": "reading-q3",
       "type": "single_choice",
-      "stem": "What is compared to hamburgers in the article?",
+      "stem": "Which food is described as the 'twin brother' of roujiamo?",
       "options": [
-        "Sangak",
-        "Stone pancakes",
-        "Roujiamo",
-        "Arepas"
+        "A. Hamburger",
+        "B. Sangak",
+        "C. Stone pancake",
+        "D. Arepas"
       ],
-      "answer": "Roujiamo",
-      "rationaleZh": "文章指出人们经常将肉夹馍与汉堡包进行比较。",
-      "evidenceSentenceIds": [
-        "u9-s16"
-      ]
+      "answer": "D. Arepas",
+      "rationaleZh": "文中提到 'arepas of Venezuela look more like the twin brother of roujiamo!'"
     },
     {
-      "id": "u9-rq4",
+      "id": "reading-q4",
       "type": "single_choice",
-      "stem": "What does the article say about food crossing borders?",
+      "stem": "What did people in the Zhou Dynasty do with ice?",
       "options": [
-        "It causes problems",
-        "It creates conflicts",
-        "Sweet things can happen",
-        "It changes cultures completely"
+        "A. Made ice cream",
+        "B. Stored it for summer",
+        "C. Sold it to Europe",
+        "D. Used it for medicine"
       ],
-      "answer": "Sweet things can happen",
-      "rationaleZh": "文章最后一句指出当食物跨越边界时，美好的事情可能会发生。",
-      "evidenceSentenceIds": [
-        "u9-s20"
-      ]
+      "answer": "B. Stored it for summer",
+      "rationaleZh": "文中提到 'In the Zhou Dynasty, Chinese people began to store winter ice to enjoy in summer.'"
     },
     {
-      "id": "u9-rq5",
+      "id": "reading-q5",
       "type": "single_choice",
-      "stem": "Which two foods are mentioned as looking almost the same?",
+      "stem": "What is the main idea of the last paragraph?",
       "options": [
-        "Ice cream and binglao",
-        "Sangak and stone pancakes",
-        "Roujiamo and hamburgers",
-        "Arepas and roujiamo"
+        "A. Food is expensive",
+        "B. Food connects different cultures",
+        "C. We should only eat local food",
+        "D. History is simple"
       ],
-      "answer": "Sangak and stone pancakes",
-      "rationaleZh": "文章提到伊朗的桑格克面包和中国陕西的石子馍看起来几乎一样。",
-      "evidenceSentenceIds": [
-        "u9-s13",
-        "u9-s14",
-        "u9-s15"
-      ]
+      "answer": "B. Food connects different cultures",
+      "rationaleZh": "最后一段总结道 'Food is a bridge between cultures.'"
     }
   ],
-  "quoteCandidates": [
-    {
-      "sentenceId": "u9-s19",
-      "reasonZh": "这句话用比喻手法生动地表达了食物在文化交流中的重要作用，语言简洁优美。"
+  "quoteCandidates": [],
+  "lexicon": {
+    "the": {
+      "phonetic": "/ðə/",
+      "pos": "art.",
+      "meaningZh": "这，那",
+      "usageZh": "",
+      "example": ""
     },
-    {
-      "sentenceId": "u9-s20",
-      "reasonZh": "这句话富有诗意，用'sweet things'双关既指甜食又指美好事物，寓意深刻。"
+    "history": {
+      "phonetic": "/ˈhɪstri/",
+      "pos": "n.",
+      "meaningZh": "历史",
+      "usageZh": "",
+      "example": ""
     },
-    {
-      "sentenceId": "u9-s1",
-      "reasonZh": "开篇句简洁有力，用'never simple'直接点明主题，引发读者思考。"
+    "of": {
+      "phonetic": "/əv/",
+      "pos": "prep.",
+      "meaningZh": "……的",
+      "usageZh": "",
+      "example": ""
+    },
+    "foods": {
+      "phonetic": "/fuːdz/",
+      "pos": "n.",
+      "meaningZh": "食物（food的复数形式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "food": {
+      "phonetic": "/fuːd/",
+      "pos": "n.",
+      "meaningZh": "食物",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/GiMbjnvfPMhqTHY3AWP6ob.mp3"
+    },
+    "is": {
+      "phonetic": "/ɪz/",
+      "pos": "v.",
+      "meaningZh": "是",
+      "usageZh": "",
+      "example": ""
+    },
+    "never": {
+      "phonetic": "/ˈnevə(r)/",
+      "pos": "adv.",
+      "meaningZh": "从不",
+      "usageZh": "",
+      "example": ""
+    },
+    "simple": {
+      "phonetic": "/ˈsɪmpl/",
+      "pos": "adj.",
+      "meaningZh": "简单的",
+      "usageZh": "",
+      "example": ""
+    },
+    "think": {
+      "phonetic": "/θɪŋk/",
+      "pos": "v.",
+      "meaningZh": "思考，认为",
+      "usageZh": "",
+      "example": ""
+    },
+    "ice": {
+      "phonetic": "/aɪs/",
+      "pos": "n.",
+      "meaningZh": "冰",
+      "usageZh": "",
+      "example": ""
+    },
+    "cream": {
+      "phonetic": "/kriːm/",
+      "pos": "n.",
+      "meaningZh": "奶油",
+      "usageZh": "",
+      "example": ""
+    },
+    "many": {
+      "phonetic": "/ˈmeni/",
+      "pos": "adj.",
+      "meaningZh": "许多的",
+      "usageZh": "",
+      "example": ""
+    },
+    "people": {
+      "phonetic": "/ˈpiːpl/",
+      "pos": "n.",
+      "meaningZh": "人们",
+      "usageZh": "",
+      "example": ""
+    },
+    "see": {
+      "phonetic": "/siː/",
+      "pos": "v.",
+      "meaningZh": "看见，看作",
+      "usageZh": "",
+      "example": ""
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "pos": "pron.",
+      "meaningZh": "它",
+      "usageZh": "",
+      "example": ""
+    },
+    "as": {
+      "phonetic": "/æz/",
+      "pos": "prep.",
+      "meaningZh": "作为",
+      "usageZh": "",
+      "example": ""
+    },
+    "a": {
+      "phonetic": "/ə/",
+      "pos": "art.",
+      "meaningZh": "一个",
+      "usageZh": "",
+      "example": ""
+    },
+    "western": {
+      "phonetic": "/ˈwestən/",
+      "pos": "adj.",
+      "meaningZh": "西方的",
+      "usageZh": "",
+      "example": ""
+    },
+    "dessert": {
+      "phonetic": "/dɪˈzɜːt/",
+      "pos": "n.",
+      "meaningZh": "甜点",
+      "usageZh": "",
+      "example": ""
+    },
+    "however": {
+      "phonetic": "/haʊˈevə(r)/",
+      "pos": "adv.",
+      "meaningZh": "然而",
+      "usageZh": "",
+      "example": ""
+    },
+    "this": {
+      "phonetic": "/ðɪs/",
+      "pos": "pron.",
+      "meaningZh": "这，这个",
+      "usageZh": "",
+      "example": ""
+    },
+    "sweet": {
+      "phonetic": "/swiːt/",
+      "pos": "adj.",
+      "meaningZh": "甜的，美好的",
+      "usageZh": "",
+      "example": ""
+    },
+    "treat": {
+      "phonetic": "/triːt/",
+      "pos": "n.",
+      "meaningZh": "乐事，款待",
+      "usageZh": "",
+      "example": ""
+    },
+    "actually": {
+      "phonetic": "/ˈæktʃuəli/",
+      "pos": "adv.",
+      "meaningZh": "实际上",
+      "usageZh": "",
+      "example": ""
+    },
+    "and": {
+      "phonetic": "/ənd; ænd/",
+      "pos": "conj.",
+      "meaningZh": "和，而且",
+      "usageZh": "",
+      "example": ""
+    },
+    "came": {
+      "phonetic": "/keɪm/",
+      "pos": "v.",
+      "meaningZh": "来（come的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "from": {
+      "phonetic": "/frəm/",
+      "pos": "prep.",
+      "meaningZh": "来自",
+      "usageZh": "",
+      "example": ""
+    },
+    "china": {
+      "phonetic": "/ˈtʃaɪnə/",
+      "pos": "n.",
+      "meaningZh": "中国",
+      "usageZh": "",
+      "example": ""
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "pos": "prep.",
+      "meaningZh": "在……里",
+      "usageZh": "",
+      "example": ""
+    },
+    "zhou": {
+      "phonetic": "/dʒəʊ/",
+      "pos": "n.",
+      "meaningZh": "周（朝）",
+      "usageZh": "",
+      "example": ""
+    },
+    "dynasty": {
+      "phonetic": "/ˈdɪnəsti/",
+      "pos": "n.",
+      "meaningZh": "朝代",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3geSCfy23RbKcrMrzLyM35.mp3"
+    },
+    "chinese": {
+      "phonetic": "/ˌtʃaɪˈniːz/",
+      "pos": "adj.",
+      "meaningZh": "中国的",
+      "usageZh": "",
+      "example": ""
+    },
+    "began": {
+      "phonetic": "/bɪˈɡæn/",
+      "pos": "v.",
+      "meaningZh": "开始（begin的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "to": {
+      "phonetic": "/tu/",
+      "pos": "prep.",
+      "meaningZh": "去，向",
+      "usageZh": "",
+      "example": ""
+    },
+    "store": {
+      "phonetic": "/stɔː(r)/",
+      "pos": "v.",
+      "meaningZh": "储存",
+      "usageZh": "",
+      "example": ""
+    },
+    "winter": {
+      "phonetic": "/ˈwɪntə(r)/",
+      "pos": "n.",
+      "meaningZh": "冬天",
+      "usageZh": "",
+      "example": ""
+    },
+    "enjoy": {
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "pos": "v.",
+      "meaningZh": "享受",
+      "usageZh": "",
+      "example": ""
+    },
+    "summer": {
+      "phonetic": "/ˈsʌmə(r)/",
+      "pos": "n.",
+      "meaningZh": "夏天",
+      "usageZh": "",
+      "example": ""
+    },
+    "song": {
+      "phonetic": "/sɒŋ/",
+      "pos": "n.",
+      "meaningZh": "宋（朝）",
+      "usageZh": "",
+      "example": ""
+    },
+    "started": {
+      "phonetic": "/ˈstɑːtɪd/",
+      "pos": "v.",
+      "meaningZh": "开始（start的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "make": {
+      "phonetic": "/meɪk/",
+      "pos": "v.",
+      "meaningZh": "制作",
+      "usageZh": "",
+      "example": ""
+    },
+    "binglao": {
+      "phonetic": "/bɪŋ'laʊ/",
+      "pos": "n.",
+      "meaningZh": "冰酪",
+      "usageZh": "",
+      "example": ""
+    },
+    "just": {
+      "phonetic": "/dʒʌst/",
+      "pos": "adv.",
+      "meaningZh": "仅仅，只是",
+      "usageZh": "",
+      "example": ""
+    },
+    "means": {
+      "phonetic": "/miːnz/",
+      "pos": "v.",
+      "meaningZh": "意思是（mean的三单形式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "english": {
+      "phonetic": "/ˈɪŋɡlɪʃ/",
+      "pos": "n.",
+      "meaningZh": "英语",
+      "usageZh": "",
+      "example": ""
+    },
+    "was": {
+      "phonetic": "/wɒz/",
+      "pos": "v.",
+      "meaningZh": "是（过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "lot": {
+      "phonetic": "/lɒt/",
+      "pos": "n.",
+      "meaningZh": "大量",
+      "usageZh": "",
+      "example": ""
+    },
+    "like": {
+      "phonetic": "/laɪk/",
+      "pos": "prep.",
+      "meaningZh": "像",
+      "usageZh": "",
+      "example": ""
+    },
+    "modern": {
+      "phonetic": "/ˈmɒdn/",
+      "pos": "adj.",
+      "meaningZh": "现代的",
+      "usageZh": "",
+      "example": ""
+    },
+    "folk": {
+      "phonetic": "/fəʊk/",
+      "pos": "adj.",
+      "meaningZh": "民间的",
+      "usageZh": "",
+      "example": ""
+    },
+    "tales": {
+      "phonetic": "/teɪlz/",
+      "pos": "n.",
+      "meaningZh": "故事，传说（tale的复数形式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "have": {
+      "phonetic": "/hæv/",
+      "pos": "v.",
+      "meaningZh": "有",
+      "usageZh": "",
+      "example": ""
+    },
+    "that": {
+      "phonetic": "/ðæt/",
+      "pos": "conj.",
+      "meaningZh": "（引导从句）",
+      "usageZh": "",
+      "example": ""
+    },
+    "emperor": {
+      "phonetic": "/ˈempərə(r)/",
+      "pos": "n.",
+      "meaningZh": "皇帝",
+      "usageZh": "",
+      "example": ""
+    },
+    "huizong": {
+      "phonetic": "/hweɪ'dzɒŋ/",
+      "pos": "n.",
+      "meaningZh": "徽宗",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/BueMRP6LZYCxZzZNfrs399.mp3"
+    },
+    "suffered": {
+      "phonetic": "/ˈsʌfəd/",
+      "pos": "v.",
+      "meaningZh": "遭受（suffer的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "stomach": {
+      "phonetic": "/ˈstʌmək/",
+      "pos": "n.",
+      "meaningZh": "胃",
+      "usageZh": "",
+      "example": ""
+    },
+    "pains": {
+      "phonetic": "/peɪnz/",
+      "pos": "n.",
+      "meaningZh": "疼痛（pain的复数形式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "after": {
+      "phonetic": "/ˈɑːftə(r)/",
+      "pos": "prep.",
+      "meaningZh": "在……之后",
+      "usageZh": "",
+      "example": ""
+    },
+    "eating": {
+      "phonetic": "/ˈiːtɪŋ/",
+      "pos": "v.",
+      "meaningZh": "吃（eat的动名词形式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "too": {
+      "phonetic": "/tuː/",
+      "pos": "adv.",
+      "meaningZh": "太，过于",
+      "usageZh": "",
+      "example": ""
+    },
+    "much": {
+      "phonetic": "/mʌtʃ/",
+      "pos": "adj.",
+      "meaningZh": "许多的",
+      "usageZh": "",
+      "example": ""
+    },
+    "yuan": {
+      "phonetic": "/jʊ'æn/",
+      "pos": "n.",
+      "meaningZh": "元（朝）",
+      "usageZh": "",
+      "example": ""
+    },
+    "marco": {
+      "phonetic": "/'mɑːkəʊ/",
+      "pos": "n.",
+      "meaningZh": "马可",
+      "usageZh": "",
+      "example": ""
+    },
+    "polo": {
+      "phonetic": "/'pəʊləʊ/",
+      "pos": "n.",
+      "meaningZh": "波罗",
+      "usageZh": "",
+      "example": ""
+    },
+    "tasted": {
+      "phonetic": "/ˈteɪstɪd/",
+      "pos": "v.",
+      "meaningZh": "品尝（taste的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "carried": {
+      "phonetic": "/ˈkærid/",
+      "pos": "v.",
+      "meaningZh": "携带，运送（carry的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "idea": {
+      "phonetic": "/aɪˈdɪə/",
+      "pos": "n.",
+      "meaningZh": "主意，创意",
+      "usageZh": "",
+      "example": ""
+    },
+    "all": {
+      "phonetic": "/ɔːl/",
+      "pos": "adv.",
+      "meaningZh": "全部，一直",
+      "usageZh": "",
+      "example": ""
+    },
+    "way": {
+      "phonetic": "/weɪ/",
+      "pos": "n.",
+      "meaningZh": "道路，方向",
+      "usageZh": "",
+      "example": ""
+    },
+    "back": {
+      "phonetic": "/bæk/",
+      "pos": "adv.",
+      "meaningZh": "回来，向后",
+      "usageZh": "",
+      "example": ""
+    },
+    "europe": {
+      "phonetic": "/ˈjʊərəp/",
+      "pos": "n.",
+      "meaningZh": "欧洲",
+      "usageZh": "",
+      "example": ""
+    },
+    "there": {
+      "phonetic": "/ðeə(r)/",
+      "pos": "adv.",
+      "meaningZh": "在那里",
+      "usageZh": "",
+      "example": ""
+    },
+    "added": {
+      "phonetic": "/ˈædɪd/",
+      "pos": "v.",
+      "meaningZh": "添加（add的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "heavy": {
+      "phonetic": "/ˈhevi/",
+      "pos": "adj.",
+      "meaningZh": "重的，浓厚的",
+      "usageZh": "",
+      "example": ""
+    },
+    "new": {
+      "phonetic": "/njuː/",
+      "pos": "adj.",
+      "meaningZh": "新的",
+      "usageZh": "",
+      "example": ""
+    },
+    "tastes": {
+      "phonetic": "/teɪsts/",
+      "pos": "n.",
+      "meaningZh": "味道，口味（taste的复数形式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "rest": {
+      "phonetic": "/rest/",
+      "pos": "n.",
+      "meaningZh": "剩余部分",
+      "usageZh": "",
+      "example": ""
+    },
+    "sometimes": {
+      "phonetic": "/ˈsʌmtaɪmz/",
+      "pos": "adv.",
+      "meaningZh": "有时",
+      "usageZh": "",
+      "example": ""
+    },
+    "totally": {
+      "phonetic": "/ˈtəʊtəli/",
+      "pos": "adv.",
+      "meaningZh": "完全地",
+      "usageZh": "",
+      "example": ""
+    },
+    "different": {
+      "phonetic": "/ˈdɪfrənt/",
+      "pos": "adj.",
+      "meaningZh": "不同的",
+      "usageZh": "",
+      "example": ""
+    },
+    "cultures": {
+      "phonetic": "/ˈkʌltʃəz/",
+      "pos": "n.",
+      "meaningZh": "文化（culture的复数形式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/72b3vfdh6BiozbFuyznAXH.mp3"
+    },
+    "similar": {
+      "phonetic": "/ˈsɪmɪlə(r)/",
+      "pos": "adj.",
+      "meaningZh": "相似的",
+      "usageZh": "",
+      "example": ""
+    },
+    "dishes": {
+      "phonetic": "/ˈdɪʃɪz/",
+      "pos": "n.",
+      "meaningZh": "菜肴（dish的复数形式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "iranians": {
+      "phonetic": "/ɪˈreɪniənz/",
+      "pos": "n.",
+      "meaningZh": "伊朗人（iranian的复数形式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "love": {
+      "phonetic": "/lʌv/",
+      "pos": "v.",
+      "meaningZh": "喜欢，爱",
+      "usageZh": "",
+      "example": ""
+    },
+    "kind": {
+      "phonetic": "/kaɪnd/",
+      "pos": "n.",
+      "meaningZh": "种类",
+      "usageZh": "",
+      "example": ""
+    },
+    "flat": {
+      "phonetic": "/flæt/",
+      "pos": "adj.",
+      "meaningZh": "扁平的",
+      "usageZh": "",
+      "example": ""
+    },
+    "bread": {
+      "phonetic": "/bred/",
+      "pos": "n.",
+      "meaningZh": "面包",
+      "usageZh": "",
+      "example": ""
+    },
+    "sangak": {
+      "phonetic": "/sæŋ'ɡæk/",
+      "pos": "n.",
+      "meaningZh": "桑嘎克（伊朗面包）",
+      "usageZh": "",
+      "example": ""
+    },
+    "shaanxi": {
+      "phonetic": "/ʃænˈʃiː/",
+      "pos": "n.",
+      "meaningZh": "陕西",
+      "usageZh": "",
+      "example": ""
+    },
+    "stone": {
+      "phonetic": "/stəʊn/",
+      "pos": "n.",
+      "meaningZh": "石头",
+      "usageZh": "",
+      "example": ""
+    },
+    "pancakes": {
+      "phonetic": "/ˈpænkeɪks/",
+      "pos": "n.",
+      "meaningZh": "薄饼，煎饼（pancake的复数形式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "these": {
+      "phonetic": "/ðiːz/",
+      "pos": "pron.",
+      "meaningZh": "这些",
+      "usageZh": "",
+      "example": ""
+    },
+    "two": {
+      "phonetic": "/tuː/",
+      "pos": "num.",
+      "meaningZh": "二，两个",
+      "usageZh": "",
+      "example": ""
+    },
+    "look": {
+      "phonetic": "/lʊk/",
+      "pos": "v.",
+      "meaningZh": "看起来",
+      "usageZh": "",
+      "example": ""
+    },
+    "almost": {
+      "phonetic": "/ˈɔːlməʊst/",
+      "pos": "adv.",
+      "meaningZh": "几乎",
+      "usageZh": "",
+      "example": ""
+    },
+    "same": {
+      "phonetic": "/seɪm/",
+      "pos": "adj.",
+      "meaningZh": "相同的",
+      "usageZh": "",
+      "example": ""
+    },
+    "often": {
+      "phonetic": "/ˈɒfn/",
+      "pos": "adv.",
+      "meaningZh": "经常",
+      "usageZh": "",
+      "example": ""
+    },
+    "compare": {
+      "phonetic": "/kəmˈpeə(r)/",
+      "pos": "v.",
+      "meaningZh": "比较，比作",
+      "usageZh": "",
+      "example": ""
+    },
+    "roujiamo": {
+      "phonetic": "/rəʊ'dʒiɑːməʊ/",
+      "pos": "n.",
+      "meaningZh": "肉夹馍",
+      "usageZh": "",
+      "example": ""
+    },
+    "hamburgers": {
+      "phonetic": "/ˈhæmbɜːɡəz/",
+      "pos": "n.",
+      "meaningZh": "汉堡包（hamburger的复数形式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "hamburger": {
+      "phonetic": "/ˈhæmbɜːɡə(r)/",
+      "pos": "n.",
+      "meaningZh": "汉堡包",
+      "usageZh": "",
+      "example": ""
+    },
+    "symbol": {
+      "phonetic": "/ˈsɪmbl/",
+      "pos": "n.",
+      "meaningZh": "象征",
+      "usageZh": "",
+      "example": ""
+    },
+    "american": {
+      "phonetic": "/əˈmerɪkən/",
+      "pos": "adj.",
+      "meaningZh": "美国的",
+      "usageZh": "",
+      "example": ""
+    },
+    "call": {
+      "phonetic": "/kɔːl/",
+      "pos": "v.",
+      "meaningZh": "称呼，呼叫",
+      "usageZh": "",
+      "example": ""
+    },
+    "but": {
+      "phonetic": "/bʌt/",
+      "pos": "conj.",
+      "meaningZh": "但是",
+      "usageZh": "",
+      "example": ""
+    },
+    "fact": {
+      "phonetic": "/fækt/",
+      "pos": "n.",
+      "meaningZh": "事实",
+      "usageZh": "",
+      "example": ""
+    },
+    "arepas": {
+      "phonetic": "/ə'repəs/",
+      "pos": "n.",
+      "meaningZh": "阿瑞巴（arepa的复数形式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/SRgH93rExGqJPkodwR7bFJ.mp3"
+    },
+    "venezuela": {
+      "phonetic": "/ˌvenəˈzweɪlə/",
+      "pos": "n.",
+      "meaningZh": "委内瑞拉",
+      "usageZh": "",
+      "example": ""
+    },
+    "more": {
+      "phonetic": "/mɔː(r)/",
+      "pos": "adv.",
+      "meaningZh": "更多地",
+      "usageZh": "",
+      "example": ""
+    },
+    "twin": {
+      "phonetic": "/twɪn/",
+      "pos": "adj.",
+      "meaningZh": "孪生的",
+      "usageZh": "",
+      "example": ""
+    },
+    "brother": {
+      "phonetic": "/ˈbrʌðə(r)/",
+      "pos": "n.",
+      "meaningZh": "兄弟",
+      "usageZh": "",
+      "example": ""
+    },
+    "bridge": {
+      "phonetic": "/brɪdʒ/",
+      "pos": "n.",
+      "meaningZh": "桥梁",
+      "usageZh": "",
+      "example": ""
+    },
+    "between": {
+      "phonetic": "/bɪˈtwiːn/",
+      "pos": "prep.",
+      "meaningZh": "在……之间",
+      "usageZh": "",
+      "example": ""
+    },
+    "when": {
+      "phonetic": "/wen/",
+      "pos": "conj.",
+      "meaningZh": "当……时",
+      "usageZh": "",
+      "example": ""
+    },
+    "cross": {
+      "phonetic": "/krɒs/",
+      "pos": "v.",
+      "meaningZh": "跨越",
+      "usageZh": "",
+      "example": ""
+    },
+    "borders": {
+      "phonetic": "/ˈbɔːdəz/",
+      "pos": "n.",
+      "meaningZh": "边界，国界（border的复数形式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "things": {
+      "phonetic": "/θɪŋz/",
+      "pos": "n.",
+      "meaningZh": "事情",
+      "usageZh": "",
+      "example": ""
+    },
+    "can": {
+      "phonetic": "/kæn/",
+      "pos": "v.",
+      "meaningZh": "能，可以",
+      "usageZh": "",
+      "example": ""
+    },
+    "happen": {
+      "phonetic": "/ˈhæpən/",
+      "pos": "v.",
+      "meaningZh": "发生",
+      "usageZh": "",
+      "example": ""
     }
-  ]
+  }
 }

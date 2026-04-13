@@ -1,0 +1,2399 @@
+{
+  "meta": {
+    "schemaVersion": "2.0",
+    "source": "八年级下册互动课文",
+    "importedFrom": "Unit 4 Passage 2 Circle of Goodwill（互动课文教学动画）英语新教材外研版八年级下册.html",
+    "importedAt": "2026-04-13T04:50:28.106Z"
+  },
+  "article": {
+    "id": "g8b-u4-p2",
+    "title": "Circle of Goodwill",
+    "unit": "Unit 4 创意与善意",
+    "paragraphs": [
+      {
+        "id": "g8b-u4-p2-p1",
+        "sentenceIds": [
+          "g8b-u4-p2-s1",
+          "g8b-u4-p2-s2",
+          "g8b-u4-p2-s3",
+          "g8b-u4-p2-s4",
+          "g8b-u4-p2-s5",
+          "g8b-u4-p2-s6",
+          "g8b-u4-p2-s7",
+          "g8b-u4-p2-s8"
+        ]
+      },
+      {
+        "id": "g8b-u4-p2-p2",
+        "sentenceIds": [
+          "g8b-u4-p2-s9",
+          "g8b-u4-p2-s10",
+          "g8b-u4-p2-s11",
+          "g8b-u4-p2-s12",
+          "g8b-u4-p2-s13"
+        ]
+      },
+      {
+        "id": "g8b-u4-p2-p3",
+        "sentenceIds": [
+          "g8b-u4-p2-s14",
+          "g8b-u4-p2-s15",
+          "g8b-u4-p2-s16",
+          "g8b-u4-p2-s17"
+        ]
+      },
+      {
+        "id": "g8b-u4-p2-p4",
+        "sentenceIds": [
+          "g8b-u4-p2-s18",
+          "g8b-u4-p2-s19",
+          "g8b-u4-p2-s20",
+          "g8b-u4-p2-s21",
+          "g8b-u4-p2-s22",
+          "g8b-u4-p2-s23",
+          "g8b-u4-p2-s24"
+        ]
+      },
+      {
+        "id": "g8b-u4-p2-p5",
+        "sentenceIds": [
+          "g8b-u4-p2-s25",
+          "g8b-u4-p2-s26"
+        ]
+      }
+    ],
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "unitNumber": 4,
+    "unitTheme": "创意与善意",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "bookOrder": 441,
+    "summary": "在善意不断传递的循环中，理解帮助他人的价值。"
+  },
+  "sentences": [
+    {
+      "id": "g8b-u4-p2-s1",
+      "text": "It was just before 2:30 pm in my hometown, Wenchuan.",
+      "paragraphId": "g8b-u4-p2-p1",
+      "tr": "那是在我的家乡汶川，下午2:30之前。",
+      "g": "主语 + 系动词 + 表语",
+      "d": "It指代时间。just before意为“就在...之前”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/aMKBbBUvgmGsZMPUQiBFoC.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s2",
+      "text": "I was having a music lesson at school.",
+      "paragraphId": "g8b-u4-p2-p1",
+      "tr": "我当时正在学校上音乐课。",
+      "g": "过去进行时",
+      "d": "was having表示过去某个时刻正在进行的动作。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/S5CP5CnfY6eHuRNEp26rig.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s3",
+      "text": "Suddenly, the ground shook hard and I was thrown to the floor.",
+      "paragraphId": "g8b-u4-p2-p1",
+      "tr": "突然，地面剧烈摇晃，我被摔到了地板上。",
+      "g": "并列复合句",
+      "d": "shook是shake的过去式。was thrown是被动语态。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UQKNHjDfNza437QWR6ymEE.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s4",
+      "text": "People were shouting all around me.",
+      "paragraphId": "g8b-u4-p2-p1",
+      "tr": "周围的人都在尖叫。",
+      "g": "过去进行时",
+      "d": "all around me意为“在我周围”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/JTZW8EofDdhPYzfYH4tNJD.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s5",
+      "text": "I jumped to my feet and rushed outside.",
+      "paragraphId": "g8b-u4-p2-p1",
+      "tr": "我一跃而起，冲向室外。",
+      "g": "并列谓语",
+      "d": "jump to one's feet意为“跳起来，一跃而起”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/cwzhBYFk6kdMg2p6eoCun6.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s6",
+      "text": "I was shocked to find all the other buildings were reduced to pieces.",
+      "paragraphId": "g8b-u4-p2-p1",
+      "tr": "我震惊地发现所有其他的建筑都变成了碎片。",
+      "g": "主语 + 系动词 + 表语 + 不定式",
+      "d": "be shocked to do sth. 震惊地做某事。reduce to pieces 变成碎片。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/jTbZXJ3mAxfhXTbez7HysU.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s7",
+      "text": "I was shaking all over with fear.",
+      "paragraphId": "g8b-u4-p2-p1",
+      "tr": "我全身因恐惧而发抖。",
+      "g": "过去进行时",
+      "d": "shake all over 全身发抖。with fear 因为恐惧。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dDYebmPnXGH7jufdgM8WWG.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s8",
+      "text": "Then, a pair of strong hands reached out to me – I was saved.",
+      "paragraphId": "g8b-u4-p2-p1",
+      "tr": "这时，一双有力的大手伸向了我——我获救了。",
+      "g": "主语 + 谓语 + 状语",
+      "d": "reach out to 伸向。was saved 被动语态。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/p5w2gyLo7xiqaoRqZXZJTM.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s9",
+      "text": "I can never forget those soldiers, firemen, doctors and nurses.",
+      "paragraphId": "g8b-u4-p2-p2",
+      "tr": "我永远忘不了那些士兵、消防员、医生和护士。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "can never forget 永远忘不了。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/TPqnyidka3T3efpTzt3vGW.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s10",
+      "text": "Day and night, they raced against time to save as many people as possible.",
+      "paragraphId": "g8b-u4-p2-p2",
+      "tr": "他们日以继夜地与时间赛跑，尽可能多地救人。",
+      "g": "主语 + 谓语 + 目的状语",
+      "d": "race against time 与时间赛跑。as...as possible 尽可能...。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/fy5V3jFvsnUN9mTqRFLS97.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s11",
+      "text": "I was deeply touched by their courage and hard work.",
+      "paragraphId": "g8b-u4-p2-p2",
+      "tr": "我被他们的勇气和努力深深打动了。",
+      "g": "被动语态",
+      "d": "be touched by 被...打动。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/N6T6PKkoe76dkFkb9SDirD.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s12",
+      "text": "So I made up my mind to become one of them.",
+      "paragraphId": "g8b-u4-p2-p2",
+      "tr": "所以我下定决心要成为他们中的一员。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "make up one's mind 下定决心。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XCi37e763dPQL8HJhpUZ32.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s13",
+      "text": "And I did! I graduated from college and became a nurse.",
+      "paragraphId": "g8b-u4-p2-p2",
+      "tr": "我做到了！我大学毕业后成为了一名护士。",
+      "g": "并列谓语",
+      "d": "graduate from 从...毕业。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZUnokRdcPZUS7GWMLcjiLZ.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s14",
+      "text": "One day, I heard another hospital needed support.",
+      "paragraphId": "g8b-u4-p2-p3",
+      "tr": "有一天，我听说另一家医院需要支援。",
+      "g": "宾语从句",
+      "d": "heard后面省略了that引导的宾语从句。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/mHmn2vAUhHvjPySFmaCVBZ.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s15",
+      "text": "Right away, I signed up to help.",
+      "paragraphId": "g8b-u4-p2-p3",
+      "tr": "我立刻报名去帮忙。",
+      "g": "主语 + 谓语 + 目的状语",
+      "d": "right away 立刻。sign up 报名。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FunNG6CZbU3cB3CeVDV9qh.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s16",
+      "text": "I still remembered the warmth of those helping hands 12 years ago.",
+      "paragraphId": "g8b-u4-p2-p3",
+      "tr": "我仍然记得12年前那些援助之手的温暖。",
+      "g": "主语 + 谓语 + 宾语",
+      "d": "warmth 是 warm 的名词形式。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7vLCTBZNH3eBEqK6fM8LAQ.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s17",
+      "text": "It was time for me to offer mine.",
+      "paragraphId": "g8b-u4-p2-p3",
+      "tr": "轮到我伸出援手了。",
+      "g": "It is time for sb. to do 句型",
+      "d": "mine指代my helping hands。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/T4DnWBLSaNtDgERA92oCYR.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s18",
+      "text": "The work was by no means easy.",
+      "paragraphId": "g8b-u4-p2-p4",
+      "tr": "这项工作绝非易事。",
+      "g": "主语 + 系动词 + 表语",
+      "d": "by no means 绝不，一点也不。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/5Z6k82dFite5mGuzpXHb2A.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s19",
+      "text": "The head nurse, Ye Man, gave me a lot of help.",
+      "paragraphId": "g8b-u4-p2-p4",
+      "tr": "护士长叶曼给了我很多帮助。",
+      "g": "主语 + 谓语 + 间接宾语 + 直接宾语",
+      "d": "Ye Man是The head nurse的同位语。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/oa6xiRZJrDPVTe7e7FA54d.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s20",
+      "text": "For me, she was a patient teacher and a kind friend.",
+      "paragraphId": "g8b-u4-p2-p4",
+      "tr": "对我来说，她是一位耐心的老师，也是一位善良的朋友。",
+      "g": "主语 + 系动词 + 表语",
+      "d": "patient 既可以做名词“病人”，也可以做形容词“耐心的”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UwFGnoQDnH7xKQ2T4WjPkj.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s21",
+      "text": "However, this wasn't the beginning of our connection.",
+      "paragraphId": "g8b-u4-p2-p4",
+      "tr": "然而，这并不是我们联系的开始。",
+      "g": "主语 + 系动词 + 表语",
+      "d": "不是。它是 was not 的缩写形式",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/udXTvMfr2Xn8u7Fs9W8sY4.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s22",
+      "text": "She had offered a helping hand to Wenchuan 12 years ago.",
+      "paragraphId": "g8b-u4-p2-p4",
+      "tr": "12年前，她曾向汶川伸出过援助之手。",
+      "g": "过去完成时",
+      "d": "had offered 表示在过去（12年前）已经发生的动作。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/mWFvatL7acr7zYmmRq5MfX.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s23",
+      "text": "Can you imagine my surprise?",
+      "paragraphId": "g8b-u4-p2-p4",
+      "tr": "你能想象我的惊讶吗？",
+      "g": "疑问句",
+      "d": "imagine 想象。surprise 惊讶。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/DYmy4nKABZCGYEwjHKGEj2.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s24",
+      "text": "At that time she was my age, and also a new nurse, just like me!",
+      "paragraphId": "g8b-u4-p2-p4",
+      "tr": "那时她和我现在的年纪一样大，也是一名新护士，就像我一样！",
+      "g": "并列复合句",
+      "d": "my age 意为“我的年纪”。just like 就像。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6VVaiMES6QXgixwMLWdAQe.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s25",
+      "text": "Even today, I still feel lucky to have had such an amazing experience in life.",
+      "paragraphId": "g8b-u4-p2-p5",
+      "tr": "即使在今天，我仍然觉得在生命中拥有这样一段奇妙的经历是很幸运的。",
+      "g": "主语 + 系动词 + 表语 + 不定式",
+      "d": "feel lucky to do 觉得做某事很幸运。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/xjmr8hyi4tqWL5VUXHtC8Y.mp3"
+    },
+    {
+      "id": "g8b-u4-p2-s26",
+      "text": "Love leads to love, and so creates a circle of goodwill and kindness.",
+      "paragraphId": "g8b-u4-p2-p5",
+      "tr": "爱引发爱，从而创造了一个善意和仁慈的循环。",
+      "g": "并列复合句",
+      "d": "lead to 导致，引发。goodwill 善意。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ta8B5Z53SHLLgiRHn9uPaN.mp3"
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "g8b-u4-p2-v1",
+      "term": "12",
+      "meaningZh": "num. 十二",
+      "exampleSentenceId": "g8b-u4-p2-s16"
+    },
+    {
+      "id": "g8b-u4-p2-v2",
+      "term": "2:30",
+      "meaningZh": "n. 两点三十分",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v3",
+      "term": "you",
+      "meaningZh": "pron. 你，你们",
+      "exampleSentenceId": "g8b-u4-p2-s23"
+    },
+    {
+      "id": "g8b-u4-p2-v4",
+      "term": "an",
+      "meaningZh": "art. 一个（用于元音音素前）",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v5",
+      "term": "it",
+      "meaningZh": "pron. 它",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v6",
+      "term": "was",
+      "meaningZh": "v. 是（be 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v7",
+      "term": "just",
+      "meaningZh": "adv. 仅仅，刚才",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v8",
+      "term": "before",
+      "meaningZh": "prep. 在...之前",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v9",
+      "term": "pm",
+      "meaningZh": "abbr. 下午",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v10",
+      "term": "in",
+      "meaningZh": "prep. 在...里面",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v11",
+      "term": "my",
+      "meaningZh": "pron. 我的",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v12",
+      "term": "hometown",
+      "meaningZh": "n. 家乡",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v13",
+      "term": "wenchuan",
+      "meaningZh": "n. 汶川（地名）",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v14",
+      "term": "i",
+      "meaningZh": "pron. 我",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v15",
+      "term": "having",
+      "meaningZh": "v. 有，吃，进行（have 的现在分词）",
+      "exampleSentenceId": "g8b-u4-p2-s2"
+    },
+    {
+      "id": "g8b-u4-p2-v16",
+      "term": "a",
+      "meaningZh": "art. 一个",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v17",
+      "term": "music",
+      "meaningZh": "n. 音乐",
+      "exampleSentenceId": "g8b-u4-p2-s2"
+    },
+    {
+      "id": "g8b-u4-p2-v18",
+      "term": "lesson",
+      "meaningZh": "n. 课",
+      "exampleSentenceId": "g8b-u4-p2-s2"
+    },
+    {
+      "id": "g8b-u4-p2-v19",
+      "term": "at",
+      "meaningZh": "prep. 在",
+      "exampleSentenceId": "g8b-u4-p2-s2"
+    },
+    {
+      "id": "g8b-u4-p2-v20",
+      "term": "school",
+      "meaningZh": "n. 学校",
+      "exampleSentenceId": "g8b-u4-p2-s2"
+    },
+    {
+      "id": "g8b-u4-p2-v21",
+      "term": "suddenly",
+      "meaningZh": "adv. 突然",
+      "exampleSentenceId": "g8b-u4-p2-s3"
+    },
+    {
+      "id": "g8b-u4-p2-v22",
+      "term": "the",
+      "meaningZh": "art. 这，那",
+      "exampleSentenceId": "g8b-u4-p2-s3"
+    },
+    {
+      "id": "g8b-u4-p2-v23",
+      "term": "ground",
+      "meaningZh": "n. 地面",
+      "exampleSentenceId": "g8b-u4-p2-s3"
+    },
+    {
+      "id": "g8b-u4-p2-v24",
+      "term": "shook",
+      "meaningZh": "v. 摇晃（shake 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s3"
+    },
+    {
+      "id": "g8b-u4-p2-v25",
+      "term": "hard",
+      "meaningZh": "adv. 剧烈地，努力地；adj. 努力的，硬的",
+      "exampleSentenceId": "g8b-u4-p2-s3"
+    },
+    {
+      "id": "g8b-u4-p2-v26",
+      "term": "and",
+      "meaningZh": "conj. 和，而且",
+      "exampleSentenceId": "g8b-u4-p2-s3"
+    },
+    {
+      "id": "g8b-u4-p2-v27",
+      "term": "thrown",
+      "meaningZh": "v. 投，掷（throw 的过去分词形式）",
+      "exampleSentenceId": "g8b-u4-p2-s3"
+    },
+    {
+      "id": "g8b-u4-p2-v28",
+      "term": "to",
+      "meaningZh": "prep. 到，向",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v29",
+      "term": "floor",
+      "meaningZh": "n. 地板",
+      "exampleSentenceId": "g8b-u4-p2-s3"
+    },
+    {
+      "id": "g8b-u4-p2-v30",
+      "term": "people",
+      "meaningZh": "n. 人们",
+      "exampleSentenceId": "g8b-u4-p2-s4"
+    },
+    {
+      "id": "g8b-u4-p2-v31",
+      "term": "were",
+      "meaningZh": "v. 是（be 的过去式复数）",
+      "exampleSentenceId": "g8b-u4-p2-s4"
+    },
+    {
+      "id": "g8b-u4-p2-v32",
+      "term": "shouting",
+      "meaningZh": "v. 尖叫，大喊（shout 的现在分词）",
+      "exampleSentenceId": "g8b-u4-p2-s4"
+    },
+    {
+      "id": "g8b-u4-p2-v33",
+      "term": "all",
+      "meaningZh": "adj. 全部的",
+      "exampleSentenceId": "g8b-u4-p2-s4"
+    },
+    {
+      "id": "g8b-u4-p2-v34",
+      "term": "around",
+      "meaningZh": "prep. 在...周围",
+      "exampleSentenceId": "g8b-u4-p2-s4"
+    },
+    {
+      "id": "g8b-u4-p2-v35",
+      "term": "me",
+      "meaningZh": "pron. 我（宾格）",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v36",
+      "term": "jumped",
+      "meaningZh": "v. 跳跃（jump 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s5"
+    },
+    {
+      "id": "g8b-u4-p2-v37",
+      "term": "feet",
+      "meaningZh": "n. 脚（foot 的复数）",
+      "exampleSentenceId": "g8b-u4-p2-s5"
+    },
+    {
+      "id": "g8b-u4-p2-v38",
+      "term": "rushed",
+      "meaningZh": "v. 冲，奔（rush 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s5"
+    },
+    {
+      "id": "g8b-u4-p2-v39",
+      "term": "outside",
+      "meaningZh": "adv. 在户外",
+      "exampleSentenceId": "g8b-u4-p2-s5"
+    },
+    {
+      "id": "g8b-u4-p2-v40",
+      "term": "shocked",
+      "meaningZh": "adj. 震惊的（shock 的过去分词）",
+      "exampleSentenceId": "g8b-u4-p2-s6"
+    },
+    {
+      "id": "g8b-u4-p2-v41",
+      "term": "find",
+      "meaningZh": "v. 发现",
+      "exampleSentenceId": "g8b-u4-p2-s6"
+    },
+    {
+      "id": "g8b-u4-p2-v42",
+      "term": "other",
+      "meaningZh": "adj. 其他的",
+      "exampleSentenceId": "g8b-u4-p2-s6"
+    },
+    {
+      "id": "g8b-u4-p2-v43",
+      "term": "buildings",
+      "meaningZh": "n. 建筑物（building 的复数）",
+      "exampleSentenceId": "g8b-u4-p2-s6"
+    },
+    {
+      "id": "g8b-u4-p2-v44",
+      "term": "reduced",
+      "meaningZh": "v. 减少，使变成（reduce 的过去分词）",
+      "exampleSentenceId": "g8b-u4-p2-s6"
+    },
+    {
+      "id": "g8b-u4-p2-v45",
+      "term": "pieces",
+      "meaningZh": "n. 碎片（piece 的复数）",
+      "exampleSentenceId": "g8b-u4-p2-s6"
+    },
+    {
+      "id": "g8b-u4-p2-v46",
+      "term": "means",
+      "meaningZh": "n. 方式，方法；by no means 绝不。这是 mean 的名词复数形式。",
+      "exampleSentenceId": "g8b-u4-p2-s18"
+    },
+    {
+      "id": "g8b-u4-p2-v47",
+      "term": "shaking",
+      "meaningZh": "v. 发抖，摇晃（shake 的现在分词）",
+      "exampleSentenceId": "g8b-u4-p2-s7"
+    },
+    {
+      "id": "g8b-u4-p2-v48",
+      "term": "over",
+      "meaningZh": "adv. 越过，遍及",
+      "exampleSentenceId": "g8b-u4-p2-s7"
+    },
+    {
+      "id": "g8b-u4-p2-v49",
+      "term": "with",
+      "meaningZh": "prep. 带有，因为",
+      "exampleSentenceId": "g8b-u4-p2-s7"
+    },
+    {
+      "id": "g8b-u4-p2-v50",
+      "term": "fear",
+      "meaningZh": "n. 恐惧",
+      "exampleSentenceId": "g8b-u4-p2-s7"
+    },
+    {
+      "id": "g8b-u4-p2-v51",
+      "term": "then",
+      "meaningZh": "adv. 然后，那时",
+      "exampleSentenceId": "g8b-u4-p2-s8"
+    },
+    {
+      "id": "g8b-u4-p2-v52",
+      "term": "pair",
+      "meaningZh": "n. 一双，一对",
+      "exampleSentenceId": "g8b-u4-p2-s8"
+    },
+    {
+      "id": "g8b-u4-p2-v53",
+      "term": "of",
+      "meaningZh": "prep. ...的",
+      "exampleSentenceId": "g8b-u4-p2-s8"
+    },
+    {
+      "id": "g8b-u4-p2-v54",
+      "term": "strong",
+      "meaningZh": "adj. 强壮的，有力的",
+      "exampleSentenceId": "g8b-u4-p2-s8"
+    },
+    {
+      "id": "g8b-u4-p2-v55",
+      "term": "hands",
+      "meaningZh": "n. 手（hand 的复数）",
+      "exampleSentenceId": "g8b-u4-p2-s8"
+    },
+    {
+      "id": "g8b-u4-p2-v56",
+      "term": "reached",
+      "meaningZh": "v. 到达，伸出（reach 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s8"
+    },
+    {
+      "id": "g8b-u4-p2-v57",
+      "term": "out",
+      "meaningZh": "adv. 向外",
+      "exampleSentenceId": "g8b-u4-p2-s4"
+    },
+    {
+      "id": "g8b-u4-p2-v58",
+      "term": "saved",
+      "meaningZh": "v. 救助，节省（save 的过去分词形式）",
+      "exampleSentenceId": "g8b-u4-p2-s8"
+    },
+    {
+      "id": "g8b-u4-p2-v59",
+      "term": "can",
+      "meaningZh": "v. 能，可以",
+      "exampleSentenceId": "g8b-u4-p2-s9"
+    },
+    {
+      "id": "g8b-u4-p2-v60",
+      "term": "never",
+      "meaningZh": "adv. 从不，绝不",
+      "exampleSentenceId": "g8b-u4-p2-s9"
+    },
+    {
+      "id": "g8b-u4-p2-v61",
+      "term": "forget",
+      "meaningZh": "v. 忘记",
+      "exampleSentenceId": "g8b-u4-p2-s9"
+    },
+    {
+      "id": "g8b-u4-p2-v62",
+      "term": "those",
+      "meaningZh": "pron. 那些",
+      "exampleSentenceId": "g8b-u4-p2-s9"
+    },
+    {
+      "id": "g8b-u4-p2-v63",
+      "term": "soldiers",
+      "meaningZh": "n. 士兵（soldier 的复数）",
+      "exampleSentenceId": "g8b-u4-p2-s9"
+    },
+    {
+      "id": "g8b-u4-p2-v64",
+      "term": "firemen",
+      "meaningZh": "n. 消防员（fireman 的复数）",
+      "exampleSentenceId": "g8b-u4-p2-s9"
+    },
+    {
+      "id": "g8b-u4-p2-v65",
+      "term": "doctors",
+      "meaningZh": "n. 医生（doctor 的复数）",
+      "exampleSentenceId": "g8b-u4-p2-s9"
+    },
+    {
+      "id": "g8b-u4-p2-v66",
+      "term": "nurses",
+      "meaningZh": "n. 护士（nurse 的复数）",
+      "exampleSentenceId": "g8b-u4-p2-s9"
+    },
+    {
+      "id": "g8b-u4-p2-v67",
+      "term": "day",
+      "meaningZh": "n. 白天，一天",
+      "exampleSentenceId": "g8b-u4-p2-s10"
+    },
+    {
+      "id": "g8b-u4-p2-v68",
+      "term": "night",
+      "meaningZh": "n. 夜晚",
+      "exampleSentenceId": "g8b-u4-p2-s10"
+    },
+    {
+      "id": "g8b-u4-p2-v69",
+      "term": "they",
+      "meaningZh": "pron. 他们",
+      "exampleSentenceId": "g8b-u4-p2-s10"
+    },
+    {
+      "id": "g8b-u4-p2-v70",
+      "term": "raced",
+      "meaningZh": "v. 赛跑，争分夺秒（race 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s10"
+    },
+    {
+      "id": "g8b-u4-p2-v71",
+      "term": "against",
+      "meaningZh": "prep. 反对，对抗",
+      "exampleSentenceId": "g8b-u4-p2-s10"
+    },
+    {
+      "id": "g8b-u4-p2-v72",
+      "term": "time",
+      "meaningZh": "n. 时间",
+      "exampleSentenceId": "g8b-u4-p2-s10"
+    },
+    {
+      "id": "g8b-u4-p2-v73",
+      "term": "save",
+      "meaningZh": "v. 救助",
+      "exampleSentenceId": "g8b-u4-p2-s8"
+    },
+    {
+      "id": "g8b-u4-p2-v74",
+      "term": "as",
+      "meaningZh": "adv. 同样地 conj. 当...时",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v75",
+      "term": "many",
+      "meaningZh": "adj. 许多的",
+      "exampleSentenceId": "g8b-u4-p2-s10"
+    },
+    {
+      "id": "g8b-u4-p2-v76",
+      "term": "possible",
+      "meaningZh": "adj. 可能的",
+      "exampleSentenceId": "g8b-u4-p2-s10"
+    },
+    {
+      "id": "g8b-u4-p2-v77",
+      "term": "deeply",
+      "meaningZh": "adv. 深深地",
+      "exampleSentenceId": "g8b-u4-p2-s11"
+    },
+    {
+      "id": "g8b-u4-p2-v78",
+      "term": "touched",
+      "meaningZh": "adj. 感动的（touch 的过去分词）",
+      "exampleSentenceId": "g8b-u4-p2-s11"
+    },
+    {
+      "id": "g8b-u4-p2-v79",
+      "term": "by",
+      "meaningZh": "prep. 被，通过",
+      "exampleSentenceId": "g8b-u4-p2-s11"
+    },
+    {
+      "id": "g8b-u4-p2-v80",
+      "term": "their",
+      "meaningZh": "pron. 他们的",
+      "exampleSentenceId": "g8b-u4-p2-s11"
+    },
+    {
+      "id": "g8b-u4-p2-v81",
+      "term": "courage",
+      "meaningZh": "n. 勇气",
+      "exampleSentenceId": "g8b-u4-p2-s11"
+    },
+    {
+      "id": "g8b-u4-p2-v82",
+      "term": "work",
+      "meaningZh": "n. 工作",
+      "exampleSentenceId": "g8b-u4-p2-s11"
+    },
+    {
+      "id": "g8b-u4-p2-v83",
+      "term": "so",
+      "meaningZh": "conj. 所以",
+      "exampleSentenceId": "g8b-u4-p2-s2"
+    },
+    {
+      "id": "g8b-u4-p2-v84",
+      "term": "made",
+      "meaningZh": "v. 制作（make 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s12"
+    },
+    {
+      "id": "g8b-u4-p2-v85",
+      "term": "up",
+      "meaningZh": "adv. 向上",
+      "exampleSentenceId": "g8b-u4-p2-s12"
+    },
+    {
+      "id": "g8b-u4-p2-v86",
+      "term": "mind",
+      "meaningZh": "n. 头脑，心思",
+      "exampleSentenceId": "g8b-u4-p2-s12"
+    },
+    {
+      "id": "g8b-u4-p2-v87",
+      "term": "become",
+      "meaningZh": "v. 成为",
+      "exampleSentenceId": "g8b-u4-p2-s12"
+    },
+    {
+      "id": "g8b-u4-p2-v88",
+      "term": "one",
+      "meaningZh": "num. 一个",
+      "exampleSentenceId": "g8b-u4-p2-s12"
+    },
+    {
+      "id": "g8b-u4-p2-v89",
+      "term": "them",
+      "meaningZh": "pron. 他们（宾格）",
+      "exampleSentenceId": "g8b-u4-p2-s12"
+    },
+    {
+      "id": "g8b-u4-p2-v90",
+      "term": "did",
+      "meaningZh": "v. 做（do 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s13"
+    },
+    {
+      "id": "g8b-u4-p2-v91",
+      "term": "graduated",
+      "meaningZh": "v. 毕业（graduate 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s13"
+    },
+    {
+      "id": "g8b-u4-p2-v92",
+      "term": "from",
+      "meaningZh": "prep. 从...",
+      "exampleSentenceId": "g8b-u4-p2-s13"
+    },
+    {
+      "id": "g8b-u4-p2-v93",
+      "term": "college",
+      "meaningZh": "n. 大学",
+      "exampleSentenceId": "g8b-u4-p2-s13"
+    },
+    {
+      "id": "g8b-u4-p2-v94",
+      "term": "became",
+      "meaningZh": "v. 成为（become 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s13"
+    },
+    {
+      "id": "g8b-u4-p2-v95",
+      "term": "nurse",
+      "meaningZh": "n. 护士",
+      "exampleSentenceId": "g8b-u4-p2-s9"
+    },
+    {
+      "id": "g8b-u4-p2-v96",
+      "term": "heard",
+      "meaningZh": "v. 听到（hear 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s14"
+    },
+    {
+      "id": "g8b-u4-p2-v97",
+      "term": "another",
+      "meaningZh": "adj. 另一个",
+      "exampleSentenceId": "g8b-u4-p2-s14"
+    },
+    {
+      "id": "g8b-u4-p2-v98",
+      "term": "hospital",
+      "meaningZh": "n. 医院",
+      "exampleSentenceId": "g8b-u4-p2-s14"
+    },
+    {
+      "id": "g8b-u4-p2-v99",
+      "term": "needed",
+      "meaningZh": "v. 需要（need 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s14"
+    },
+    {
+      "id": "g8b-u4-p2-v100",
+      "term": "support",
+      "meaningZh": "n./v. 支持，支援",
+      "exampleSentenceId": "g8b-u4-p2-s14"
+    },
+    {
+      "id": "g8b-u4-p2-v101",
+      "term": "right",
+      "meaningZh": "adv. 正确地，立刻",
+      "exampleSentenceId": "g8b-u4-p2-s15"
+    },
+    {
+      "id": "g8b-u4-p2-v102",
+      "term": "away",
+      "meaningZh": "adv. 离开，立刻",
+      "exampleSentenceId": "g8b-u4-p2-s15"
+    },
+    {
+      "id": "g8b-u4-p2-v103",
+      "term": "signed",
+      "meaningZh": "v. 签名，报名（sign 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s15"
+    },
+    {
+      "id": "g8b-u4-p2-v104",
+      "term": "still",
+      "meaningZh": "adv. 仍然",
+      "exampleSentenceId": "g8b-u4-p2-s16"
+    },
+    {
+      "id": "g8b-u4-p2-v105",
+      "term": "remembered",
+      "meaningZh": "v. 记得（remember 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s16"
+    },
+    {
+      "id": "g8b-u4-p2-v106",
+      "term": "warmth",
+      "meaningZh": "n. 温暖",
+      "exampleSentenceId": "g8b-u4-p2-s16"
+    },
+    {
+      "id": "g8b-u4-p2-v107",
+      "term": "helping",
+      "meaningZh": "adj. 帮助的（help 的现在分词）",
+      "exampleSentenceId": "g8b-u4-p2-s16"
+    },
+    {
+      "id": "g8b-u4-p2-v108",
+      "term": "years",
+      "meaningZh": "n. 年（year 的复数）",
+      "exampleSentenceId": "g8b-u4-p2-s16"
+    },
+    {
+      "id": "g8b-u4-p2-v109",
+      "term": "ago",
+      "meaningZh": "adv. 以前",
+      "exampleSentenceId": "g8b-u4-p2-s16"
+    },
+    {
+      "id": "g8b-u4-p2-v110",
+      "term": "for",
+      "meaningZh": "prep. 为了，对于",
+      "exampleSentenceId": "g8b-u4-p2-s1"
+    },
+    {
+      "id": "g8b-u4-p2-v111",
+      "term": "offer",
+      "meaningZh": "v. 提供",
+      "exampleSentenceId": "g8b-u4-p2-s17"
+    },
+    {
+      "id": "g8b-u4-p2-v112",
+      "term": "mine",
+      "meaningZh": "pron. 我的（名词性物主代词）",
+      "exampleSentenceId": "g8b-u4-p2-s17"
+    },
+    {
+      "id": "g8b-u4-p2-v113",
+      "term": "no",
+      "meaningZh": "adv. 不",
+      "exampleSentenceId": "g8b-u4-p2-s14"
+    },
+    {
+      "id": "g8b-u4-p2-v114",
+      "term": "easy",
+      "meaningZh": "adj. 容易的",
+      "exampleSentenceId": "g8b-u4-p2-s18"
+    },
+    {
+      "id": "g8b-u4-p2-v115",
+      "term": "head",
+      "meaningZh": "n. 头，首领",
+      "exampleSentenceId": "g8b-u4-p2-s19"
+    },
+    {
+      "id": "g8b-u4-p2-v116",
+      "term": "ye",
+      "meaningZh": "n. 叶（姓氏）",
+      "exampleSentenceId": "g8b-u4-p2-s16"
+    },
+    {
+      "id": "g8b-u4-p2-v117",
+      "term": "man",
+      "meaningZh": "n. 曼（名字）",
+      "exampleSentenceId": "g8b-u4-p2-s10"
+    },
+    {
+      "id": "g8b-u4-p2-v118",
+      "term": "gave",
+      "meaningZh": "v. 给（give 的过去式）",
+      "exampleSentenceId": "g8b-u4-p2-s19"
+    },
+    {
+      "id": "g8b-u4-p2-v119",
+      "term": "lot",
+      "meaningZh": "n. 许多",
+      "exampleSentenceId": "g8b-u4-p2-s19"
+    },
+    {
+      "id": "g8b-u4-p2-v120",
+      "term": "help",
+      "meaningZh": "n./v. 帮助",
+      "exampleSentenceId": "g8b-u4-p2-s15"
+    },
+    {
+      "id": "g8b-u4-p2-v121",
+      "term": "she",
+      "meaningZh": "pron. 她",
+      "exampleSentenceId": "g8b-u4-p2-s5"
+    },
+    {
+      "id": "g8b-u4-p2-v122",
+      "term": "patient",
+      "meaningZh": "adj. 耐心的 n. 病人",
+      "exampleSentenceId": "g8b-u4-p2-s20"
+    },
+    {
+      "id": "g8b-u4-p2-v123",
+      "term": "teacher",
+      "meaningZh": "n. 老师",
+      "exampleSentenceId": "g8b-u4-p2-s20"
+    },
+    {
+      "id": "g8b-u4-p2-v124",
+      "term": "kind",
+      "meaningZh": "adj. 善良的 n. 种类",
+      "exampleSentenceId": "g8b-u4-p2-s20"
+    },
+    {
+      "id": "g8b-u4-p2-v125",
+      "term": "friend",
+      "meaningZh": "n. 朋友",
+      "exampleSentenceId": "g8b-u4-p2-s20"
+    },
+    {
+      "id": "g8b-u4-p2-v126",
+      "term": "however",
+      "meaningZh": "adv. 然而",
+      "exampleSentenceId": "g8b-u4-p2-s21"
+    },
+    {
+      "id": "g8b-u4-p2-v127",
+      "term": "this",
+      "meaningZh": "pron. 这",
+      "exampleSentenceId": "g8b-u4-p2-s21"
+    },
+    {
+      "id": "g8b-u4-p2-v128",
+      "term": "wasn't",
+      "meaningZh": "不是。它是 was not 的缩写形式",
+      "exampleSentenceId": "g8b-u4-p2-s21"
+    },
+    {
+      "id": "g8b-u4-p2-v129",
+      "term": "beginning",
+      "meaningZh": "n. 开始",
+      "exampleSentenceId": "g8b-u4-p2-s21"
+    },
+    {
+      "id": "g8b-u4-p2-v130",
+      "term": "our",
+      "meaningZh": "pron. 我们的",
+      "exampleSentenceId": "g8b-u4-p2-s11"
+    },
+    {
+      "id": "g8b-u4-p2-v131",
+      "term": "connection",
+      "meaningZh": "n. 联系，连接",
+      "exampleSentenceId": "g8b-u4-p2-s21"
+    },
+    {
+      "id": "g8b-u4-p2-v132",
+      "term": "offered",
+      "meaningZh": "v. 提供（offer 的过去分词）",
+      "exampleSentenceId": "g8b-u4-p2-s22"
+    },
+    {
+      "id": "g8b-u4-p2-v133",
+      "term": "imagine",
+      "meaningZh": "v. 想象",
+      "exampleSentenceId": "g8b-u4-p2-s23"
+    },
+    {
+      "id": "g8b-u4-p2-v134",
+      "term": "surprise",
+      "meaningZh": "n. 惊讶",
+      "exampleSentenceId": "g8b-u4-p2-s23"
+    },
+    {
+      "id": "g8b-u4-p2-v135",
+      "term": "age",
+      "meaningZh": "n. 年龄",
+      "exampleSentenceId": "g8b-u4-p2-s11"
+    },
+    {
+      "id": "g8b-u4-p2-v136",
+      "term": "new",
+      "meaningZh": "adj. 新的",
+      "exampleSentenceId": "g8b-u4-p2-s24"
+    },
+    {
+      "id": "g8b-u4-p2-v137",
+      "term": "like",
+      "meaningZh": "prep. 像",
+      "exampleSentenceId": "g8b-u4-p2-s24"
+    },
+    {
+      "id": "g8b-u4-p2-v138",
+      "term": "even",
+      "meaningZh": "adv. 甚至",
+      "exampleSentenceId": "g8b-u4-p2-s25"
+    },
+    {
+      "id": "g8b-u4-p2-v139",
+      "term": "today",
+      "meaningZh": "adv. 今天",
+      "exampleSentenceId": "g8b-u4-p2-s25"
+    },
+    {
+      "id": "g8b-u4-p2-v140",
+      "term": "feel",
+      "meaningZh": "v. 感觉",
+      "exampleSentenceId": "g8b-u4-p2-s25"
+    },
+    {
+      "id": "g8b-u4-p2-v141",
+      "term": "lucky",
+      "meaningZh": "adj. 幸运的",
+      "exampleSentenceId": "g8b-u4-p2-s25"
+    },
+    {
+      "id": "g8b-u4-p2-v142",
+      "term": "have",
+      "meaningZh": "v. 有",
+      "exampleSentenceId": "g8b-u4-p2-s25"
+    },
+    {
+      "id": "g8b-u4-p2-v143",
+      "term": "had",
+      "meaningZh": "v. 有（have 的过去式）；v. 有（have 的过去分词）",
+      "exampleSentenceId": "g8b-u4-p2-s22"
+    },
+    {
+      "id": "g8b-u4-p2-v144",
+      "term": "such",
+      "meaningZh": "adj. 这样的",
+      "exampleSentenceId": "g8b-u4-p2-s25"
+    },
+    {
+      "id": "g8b-u4-p2-v145",
+      "term": "amazing",
+      "meaningZh": "adj. 令人惊叹的",
+      "exampleSentenceId": "g8b-u4-p2-s25"
+    },
+    {
+      "id": "g8b-u4-p2-v146",
+      "term": "experience",
+      "meaningZh": "n. 经历",
+      "exampleSentenceId": "g8b-u4-p2-s25"
+    },
+    {
+      "id": "g8b-u4-p2-v147",
+      "term": "life",
+      "meaningZh": "n. 生命，生活",
+      "exampleSentenceId": "g8b-u4-p2-s25"
+    },
+    {
+      "id": "g8b-u4-p2-v148",
+      "term": "love",
+      "meaningZh": "n./v. 爱",
+      "exampleSentenceId": "g8b-u4-p2-s26"
+    },
+    {
+      "id": "g8b-u4-p2-v149",
+      "term": "leads",
+      "meaningZh": "v. 导致，引导（lead 的第三人称单数）",
+      "exampleSentenceId": "g8b-u4-p2-s26"
+    },
+    {
+      "id": "g8b-u4-p2-v150",
+      "term": "creates",
+      "meaningZh": "v. 创造（create 的第三人称单数）",
+      "exampleSentenceId": "g8b-u4-p2-s26"
+    },
+    {
+      "id": "g8b-u4-p2-v151",
+      "term": "circle",
+      "meaningZh": "n. 圆圈，循环",
+      "exampleSentenceId": "g8b-u4-p2-s26"
+    },
+    {
+      "id": "g8b-u4-p2-v152",
+      "term": "goodwill",
+      "meaningZh": "n. 善意",
+      "exampleSentenceId": "g8b-u4-p2-s26"
+    },
+    {
+      "id": "g8b-u4-p2-v153",
+      "term": "kindness",
+      "meaningZh": "n. 仁慈，善良",
+      "exampleSentenceId": "g8b-u4-p2-s26"
+    },
+    {
+      "id": "g8b-u4-p2-v154",
+      "term": "also",
+      "meaningZh": "adv. 也，同样",
+      "exampleSentenceId": "g8b-u4-p2-s24"
+    },
+    {
+      "id": "g8b-u4-p2-v155",
+      "term": "that",
+      "meaningZh": "pron. 那，那个 conj. 引导从句",
+      "exampleSentenceId": "g8b-u4-p2-s24"
+    }
+  ],
+  "sentenceTasks": [],
+  "readingQuestions": [
+    {
+      "id": "reading-q1",
+      "type": "single_choice",
+      "stem": "What happened to the author 12 years ago?",
+      "options": [
+        "A. She became a nurse",
+        "B. She was saved in an earthquake",
+        "C. She met Ye Man in college",
+        "D. She moved to another city"
+      ],
+      "answer": "B. She was saved in an earthquake",
+      "rationaleZh": "第一段描述了汶川地震中作者被救的经历。"
+    },
+    {
+      "id": "reading-q2",
+      "type": "single_choice",
+      "stem": "Why did the author decide to become a nurse?",
+      "options": [
+        "A. Because her parents wanted her to",
+        "B. Because she liked music lessons",
+        "C. Because she was touched by the rescuers",
+        "D. Because it was an easy job"
+      ],
+      "answer": "C. Because she was touched by the rescuers",
+      "rationaleZh": "第二段提到作者被救援人员的勇气打动，下定决心成为他们中的一员。"
+    },
+    {
+      "id": "reading-q3",
+      "type": "single_choice",
+      "stem": "What surprising connection between the author and Ye Man?",
+      "options": [
+        "A. They were in the same college",
+        "B. Ye Man was the author's music teacher",
+        "C. Ye Man had helped Wenchuan 12 years ago",
+        "D. They were born in the same hometown"
+      ],
+      "answer": "C. Ye Man had helped Wenchuan 12 years ago",
+      "rationaleZh": "第四段揭示了叶曼12年前也曾支援过汶川。"
+    },
+    {
+      "id": "reading-q4",
+      "type": "single_choice",
+      "stem": "What does the author mean by 'It was time for me to offer mine' in the text?",
+      "options": [
+        "A. It was time for her to graduate from college",
+        "B. It was time for her to help others as she was helped",
+        "C. It was time for her to find a new job in the hospital",
+        "D. It was time for her to return to her hometown Wenchuan"
+      ],
+      "answer": "B. It was time for her to help others as she was helped",
+      "rationaleZh": "文中'mine'指代'helping hands'，作者认为现在轮到自己像当年被救助一样去帮助别人了。"
+    },
+    {
+      "id": "reading-q5",
+      "type": "single_choice",
+      "stem": "What does 'Love leads to love' mean in the text?",
+      "options": [
+        "A. Love is a circle of kindness",
+        "B. People only love their family",
+        "C. Love is hard to find",
+        "D. You should love your job"
+      ],
+      "answer": "A. Love is a circle of kindness",
+      "rationaleZh": "最后一段总结了爱心的传递创造了善意的循环。"
+    }
+  ],
+  "quoteCandidates": [],
+  "lexicon": {
+    "12": {
+      "phonetic": "/twelv/",
+      "pos": "",
+      "meaningZh": "num. 十二",
+      "usageZh": "",
+      "example": ""
+    },
+    "2:30": {
+      "phonetic": "/tuː θɜːti/",
+      "pos": "",
+      "meaningZh": "n. 两点三十分",
+      "usageZh": "",
+      "example": ""
+    },
+    "you": {
+      "phonetic": "/ju/",
+      "pos": "",
+      "meaningZh": "pron. 你，你们",
+      "usageZh": "",
+      "example": ""
+    },
+    "an": {
+      "phonetic": "/ən/",
+      "pos": "",
+      "meaningZh": "art. 一个（用于元音音素前）",
+      "usageZh": "",
+      "example": ""
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "pos": "",
+      "meaningZh": "pron. 它",
+      "usageZh": "",
+      "example": ""
+    },
+    "was": {
+      "phonetic": "/wɒz/",
+      "pos": "",
+      "meaningZh": "v. 是（be 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "just": {
+      "phonetic": "/dʒʌst/",
+      "pos": "",
+      "meaningZh": "adv. 仅仅，刚才",
+      "usageZh": "",
+      "example": ""
+    },
+    "before": {
+      "phonetic": "/bɪˈfɔː(r)/",
+      "pos": "",
+      "meaningZh": "prep. 在...之前",
+      "usageZh": "",
+      "example": ""
+    },
+    "pm": {
+      "phonetic": "/ˌpiː ˈem/",
+      "pos": "",
+      "meaningZh": "abbr. 下午",
+      "usageZh": "",
+      "example": ""
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "pos": "",
+      "meaningZh": "prep. 在...里面",
+      "usageZh": "",
+      "example": ""
+    },
+    "my": {
+      "phonetic": "/maɪ/",
+      "pos": "",
+      "meaningZh": "pron. 我的",
+      "usageZh": "",
+      "example": ""
+    },
+    "hometown": {
+      "phonetic": "/ˈhəʊmtaʊn/",
+      "pos": "",
+      "meaningZh": "n. 家乡",
+      "usageZh": "",
+      "example": ""
+    },
+    "wenchuan": {
+      "phonetic": "/wen'tʃwæn/",
+      "pos": "",
+      "meaningZh": "n. 汶川（地名）",
+      "usageZh": "",
+      "example": ""
+    },
+    "i": {
+      "phonetic": "/aɪ/",
+      "pos": "",
+      "meaningZh": "pron. 我",
+      "usageZh": "",
+      "example": ""
+    },
+    "having": {
+      "phonetic": "/ˈhævɪŋ/",
+      "pos": "",
+      "meaningZh": "v. 有，吃，进行（have 的现在分词）",
+      "usageZh": "",
+      "example": ""
+    },
+    "a": {
+      "phonetic": "/ə/",
+      "pos": "",
+      "meaningZh": "art. 一个",
+      "usageZh": "",
+      "example": ""
+    },
+    "music": {
+      "phonetic": "/ˈmjuːzɪk/",
+      "pos": "",
+      "meaningZh": "n. 音乐",
+      "usageZh": "",
+      "example": ""
+    },
+    "lesson": {
+      "phonetic": "/ˈlesn/",
+      "pos": "",
+      "meaningZh": "n. 课",
+      "usageZh": "",
+      "example": ""
+    },
+    "at": {
+      "phonetic": "/æt/",
+      "pos": "",
+      "meaningZh": "prep. 在",
+      "usageZh": "",
+      "example": ""
+    },
+    "school": {
+      "phonetic": "/skuːl/",
+      "pos": "",
+      "meaningZh": "n. 学校",
+      "usageZh": "",
+      "example": ""
+    },
+    "suddenly": {
+      "phonetic": "/ˈsʌdənli/",
+      "pos": "",
+      "meaningZh": "adv. 突然",
+      "usageZh": "",
+      "example": ""
+    },
+    "the": {
+      "phonetic": "/ðə/ (在元音前读 [ði:])",
+      "pos": "",
+      "meaningZh": "art. 这，那",
+      "usageZh": "",
+      "example": ""
+    },
+    "ground": {
+      "phonetic": "/ɡraʊnd/",
+      "pos": "",
+      "meaningZh": "n. 地面",
+      "usageZh": "",
+      "example": ""
+    },
+    "shook": {
+      "phonetic": "/ʃʊk/",
+      "pos": "",
+      "meaningZh": "v. 摇晃（shake 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "hard": {
+      "phonetic": "/hɑːd/",
+      "pos": "",
+      "meaningZh": "adv. 剧烈地，努力地；adj. 努力的，硬的",
+      "usageZh": "",
+      "example": ""
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "pos": "",
+      "meaningZh": "conj. 和，而且",
+      "usageZh": "",
+      "example": ""
+    },
+    "thrown": {
+      "phonetic": "/θrəʊn/",
+      "pos": "",
+      "meaningZh": "v. 投，掷（throw 的过去分词形式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "to": {
+      "phonetic": "/tu/",
+      "pos": "",
+      "meaningZh": "prep. 到，向",
+      "usageZh": "",
+      "example": ""
+    },
+    "floor": {
+      "phonetic": "/flɔː(r)/",
+      "pos": "",
+      "meaningZh": "n. 地板",
+      "usageZh": "",
+      "example": ""
+    },
+    "people": {
+      "phonetic": "/ˈpiːpl/",
+      "pos": "",
+      "meaningZh": "n. 人们",
+      "usageZh": "",
+      "example": ""
+    },
+    "were": {
+      "phonetic": "/wɜː(r)/",
+      "pos": "",
+      "meaningZh": "v. 是（be 的过去式复数）",
+      "usageZh": "",
+      "example": ""
+    },
+    "shouting": {
+      "phonetic": "/ˈʃaʊtɪŋ/",
+      "pos": "",
+      "meaningZh": "v. 尖叫，大喊（shout 的现在分词）",
+      "usageZh": "",
+      "example": ""
+    },
+    "all": {
+      "phonetic": "/ɔːl/",
+      "pos": "",
+      "meaningZh": "adj. 全部的",
+      "usageZh": "",
+      "example": ""
+    },
+    "around": {
+      "phonetic": "/əˈraʊnd/",
+      "pos": "",
+      "meaningZh": "prep. 在...周围",
+      "usageZh": "",
+      "example": ""
+    },
+    "me": {
+      "phonetic": "/mi/",
+      "pos": "",
+      "meaningZh": "pron. 我（宾格）",
+      "usageZh": "",
+      "example": ""
+    },
+    "jumped": {
+      "phonetic": "/dʒʌmpt/",
+      "pos": "",
+      "meaningZh": "v. 跳跃（jump 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "feet": {
+      "phonetic": "/fiːt/",
+      "pos": "",
+      "meaningZh": "n. 脚（foot 的复数）",
+      "usageZh": "",
+      "example": ""
+    },
+    "rushed": {
+      "phonetic": "/rʌʃt/",
+      "pos": "",
+      "meaningZh": "v. 冲，奔（rush 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "outside": {
+      "phonetic": "/ˌaʊtˈsaɪd/",
+      "pos": "",
+      "meaningZh": "adv. 在户外",
+      "usageZh": "",
+      "example": ""
+    },
+    "shocked": {
+      "phonetic": "/ʃɒkt/",
+      "pos": "",
+      "meaningZh": "adj. 震惊的（shock 的过去分词）",
+      "usageZh": "",
+      "example": ""
+    },
+    "find": {
+      "phonetic": "/faɪnd/",
+      "pos": "",
+      "meaningZh": "v. 发现",
+      "usageZh": "",
+      "example": ""
+    },
+    "other": {
+      "phonetic": "/ˈʌðə(r)/",
+      "pos": "",
+      "meaningZh": "adj. 其他的",
+      "usageZh": "",
+      "example": ""
+    },
+    "buildings": {
+      "phonetic": "/ˈbɪldɪŋz/",
+      "pos": "",
+      "meaningZh": "n. 建筑物（building 的复数）",
+      "usageZh": "",
+      "example": ""
+    },
+    "reduced": {
+      "phonetic": "/rɪˈdjuːst/",
+      "pos": "",
+      "meaningZh": "v. 减少，使变成（reduce 的过去分词）",
+      "usageZh": "",
+      "example": ""
+    },
+    "pieces": {
+      "phonetic": "/ˈpiːsɪz/",
+      "pos": "",
+      "meaningZh": "n. 碎片（piece 的复数）",
+      "usageZh": "",
+      "example": ""
+    },
+    "means": {
+      "phonetic": "/miːnz/",
+      "pos": "",
+      "meaningZh": "n. 方式，方法；by no means 绝不。这是 mean 的名词复数形式。",
+      "usageZh": "",
+      "example": ""
+    },
+    "shaking": {
+      "phonetic": "/ˈʃeɪkɪŋ/",
+      "pos": "",
+      "meaningZh": "v. 发抖，摇晃（shake 的现在分词）",
+      "usageZh": "",
+      "example": ""
+    },
+    "over": {
+      "phonetic": "/ˈəʊvə(r)/",
+      "pos": "",
+      "meaningZh": "adv. 越过，遍及",
+      "usageZh": "",
+      "example": ""
+    },
+    "with": {
+      "phonetic": "/wɪð/",
+      "pos": "",
+      "meaningZh": "prep. 带有，因为",
+      "usageZh": "",
+      "example": ""
+    },
+    "fear": {
+      "phonetic": "/fɪə(r)/",
+      "pos": "",
+      "meaningZh": "n. 恐惧",
+      "usageZh": "",
+      "example": ""
+    },
+    "then": {
+      "phonetic": "/ðen/",
+      "pos": "",
+      "meaningZh": "adv. 然后，那时",
+      "usageZh": "",
+      "example": ""
+    },
+    "pair": {
+      "phonetic": "/peə(r)/",
+      "pos": "",
+      "meaningZh": "n. 一双，一对",
+      "usageZh": "",
+      "example": ""
+    },
+    "of": {
+      "phonetic": "/ɒv/",
+      "pos": "",
+      "meaningZh": "prep. ...的",
+      "usageZh": "",
+      "example": ""
+    },
+    "strong": {
+      "phonetic": "/strɒŋ/",
+      "pos": "",
+      "meaningZh": "adj. 强壮的，有力的",
+      "usageZh": "",
+      "example": ""
+    },
+    "hands": {
+      "phonetic": "/hændz/",
+      "pos": "",
+      "meaningZh": "n. 手（hand 的复数）",
+      "usageZh": "",
+      "example": ""
+    },
+    "reached": {
+      "phonetic": "/riːtʃt/",
+      "pos": "",
+      "meaningZh": "v. 到达，伸出（reach 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "out": {
+      "phonetic": "/aʊt/",
+      "pos": "",
+      "meaningZh": "adv. 向外",
+      "usageZh": "",
+      "example": ""
+    },
+    "saved": {
+      "phonetic": "/seɪvd/",
+      "pos": "",
+      "meaningZh": "v. 救助，节省（save 的过去分词形式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "can": {
+      "phonetic": "/kæn/",
+      "pos": "",
+      "meaningZh": "v. 能，可以",
+      "usageZh": "",
+      "example": ""
+    },
+    "never": {
+      "phonetic": "/ˈnevə(r)/",
+      "pos": "",
+      "meaningZh": "adv. 从不，绝不",
+      "usageZh": "",
+      "example": ""
+    },
+    "forget": {
+      "phonetic": "/fəˈɡet/",
+      "pos": "",
+      "meaningZh": "v. 忘记",
+      "usageZh": "",
+      "example": ""
+    },
+    "those": {
+      "phonetic": "/ðəʊz/",
+      "pos": "",
+      "meaningZh": "pron. 那些",
+      "usageZh": "",
+      "example": ""
+    },
+    "soldiers": {
+      "phonetic": "/ˈsəʊldʒəz/",
+      "pos": "",
+      "meaningZh": "n. 士兵（soldier 的复数）",
+      "usageZh": "",
+      "example": ""
+    },
+    "firemen": {
+      "phonetic": "/ˈfaɪəmən/",
+      "pos": "",
+      "meaningZh": "n. 消防员（fireman 的复数）",
+      "usageZh": "",
+      "example": ""
+    },
+    "doctors": {
+      "phonetic": "/ˈdɒktəz/",
+      "pos": "",
+      "meaningZh": "n. 医生（doctor 的复数）",
+      "usageZh": "",
+      "example": ""
+    },
+    "nurses": {
+      "phonetic": "/ˈnɜːsɪz/",
+      "pos": "",
+      "meaningZh": "n. 护士（nurse 的复数）",
+      "usageZh": "",
+      "example": ""
+    },
+    "day": {
+      "phonetic": "/deɪ/",
+      "pos": "",
+      "meaningZh": "n. 白天，一天",
+      "usageZh": "",
+      "example": ""
+    },
+    "night": {
+      "phonetic": "/naɪt/",
+      "pos": "",
+      "meaningZh": "n. 夜晚",
+      "usageZh": "",
+      "example": ""
+    },
+    "they": {
+      "phonetic": "/ðeɪ/",
+      "pos": "",
+      "meaningZh": "pron. 他们",
+      "usageZh": "",
+      "example": ""
+    },
+    "raced": {
+      "phonetic": "/reɪst/",
+      "pos": "",
+      "meaningZh": "v. 赛跑，争分夺秒（race 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "against": {
+      "phonetic": "/əˈɡeɪnst/",
+      "pos": "",
+      "meaningZh": "prep. 反对，对抗",
+      "usageZh": "",
+      "example": ""
+    },
+    "time": {
+      "phonetic": "/taɪm/",
+      "pos": "",
+      "meaningZh": "n. 时间",
+      "usageZh": "",
+      "example": ""
+    },
+    "save": {
+      "phonetic": "/seɪv/",
+      "pos": "",
+      "meaningZh": "v. 救助",
+      "usageZh": "",
+      "example": ""
+    },
+    "as": {
+      "phonetic": "/æz/",
+      "pos": "",
+      "meaningZh": "adv. 同样地 conj. 当...时",
+      "usageZh": "",
+      "example": ""
+    },
+    "many": {
+      "phonetic": "/ˈmeni/",
+      "pos": "",
+      "meaningZh": "adj. 许多的",
+      "usageZh": "",
+      "example": ""
+    },
+    "possible": {
+      "phonetic": "/ˈpɒsəbl/",
+      "pos": "",
+      "meaningZh": "adj. 可能的",
+      "usageZh": "",
+      "example": ""
+    },
+    "deeply": {
+      "phonetic": "/ˈdiːpli/",
+      "pos": "",
+      "meaningZh": "adv. 深深地",
+      "usageZh": "",
+      "example": ""
+    },
+    "touched": {
+      "phonetic": "/tʌtʃt/",
+      "pos": "",
+      "meaningZh": "adj. 感动的（touch 的过去分词）",
+      "usageZh": "",
+      "example": ""
+    },
+    "by": {
+      "phonetic": "/baɪ/",
+      "pos": "",
+      "meaningZh": "prep. 被，通过",
+      "usageZh": "",
+      "example": ""
+    },
+    "their": {
+      "phonetic": "/ðeə(r)/",
+      "pos": "",
+      "meaningZh": "pron. 他们的",
+      "usageZh": "",
+      "example": ""
+    },
+    "courage": {
+      "phonetic": "/ˈkʌrɪdʒ/",
+      "pos": "",
+      "meaningZh": "n. 勇气",
+      "usageZh": "",
+      "example": ""
+    },
+    "work": {
+      "phonetic": "/wɜːk/",
+      "pos": "",
+      "meaningZh": "n. 工作",
+      "usageZh": "",
+      "example": ""
+    },
+    "so": {
+      "phonetic": "/səʊ/",
+      "pos": "",
+      "meaningZh": "conj. 所以",
+      "usageZh": "",
+      "example": ""
+    },
+    "made": {
+      "phonetic": "/meɪd/",
+      "pos": "",
+      "meaningZh": "v. 制作（make 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "up": {
+      "phonetic": "/ʌp/",
+      "pos": "",
+      "meaningZh": "adv. 向上",
+      "usageZh": "",
+      "example": ""
+    },
+    "mind": {
+      "phonetic": "/maɪnd/",
+      "pos": "",
+      "meaningZh": "n. 头脑，心思",
+      "usageZh": "",
+      "example": ""
+    },
+    "become": {
+      "phonetic": "/bɪˈkʌm/",
+      "pos": "",
+      "meaningZh": "v. 成为",
+      "usageZh": "",
+      "example": ""
+    },
+    "one": {
+      "phonetic": "/wʌn/",
+      "pos": "",
+      "meaningZh": "num. 一个",
+      "usageZh": "",
+      "example": ""
+    },
+    "them": {
+      "phonetic": "/ðem/",
+      "pos": "",
+      "meaningZh": "pron. 他们（宾格）",
+      "usageZh": "",
+      "example": ""
+    },
+    "did": {
+      "phonetic": "/dɪd/",
+      "pos": "",
+      "meaningZh": "v. 做（do 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "graduated": {
+      "phonetic": "/ˈɡrædʒueɪtɪd/",
+      "pos": "",
+      "meaningZh": "v. 毕业（graduate 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "from": {
+      "phonetic": "/frɒm/",
+      "pos": "",
+      "meaningZh": "prep. 从...",
+      "usageZh": "",
+      "example": ""
+    },
+    "college": {
+      "phonetic": "/ˈkɒlɪdʒ/",
+      "pos": "",
+      "meaningZh": "n. 大学",
+      "usageZh": "",
+      "example": ""
+    },
+    "became": {
+      "phonetic": "/bɪˈkeɪm/",
+      "pos": "",
+      "meaningZh": "v. 成为（become 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "nurse": {
+      "phonetic": "/nɜːs/",
+      "pos": "",
+      "meaningZh": "n. 护士",
+      "usageZh": "",
+      "example": ""
+    },
+    "heard": {
+      "phonetic": "/hɜːd/",
+      "pos": "",
+      "meaningZh": "v. 听到（hear 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "another": {
+      "phonetic": "/əˈnʌðə(r)/",
+      "pos": "",
+      "meaningZh": "adj. 另一个",
+      "usageZh": "",
+      "example": ""
+    },
+    "hospital": {
+      "phonetic": "/ˈhɒspɪtl/",
+      "pos": "",
+      "meaningZh": "n. 医院",
+      "usageZh": "",
+      "example": ""
+    },
+    "needed": {
+      "phonetic": "/ˈniːdɪd/",
+      "pos": "",
+      "meaningZh": "v. 需要（need 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "support": {
+      "phonetic": "/səˈpɔːt/",
+      "pos": "",
+      "meaningZh": "n./v. 支持，支援",
+      "usageZh": "",
+      "example": ""
+    },
+    "right": {
+      "phonetic": "/raɪt/",
+      "pos": "",
+      "meaningZh": "adv. 正确地，立刻",
+      "usageZh": "",
+      "example": ""
+    },
+    "away": {
+      "phonetic": "/əˈweɪ/",
+      "pos": "",
+      "meaningZh": "adv. 离开，立刻",
+      "usageZh": "",
+      "example": ""
+    },
+    "signed": {
+      "phonetic": "/saɪnd/",
+      "pos": "",
+      "meaningZh": "v. 签名，报名（sign 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "still": {
+      "phonetic": "/stɪl/",
+      "pos": "",
+      "meaningZh": "adv. 仍然",
+      "usageZh": "",
+      "example": ""
+    },
+    "remembered": {
+      "phonetic": "/rɪˈmembəd/",
+      "pos": "",
+      "meaningZh": "v. 记得（remember 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "warmth": {
+      "phonetic": "/wɔːmθ/",
+      "pos": "",
+      "meaningZh": "n. 温暖",
+      "usageZh": "",
+      "example": ""
+    },
+    "helping": {
+      "phonetic": "/ˈhelpɪŋ/",
+      "pos": "",
+      "meaningZh": "adj. 帮助的（help 的现在分词）",
+      "usageZh": "",
+      "example": ""
+    },
+    "years": {
+      "phonetic": "/jɪəz/",
+      "pos": "",
+      "meaningZh": "n. 年（year 的复数）",
+      "usageZh": "",
+      "example": ""
+    },
+    "ago": {
+      "phonetic": "/əˈɡəʊ/",
+      "pos": "",
+      "meaningZh": "adv. 以前",
+      "usageZh": "",
+      "example": ""
+    },
+    "for": {
+      "phonetic": "/fɔː(r)/",
+      "pos": "",
+      "meaningZh": "prep. 为了，对于",
+      "usageZh": "",
+      "example": ""
+    },
+    "offer": {
+      "phonetic": "/ˈɒfə(r)/",
+      "pos": "",
+      "meaningZh": "v. 提供",
+      "usageZh": "",
+      "example": ""
+    },
+    "mine": {
+      "phonetic": "/maɪn/",
+      "pos": "",
+      "meaningZh": "pron. 我的（名词性物主代词）",
+      "usageZh": "",
+      "example": ""
+    },
+    "no": {
+      "phonetic": "/nəʊ/",
+      "pos": "",
+      "meaningZh": "adv. 不",
+      "usageZh": "",
+      "example": ""
+    },
+    "easy": {
+      "phonetic": "/ˈiːzi/",
+      "pos": "",
+      "meaningZh": "adj. 容易的",
+      "usageZh": "",
+      "example": ""
+    },
+    "head": {
+      "phonetic": "/hed/",
+      "pos": "",
+      "meaningZh": "n. 头，首领",
+      "usageZh": "",
+      "example": ""
+    },
+    "ye": {
+      "phonetic": "/jiː/",
+      "pos": "",
+      "meaningZh": "n. 叶（姓氏）",
+      "usageZh": "",
+      "example": ""
+    },
+    "man": {
+      "phonetic": "/mæn/",
+      "pos": "",
+      "meaningZh": "n. 曼（名字）",
+      "usageZh": "",
+      "example": ""
+    },
+    "gave": {
+      "phonetic": "/ɡeɪv/",
+      "pos": "",
+      "meaningZh": "v. 给（give 的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "lot": {
+      "phonetic": "/lɒt/",
+      "pos": "",
+      "meaningZh": "n. 许多",
+      "usageZh": "",
+      "example": ""
+    },
+    "help": {
+      "phonetic": "/help/",
+      "pos": "",
+      "meaningZh": "n./v. 帮助",
+      "usageZh": "",
+      "example": ""
+    },
+    "she": {
+      "phonetic": "/ʃi/",
+      "pos": "",
+      "meaningZh": "pron. 她",
+      "usageZh": "",
+      "example": ""
+    },
+    "patient": {
+      "phonetic": "/ˈpeɪʃnt/",
+      "pos": "",
+      "meaningZh": "adj. 耐心的 n. 病人",
+      "usageZh": "",
+      "example": ""
+    },
+    "teacher": {
+      "phonetic": "/ˈtiːtʃə(r)/",
+      "pos": "",
+      "meaningZh": "n. 老师",
+      "usageZh": "",
+      "example": ""
+    },
+    "kind": {
+      "phonetic": "/kaɪnd/",
+      "pos": "",
+      "meaningZh": "adj. 善良的 n. 种类",
+      "usageZh": "",
+      "example": ""
+    },
+    "friend": {
+      "phonetic": "/frend/",
+      "pos": "",
+      "meaningZh": "n. 朋友",
+      "usageZh": "",
+      "example": ""
+    },
+    "however": {
+      "phonetic": "/haʊˈevə(r)/",
+      "pos": "",
+      "meaningZh": "adv. 然而",
+      "usageZh": "",
+      "example": ""
+    },
+    "this": {
+      "phonetic": "/ðɪs/",
+      "pos": "",
+      "meaningZh": "pron. 这",
+      "usageZh": "",
+      "example": ""
+    },
+    "wasn't": {
+      "phonetic": "/ˈwɒznt/",
+      "pos": "",
+      "meaningZh": "不是。它是 was not 的缩写形式",
+      "usageZh": "",
+      "example": ""
+    },
+    "beginning": {
+      "phonetic": "/bɪˈɡɪnɪŋ/",
+      "pos": "",
+      "meaningZh": "n. 开始",
+      "usageZh": "",
+      "example": ""
+    },
+    "our": {
+      "phonetic": "/ˈaʊə(r)/",
+      "pos": "",
+      "meaningZh": "pron. 我们的",
+      "usageZh": "",
+      "example": ""
+    },
+    "connection": {
+      "phonetic": "/kəˈnekʃn/",
+      "pos": "",
+      "meaningZh": "n. 联系，连接",
+      "usageZh": "",
+      "example": ""
+    },
+    "offered": {
+      "phonetic": "/ˈɒfəd/",
+      "pos": "",
+      "meaningZh": "v. 提供（offer 的过去分词）",
+      "usageZh": "",
+      "example": ""
+    },
+    "imagine": {
+      "phonetic": "/ɪˈmædʒɪn/",
+      "pos": "",
+      "meaningZh": "v. 想象",
+      "usageZh": "",
+      "example": ""
+    },
+    "surprise": {
+      "phonetic": "/səˈpraɪz/",
+      "pos": "",
+      "meaningZh": "n. 惊讶",
+      "usageZh": "",
+      "example": ""
+    },
+    "age": {
+      "phonetic": "/eɪdʒ/",
+      "pos": "",
+      "meaningZh": "n. 年龄",
+      "usageZh": "",
+      "example": ""
+    },
+    "new": {
+      "phonetic": "/njuː/",
+      "pos": "",
+      "meaningZh": "adj. 新的",
+      "usageZh": "",
+      "example": ""
+    },
+    "like": {
+      "phonetic": "/laɪk/",
+      "pos": "",
+      "meaningZh": "prep. 像",
+      "usageZh": "",
+      "example": ""
+    },
+    "even": {
+      "phonetic": "/ˈiːvn/",
+      "pos": "",
+      "meaningZh": "adv. 甚至",
+      "usageZh": "",
+      "example": ""
+    },
+    "today": {
+      "phonetic": "/təˈdeɪ/",
+      "pos": "",
+      "meaningZh": "adv. 今天",
+      "usageZh": "",
+      "example": ""
+    },
+    "feel": {
+      "phonetic": "/fiːl/",
+      "pos": "",
+      "meaningZh": "v. 感觉",
+      "usageZh": "",
+      "example": ""
+    },
+    "lucky": {
+      "phonetic": "/ˈlʌki/",
+      "pos": "",
+      "meaningZh": "adj. 幸运的",
+      "usageZh": "",
+      "example": ""
+    },
+    "have": {
+      "phonetic": "/hæv/",
+      "pos": "",
+      "meaningZh": "v. 有",
+      "usageZh": "",
+      "example": ""
+    },
+    "had": {
+      "phonetic": "/hæd/",
+      "pos": "",
+      "meaningZh": "v. 有（have 的过去式）；v. 有（have 的过去分词）",
+      "usageZh": "",
+      "example": ""
+    },
+    "such": {
+      "phonetic": "/sʌtʃ/",
+      "pos": "",
+      "meaningZh": "adj. 这样的",
+      "usageZh": "",
+      "example": ""
+    },
+    "amazing": {
+      "phonetic": "/əˈmeɪzɪŋ/",
+      "pos": "",
+      "meaningZh": "adj. 令人惊叹的",
+      "usageZh": "",
+      "example": ""
+    },
+    "experience": {
+      "phonetic": "/ɪkˈspɪəriəns/",
+      "pos": "",
+      "meaningZh": "n. 经历",
+      "usageZh": "",
+      "example": ""
+    },
+    "life": {
+      "phonetic": "/laɪf/",
+      "pos": "",
+      "meaningZh": "n. 生命，生活",
+      "usageZh": "",
+      "example": ""
+    },
+    "love": {
+      "phonetic": "/lʌv/",
+      "pos": "",
+      "meaningZh": "n./v. 爱",
+      "usageZh": "",
+      "example": ""
+    },
+    "leads": {
+      "phonetic": "/liːdz/",
+      "pos": "",
+      "meaningZh": "v. 导致，引导（lead 的第三人称单数）",
+      "usageZh": "",
+      "example": ""
+    },
+    "creates": {
+      "phonetic": "/kriˈeɪts/",
+      "pos": "",
+      "meaningZh": "v. 创造（create 的第三人称单数）",
+      "usageZh": "",
+      "example": ""
+    },
+    "circle": {
+      "phonetic": "/ˈsɜːkl/",
+      "pos": "",
+      "meaningZh": "n. 圆圈，循环",
+      "usageZh": "",
+      "example": ""
+    },
+    "goodwill": {
+      "phonetic": "/ˌɡʊdˈwɪl/",
+      "pos": "",
+      "meaningZh": "n. 善意",
+      "usageZh": "",
+      "example": ""
+    },
+    "kindness": {
+      "phonetic": "/ˈkaɪndnəs/",
+      "pos": "",
+      "meaningZh": "n. 仁慈，善良",
+      "usageZh": "",
+      "example": ""
+    },
+    "also": {
+      "phonetic": "/ˈɔːlsəʊ/",
+      "pos": "",
+      "meaningZh": "adv. 也，同样",
+      "usageZh": "",
+      "example": ""
+    },
+    "that": {
+      "phonetic": "/ðæt/",
+      "pos": "",
+      "meaningZh": "pron. 那，那个 conj. 引导从句",
+      "usageZh": "",
+      "example": ""
+    }
+  }
+}

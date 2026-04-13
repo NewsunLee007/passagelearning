@@ -2,15 +2,76 @@ import { useMemo } from "react";
 import { useParams } from "react-router-dom";
 import { useArticleDemo } from "../../features/content/useArticleDemo";
 
+type LexiconItem = {
+  phonetic?: string;
+  pos?: string;
+  meaningZh?: string;
+  usageZh?: string;
+  example?: string;
+  audioUrlOverride?: string;
+};
+
 type SentenceTask = {
   sentenceId: string;
   promptZh?: string;
   focusPointsZh?: string[];
 };
 
+function normalizeWord(token: string) {
+  const clean = token.replace(/[.,!?;:—"“”'’()[\]{}*]+$/g, "").replace(/^[("“”'’]+/g, "");
+  return clean.toLowerCase();
+}
+
 export function SentenceRoute() {
   const { articleId } = useParams();
   const { data, loading, error, supportLoading, supportError } = useArticleDemo(articleId);
+
+  const vocabEntries = useMemo(() => {
+    const lexicon = data?.lexicon ?? {};
+    const next = new Map<
+      string,
+      {
+        term: string;
+        phonetic?: string;
+        pos?: string;
+        meaningZh?: string;
+        usageZh?: string;
+        example?: string;
+        audioUrlOverride?: string;
+      }
+    >();
+
+    for (const item of data?.vocabItems ?? []) {
+      const key = normalizeWord(item.term);
+      if (!key) continue;
+      const info: LexiconItem | undefined = lexicon[key];
+      const sentence = item.exampleSentenceId ? data?.sentences.find((entry) => entry.id === item.exampleSentenceId) : undefined;
+      next.set(key, {
+        term: item.term,
+        phonetic: info?.phonetic,
+        pos: info?.pos,
+        meaningZh: info?.meaningZh ?? item.meaningZh,
+        usageZh: info?.usageZh,
+        example: info?.example ?? sentence?.text,
+        audioUrlOverride: info?.audioUrlOverride
+      });
+    }
+
+    for (const [key, info] of Object.entries(lexicon)) {
+      if (next.has(key)) continue;
+      next.set(key, {
+        term: key,
+        phonetic: info.phonetic,
+        pos: info.pos,
+        meaningZh: info.meaningZh,
+        usageZh: info.usageZh,
+        example: info.example,
+        audioUrlOverride: info.audioUrlOverride
+      });
+    }
+
+    return Array.from(next.values());
+  }, [data]);
 
   const taskMap = useMemo(() => {
     const next = new Map<string, SentenceTask>();
@@ -36,17 +97,86 @@ export function SentenceRoute() {
       <section className="rounded-[1.8rem] border border-white/70 bg-white/88 p-5 shadow-[0_16px_56px_rgba(15,23,42,0.05)] sm:p-6">
         <div className="flex flex-wrap items-start justify-between gap-3">
           <div>
-            <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">句子拆解</div>
-            <h1 className="mt-2 font-display text-3xl text-secondary">译文 · 结构 · 详解</h1>
+            <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">词句资料</div>
+            <h1 className="mt-2 font-display text-3xl text-secondary">音形意用 · 译文结构详解</h1>
             <p className="mt-2 max-w-2xl text-sm leading-7 text-slate-600">
-              这一页改成直接阅读句子资料，不再要求多步拼句。每句都尽量给出译文、句式和理解重点。
+              词汇和句子合并到同一页，手机上不用来回跳。先看核心词条，再顺着句子核对译文、句式和理解重点。
             </p>
           </div>
           <div className="flex flex-wrap gap-2 text-xs">
+            <span className="rounded-full bg-slate-100 px-3 py-1.5 text-slate-600">{vocabEntries.length} 个词条</span>
             <span className="rounded-full bg-slate-100 px-3 py-1.5 text-slate-600">{data.sentences.length} 句</span>
             {supportLoading ? <span className="rounded-full bg-amber-50 px-3 py-1.5 font-semibold text-amber-700">解析补全中</span> : null}
             {supportError ? <span className="rounded-full bg-red-50 px-3 py-1.5 font-semibold text-red-700">自动补全失败</span> : null}
           </div>
+        </div>
+      </section>
+
+      <section className="space-y-4 rounded-[1.8rem] border border-white/70 bg-white/88 p-5 shadow-[0_16px_56px_rgba(15,23,42,0.05)] sm:p-6">
+        <div className="flex items-center justify-between gap-3">
+          <div>
+            <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">词汇板块</div>
+            <h2 className="mt-2 font-display text-2xl text-secondary">核心词条</h2>
+          </div>
+          <div className="text-sm text-slate-500">点击发音直接听单词</div>
+        </div>
+
+        {!vocabEntries.length ? (
+          <div className="rounded-[1.2rem] border border-dashed border-slate-200 bg-white/82 p-4 text-sm text-slate-500">
+            当前文章还没有可展示的词汇资料。
+          </div>
+        ) : (
+          <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">
+            {vocabEntries.map((entry) => (
+              <article key={entry.term} className="rounded-[1.4rem] border border-slate-200/70 bg-white p-4">
+                <div className="flex items-start justify-between gap-3">
+                  <div>
+                    <h3 className="font-display text-xl text-secondary">{entry.term}</h3>
+                    <div className="mt-1 text-sm text-slate-500">{entry.phonetic ?? "/…/"}</div>
+                  </div>
+                  <button
+                    type="button"
+                    onClick={() =>
+                      new Audio(
+                        entry.audioUrlOverride ?? `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(entry.term)}&type=2`
+                      )
+                        .play()
+                        .catch(() => {})
+                    }
+                    className="rounded-full bg-primary/8 px-3 py-1.5 text-sm font-semibold text-primary"
+                  >
+                    发音
+                  </button>
+                </div>
+
+                <div className="mt-3 flex flex-wrap gap-2 text-xs">
+                  <span className="rounded-full bg-slate-100 px-2.5 py-1 text-slate-600">{entry.pos ?? "词性待补全"}</span>
+                </div>
+
+                <div className="mt-4 space-y-3 text-sm leading-7 text-slate-700">
+                  <div>
+                    <div className="text-xs font-semibold uppercase tracking-[0.14em] text-emerald-700">词义</div>
+                    <div className="mt-1">{entry.meaningZh ?? (supportLoading ? "系统正在补全词义…" : "暂无词义")}</div>
+                  </div>
+                  <div>
+                    <div className="text-xs font-semibold uppercase tracking-[0.14em] text-amber-700">用法</div>
+                    <div className="mt-1">{entry.usageZh ?? (supportLoading ? "系统正在补全用法…" : "暂无用法说明")}</div>
+                  </div>
+                  <div>
+                    <div className="text-xs font-semibold uppercase tracking-[0.14em] text-blue-700">例句</div>
+                    <div className="mt-1">{entry.example ?? "暂无例句"}</div>
+                  </div>
+                </div>
+              </article>
+            ))}
+          </div>
+        )}
+      </section>
+
+      <section className="space-y-4">
+        <div>
+          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">句子板块</div>
+          <h2 className="mt-2 font-display text-2xl text-secondary">逐句解析</h2>
         </div>
       </section>
 

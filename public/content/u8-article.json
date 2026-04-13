@@ -1,55 +1,51 @@
 {
   "meta": {
-    "schemaVersion": "1.0",
-    "source": "七年级下册英语教材",
-    "notes": "自动生成"
+    "schemaVersion": "2.0",
+    "source": "七年级下册互动课文",
+    "importedFrom": "Unit 3 Passage 1 Delicious memories（互动课文教学动画）英语新教材外研版七年级下册.html",
+    "importedAt": "2026-04-13T04:50:28.064Z"
   },
   "article": {
     "id": "u8-article",
     "title": "Delicious memories",
     "unit": "Unit 3 Food matters",
-    "genre": "narrative",
     "paragraphs": [
       {
-        "id": "u8-p1",
+        "id": "u8-article-p1",
         "sentenceIds": [
-          "u8-s1"
+          "u8-article-s2",
+          "u8-article-s3"
         ]
       },
       {
-        "id": "u8-p2",
+        "id": "u8-article-p2",
         "sentenceIds": [
-          "u8-s2",
-          "u8-s3",
-          "u8-s4",
-          "u8-s5",
-          "u8-s6"
+          "u8-article-s4",
+          "u8-article-s5",
+          "u8-article-s6"
         ]
       },
       {
-        "id": "u8-p3",
+        "id": "u8-article-p3",
         "sentenceIds": [
-          "u8-s7",
-          "u8-s8",
-          "u8-s9",
-          "u8-s10"
+          "u8-article-s7",
+          "u8-article-s8",
+          "u8-article-s9",
+          "u8-article-s10",
+          "u8-article-s11",
+          "u8-article-s12",
+          "u8-article-s13",
+          "u8-article-s14",
+          "u8-article-s15"
         ]
       },
       {
-        "id": "u8-p4",
+        "id": "u8-article-p4",
         "sentenceIds": [
-          "u8-s11",
-          "u8-s12",
-          "u8-s13"
-        ]
-      },
-      {
-        "id": "u8-p5",
-        "sentenceIds": [
-          "u8-s14",
-          "u8-s15",
-          "u8-s16",
-          "u8-s17"
+          "u8-article-s16",
+          "u8-article-s17",
+          "u8-article-s18",
+          "u8-article-s19"
         ]
       }
     ],
@@ -57,459 +53,1921 @@
     "stageLabel": "理解篇",
     "unitNumber": 3,
     "unitTheme": "Food matters",
-    "bookOrder": 30,
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
+    "bookOrder": 230,
     "summary": "从家常食物唤起的记忆，理解食物与情感的联系。"
   },
   "sentences": [
     {
-      "id": "u8-s1",
+      "id": "u8-article-s1",
+      "text": "Delicious memories",
+      "paragraphId": "u8-article-p1",
+      "tr": "美味的记忆",
+      "g": "形容词 + 名词",
+      "d": "名词短语作为标题，概括文章主题。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/kJuZsRWyJDVsQkt82YSV8o.mp3"
+    },
+    {
+      "id": "u8-article-s2",
       "text": "The taste and smell of a certain food can often bring back memories.",
-      "paragraphId": "u8-p1",
-      "keywords": [
-        "taste",
-        "smell",
-        "bring back",
-        "memories"
-      ]
+      "paragraphId": "u8-article-p1",
+      "tr": "某种食物的味道和气味往往能勾起回忆。",
+      "g": "主语 (The taste and smell...) + 情态动词 (can) + 谓语 (bring back) + 宾语 (memories)",
+      "d": "'bring back' 是动词短语，意为'带回、勾起'。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/z2xPyUuxSDLRaiPak5ADpD.mp3"
     },
     {
-      "id": "u8-s2",
+      "id": "u8-article-s3",
+      "text": "Do you have any favourite food memories?",
+      "paragraphId": "u8-article-p1",
+      "tr": "你有什么最喜欢的食物记忆吗？",
+      "g": "助动词 (Do) + 主语 (you) + 谓语 (have) + 宾语...",
+      "d": "一般疑问句结构。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ErWZYFySwVCUuinoMVozKX.mp3"
+    },
+    {
+      "id": "u8-article-s4",
       "text": "Mine start with my mother.",
-      "paragraphId": "u8-p2",
-      "keywords": [
-        "mine",
-        "start with",
-        "mother"
-      ]
+      "paragraphId": "u8-article-p2",
+      "tr": "我的记忆始于我的母亲。",
+      "g": "主语 (Mine) + 谓语 (start) + 介词短语",
+      "d": "'Mine' 指代 'My food memories'。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/yYshy9y2enC8ArsEqS8Mr6.mp3"
     },
     {
-      "id": "u8-s3",
-      "text": "She can do magic in the kitchen: tofu and beef become red, hot mapo tofu; carrots and mutton become lovely dumplings; a big fat hen becomes a pot of warm chicken soup; even eggs and green onions become wonderful pancakes.",
-      "paragraphId": "u8-p2",
-      "keywords": [
-        "do magic",
-        "kitchen",
-        "mapo tofu",
-        "dumplings",
-        "chicken soup",
-        "pancakes"
-      ]
+      "id": "u8-article-s5",
+      "text": "She can do magic in the kitchen: Tofu and beef become red, hot mapo tofu; carrots and mutton become lovely dumplings; a big fat hen becomes a pot of warm chicken soup; even eggs and green onions become wonderful pancakes.",
+      "paragraphId": "u8-article-p2",
+      "tr": "她在厨房里能变魔术：豆腐和牛肉变成红辣的麻婆豆腐；胡萝卜和羊肉变成可爱的饺子；一只肥硕的母鸡变成一锅热腾腾的鸡汤；甚至鸡蛋和葱也能变成美味的煎饼。",
+      "g": "主句 + 冒号 + 举例",
+      "d": "冒号后使用排比句式 'A become B' 列举了母亲的烹饪魔法。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ymtKsAHr44uzKEvPvA44AH.mp3"
     },
     {
-      "id": "u8-s4",
+      "id": "u8-article-s6",
       "text": "I always grow hungry thinking of them!",
-      "paragraphId": "u8-p2",
-      "keywords": [
-        "grow hungry",
-        "thinking of"
-      ]
+      "paragraphId": "u8-article-p2",
+      "tr": "一想到它们，我总是觉得饿！",
+      "g": "主语 + 谓语 (grow) + 形容词 (hungry) + 分词短语",
+      "d": "'thinking of them' 是现在分词作伴随状语。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/mpSN8GmboYj9NURsR8njbf.mp3"
     },
     {
-      "id": "u8-s5",
+      "id": "u8-article-s7",
       "text": "But my favourite food is porridge.",
-      "paragraphId": "u8-p2",
-      "keywords": [
-        "favourite",
-        "porridge"
-      ]
+      "paragraphId": "u8-article-p3",
+      "tr": "但我最喜欢的食物是粥。",
+      "g": "连词 (But) + 主语 + 系动词 (is) + 表语",
+      "d": "转折句，引出文章核心对象。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/CmZBo9z7H3KteYFJF5jcqG.mp3"
     },
     {
-      "id": "u8-s6",
+      "id": "u8-article-s8",
       "text": "I often wake up to the smell of porridge.",
-      "paragraphId": "u8-p2",
-      "keywords": [
-        "wake up",
-        "smell"
-      ]
+      "paragraphId": "u8-article-p3",
+      "tr": "我经常在粥的香味中醒来。",
+      "g": "主语 + 谓语 (wake up) + 介词短语",
+      "d": "'wake up to...' 意为'醒来时感觉到...'。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/U8Cy8JfsxLD4ToSkXVknVE.mp3"
     },
     {
-      "id": "u8-s7",
+      "id": "u8-article-s9",
       "text": "Sometimes, it's sweet eight-treasure porridge.",
-      "paragraphId": "u8-p3",
-      "keywords": [
-        "sometimes",
-        "sweet",
-        "eight-treasure porridge"
-      ]
+      "paragraphId": "u8-article-p3",
+      "tr": "有时，它是甜甜的八宝粥。",
+      "g": "副词 + 主语 (it) + 系动词 (is) + 名词短语",
+      "d": "'eight-treasure' 是合成形容词。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/cYuSCaqYotKZNFVieWsjuf.mp3"
     },
     {
-      "id": "u8-s8",
+      "id": "u8-article-s10",
       "text": "Other times, it's porridge with pork and thousand-year-old eggs.",
-      "paragraphId": "u8-p3",
-      "keywords": [
-        "other times",
-        "pork",
-        "thousand-year-old eggs"
-      ]
+      "paragraphId": "u8-article-p3",
+      "tr": "其他时候，它是皮蛋瘦肉粥。",
+      "g": "副词 + 主语 + 谓语 + 名词短语",
+      "d": "'thousand-year-old eggs' 指皮蛋。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/k3zMfWhS2V4ZpDsAaKN7XG.mp3"
     },
     {
-      "id": "u8-s9",
+      "id": "u8-article-s11",
       "text": "Each kind of porridge tastes great in its own way.",
-      "paragraphId": "u8-p3",
-      "keywords": [
-        "each kind",
-        "tastes great",
-        "in its own way"
-      ]
+      "paragraphId": "u8-article-p3",
+      "tr": "每种粥都有其独特的美味。",
+      "g": "主语 + 系动词 (tastes) + 形容词 + 短语",
+      "d": "'in its own way' 意为'以它自己的方式'。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/thdsx6gF4NMGWsihJBsH3n.mp3"
     },
     {
-      "id": "u8-s10",
+      "id": "u8-article-s12",
       "text": "When I fall ill, my mother always makes plain rice porridge for me.",
-      "paragraphId": "u8-p3",
-      "keywords": [
-        "fall ill",
-        "makes",
-        "plain rice porridge"
-      ]
+      "paragraphId": "u8-article-p3",
+      "tr": "当我生病时，母亲总是为我做白米粥。",
+      "g": "时间状语从句 (When...) + 主句",
+      "d": "'fall ill' 意为生病，系表结构。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/yEF6yaULYbqKUNQY8Fnf7Q.mp3"
     },
     {
-      "id": "u8-s11",
+      "id": "u8-article-s13",
       "text": "That's the simplest food on any Chinese menu.",
-      "paragraphId": "u8-p4",
-      "keywords": [
-        "simplest",
-        "Chinese menu"
-      ]
+      "paragraphId": "u8-article-p3",
+      "tr": "那是任何中国菜单上最简单的食物。",
+      "g": "主语 + 谓语 + 最高级形容词 + 名词",
+      "d": "'simplest' 是最高级形式。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7byRBbeNE76PfbxdY9vnAT.mp3"
     },
     {
-      "id": "u8-s12",
+      "id": "u8-article-s14",
       "text": "For me, however, it's the best food in the world.",
-      "paragraphId": "u8-p4",
-      "keywords": [
-        "best",
-        "in the world"
-      ]
+      "paragraphId": "u8-article-p3",
+      "tr": "然而对我来说，它是世界上最好的食物。",
+      "g": "介词短语 + 副词 + 主语 + 谓语 + 名词",
+      "d": "'however' 作插入语表示转折。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gifB3fzMELnbdtYUvLtfCT.mp3"
     },
     {
-      "id": "u8-s13",
+      "id": "u8-article-s15",
       "text": "And it's better medicine than a pill!",
-      "paragraphId": "u8-p4",
-      "keywords": [
-        "better",
-        "medicine",
-        "pill"
-      ]
+      "paragraphId": "u8-article-p3",
+      "tr": "它比药片更管用！",
+      "g": "主语 + 谓语 + 比较级形容词 + 名词 + than...",
+      "d": "比较级结构 'better... than...'。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/o3M6NNXEDuxYFXMbRFbxph.mp3"
     },
     {
-      "id": "u8-s14",
+      "id": "u8-article-s16",
       "text": "Now I'm studying away from home.",
-      "paragraphId": "u8-p5",
-      "keywords": [
-        "studying",
-        "away from home"
-      ]
+      "paragraphId": "u8-article-p4",
+      "tr": "现在我在外地求学。",
+      "g": "副词 + 主语 + 谓语 (am studying) + 状语",
+      "d": "现在进行时描述当前状态。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/HfkxwxJHenk5WPFw7YZRCS.mp3"
     },
     {
-      "id": "u8-s15",
+      "id": "u8-article-s17",
       "text": "But all the warm memories stay with me.",
-      "paragraphId": "u8-p5",
-      "keywords": [
-        "warm memories",
-        "stay with"
-      ]
+      "paragraphId": "u8-article-p4",
+      "tr": "但所有温暖的记忆都留在我身边。",
+      "g": "连词 + 主语 + 谓语 + 介词短语",
+      "d": "拟人化表达，记忆'stay with me'。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ecPYg6iJQYYbFYqxCM5nyG.mp3"
     },
     {
-      "id": "u8-s16",
+      "id": "u8-article-s18",
       "text": "The old days still feel so sweet in my heart.",
-      "paragraphId": "u8-p5",
-      "keywords": [
-        "old days",
-        "feel",
-        "sweet",
-        "heart"
-      ]
+      "paragraphId": "u8-article-p4",
+      "tr": "往昔的日子在我心中依然如此甜蜜。",
+      "g": "主语 + 系动词 (feel) + 形容词 + 短语",
+      "d": "'feel' 是系动词，接形容词 'sweet'。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/q9iEhUXf8V5QGrczVrrqja.mp3"
     },
     {
-      "id": "u8-s17",
+      "id": "u8-article-s19",
       "text": "What food remains strong in your memory?",
-      "paragraphId": "u8-p5",
-      "keywords": [
-        "remains",
-        "strong",
-        "memory"
-      ]
+      "paragraphId": "u8-article-p4",
+      "tr": "什么食物在你记忆中印象深刻？",
+      "g": "疑问代词 + 名词 + 谓语 + 形容词...",
+      "d": "特殊疑问句。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Y4FVAZVWj5iFX7jVHMoHCW.mp3"
     }
   ],
   "vocabItems": [
     {
-      "id": "u8-v1",
-      "term": "bring back memories",
-      "meaningZh": "唤起回忆",
-      "exampleSentenceId": "u8-s1",
-      "distractorsZh": [
-        "带来食物",
-        "带回物品",
-        "引起注意"
-      ]
+      "id": "u8-article-v1",
+      "term": "back",
+      "meaningZh": "回",
+      "exampleSentenceId": "u8-article-s2"
     },
     {
-      "id": "u8-v2",
-      "term": "do magic",
-      "meaningZh": "施展魔法；做出神奇的事",
-      "exampleSentenceId": "u8-s3",
-      "distractorsZh": [
-        "做魔术表演",
-        "变魔术",
-        "创造奇迹"
-      ]
+      "id": "u8-article-v2",
+      "term": "becomes",
+      "meaningZh": "变成 (become 的第三人称单数)",
+      "exampleSentenceId": "u8-article-s5"
     },
     {
-      "id": "u8-v3",
-      "term": "grow hungry",
-      "meaningZh": "感到饥饿",
-      "exampleSentenceId": "u8-s4",
-      "distractorsZh": [
-        "种植饥饿",
-        "增长饥饿感",
-        "变得饥饿"
-      ]
+      "id": "u8-article-v3",
+      "term": "each",
+      "meaningZh": "每个",
+      "exampleSentenceId": "u8-article-s11"
     },
     {
-      "id": "u8-v4",
-      "term": "wake up to",
-      "meaningZh": "醒来闻到/意识到",
-      "exampleSentenceId": "u8-s6",
-      "distractorsZh": [
-        "醒来去做",
-        "醒来看到",
-        "醒来听到"
-      ]
+      "id": "u8-article-v4",
+      "term": "kind",
+      "meaningZh": "种类",
+      "exampleSentenceId": "u8-article-s11"
     },
     {
-      "id": "u8-v5",
-      "term": "fall ill",
-      "meaningZh": "生病",
-      "exampleSentenceId": "u8-s10",
-      "distractorsZh": [
-        "跌倒生病",
-        "掉落疾病",
-        "陷入疾病"
-      ]
+      "id": "u8-article-v5",
+      "term": "tastes",
+      "meaningZh": "尝起来 (taste 的第三人称单数)",
+      "exampleSentenceId": "u8-article-s11"
     },
     {
-      "id": "u8-v6",
-      "term": "plain rice porridge",
-      "meaningZh": "白米粥",
-      "exampleSentenceId": "u8-s10",
-      "distractorsZh": [
-        "平原米粥",
-        "简单米粥",
-        "普通米粥"
-      ]
+      "id": "u8-article-v6",
+      "term": "away",
+      "meaningZh": "离开",
+      "exampleSentenceId": "u8-article-s16"
     },
     {
-      "id": "u8-v7",
-      "term": "away from home",
-      "meaningZh": "离家在外",
-      "exampleSentenceId": "u8-s14",
-      "distractorsZh": [
-        "远离家园",
-        "离开家",
-        "在外地"
-      ]
+      "id": "u8-article-v7",
+      "term": "days",
+      "meaningZh": "日子 (day 的复数)",
+      "exampleSentenceId": "u8-article-s18"
     },
     {
-      "id": "u8-v8",
-      "term": "remains strong",
-      "meaningZh": "依然深刻；保持强烈",
-      "exampleSentenceId": "u8-s17",
-      "distractorsZh": [
-        "保持强壮",
-        "残留强烈",
-        "仍然强大"
-      ]
+      "id": "u8-article-v8",
+      "term": "memory",
+      "meaningZh": "记忆",
+      "exampleSentenceId": "u8-article-s19"
+    },
+    {
+      "id": "u8-article-v9",
+      "term": "taste",
+      "meaningZh": "味道；味觉",
+      "exampleSentenceId": "u8-article-s2"
+    },
+    {
+      "id": "u8-article-v10",
+      "term": "smell",
+      "meaningZh": "气味；嗅觉",
+      "exampleSentenceId": "u8-article-s2"
+    },
+    {
+      "id": "u8-article-v11",
+      "term": "certain",
+      "meaningZh": "某种；确定的",
+      "exampleSentenceId": "u8-article-s2"
+    },
+    {
+      "id": "u8-article-v12",
+      "term": "memories",
+      "meaningZh": "记忆 (memory 的复数)",
+      "exampleSentenceId": "u8-article-s1"
+    },
+    {
+      "id": "u8-article-v13",
+      "term": "magic",
+      "meaningZh": "魔术；魔法",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v14",
+      "term": "kitchen",
+      "meaningZh": "厨房",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v15",
+      "term": "tofu",
+      "meaningZh": "豆腐",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v16",
+      "term": "beef",
+      "meaningZh": "牛肉",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v17",
+      "term": "mutton",
+      "meaningZh": "羊肉",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v18",
+      "term": "dumplings",
+      "meaningZh": "饺子 (dumpling 的复数)",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v19",
+      "term": "hen",
+      "meaningZh": "母鸡",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v20",
+      "term": "pancakes",
+      "meaningZh": "煎饼 (pancake 的复数)",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v21",
+      "term": "hungry",
+      "meaningZh": "饥饿的",
+      "exampleSentenceId": "u8-article-s6"
+    },
+    {
+      "id": "u8-article-v22",
+      "term": "porridge",
+      "meaningZh": "粥；麦片粥",
+      "exampleSentenceId": "u8-article-s7"
+    },
+    {
+      "id": "u8-article-v23",
+      "term": "plain",
+      "meaningZh": "清淡的；普通的",
+      "exampleSentenceId": "u8-article-s12"
+    },
+    {
+      "id": "u8-article-v24",
+      "term": "menu",
+      "meaningZh": "菜单",
+      "exampleSentenceId": "u8-article-s13"
+    },
+    {
+      "id": "u8-article-v25",
+      "term": "medicine",
+      "meaningZh": "药",
+      "exampleSentenceId": "u8-article-s15"
+    },
+    {
+      "id": "u8-article-v26",
+      "term": "pill",
+      "meaningZh": "药丸",
+      "exampleSentenceId": "u8-article-s15"
+    },
+    {
+      "id": "u8-article-v27",
+      "term": "studying",
+      "meaningZh": "学习 (study 的现在分词)",
+      "exampleSentenceId": "u8-article-s16"
+    },
+    {
+      "id": "u8-article-v28",
+      "term": "remains",
+      "meaningZh": "保持；剩余 (remain 的第三人称单数)",
+      "exampleSentenceId": "u8-article-s19"
+    },
+    {
+      "id": "u8-article-v29",
+      "term": "favourite",
+      "meaningZh": "最喜欢的",
+      "exampleSentenceId": "u8-article-s3"
+    },
+    {
+      "id": "u8-article-v30",
+      "term": "delicious",
+      "meaningZh": "美味的",
+      "exampleSentenceId": "u8-article-s1"
+    },
+    {
+      "id": "u8-article-v31",
+      "term": "mapo",
+      "meaningZh": "麻婆",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v32",
+      "term": "carrots",
+      "meaningZh": "胡萝卜 (carrot 的复数)",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v33",
+      "term": "chicken",
+      "meaningZh": "鸡肉",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v34",
+      "term": "soup",
+      "meaningZh": "汤",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v35",
+      "term": "eggs",
+      "meaningZh": "鸡蛋 (egg 的复数)",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v36",
+      "term": "onions",
+      "meaningZh": "洋葱 (onion 的复数)",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v37",
+      "term": "eight-treasure",
+      "meaningZh": "八宝",
+      "exampleSentenceId": "u8-article-s9"
+    },
+    {
+      "id": "u8-article-v38",
+      "term": "pork",
+      "meaningZh": "猪肉",
+      "exampleSentenceId": "u8-article-s10"
+    },
+    {
+      "id": "u8-article-v39",
+      "term": "thousand-year-old",
+      "meaningZh": "千年的（指皮蛋）",
+      "exampleSentenceId": "u8-article-s10"
+    },
+    {
+      "id": "u8-article-v40",
+      "term": "rice",
+      "meaningZh": "米饭",
+      "exampleSentenceId": "u8-article-s12"
+    },
+    {
+      "id": "u8-article-v41",
+      "term": "chinese",
+      "meaningZh": "中国的",
+      "exampleSentenceId": "u8-article-s13"
+    },
+    {
+      "id": "u8-article-v42",
+      "term": "world",
+      "meaningZh": "世界",
+      "exampleSentenceId": "u8-article-s14"
+    },
+    {
+      "id": "u8-article-v43",
+      "term": "home",
+      "meaningZh": "家",
+      "exampleSentenceId": "u8-article-s16"
+    },
+    {
+      "id": "u8-article-v44",
+      "term": "heart",
+      "meaningZh": "心",
+      "exampleSentenceId": "u8-article-s18"
+    },
+    {
+      "id": "u8-article-v45",
+      "term": "food",
+      "meaningZh": "食物",
+      "exampleSentenceId": "u8-article-s2"
+    },
+    {
+      "id": "u8-article-v46",
+      "term": "mother",
+      "meaningZh": "母亲",
+      "exampleSentenceId": "u8-article-s4"
+    },
+    {
+      "id": "u8-article-v47",
+      "term": "wake",
+      "meaningZh": "醒来",
+      "exampleSentenceId": "u8-article-s8"
+    },
+    {
+      "id": "u8-article-v48",
+      "term": "sweet",
+      "meaningZh": "甜的",
+      "exampleSentenceId": "u8-article-s9"
+    },
+    {
+      "id": "u8-article-v49",
+      "term": "great",
+      "meaningZh": "棒的",
+      "exampleSentenceId": "u8-article-s11"
+    },
+    {
+      "id": "u8-article-v50",
+      "term": "simplest",
+      "meaningZh": "最简单的 (simple 的最高级)",
+      "exampleSentenceId": "u8-article-s13"
+    },
+    {
+      "id": "u8-article-v51",
+      "term": "best",
+      "meaningZh": "最好的 (good 的最高级)",
+      "exampleSentenceId": "u8-article-s14"
+    },
+    {
+      "id": "u8-article-v52",
+      "term": "better",
+      "meaningZh": "更好的 (good 的比较级)",
+      "exampleSentenceId": "u8-article-s15"
+    },
+    {
+      "id": "u8-article-v53",
+      "term": "warm",
+      "meaningZh": "温暖的",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v54",
+      "term": "old",
+      "meaningZh": "旧的；老的",
+      "exampleSentenceId": "u8-article-s10"
+    },
+    {
+      "id": "u8-article-v55",
+      "term": "strong",
+      "meaningZh": "强烈的",
+      "exampleSentenceId": "u8-article-s19"
+    },
+    {
+      "id": "u8-article-v56",
+      "term": "often",
+      "meaningZh": "经常",
+      "exampleSentenceId": "u8-article-s2"
+    },
+    {
+      "id": "u8-article-v57",
+      "term": "sometimes",
+      "meaningZh": "有时",
+      "exampleSentenceId": "u8-article-s9"
+    },
+    {
+      "id": "u8-article-v58",
+      "term": "othertimes",
+      "meaningZh": "其他时候"
+    },
+    {
+      "id": "u8-article-v59",
+      "term": "other",
+      "meaningZh": "其他的",
+      "exampleSentenceId": "u8-article-s4"
+    },
+    {
+      "id": "u8-article-v60",
+      "term": "times",
+      "meaningZh": "次数；时代 (time 的复数)",
+      "exampleSentenceId": "u8-article-s9"
+    },
+    {
+      "id": "u8-article-v61",
+      "term": "however",
+      "meaningZh": "然而",
+      "exampleSentenceId": "u8-article-s14"
+    },
+    {
+      "id": "u8-article-v62",
+      "term": "always",
+      "meaningZh": "总是",
+      "exampleSentenceId": "u8-article-s6"
+    },
+    {
+      "id": "u8-article-v63",
+      "term": "bring",
+      "meaningZh": "带来",
+      "exampleSentenceId": "u8-article-s2"
+    },
+    {
+      "id": "u8-article-v64",
+      "term": "start",
+      "meaningZh": "开始",
+      "exampleSentenceId": "u8-article-s4"
+    },
+    {
+      "id": "u8-article-v65",
+      "term": "become",
+      "meaningZh": "变成",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v66",
+      "term": "grow",
+      "meaningZh": "变得；生长",
+      "exampleSentenceId": "u8-article-s6"
+    },
+    {
+      "id": "u8-article-v67",
+      "term": "thinking",
+      "meaningZh": "思考 (think 的现在分词)",
+      "exampleSentenceId": "u8-article-s6"
+    },
+    {
+      "id": "u8-article-v68",
+      "term": "fall",
+      "meaningZh": "变成；落下",
+      "exampleSentenceId": "u8-article-s12"
+    },
+    {
+      "id": "u8-article-v69",
+      "term": "makes",
+      "meaningZh": "制作 (make 的第三人称单数)",
+      "exampleSentenceId": "u8-article-s12"
+    },
+    {
+      "id": "u8-article-v70",
+      "term": "feel",
+      "meaningZh": "感觉",
+      "exampleSentenceId": "u8-article-s18"
+    },
+    {
+      "id": "u8-article-v71",
+      "term": "stay",
+      "meaningZh": "停留",
+      "exampleSentenceId": "u8-article-s17"
+    },
+    {
+      "id": "u8-article-v72",
+      "term": "the",
+      "meaningZh": "这；那",
+      "exampleSentenceId": "u8-article-s2"
+    },
+    {
+      "id": "u8-article-v73",
+      "term": "and",
+      "meaningZh": "和",
+      "exampleSentenceId": "u8-article-s2"
+    },
+    {
+      "id": "u8-article-v74",
+      "term": "of",
+      "meaningZh": "...的",
+      "exampleSentenceId": "u8-article-s2"
+    },
+    {
+      "id": "u8-article-v75",
+      "term": "a",
+      "meaningZh": "一个",
+      "exampleSentenceId": "u8-article-s2"
+    },
+    {
+      "id": "u8-article-v76",
+      "term": "can",
+      "meaningZh": "能",
+      "exampleSentenceId": "u8-article-s2"
+    },
+    {
+      "id": "u8-article-v77",
+      "term": "do",
+      "meaningZh": "做",
+      "exampleSentenceId": "u8-article-s3"
+    },
+    {
+      "id": "u8-article-v78",
+      "term": "you",
+      "meaningZh": "你",
+      "exampleSentenceId": "u8-article-s3"
+    },
+    {
+      "id": "u8-article-v79",
+      "term": "have",
+      "meaningZh": "有",
+      "exampleSentenceId": "u8-article-s3"
+    },
+    {
+      "id": "u8-article-v80",
+      "term": "any",
+      "meaningZh": "任何",
+      "exampleSentenceId": "u8-article-s3"
+    },
+    {
+      "id": "u8-article-v81",
+      "term": "mine",
+      "meaningZh": "我的 (my 的名词性物主代词)",
+      "exampleSentenceId": "u8-article-s4"
+    },
+    {
+      "id": "u8-article-v82",
+      "term": "with",
+      "meaningZh": "和...一起",
+      "exampleSentenceId": "u8-article-s4"
+    },
+    {
+      "id": "u8-article-v83",
+      "term": "my",
+      "meaningZh": "我的",
+      "exampleSentenceId": "u8-article-s4"
+    },
+    {
+      "id": "u8-article-v84",
+      "term": "she",
+      "meaningZh": "她",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v85",
+      "term": "in",
+      "meaningZh": "在...里",
+      "exampleSentenceId": "u8-article-s2"
+    },
+    {
+      "id": "u8-article-v86",
+      "term": "red",
+      "meaningZh": "红色的",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v87",
+      "term": "hot",
+      "meaningZh": "热的；辣的",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v88",
+      "term": "lovely",
+      "meaningZh": "可爱的",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v89",
+      "term": "big",
+      "meaningZh": "大的",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v90",
+      "term": "fat",
+      "meaningZh": "肥的",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v91",
+      "term": "pot",
+      "meaningZh": "锅",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v92",
+      "term": "even",
+      "meaningZh": "甚至",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v93",
+      "term": "green",
+      "meaningZh": "绿色的",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v94",
+      "term": "wonderful",
+      "meaningZh": "极好的",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v95",
+      "term": "them",
+      "meaningZh": "它们 (they 的宾格)",
+      "exampleSentenceId": "u8-article-s6"
+    },
+    {
+      "id": "u8-article-v96",
+      "term": "but",
+      "meaningZh": "但是",
+      "exampleSentenceId": "u8-article-s7"
+    },
+    {
+      "id": "u8-article-v97",
+      "term": "is",
+      "meaningZh": "是 (be 的第三人称单数)",
+      "exampleSentenceId": "u8-article-s7"
+    },
+    {
+      "id": "u8-article-v98",
+      "term": "up",
+      "meaningZh": "向上",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v99",
+      "term": "to",
+      "meaningZh": "向；到",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v100",
+      "term": "it's",
+      "meaningZh": "它是",
+      "exampleSentenceId": "u8-article-s9"
+    },
+    {
+      "id": "u8-article-v101",
+      "term": "its",
+      "meaningZh": "它的 (it 的所有格)",
+      "exampleSentenceId": "u8-article-s11"
+    },
+    {
+      "id": "u8-article-v102",
+      "term": "own",
+      "meaningZh": "自己的",
+      "exampleSentenceId": "u8-article-s11"
+    },
+    {
+      "id": "u8-article-v103",
+      "term": "way",
+      "meaningZh": "方式",
+      "exampleSentenceId": "u8-article-s6"
+    },
+    {
+      "id": "u8-article-v104",
+      "term": "when",
+      "meaningZh": "当...时",
+      "exampleSentenceId": "u8-article-s12"
+    },
+    {
+      "id": "u8-article-v105",
+      "term": "i",
+      "meaningZh": "我",
+      "exampleSentenceId": "u8-article-s1"
+    },
+    {
+      "id": "u8-article-v106",
+      "term": "ill",
+      "meaningZh": "生病的",
+      "exampleSentenceId": "u8-article-s12"
+    },
+    {
+      "id": "u8-article-v107",
+      "term": "for",
+      "meaningZh": "为了",
+      "exampleSentenceId": "u8-article-s12"
+    },
+    {
+      "id": "u8-article-v108",
+      "term": "me",
+      "meaningZh": "我 (I 的宾格)",
+      "exampleSentenceId": "u8-article-s1"
+    },
+    {
+      "id": "u8-article-v109",
+      "term": "that's",
+      "meaningZh": "那是",
+      "exampleSentenceId": "u8-article-s13"
+    },
+    {
+      "id": "u8-article-v110",
+      "term": "on",
+      "meaningZh": "在...上",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v111",
+      "term": "than",
+      "meaningZh": "比",
+      "exampleSentenceId": "u8-article-s15"
+    },
+    {
+      "id": "u8-article-v112",
+      "term": "now",
+      "meaningZh": "现在",
+      "exampleSentenceId": "u8-article-s16"
+    },
+    {
+      "id": "u8-article-v113",
+      "term": "i'm",
+      "meaningZh": "我是",
+      "exampleSentenceId": "u8-article-s16"
+    },
+    {
+      "id": "u8-article-v114",
+      "term": "from",
+      "meaningZh": "来自",
+      "exampleSentenceId": "u8-article-s16"
+    },
+    {
+      "id": "u8-article-v115",
+      "term": "all",
+      "meaningZh": "所有的",
+      "exampleSentenceId": "u8-article-s12"
+    },
+    {
+      "id": "u8-article-v116",
+      "term": "still",
+      "meaningZh": "仍然",
+      "exampleSentenceId": "u8-article-s18"
+    },
+    {
+      "id": "u8-article-v117",
+      "term": "so",
+      "meaningZh": "如此",
+      "exampleSentenceId": "u8-article-s5"
+    },
+    {
+      "id": "u8-article-v118",
+      "term": "what",
+      "meaningZh": "什么",
+      "exampleSentenceId": "u8-article-s19"
+    },
+    {
+      "id": "u8-article-v119",
+      "term": "your",
+      "meaningZh": "你的 (you 的所有格)",
+      "exampleSentenceId": "u8-article-s19"
     }
   ],
-  "sentenceTasks": [
-    {
-      "id": "u8-st1",
-      "sentenceId": "u8-s3",
-      "type": "chunk_reorder",
-      "promptZh": "把句子语块按正确顺序拖拽排列",
-      "chunks": [
-        {
-          "id": "u8-c1",
-          "text": "She can do magic in the kitchen:",
-          "tag": "主句"
-        },
-        {
-          "id": "u8-c2",
-          "text": "tofu and beef become red, hot mapo tofu;",
-          "tag": "例子1"
-        },
-        {
-          "id": "u8-c3",
-          "text": "carrots and mutton become lovely dumplings;",
-          "tag": "例子2"
-        },
-        {
-          "id": "u8-c4",
-          "text": "a big fat hen becomes a pot of warm chicken soup;",
-          "tag": "例子3"
-        },
-        {
-          "id": "u8-c5",
-          "text": "even eggs and green onions become wonderful pancakes.",
-          "tag": "例子4"
-        }
-      ],
-      "correctOrder": [
-        "u8-c1",
-        "u8-c2",
-        "u8-c3",
-        "u8-c4",
-        "u8-c5"
-      ],
-      "focusPointsZh": [
-        "并列结构",
-        "冒号引出例子",
-        "分号分隔并列项"
-      ]
-    },
-    {
-      "id": "u8-st2",
-      "sentenceId": "u8-s10",
-      "type": "chunk_reorder",
-      "promptZh": "把句子语块按正确顺序拖拽排列",
-      "chunks": [
-        {
-          "id": "u8-c6",
-          "text": "When I fall ill,",
-          "tag": "时间状语从句"
-        },
-        {
-          "id": "u8-c7",
-          "text": "my mother",
-          "tag": "主语"
-        },
-        {
-          "id": "u8-c8",
-          "text": "always makes",
-          "tag": "谓语"
-        },
-        {
-          "id": "u8-c9",
-          "text": "plain rice porridge",
-          "tag": "宾语"
-        },
-        {
-          "id": "u8-c10",
-          "text": "for me.",
-          "tag": "目的状语"
-        }
-      ],
-      "correctOrder": [
-        "u8-c6",
-        "u8-c7",
-        "u8-c8",
-        "u8-c9",
-        "u8-c10"
-      ],
-      "focusPointsZh": [
-        "时间状语从句",
-        "主谓宾结构",
-        "介词短语作状语"
-      ]
-    }
-  ],
+  "sentenceTasks": [],
   "readingQuestions": [
     {
-      "id": "u8-rq1",
+      "id": "reading-q1",
       "type": "single_choice",
-      "stem": "What is the main idea of the article?",
+      "stem": "What is the passage mainly about?",
       "options": [
-        "The author's favorite food is porridge.",
-        "Food can evoke personal memories and emotions.",
-        "The author's mother is a great cook.",
-        "The author misses home while studying away."
+        "A. How to cook Chinese food",
+        "B. Food memories and mother's love",
+        "C. Different kinds of porridge",
+        "D. Life away from home"
       ],
-      "answer": "Food can evoke personal memories and emotions.",
-      "rationaleZh": "文章开篇即点明主题：食物的味道和气味能唤起回忆，后续内容围绕作者与母亲相关的食物记忆展开，强调了食物与情感的联系。",
-      "evidenceSentenceIds": [
-        "u8-s1",
-        "u8-s15",
-        "u8-s16"
-      ]
+      "answer": "B. Food memories and mother's love",
+      "rationaleZh": "主旨大意题。文章通过描述母亲做的各种食物，特别是粥，表达了对母亲和家的思念。"
     },
     {
-      "id": "u8-rq2",
+      "id": "reading-q2",
       "type": "single_choice",
-      "stem": "Why does the author say his mother can do magic in the kitchen?",
+      "stem": "What does the mother make when the writer is ill?",
       "options": [
-        "Because she performs magic tricks.",
-        "Because she cooks very quickly.",
-        "Because she transforms simple ingredients into delicious dishes.",
-        "Because she uses magical recipes."
+        "A. Mapo tofu",
+        "B. Chicken soup",
+        "C. Plain rice porridge",
+        "D. Dumplings"
       ],
-      "answer": "Because she transforms simple ingredients into delicious dishes.",
-      "rationaleZh": "文中列举了母亲将豆腐牛肉、胡萝卜羊肉等普通食材变成麻婆豆腐、饺子等美味菜肴的例子，说明她擅长烹饪，而非字面意义上的魔法。",
-      "evidenceSentenceIds": [
-        "u8-s3"
-      ]
+      "answer": "C. Plain rice porridge",
+      "rationaleZh": "细节理解题。文中提到 'When I fall ill, my mother always makes plain rice porridge for me.'"
     },
     {
-      "id": "u8-rq3",
+      "id": "reading-q3",
       "type": "single_choice",
-      "stem": "What does the author think of plain rice porridge when he is ill?",
+      "stem": "Which food is NOT mentioned as part of mother's magic?",
       "options": [
-        "It is too simple and not tasty.",
-        "It is the best food and better than medicine.",
-        "It is common but he dislikes it.",
-        "It is only good for sick people."
+        "A. Pizza",
+        "B. Dumplings",
+        "C. Pancakes",
+        "D. Chicken soup"
       ],
-      "answer": "It is the best food and better than medicine.",
-      "rationaleZh": "作者明确表示，生病时母亲做的白米粥是世界上最好的食物，甚至比药片更好，体现了其情感价值。",
-      "evidenceSentenceIds": [
-        "u8-s12",
-        "u8-s13"
-      ]
+      "answer": "A. Pizza",
+      "rationaleZh": "细节理解题。文中提到了饺子、煎饼和鸡汤，没有提到披萨。"
     },
     {
-      "id": "u8-rq4",
+      "id": "reading-q4",
       "type": "single_choice",
-      "stem": "How does the author feel about his memories now that he is away from home?",
+      "stem": "Why does the writer think plain rice porridge is better than a pill?",
       "options": [
-        "They make him sad and lonely.",
-        "They are warm and sweet.",
-        "He has forgotten most of them.",
-        "They are not important anymore."
+        "A. It is cheaper",
+        "B. It tastes sweet",
+        "C. It is full of love and comfort",
+        "D. It has medicine in it"
       ],
-      "answer": "They are warm and sweet.",
-      "rationaleZh": "文章结尾提到，尽管作者离家求学，但温暖的记忆依然陪伴着他，旧日时光在心中感觉甜蜜。",
-      "evidenceSentenceIds": [
-        "u8-s15",
-        "u8-s16"
-      ]
+      "answer": "C. It is full of love and comfort",
+      "rationaleZh": "推理判断题。作者认为它是世界上最好的食物，因为它包含了母亲的爱和关怀，能带来安慰。"
     },
     {
-      "id": "u8-rq5",
+      "id": "reading-q5",
       "type": "single_choice",
-      "stem": "What is the purpose of the last question in the article?",
+      "stem": "What does the word 'plain' mean in 'plain rice porridge'?",
       "options": [
-        "To criticize the reader's memory.",
-        "To introduce a new topic.",
-        "To encourage the reader to reflect on their own food memories.",
-        "To end the article abruptly."
+        "A. Ugly",
+        "B. Simple, without added ingredients",
+        "C. Expensive",
+        "D. Cold"
       ],
-      "answer": "To encourage the reader to reflect on their own food memories.",
-      "rationaleZh": "最后一句提问“什么食物在你的记忆中依然深刻？”旨在引发读者共鸣，思考个人与食物相关的回忆，增强互动性。",
-      "evidenceSentenceIds": [
-        "u8-s17"
-      ]
+      "answer": "B. Simple, without added ingredients",
+      "rationaleZh": "词义猜测题。Plain 在这里意为'清淡的，简单的'，即没有添加复杂配料的白粥。"
     }
   ],
-  "quoteCandidates": [
-    {
-      "sentenceId": "u8-s1",
-      "reasonZh": "开篇点题，用简洁的语言表达了食物与记忆的深刻联系，富有哲理且易于引发共鸣。"
+  "quoteCandidates": [],
+  "lexicon": {
+    "back": {
+      "phonetic": "/bæk/",
+      "pos": "adv.",
+      "meaningZh": "回",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/yCrbvA92YZaeaTJnr9aPhf.mp3"
     },
-    {
-      "sentenceId": "u8-s3",
-      "reasonZh": "生动描绘了母亲烹饪的魔力，通过一系列并列的转化例子，形象展现了家常菜的温馨与美味，语言富有画面感。"
+    "becomes": {
+      "phonetic": "/bɪˈkʌmz/",
+      "pos": "v.",
+      "meaningZh": "变成 (become 的第三人称单数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/452hqTdh99Ao6ABLdGWZUL.mp3"
     },
-    {
-      "sentenceId": "u8-s16",
-      "reasonZh": "情感真挚，用“sweet”一词双关，既指回忆的甜美，又呼应食物主题，表达了离家后对过往时光的珍视。"
+    "each": {
+      "phonetic": "/iːtʃ/",
+      "pos": "adj.",
+      "meaningZh": "每个",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/V6kv7kF6ARUDUuv7cFVXPJ.mp3"
+    },
+    "kind": {
+      "phonetic": "/kaɪnd/",
+      "pos": "n.",
+      "meaningZh": "种类",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RWhyN77rDS8A53JYpZ5EKD.mp3"
+    },
+    "tastes": {
+      "phonetic": "/teɪsts/",
+      "pos": "v.",
+      "meaningZh": "尝起来 (taste 的第三人称单数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/W9pMEpqFEfk4cet56gBsy8.mp3"
+    },
+    "away": {
+      "phonetic": "/əˈweɪ/",
+      "pos": "adv.",
+      "meaningZh": "离开",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/9dWZariN9ste3eowZzMQUD.mp3"
+    },
+    "days": {
+      "phonetic": "/deɪz/",
+      "pos": "n.",
+      "meaningZh": "日子 (day 的复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/NVUSjoijg3HL5hZcsG5VYe.mp3"
+    },
+    "memory": {
+      "phonetic": "/ˈmeməri/",
+      "pos": "n.",
+      "meaningZh": "记忆",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/GGXBcFL58tMLmde88ubUof.mp3"
+    },
+    "taste": {
+      "phonetic": "/teɪst/",
+      "pos": "n.",
+      "meaningZh": "味道；味觉",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7qbssyuUNo6kLtorEETbSX.mp3"
+    },
+    "smell": {
+      "phonetic": "/smel/",
+      "pos": "n.",
+      "meaningZh": "气味；嗅觉",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Lv5XEy98oqvnYnte7xjR27.mp3"
+    },
+    "certain": {
+      "phonetic": "/ˈsɜːtn/",
+      "pos": "adj.",
+      "meaningZh": "某种；确定的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ndyPiHeDKFrjNTQ9KuxtnU.mp3"
+    },
+    "memories": {
+      "phonetic": "/ˈmeməriz/",
+      "pos": "n.",
+      "meaningZh": "记忆 (memory 的复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6DvKrisFzWJnYgEqyixR7X.mp3"
+    },
+    "magic": {
+      "phonetic": "/ˈmædʒɪk/",
+      "pos": "n.",
+      "meaningZh": "魔术；魔法",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/EpddjnXYuwxpMkDvJaDLj9.mp3"
+    },
+    "kitchen": {
+      "phonetic": "/ˈkɪtʃɪn/",
+      "pos": "n.",
+      "meaningZh": "厨房",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RWDX8iKJsRbY3LARAncRB7.mp3"
+    },
+    "tofu": {
+      "phonetic": "/ˈtəʊfuː/",
+      "pos": "n.",
+      "meaningZh": "豆腐",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6vXisL7MHwpJLbcrAD4GuW.mp3"
+    },
+    "beef": {
+      "phonetic": "/biːf/",
+      "pos": "n.",
+      "meaningZh": "牛肉",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/p3qvHww32QSQaHqkFpTzzJ.mp3"
+    },
+    "mutton": {
+      "phonetic": "/ˈmʌtn/",
+      "pos": "n.",
+      "meaningZh": "羊肉",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/H7F9TJL5qDciuEQoK99zzW.mp3"
+    },
+    "dumplings": {
+      "phonetic": "/ˈdʌmplɪŋz/",
+      "pos": "n.",
+      "meaningZh": "饺子 (dumpling 的复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/mpgKdTtzGJZTrpj9uW8QpM.mp3"
+    },
+    "hen": {
+      "phonetic": "/hen/",
+      "pos": "n.",
+      "meaningZh": "母鸡",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rsvZD9THehHTjnUPDmqwyU.mp3"
+    },
+    "pancakes": {
+      "phonetic": "/ˈpænkeɪks/",
+      "pos": "n.",
+      "meaningZh": "煎饼 (pancake 的复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/BFQTDkvJCRw9f7F2yRMbf5.mp3"
+    },
+    "hungry": {
+      "phonetic": "/ˈhʌŋɡri/",
+      "pos": "adj.",
+      "meaningZh": "饥饿的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/8Bi8JPovtR6e22NcbLFRzi.mp3"
+    },
+    "porridge": {
+      "phonetic": "/ˈpɒrɪdʒ/",
+      "pos": "n.",
+      "meaningZh": "粥；麦片粥",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/LZqPKtZXzMQzn5aRwyGL2S.mp3"
+    },
+    "plain": {
+      "phonetic": "/pleɪn/",
+      "pos": "adj.",
+      "meaningZh": "清淡的；普通的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/aKXA2peCctdsuvuvEVQ6Xk.mp3"
+    },
+    "menu": {
+      "phonetic": "/ˈmenjuː/",
+      "pos": "n.",
+      "meaningZh": "菜单",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZfAS6StfmR5fnvM2KwbUvG.mp3"
+    },
+    "medicine": {
+      "phonetic": "/ˈmedsn/",
+      "pos": "n.",
+      "meaningZh": "药",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/JM5QeZEXYCVedaw4AabRs4.mp3"
+    },
+    "pill": {
+      "phonetic": "/pɪl/",
+      "pos": "n.",
+      "meaningZh": "药丸",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/zJi98yn4zrYSFVmum4oAFB.mp3"
+    },
+    "studying": {
+      "phonetic": "/ˈstʌdiɪŋ/",
+      "pos": "v.",
+      "meaningZh": "学习 (study 的现在分词)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XxM5EW5BhuT4t9zZu3bRt6.mp3"
+    },
+    "remains": {
+      "phonetic": "/rɪˈmeɪnz/",
+      "pos": "v.",
+      "meaningZh": "保持；剩余 (remain 的第三人称单数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/AHfAx7wNFEgWeyHjyThofL.mp3"
+    },
+    "favourite": {
+      "phonetic": "/ˈfeɪvərɪt/",
+      "pos": "adj.",
+      "meaningZh": "最喜欢的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/R5ovT2fVYQDrJhivCQFWNP.mp3"
+    },
+    "delicious": {
+      "phonetic": "/dɪˈlɪʃəs/",
+      "pos": "adj.",
+      "meaningZh": "美味的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZTNYjAFnX4nj3Y5Wz8xUfD.mp3"
+    },
+    "mapo": {
+      "phonetic": "/ˈmɑːpəʊ/",
+      "pos": "n.",
+      "meaningZh": "麻婆",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/o5dX5xQjCJqf7pskXT6Ww6.mp3"
+    },
+    "carrots": {
+      "phonetic": "/ˈkærəts/",
+      "pos": "n.",
+      "meaningZh": "胡萝卜 (carrot 的复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sT7XXCZLNzJcxmcccNcCyn.mp3"
+    },
+    "chicken": {
+      "phonetic": "/ˈtʃɪkɪn/",
+      "pos": "n.",
+      "meaningZh": "鸡肉",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RivqZY6M3UUGMqismixezG.mp3"
+    },
+    "soup": {
+      "phonetic": "/suːp/",
+      "pos": "n.",
+      "meaningZh": "汤",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UCTwD3vt6oiEPbarZuYjeP.mp3"
+    },
+    "eggs": {
+      "phonetic": "/eɡz/",
+      "pos": "n.",
+      "meaningZh": "鸡蛋 (egg 的复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/89n69fqnEJh5ySVssoBkgW.mp3"
+    },
+    "onions": {
+      "phonetic": "/ˈʌnjənz/",
+      "pos": "n.",
+      "meaningZh": "洋葱 (onion 的复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RJ9qtjFbdbTNkEeZobhq6d.mp3"
+    },
+    "eight-treasure": {
+      "phonetic": "/eɪt ˈtreʒə/",
+      "pos": "n.",
+      "meaningZh": "八宝",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7KkQiozqk6QN9fSd9pyBWj.mp3"
+    },
+    "pork": {
+      "phonetic": "/pɔːk/",
+      "pos": "n.",
+      "meaningZh": "猪肉",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/9ceAYmaAdx4U5GHEZVkdUf.mp3"
+    },
+    "thousand-year-old": {
+      "phonetic": "/ˈθaʊzənd jɪər əʊld/",
+      "pos": "adj.",
+      "meaningZh": "千年的（指皮蛋）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6XtokTqm4pGjtE5mbTAL6L.mp3"
+    },
+    "rice": {
+      "phonetic": "/raɪs/",
+      "pos": "n.",
+      "meaningZh": "米饭",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/BkyaHjitB6johbKgBeEX8Y.mp3"
+    },
+    "chinese": {
+      "phonetic": "/ˌtʃaɪˈniːz/",
+      "pos": "adj.",
+      "meaningZh": "中国的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KFNNBxmLLLkMvvt7GxouqF.mp3"
+    },
+    "world": {
+      "phonetic": "/wɜːld/",
+      "pos": "n.",
+      "meaningZh": "世界",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FeFVTAjwZPvvojZakrD8uL.mp3"
+    },
+    "home": {
+      "phonetic": "/həʊm/",
+      "pos": "n.",
+      "meaningZh": "家",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/c78EVQoVxVYcVGCthXx2sc.mp3"
+    },
+    "heart": {
+      "phonetic": "/hɑːt/",
+      "pos": "n.",
+      "meaningZh": "心",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UPeBbowtSLdqYcgqroLBpj.mp3"
+    },
+    "food": {
+      "phonetic": "/fuːd/",
+      "pos": "n.",
+      "meaningZh": "食物",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hYUmEJCRXdMZ6PH5ovgbrc.mp3"
+    },
+    "mother": {
+      "phonetic": "/ˈmʌðə/",
+      "pos": "n.",
+      "meaningZh": "母亲",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/o4tmEyM94iisetUXr2WtgM.mp3"
+    },
+    "wake": {
+      "phonetic": "/weɪk/",
+      "pos": "v.",
+      "meaningZh": "醒来",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/MbbZyEpDkXQd5Ca8nDhYrS.mp3"
+    },
+    "sweet": {
+      "phonetic": "/swiːt/",
+      "pos": "adj.",
+      "meaningZh": "甜的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/CU7GLptPebSL2q5FYGmNnD.mp3"
+    },
+    "great": {
+      "phonetic": "/ɡreɪt/",
+      "pos": "adj.",
+      "meaningZh": "棒的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/wsvFocmGP85hpJ8UNywdyA.mp3"
+    },
+    "simplest": {
+      "phonetic": "/ˈsɪmplɪst/",
+      "pos": "adj.",
+      "meaningZh": "最简单的 (simple 的最高级)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/s6BNGjuS6a6mB4tz2YFC3C.mp3"
+    },
+    "best": {
+      "phonetic": "/best/",
+      "pos": "adj.",
+      "meaningZh": "最好的 (good 的最高级)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KCDj7vb3qaKKuACYahPgMZ.mp3"
+    },
+    "better": {
+      "phonetic": "/ˈbetə/",
+      "pos": "adj.",
+      "meaningZh": "更好的 (good 的比较级)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/VBAvcWYPWsSHQ23kD6GQsF.mp3"
+    },
+    "warm": {
+      "phonetic": "/wɔːm/",
+      "pos": "adj.",
+      "meaningZh": "温暖的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/brMNM4EXop6wrY9waHYHRo.mp3"
+    },
+    "old": {
+      "phonetic": "/əʊld/",
+      "pos": "adj.",
+      "meaningZh": "旧的；老的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sYuT5Fj9mh6CSagPACDZQa.mp3"
+    },
+    "strong": {
+      "phonetic": "/strɒŋ/",
+      "pos": "adj.",
+      "meaningZh": "强烈的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Hhg8oYwETiTAfUTbfFXELE.mp3"
+    },
+    "often": {
+      "phonetic": "/ˈɒfn/",
+      "pos": "adv.",
+      "meaningZh": "经常",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/tjgFyRuBU2YQDWLKefduZL.mp3"
+    },
+    "sometimes": {
+      "phonetic": "/ˈsʌmtaɪmz/",
+      "pos": "adv.",
+      "meaningZh": "有时",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/8e3usvC9Y89SKZpLhzRhLZ.mp3"
+    },
+    "othertimes": {
+      "phonetic": "/ˈʌðətaɪmz/",
+      "pos": "adv.",
+      "meaningZh": "其他时候",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/fuZBRpuw7XcY9L3NvqngKH.mp3"
+    },
+    "other": {
+      "phonetic": "/ˈʌðə/",
+      "pos": "adj.",
+      "meaningZh": "其他的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/K6b63eWjHk459rdu3MjP4g.mp3"
+    },
+    "times": {
+      "phonetic": "/taɪmz/",
+      "pos": "n.",
+      "meaningZh": "次数；时代 (time 的复数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UHKZhezAbod4owjsW2LnsY.mp3"
+    },
+    "however": {
+      "phonetic": "/haʊˈevə/",
+      "pos": "adv.",
+      "meaningZh": "然而",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iZ9vdKJs8sjFwmgsBUYktE.mp3"
+    },
+    "always": {
+      "phonetic": "/ˈɔːlweɪz/",
+      "pos": "adv.",
+      "meaningZh": "总是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/D7gsKGjn7LPy5vJG4APN5D.mp3"
+    },
+    "bring": {
+      "phonetic": "/brɪŋ/",
+      "pos": "v.",
+      "meaningZh": "带来",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/uT9baQdqC6aQv7jL3EX5ch.mp3"
+    },
+    "start": {
+      "phonetic": "/stɑːt/",
+      "pos": "v.",
+      "meaningZh": "开始",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/VP3CtxUGBXVEb8NhTbCjVJ.mp3"
+    },
+    "become": {
+      "phonetic": "/bɪˈkʌm/",
+      "pos": "v.",
+      "meaningZh": "变成",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pwoPaRpMdjAGvaELcRzRGh.mp3"
+    },
+    "grow": {
+      "phonetic": "/ɡrəʊ/",
+      "pos": "v.",
+      "meaningZh": "变得；生长",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dKmAenfQJQ5TUWk8CvStcg.mp3"
+    },
+    "thinking": {
+      "phonetic": "/ˈθɪŋkɪŋ/",
+      "pos": "v.",
+      "meaningZh": "思考 (think 的现在分词)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/q6akuDV8cre7rhhQPXRuhH.mp3"
+    },
+    "fall": {
+      "phonetic": "/fɔːl/",
+      "pos": "v.",
+      "meaningZh": "变成；落下",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pRGhDFZdH4JZxAgZMGFnsk.mp3"
+    },
+    "makes": {
+      "phonetic": "/meɪks/",
+      "pos": "v.",
+      "meaningZh": "制作 (make 的第三人称单数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KhLqkx2CFZUHHNzpP8MndH.mp3"
+    },
+    "feel": {
+      "phonetic": "/fiːl/",
+      "pos": "v.",
+      "meaningZh": "感觉",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/JT84hxMVg4ZoFyEV9kEXWZ.mp3"
+    },
+    "stay": {
+      "phonetic": "/steɪ/",
+      "pos": "v.",
+      "meaningZh": "停留",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KMYZxkt66tGbYbhocdJMN7.mp3"
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "pos": "art.",
+      "meaningZh": "这；那",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/9CM9MR69L7vb8xGhCd9qdC.mp3"
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "pos": "conj.",
+      "meaningZh": "和",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/kx7sWUp8tqtPU4V9xQn5gk.mp3"
+    },
+    "of": {
+      "phonetic": "/ɒv/",
+      "pos": "prep.",
+      "meaningZh": "...的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/D5hxiXwCxRTuCmJQt66SA8.mp3"
+    },
+    "a": {
+      "phonetic": "/ə/",
+      "pos": "art.",
+      "meaningZh": "一个",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ijZ58gAo58jRuynXZnBPXE.mp3"
+    },
+    "can": {
+      "phonetic": "/kæn/",
+      "pos": "mod.",
+      "meaningZh": "能",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pp2s5ncKY2zMQBGLmWpYEQ.mp3"
+    },
+    "do": {
+      "phonetic": "/duː/",
+      "pos": "v.",
+      "meaningZh": "做",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/MwF3kiXeZHcGZsd6mnbNMX.mp3"
+    },
+    "you": {
+      "phonetic": "/juː/",
+      "pos": "pron.",
+      "meaningZh": "你",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/AMD39G9dFCWcDoMtAV9T3o.mp3"
+    },
+    "have": {
+      "phonetic": "/hæv/",
+      "pos": "v.",
+      "meaningZh": "有",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WM3AMe3UrrydpBnE6VNSzD.mp3"
+    },
+    "any": {
+      "phonetic": "/ˈeni/",
+      "pos": "adj.",
+      "meaningZh": "任何",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/NtwQncc7N6KuvLoaz4jQwD.mp3"
+    },
+    "mine": {
+      "phonetic": "/maɪn/",
+      "pos": "pron.",
+      "meaningZh": "我的 (my 的名词性物主代词)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/fG7fjoHrrQzicLyRbicvj4.mp3"
+    },
+    "with": {
+      "phonetic": "/wɪð/",
+      "pos": "prep.",
+      "meaningZh": "和...一起",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hXpdz3bmuJaUP83Xf3e3bd.mp3"
+    },
+    "my": {
+      "phonetic": "/maɪ/",
+      "pos": "pron.",
+      "meaningZh": "我的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/4A6R7J4qRTPsNmviKxPazJ.mp3"
+    },
+    "she": {
+      "phonetic": "/ʃiː/",
+      "pos": "pron.",
+      "meaningZh": "她",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/29mB6Rjjg255UWLBJg2Kvk.mp3"
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "pos": "prep.",
+      "meaningZh": "在...里",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/QtcbGB6e9hemv965VpPdRZ.mp3"
+    },
+    "red": {
+      "phonetic": "/red/",
+      "pos": "adj.",
+      "meaningZh": "红色的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XF5V5As3axFeGWdkkB2QTV.mp3"
+    },
+    "hot": {
+      "phonetic": "/hɒt/",
+      "pos": "adj.",
+      "meaningZh": "热的；辣的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FLEsJhG8F8YwH9es7tTC5W.mp3"
+    },
+    "lovely": {
+      "phonetic": "/ˈlʌvli/",
+      "pos": "adj.",
+      "meaningZh": "可爱的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sY7KnjUJ82zJSh2c7r3ic3.mp3"
+    },
+    "big": {
+      "phonetic": "/bɪɡ/",
+      "pos": "adj.",
+      "meaningZh": "大的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ru8c89D7AeGKLZzpwkkBwd.mp3"
+    },
+    "fat": {
+      "phonetic": "/fæt/",
+      "pos": "adj.",
+      "meaningZh": "肥的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/PETQvUefkUMCG99pm6QUEe.mp3"
+    },
+    "pot": {
+      "phonetic": "/pɒt/",
+      "pos": "n.",
+      "meaningZh": "锅",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7JjXxCjqHSjxX2igoTByY8.mp3"
+    },
+    "even": {
+      "phonetic": "/ˈiːvn/",
+      "pos": "adv.",
+      "meaningZh": "甚至",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/aJmMiTgfbkZyzegUyHi5Wd.mp3"
+    },
+    "green": {
+      "phonetic": "/ɡriːn/",
+      "pos": "adj.",
+      "meaningZh": "绿色的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sb8NBoAvNz8JBR6iKQo9RN.mp3"
+    },
+    "wonderful": {
+      "phonetic": "/ˈwʌndəfl/",
+      "pos": "adj.",
+      "meaningZh": "极好的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RhhiJFktpQedvxU6tNhnn9.mp3"
+    },
+    "them": {
+      "phonetic": "/ðem/",
+      "pos": "pron.",
+      "meaningZh": "它们 (they 的宾格)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XV46ddPEK8XrdmGAGnRKTA.mp3"
+    },
+    "but": {
+      "phonetic": "/bʌt/",
+      "pos": "conj.",
+      "meaningZh": "但是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/shfbgfq8Bn7pkHUYivVNq7.mp3"
+    },
+    "is": {
+      "phonetic": "/ɪz/",
+      "pos": "v.",
+      "meaningZh": "是 (be 的第三人称单数)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pQTuvLgRcLMLPbUQNeHP3Z.mp3"
+    },
+    "up": {
+      "phonetic": "/ʌp/",
+      "pos": "adv.",
+      "meaningZh": "向上",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/c7LwJxp2qy9QTcvLmRtvNn.mp3"
+    },
+    "to": {
+      "phonetic": "/tuː/",
+      "pos": "prep.",
+      "meaningZh": "向；到",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/yLNVaaY3aZLrSiM5EKfd6D.mp3"
+    },
+    "it's": {
+      "phonetic": "/ɪts/",
+      "pos": "abbr.",
+      "meaningZh": "它是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/NiJZTzHzrzUmfqUjxP6wE4.mp3"
+    },
+    "its": {
+      "phonetic": "/ɪts/",
+      "pos": "pron.",
+      "meaningZh": "它的 (it 的所有格)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Rn6K9hR63nKpiKeq7n3jwY.mp3"
+    },
+    "own": {
+      "phonetic": "/əʊn/",
+      "pos": "adj.",
+      "meaningZh": "自己的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pyWpK8hsYyAQDDjDAdRKc4.mp3"
+    },
+    "way": {
+      "phonetic": "/weɪ/",
+      "pos": "n.",
+      "meaningZh": "方式",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dzxB8GMqKm8LtJuoX5GqBe.mp3"
+    },
+    "when": {
+      "phonetic": "/wen/",
+      "pos": "conj.",
+      "meaningZh": "当...时",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/EQgdAQ9zFfbegGpgFw7Wc7.mp3"
+    },
+    "i": {
+      "phonetic": "/aɪ/",
+      "pos": "pron.",
+      "meaningZh": "我",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/944wJYK2dwkCT35MK7dosf.mp3"
+    },
+    "ill": {
+      "phonetic": "/ɪl/",
+      "pos": "adj.",
+      "meaningZh": "生病的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/D582cBaeTr8BZuxmciTVaJ.mp3"
+    },
+    "for": {
+      "phonetic": "/fɔː/",
+      "pos": "prep.",
+      "meaningZh": "为了",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rT5edZqMpFKUgcTJXUrsBB.mp3"
+    },
+    "me": {
+      "phonetic": "/miː/",
+      "pos": "pron.",
+      "meaningZh": "我 (I 的宾格)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Bz7NU6DfSvtzd5WYZmhVwD.mp3"
+    },
+    "that's": {
+      "phonetic": "/ðæts/",
+      "pos": "abbr.",
+      "meaningZh": "那是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KMVofzgiGrxGY6snwXvwA2.mp3"
+    },
+    "on": {
+      "phonetic": "/ɒn/",
+      "pos": "prep.",
+      "meaningZh": "在...上",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iKXLvoQodZVk8mAdP8Wa7A.mp3"
+    },
+    "than": {
+      "phonetic": "/ðæn/",
+      "pos": "conj.",
+      "meaningZh": "比",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RggUsKra5WpgxBPGPXymqT.mp3"
+    },
+    "now": {
+      "phonetic": "/naʊ/",
+      "pos": "adv.",
+      "meaningZh": "现在",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qdW4YBxVR3dbM8BwTdngtM.mp3"
+    },
+    "i'm": {
+      "phonetic": "/aɪm/",
+      "pos": "abbr.",
+      "meaningZh": "我是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ohXgHVBXKusKyYqU3r8p3X.mp3"
+    },
+    "from": {
+      "phonetic": "/frɒm/",
+      "pos": "prep.",
+      "meaningZh": "来自",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gg85joPfT3xMWiPFXGRVKc.mp3"
+    },
+    "all": {
+      "phonetic": "/ɔːl/",
+      "pos": "adj.",
+      "meaningZh": "所有的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/34kswfeY3WLU6LHP2bpFD6.mp3"
+    },
+    "still": {
+      "phonetic": "/stɪl/",
+      "pos": "adv.",
+      "meaningZh": "仍然",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/F2TEKQPQvsxRm2M7jHi2a5.mp3"
+    },
+    "so": {
+      "phonetic": "/səʊ/",
+      "pos": "adv.",
+      "meaningZh": "如此",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/zmwjdgmsVBhh295W9cE9b8.mp3"
+    },
+    "what": {
+      "phonetic": "/wɒt/",
+      "pos": "pron.",
+      "meaningZh": "什么",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/NVF2s7npoDv7xUgUYfK2s2.mp3"
+    },
+    "your": {
+      "phonetic": "/jɔː/",
+      "pos": "pron.",
+      "meaningZh": "你的 (you 的所有格)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XBtqS9URuv5eQS3V8C2Hob.mp3"
     }
-  ]
+  }
 }

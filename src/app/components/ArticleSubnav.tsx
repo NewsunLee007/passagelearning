@@ -4,8 +4,7 @@ import type { TextbookArticleMeta } from "../../features/content/catalog";
 const items = [
   { label: "概览", to: "" },
   { label: "阅读", to: "read" },
-  { label: "词汇", to: "vocab" },
-  { label: "句子", to: "sentence" },
+  { label: "词句", to: "sentence" },
   { label: "练习", to: "reading" },
   { label: "收藏", to: "quotes" }
 ];
@@ -40,7 +39,7 @@ export function ArticleSubnav({ article }: { article: TextbookArticleMeta }) {
                 key={item.label}
                 to={to}
                 className={[
-                  "whitespace-nowrap rounded-full px-4 py-2 text-sm font-medium transition",
+                  "whitespace-nowrap rounded-full px-4 py-2 text-sm font-medium transition sm:px-4",
                   active
                     ? "bg-secondary text-white shadow-sm"
                     : "border border-white/70 bg-white/78 text-slate-700 hover:border-slate-200 hover:bg-white"

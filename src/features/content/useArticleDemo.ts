@@ -69,8 +69,18 @@ export function useArticleDemo(articleId?: string) {
       try {
         if (articleId) {
           const cloudData = await apiGet<ArticleDemo>(`/api/articles/${articleId}`);
+          let merged = cloudData;
+          try {
+            const localResponse = await fetch(localPath);
+            if (localResponse.ok) {
+              const localJson = (await localResponse.json()) as ArticleDemo;
+              merged = mergeArticlePayload(cloudData, localJson);
+            }
+          } catch {
+            // Ignore local overlay failures and keep cloud data.
+          }
           if (!cancelled) {
-            setData(withCachedSupport(normalizeArticle(articleId, cloudData)));
+            setData(withCachedSupport(normalizeArticle(articleId, merged)));
             setLoading(false);
           }
           return;
@@ -218,6 +228,47 @@ function mergeSupportIntoArticle(article: ArticleDemo, support: ArticleSupport) 
 function withCachedSupport(article: ArticleDemo) {
   const support = readSupportCache(article.article.id);
   return support ? mergeSupportIntoArticle(article, support) : article;
+}
+
+function mergeArticlePayload(primary: ArticleDemo, secondary: ArticleDemo) {
+  const secondaryById = new Map((secondary.sentences ?? []).map((sentence) => [sentence.id, sentence]));
+
+  return {
+    ...primary,
+    ...secondary,
+    article: {
+      ...primary.article,
+      ...secondary.article,
+      paragraphs: secondary.article?.paragraphs?.length ? secondary.article.paragraphs : primary.article.paragraphs
+    },
+    sentences: (primary.sentences ?? []).map((sentence) => {
+      const localSentence = secondaryById.get(sentence.id);
+      return localSentence
+        ? {
+            ...sentence,
+            ...localSentence,
+            tr: localSentence.tr ?? sentence.tr,
+            g: localSentence.g ?? sentence.g,
+            d: localSentence.d ?? sentence.d,
+            audioUrl: localSentence.audioUrl ?? sentence.audioUrl
+          }
+        : sentence;
+    }),
+    vocabItems: (secondary.vocabItems?.length ?? 0) >= (primary.vocabItems?.length ?? 0) ? secondary.vocabItems : primary.vocabItems,
+    sentenceTasks: (secondary.sentenceTasks?.length ?? 0) >= (primary.sentenceTasks?.length ?? 0) ? secondary.sentenceTasks : primary.sentenceTasks,
+    readingQuestions:
+      (secondary.readingQuestions?.length ?? 0) >= (primary.readingQuestions?.length ?? 0)
+        ? secondary.readingQuestions
+        : primary.readingQuestions,
+    quoteCandidates:
+      (secondary.quoteCandidates?.length ?? 0) >= (primary.quoteCandidates?.length ?? 0)
+        ? secondary.quoteCandidates
+        : primary.quoteCandidates,
+    lexicon: {
+      ...(primary.lexicon ?? {}),
+      ...(secondary.lexicon ?? {})
+    }
+  };
 }
 
 function hasEnoughSupport(article: ArticleDemo) {

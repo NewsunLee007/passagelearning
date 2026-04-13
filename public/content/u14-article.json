@@ -1,51 +1,62 @@
 {
   "meta": {
-    "schemaVersion": "1.0",
-    "source": "七年级下册英语教材",
-    "notes": "自动生成"
+    "schemaVersion": "2.0",
+    "source": "七年级下册互动课文",
+    "importedFrom": "Unit 6 Passage 1 Hot and Cool（互动课文教学动画）英语新教材外研版七年级下册.html",
+    "importedAt": "2026-04-13T04:50:28.079Z"
   },
   "article": {
     "id": "u14-article",
     "title": "Hot and cool",
     "unit": "Unit 6 Hitting the road",
-    "genre": "narrative",
     "paragraphs": [
       {
-        "id": "u14-p1",
+        "id": "u14-article-p1",
         "sentenceIds": [
-          "u14-s1",
-          "u14-s2",
-          "u14-s3"
+          "u14-article-s1",
+          "u14-article-s2",
+          "u14-article-s3"
         ]
       },
       {
-        "id": "u14-p2",
+        "id": "u14-article-p2",
         "sentenceIds": [
-          "u14-s4",
-          "u14-s5",
-          "u14-s6",
-          "u14-s7",
-          "u14-s8"
+          "u14-article-s4",
+          "u14-article-s5",
+          "u14-article-s6"
         ]
       },
       {
-        "id": "u14-p3",
+        "id": "u14-article-p3",
         "sentenceIds": [
-          "u14-s9",
-          "u14-s10",
-          "u14-s11",
-          "u14-s12",
-          "u14-s13"
+          "u14-article-s7"
         ]
       },
       {
-        "id": "u14-p4",
+        "id": "u14-article-p4",
         "sentenceIds": [
-          "u14-s14",
-          "u14-s15",
-          "u14-s16",
-          "u14-s17",
-          "u14-s18"
+          "u14-article-s8",
+          "u14-article-s9",
+          "u14-article-s10",
+          "u14-article-s11",
+          "u14-article-s12"
+        ]
+      },
+      {
+        "id": "u14-article-p5",
+        "sentenceIds": [
+          "u14-article-s13",
+          "u14-article-s14",
+          "u14-article-s15",
+          "u14-article-s16",
+          "u14-article-s17"
+        ]
+      },
+      {
+        "id": "u14-article-p6",
+        "sentenceIds": [
+          "u14-article-s18",
+          "u14-article-s19"
         ]
       }
     ],
@@ -53,425 +64,1763 @@
     "stageLabel": "理解篇",
     "unitNumber": 6,
     "unitTheme": "Hitting the road",
-    "bookOrder": 60,
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
+    "bookOrder": 260,
     "summary": "在成都与青城山之间切换，体验旅途中的冷热反差。"
   },
   "sentences": [
     {
-      "id": "u14-s1",
+      "id": "u14-article-s1",
       "text": "At last, I arrived in Chengdu.",
-      "paragraphId": "u14-p1",
-      "keywords": [
-        "arrived",
-        "Chengdu"
-      ]
+      "paragraphId": "u14-article-p1",
+      "tr": "终于，我到达了成都。",
+      "g": "时间状语 + 主谓宾",
+      "d": "'At last'表示终于，强调经过一段时间的等待。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/YWFknHy6StEPsXMMQfBC6P.mp3"
     },
     {
-      "id": "u14-s2",
+      "id": "u14-article-s2",
       "text": "My friend Haoyu took me to a restaurant right from the airport.",
-      "paragraphId": "u14-p1",
-      "keywords": [
-        "friend",
-        "restaurant",
-        "airport"
-      ]
+      "paragraphId": "u14-article-p1",
+      "tr": "我的朋友浩宇直接从机场带我去了一家餐馆。",
+      "g": "主谓宾补",
+      "d": "'take sb to...'表示带某人去某地。'right from'表示直接从...。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/4ajq3J6GjRXv2TMJJMaLLg.mp3"
     },
     {
-      "id": "u14-s3",
-      "text": "I just couldn't wait to try Sichuan hot pot!",
-      "paragraphId": "u14-p1",
-      "keywords": [
-        "couldn't wait",
-        "Sichuan hot pot"
-      ]
+      "id": "u14-article-s3",
+      "text": "I just couldn’t wait to try Sichuan hot pot!",
+      "paragraphId": "u14-article-p1",
+      "tr": "我迫不及待地想尝尝四川火锅！",
+      "g": "主谓宾",
+      "d": "'couldn’t wait to do sth'表示迫不及待做某事。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hB9nUuwyaKGqnNJDjcAgBL.mp3"
     },
     {
-      "id": "u14-s4",
+      "id": "u14-article-s4",
       "text": "But the first taste made my mouth burn!",
-      "paragraphId": "u14-p2",
-      "keywords": [
-        "first taste",
-        "mouth burn"
-      ]
+      "paragraphId": "u14-article-p2",
+      "tr": "但是第一口就让我的嘴巴着火了！",
+      "g": "使役动词结构",
+      "d": "'make sb/sth do sth'使某人/某物做某事。这里指辣得嘴巴像烧起来一样。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UXR7DNFdoJ2fSg4TLfv8g4.mp3"
     },
     {
-      "id": "u14-s5",
+      "id": "u14-article-s5",
       "text": "The food was much hotter than I expected.",
-      "paragraphId": "u14-p2",
-      "keywords": [
-        "much hotter",
-        "expected"
-      ]
+      "paragraphId": "u14-article-p2",
+      "tr": "食物比我预期的要辣得多。",
+      "g": "比较级",
+      "d": "'hotter than'表示比...更辣。'much'修饰比较级表示程度深。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6MzEWRDB2zHFrPNKfTo252.mp3"
     },
     {
-      "id": "u14-s6",
+      "id": "u14-article-s6",
       "text": "I took a deep breath and drank a whole glass of iced lemon tea.",
-      "paragraphId": "u14-p2",
-      "keywords": [
-        "deep breath",
-        "iced lemon tea"
-      ]
+      "paragraphId": "u14-article-p2",
+      "tr": "我深吸了一口气，喝了一整杯冰柠檬茶。",
+      "g": "并列谓语",
+      "d": "'took'和'drank'是并列的过去式动词。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WQaV9Svd8xxuwxfERTsNS9.mp3"
     },
     {
-      "id": "u14-s7",
-      "text": "\"Do you want something less hot?\" Haoyu said.",
-      "paragraphId": "u14-p2",
-      "keywords": [
-        "something less hot"
-      ]
+      "id": "u14-article-s7",
+      "text": "“Do you want something less hot?” Haoyu said.",
+      "paragraphId": "u14-article-p3",
+      "tr": "“你想吃点不那么辣的吗？”浩宇说。",
+      "g": "一般疑问句",
+      "d": "'something less hot'形容词修饰不定代词后置。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/nETWBmaYWUzEQ6jqgruDmV.mp3"
     },
     {
-      "id": "u14-s8",
-      "text": "\"No,\" I replied.",
-      "paragraphId": "u14-p2",
-      "keywords": [
-        "replied"
-      ]
+      "id": "u14-article-s8",
+      "text": "“No,” I replied.",
+      "paragraphId": "u14-article-p4",
+      "tr": "“不，”我回答道。",
+      "g": "直接引语",
+      "d": "简单的回答。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/df5yQvdbkSLvuZz6VkeXWN.mp3"
     },
     {
-      "id": "u14-s9",
-      "text": "\"When in China, do as the Chinese do!\"",
-      "paragraphId": "u14-p3",
-      "keywords": [
-        "When in China",
-        "do as the Chinese do"
-      ]
+      "id": "u14-article-s9",
+      "text": "“When in China, do as the Chinese do!”",
+      "paragraphId": "u14-article-p4",
+      "tr": "“入乡随俗！”",
+      "g": "谚语",
+      "d": "意为'在罗马就像罗马人一样做'，即入乡随俗。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/xvRsTUD68qcB9py72rgLQN.mp3"
     },
     {
-      "id": "u14-s10",
+      "id": "u14-article-s10",
       "text": "I carefully took a small mouthful.",
-      "paragraphId": "u14-p3",
-      "keywords": [
-        "carefully",
-        "small mouthful"
-      ]
+      "paragraphId": "u14-article-p4",
+      "tr": "我小心翼翼地吃了一小口。",
+      "g": "主谓宾",
+      "d": "'carefully'修饰动词'took'。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WfqdHEGEmnh4LFygvL6Dff.mp3"
     },
     {
-      "id": "u14-s11",
+      "id": "u14-article-s11",
       "text": "Surprisingly, I started to enjoy the taste.",
-      "paragraphId": "u14-p3",
-      "keywords": [
-        "Surprisingly",
-        "enjoy the taste"
-      ]
+      "paragraphId": "u14-article-p4",
+      "tr": "令人惊讶的是，我开始享受这种味道。",
+      "g": "状语 + 主谓宾",
+      "d": "'start to do sth'开始做某事。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KnoM9Tz9K5FUgzi5bXUB6n.mp3"
     },
     {
-      "id": "u14-s12",
+      "id": "u14-article-s12",
       "text": "And cooking hot pot was just as fun as eating it!",
-      "paragraphId": "u14-p3",
-      "keywords": [
-        "cooking hot pot",
-        "just as fun"
-      ]
+      "paragraphId": "u14-article-p4",
+      "tr": "而且煮火锅和吃火锅一样有趣！",
+      "g": "同级比较",
+      "d": "'as...as'表示和...一样。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/n9BAChzyyGCnuNqfRHcnPB.mp3"
     },
     {
-      "id": "u14-s13",
-      "text": "After lunch, things went from really hot to totally cool - we went to the new Sanxingdui Museum!",
-      "paragraphId": "u14-p3",
-      "keywords": [
-        "really hot",
-        "totally cool",
-        "Sanxingdui Museum"
-      ]
+      "id": "u14-article-s13",
+      "text": "After lunch, things went from really hot to totally cool – we went to the new Sanxingdui Museum!",
+      "paragraphId": "u14-article-p5",
+      "tr": "午饭后，我们从热辣的火锅店到了一个完全不同的凉爽且很酷的地方——我们去参观了三星堆博物馆新馆！",
+      "g": "时间状语 + 主谓结构",
+      "d": "'from...to...'从...到...。'cool'这里双关，指凉爽也指酷。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/bc2tfVbP3wgdbyboNypMA5.mp3"
     },
     {
-      "id": "u14-s14",
+      "id": "u14-article-s14",
       "text": "The masks were fantastic.",
-      "paragraphId": "u14-p4",
-      "keywords": [
-        "masks",
-        "fantastic"
-      ]
+      "paragraphId": "u14-article-p5",
+      "tr": "面具太棒了。",
+      "g": "主系表",
+      "d": "'fantastic'形容词作表语。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rAHUgobCviGWUTUntCWAR4.mp3"
     },
     {
-      "id": "u14-s15",
-      "text": "\"Why are their eyes and ears much bigger than normal ones? Were ancient Shu people able to see and hear further than us?\" I wondered.",
-      "paragraphId": "u14-p4",
-      "keywords": [
-        "eyes and ears",
-        "ancient Shu people",
-        "see and hear"
-      ]
+      "id": "u14-article-s15",
+      "text": "“Why are their eyes and ears much bigger than normal ones?",
+      "paragraphId": "u14-article-p5",
+      "tr": "“为什么他们的眼睛和耳朵比正常的要大得多？",
+      "g": "特殊疑问句 + 比较级",
+      "d": "'bigger than'比较级。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iUgRqi4hMcWxGGaoyenmYb.mp3"
     },
     {
-      "id": "u14-s16",
+      "id": "u14-article-s16",
+      "text": "Were ancient Shu people able to see and hear further than us?” I wondered.",
+      "paragraphId": "u14-article-p5",
+      "tr": "古蜀人能比我们看和听得更远吗？”我想知道。",
+      "g": "一般疑问句",
+      "d": "'be able to'能够。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/afttpwQXo5oHEDRFD2kLiG.mp3"
+    },
+    {
+      "id": "u14-article-s17",
       "text": "I wanted to stay in the museum for a week!",
-      "paragraphId": "u14-p4",
-      "keywords": [
-        "stay",
-        "museum",
-        "week"
-      ]
+      "paragraphId": "u14-article-p5",
+      "tr": "我想在博物馆待一个星期！",
+      "g": "主谓宾",
+      "d": "'want to do sth'想要做某事。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/jDJoizLqjcnMxGSuHaxqge.mp3"
     },
     {
-      "id": "u14-s17",
+      "id": "u14-article-s18",
       "text": "My first day in China was full of fun: I tried new food and went to an exciting place.",
-      "paragraphId": "u14-p4",
-      "keywords": [
-        "first day",
-        "full of fun",
-        "exciting place"
-      ]
+      "paragraphId": "u14-article-p6",
+      "tr": "我在中国的第一天充满了乐趣：我尝试了新食物，去了一个令人兴奋的地方。",
+      "g": "主系表 + 解释说明",
+      "d": "'be full of'充满。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/BtQQ6QUssuU56fR9z2T2FR.mp3"
     },
     {
-      "id": "u14-s18",
-      "text": "I'm really looking forward to the rest of my trip around China!",
-      "paragraphId": "u14-p4",
-      "keywords": [
-        "looking forward",
-        "trip around China"
-      ]
+      "id": "u14-article-s19",
+      "text": "I’m really looking forward to the rest of my trip around China!",
+      "paragraphId": "u14-article-p6",
+      "tr": "我真的很期待我在中国的余下旅程！",
+      "g": "进行时态",
+      "d": "'look forward to'期待，to是介词，后接名词。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/MHMgkSypyEgnjm2heBGw7d.mp3"
     }
   ],
   "vocabItems": [
     {
-      "id": "u14-v1",
-      "term": "arrived in",
+      "id": "u14-article-v1",
+      "term": "at",
+      "meaningZh": "在（某处/某时间）",
+      "exampleSentenceId": "u14-article-s1"
+    },
+    {
+      "id": "u14-article-v2",
+      "term": "last",
+      "meaningZh": "最后；上一个",
+      "exampleSentenceId": "u14-article-s1"
+    },
+    {
+      "id": "u14-article-v3",
+      "term": "i",
+      "meaningZh": "我",
+      "exampleSentenceId": "u14-article-s1"
+    },
+    {
+      "id": "u14-article-v4",
+      "term": "arrived",
       "meaningZh": "到达",
-      "exampleSentenceId": "u14-s1",
-      "distractorsZh": [
-        "离开",
-        "出发",
-        "错过"
-      ]
+      "exampleSentenceId": "u14-article-s1"
     },
     {
-      "id": "u14-v2",
-      "term": "couldn't wait to",
-      "meaningZh": "迫不及待要",
-      "exampleSentenceId": "u14-s3",
-      "distractorsZh": [
-        "等待",
-        "犹豫",
-        "拒绝"
-      ]
+      "id": "u14-article-v5",
+      "term": "in",
+      "meaningZh": "在...里面",
+      "exampleSentenceId": "u14-article-s1"
     },
     {
-      "id": "u14-v3",
-      "term": "much hotter than",
-      "meaningZh": "比...热得多",
-      "exampleSentenceId": "u14-s5",
-      "distractorsZh": [
-        "比...冷",
-        "和...一样热",
-        "稍微热一点"
-      ]
+      "id": "u14-article-v6",
+      "term": "chengdu",
+      "meaningZh": "成都（地名）",
+      "exampleSentenceId": "u14-article-s1"
     },
     {
-      "id": "u14-v4",
-      "term": "took a deep breath",
-      "meaningZh": "深吸一口气",
-      "exampleSentenceId": "u14-s6",
-      "distractorsZh": [
-        "呼气",
-        "屏住呼吸",
-        "咳嗽"
-      ]
+      "id": "u14-article-v7",
+      "term": "my",
+      "meaningZh": "我的",
+      "exampleSentenceId": "u14-article-s2"
     },
     {
-      "id": "u14-v5",
-      "term": "When in China, do as the Chinese do",
-      "meaningZh": "入乡随俗",
-      "exampleSentenceId": "u14-s9",
-      "distractorsZh": [
-        "我行我素",
-        "随波逐流",
-        "坚持己见"
-      ]
+      "id": "u14-article-v8",
+      "term": "friend",
+      "meaningZh": "朋友",
+      "exampleSentenceId": "u14-article-s2"
     },
     {
-      "id": "u14-v6",
-      "term": "just as fun as",
-      "meaningZh": "和...一样有趣",
-      "exampleSentenceId": "u14-s12",
-      "distractorsZh": [
-        "比...无聊",
-        "不如...有趣",
-        "非常有趣"
-      ]
+      "id": "u14-article-v9",
+      "term": "haoyu",
+      "meaningZh": "浩宇（人名）",
+      "exampleSentenceId": "u14-article-s2"
     },
     {
-      "id": "u14-v7",
-      "term": "looking forward to",
-      "meaningZh": "期待",
-      "exampleSentenceId": "u14-s18",
-      "distractorsZh": [
-        "担心",
-        "忘记",
-        "后悔"
-      ]
+      "id": "u14-article-v10",
+      "term": "took",
+      "meaningZh": "带；拿（take的过去式）",
+      "exampleSentenceId": "u14-article-s2"
+    },
+    {
+      "id": "u14-article-v11",
+      "term": "me",
+      "meaningZh": "我（宾格）",
+      "exampleSentenceId": "u14-article-s2"
+    },
+    {
+      "id": "u14-article-v12",
+      "term": "to",
+      "meaningZh": "向；朝",
+      "exampleSentenceId": "u14-article-s2"
+    },
+    {
+      "id": "u14-article-v13",
+      "term": "a",
+      "meaningZh": "一个",
+      "exampleSentenceId": "u14-article-s1"
+    },
+    {
+      "id": "u14-article-v14",
+      "term": "restaurant",
+      "meaningZh": "餐馆",
+      "exampleSentenceId": "u14-article-s2"
+    },
+    {
+      "id": "u14-article-v15",
+      "term": "right",
+      "meaningZh": "正好；直接；右边",
+      "exampleSentenceId": "u14-article-s2"
+    },
+    {
+      "id": "u14-article-v16",
+      "term": "from",
+      "meaningZh": "来自",
+      "exampleSentenceId": "u14-article-s2"
+    },
+    {
+      "id": "u14-article-v17",
+      "term": "the",
+      "meaningZh": "这；那",
+      "exampleSentenceId": "u14-article-s2"
+    },
+    {
+      "id": "u14-article-v18",
+      "term": "airport",
+      "meaningZh": "机场",
+      "exampleSentenceId": "u14-article-s2"
+    },
+    {
+      "id": "u14-article-v19",
+      "term": "just",
+      "meaningZh": "仅仅；刚才",
+      "exampleSentenceId": "u14-article-s3"
+    },
+    {
+      "id": "u14-article-v20",
+      "term": "couldn't",
+      "meaningZh": "不能（could not）",
+      "exampleSentenceId": "u14-article-s3"
+    },
+    {
+      "id": "u14-article-v21",
+      "term": "wait",
+      "meaningZh": "等待",
+      "exampleSentenceId": "u14-article-s3"
+    },
+    {
+      "id": "u14-article-v22",
+      "term": "try",
+      "meaningZh": "尝试",
+      "exampleSentenceId": "u14-article-s3"
+    },
+    {
+      "id": "u14-article-v23",
+      "term": "tried",
+      "meaningZh": "尝试（try的过去式）",
+      "exampleSentenceId": "u14-article-s18"
+    },
+    {
+      "id": "u14-article-v24",
+      "term": "sichuan",
+      "meaningZh": "四川",
+      "exampleSentenceId": "u14-article-s3"
+    },
+    {
+      "id": "u14-article-v25",
+      "term": "hot",
+      "meaningZh": "热的；辣的",
+      "exampleSentenceId": "u14-article-s3"
+    },
+    {
+      "id": "u14-article-v26",
+      "term": "pot",
+      "meaningZh": "锅",
+      "exampleSentenceId": "u14-article-s3"
+    },
+    {
+      "id": "u14-article-v27",
+      "term": "but",
+      "meaningZh": "但是",
+      "exampleSentenceId": "u14-article-s4"
+    },
+    {
+      "id": "u14-article-v28",
+      "term": "first",
+      "meaningZh": "第一的",
+      "exampleSentenceId": "u14-article-s4"
+    },
+    {
+      "id": "u14-article-v29",
+      "term": "taste",
+      "meaningZh": "味道；品尝",
+      "exampleSentenceId": "u14-article-s4"
+    },
+    {
+      "id": "u14-article-v30",
+      "term": "made",
+      "meaningZh": "使；制作（make的过去式）",
+      "exampleSentenceId": "u14-article-s4"
+    },
+    {
+      "id": "u14-article-v31",
+      "term": "mouth",
+      "meaningZh": "嘴",
+      "exampleSentenceId": "u14-article-s4"
+    },
+    {
+      "id": "u14-article-v32",
+      "term": "burn",
+      "meaningZh": "燃烧；发烫",
+      "exampleSentenceId": "u14-article-s4"
+    },
+    {
+      "id": "u14-article-v33",
+      "term": "food",
+      "meaningZh": "食物",
+      "exampleSentenceId": "u14-article-s5"
+    },
+    {
+      "id": "u14-article-v34",
+      "term": "was",
+      "meaningZh": "是（is的过去式）",
+      "exampleSentenceId": "u14-article-s5"
+    },
+    {
+      "id": "u14-article-v35",
+      "term": "much",
+      "meaningZh": "非常；许多",
+      "exampleSentenceId": "u14-article-s5"
+    },
+    {
+      "id": "u14-article-v36",
+      "term": "hotter",
+      "meaningZh": "更热的；更辣的",
+      "exampleSentenceId": "u14-article-s5"
+    },
+    {
+      "id": "u14-article-v37",
+      "term": "than",
+      "meaningZh": "比",
+      "exampleSentenceId": "u14-article-s5"
+    },
+    {
+      "id": "u14-article-v38",
+      "term": "expected",
+      "meaningZh": "预期",
+      "exampleSentenceId": "u14-article-s5"
+    },
+    {
+      "id": "u14-article-v39",
+      "term": "deep",
+      "meaningZh": "深的",
+      "exampleSentenceId": "u14-article-s6"
+    },
+    {
+      "id": "u14-article-v40",
+      "term": "breath",
+      "meaningZh": "呼吸",
+      "exampleSentenceId": "u14-article-s6"
+    },
+    {
+      "id": "u14-article-v41",
+      "term": "and",
+      "meaningZh": "和",
+      "exampleSentenceId": "u14-article-s6"
+    },
+    {
+      "id": "u14-article-v42",
+      "term": "drank",
+      "meaningZh": "喝（drink的过去式）",
+      "exampleSentenceId": "u14-article-s6"
+    },
+    {
+      "id": "u14-article-v43",
+      "term": "whole",
+      "meaningZh": "整个的",
+      "exampleSentenceId": "u14-article-s6"
+    },
+    {
+      "id": "u14-article-v44",
+      "term": "glass",
+      "meaningZh": "玻璃杯",
+      "exampleSentenceId": "u14-article-s6"
+    },
+    {
+      "id": "u14-article-v45",
+      "term": "of",
+      "meaningZh": "...的",
+      "exampleSentenceId": "u14-article-s6"
+    },
+    {
+      "id": "u14-article-v46",
+      "term": "iced",
+      "meaningZh": "冰镇的",
+      "exampleSentenceId": "u14-article-s6"
+    },
+    {
+      "id": "u14-article-v47",
+      "term": "lemon",
+      "meaningZh": "柠檬",
+      "exampleSentenceId": "u14-article-s6"
+    },
+    {
+      "id": "u14-article-v48",
+      "term": "tea",
+      "meaningZh": "茶",
+      "exampleSentenceId": "u14-article-s6"
+    },
+    {
+      "id": "u14-article-v49",
+      "term": "do",
+      "meaningZh": "做",
+      "exampleSentenceId": "u14-article-s7"
+    },
+    {
+      "id": "u14-article-v50",
+      "term": "you",
+      "meaningZh": "你",
+      "exampleSentenceId": "u14-article-s7"
+    },
+    {
+      "id": "u14-article-v51",
+      "term": "want",
+      "meaningZh": "想要",
+      "exampleSentenceId": "u14-article-s7"
+    },
+    {
+      "id": "u14-article-v52",
+      "term": "something",
+      "meaningZh": "某事；某物",
+      "exampleSentenceId": "u14-article-s7"
+    },
+    {
+      "id": "u14-article-v53",
+      "term": "less",
+      "meaningZh": "更少的",
+      "exampleSentenceId": "u14-article-s7"
+    },
+    {
+      "id": "u14-article-v54",
+      "term": "said",
+      "meaningZh": "说（say的过去式）",
+      "exampleSentenceId": "u14-article-s7"
+    },
+    {
+      "id": "u14-article-v55",
+      "term": "no",
+      "meaningZh": "不",
+      "exampleSentenceId": "u14-article-s8"
+    },
+    {
+      "id": "u14-article-v56",
+      "term": "replied",
+      "meaningZh": "回答",
+      "exampleSentenceId": "u14-article-s8"
+    },
+    {
+      "id": "u14-article-v57",
+      "term": "when",
+      "meaningZh": "当...时候",
+      "exampleSentenceId": "u14-article-s9"
+    },
+    {
+      "id": "u14-article-v58",
+      "term": "china",
+      "meaningZh": "中国",
+      "exampleSentenceId": "u14-article-s9"
+    },
+    {
+      "id": "u14-article-v59",
+      "term": "as",
+      "meaningZh": "像...一样",
+      "exampleSentenceId": "u14-article-s1"
+    },
+    {
+      "id": "u14-article-v60",
+      "term": "chinese",
+      "meaningZh": "中国的；中国人",
+      "exampleSentenceId": "u14-article-s9"
+    },
+    {
+      "id": "u14-article-v61",
+      "term": "carefully",
+      "meaningZh": "小心地",
+      "exampleSentenceId": "u14-article-s10"
+    },
+    {
+      "id": "u14-article-v62",
+      "term": "small",
+      "meaningZh": "小的",
+      "exampleSentenceId": "u14-article-s10"
+    },
+    {
+      "id": "u14-article-v63",
+      "term": "mouthful",
+      "meaningZh": "一口",
+      "exampleSentenceId": "u14-article-s10"
+    },
+    {
+      "id": "u14-article-v64",
+      "term": "surprisingly",
+      "meaningZh": "令人惊讶地",
+      "exampleSentenceId": "u14-article-s11"
+    },
+    {
+      "id": "u14-article-v65",
+      "term": "started",
+      "meaningZh": "开始",
+      "exampleSentenceId": "u14-article-s11"
+    },
+    {
+      "id": "u14-article-v66",
+      "term": "enjoy",
+      "meaningZh": "享受",
+      "exampleSentenceId": "u14-article-s11"
+    },
+    {
+      "id": "u14-article-v67",
+      "term": "cooking",
+      "meaningZh": "烹饪",
+      "exampleSentenceId": "u14-article-s12"
+    },
+    {
+      "id": "u14-article-v68",
+      "term": "fun",
+      "meaningZh": "乐趣",
+      "exampleSentenceId": "u14-article-s12"
+    },
+    {
+      "id": "u14-article-v69",
+      "term": "eating",
+      "meaningZh": "吃",
+      "exampleSentenceId": "u14-article-s12"
+    },
+    {
+      "id": "u14-article-v70",
+      "term": "it",
+      "meaningZh": "它",
+      "exampleSentenceId": "u14-article-s3"
+    },
+    {
+      "id": "u14-article-v71",
+      "term": "after",
+      "meaningZh": "在...之后",
+      "exampleSentenceId": "u14-article-s13"
+    },
+    {
+      "id": "u14-article-v72",
+      "term": "lunch",
+      "meaningZh": "午餐",
+      "exampleSentenceId": "u14-article-s13"
+    },
+    {
+      "id": "u14-article-v73",
+      "term": "things",
+      "meaningZh": "事情；情况",
+      "exampleSentenceId": "u14-article-s13"
+    },
+    {
+      "id": "u14-article-v74",
+      "term": "went",
+      "meaningZh": "去（go的过去式）",
+      "exampleSentenceId": "u14-article-s13"
+    },
+    {
+      "id": "u14-article-v75",
+      "term": "really",
+      "meaningZh": "真正地",
+      "exampleSentenceId": "u14-article-s13"
+    },
+    {
+      "id": "u14-article-v76",
+      "term": "totally",
+      "meaningZh": "完全地",
+      "exampleSentenceId": "u14-article-s13"
+    },
+    {
+      "id": "u14-article-v77",
+      "term": "cool",
+      "meaningZh": "酷；凉爽",
+      "exampleSentenceId": "u14-article-s13"
+    },
+    {
+      "id": "u14-article-v78",
+      "term": "we",
+      "meaningZh": "我们",
+      "exampleSentenceId": "u14-article-s13"
+    },
+    {
+      "id": "u14-article-v79",
+      "term": "new",
+      "meaningZh": "新的",
+      "exampleSentenceId": "u14-article-s13"
+    },
+    {
+      "id": "u14-article-v80",
+      "term": "sanxingdui",
+      "meaningZh": "三星堆",
+      "exampleSentenceId": "u14-article-s13"
+    },
+    {
+      "id": "u14-article-v81",
+      "term": "museum",
+      "meaningZh": "博物馆",
+      "exampleSentenceId": "u14-article-s13"
+    },
+    {
+      "id": "u14-article-v82",
+      "term": "masks",
+      "meaningZh": "面具",
+      "exampleSentenceId": "u14-article-s14"
+    },
+    {
+      "id": "u14-article-v83",
+      "term": "were",
+      "meaningZh": "是（are的过去式）",
+      "exampleSentenceId": "u14-article-s14"
+    },
+    {
+      "id": "u14-article-v84",
+      "term": "fantastic",
+      "meaningZh": "极好的",
+      "exampleSentenceId": "u14-article-s14"
+    },
+    {
+      "id": "u14-article-v85",
+      "term": "why",
+      "meaningZh": "为什么",
+      "exampleSentenceId": "u14-article-s15"
+    },
+    {
+      "id": "u14-article-v86",
+      "term": "are",
+      "meaningZh": "是",
+      "exampleSentenceId": "u14-article-s10"
+    },
+    {
+      "id": "u14-article-v87",
+      "term": "their",
+      "meaningZh": "他们的",
+      "exampleSentenceId": "u14-article-s15"
+    },
+    {
+      "id": "u14-article-v88",
+      "term": "eyes",
+      "meaningZh": "眼睛",
+      "exampleSentenceId": "u14-article-s15"
+    },
+    {
+      "id": "u14-article-v89",
+      "term": "ears",
+      "meaningZh": "耳朵",
+      "exampleSentenceId": "u14-article-s15"
+    },
+    {
+      "id": "u14-article-v90",
+      "term": "bigger",
+      "meaningZh": "更大的",
+      "exampleSentenceId": "u14-article-s15"
+    },
+    {
+      "id": "u14-article-v91",
+      "term": "normal",
+      "meaningZh": "正常的",
+      "exampleSentenceId": "u14-article-s15"
+    },
+    {
+      "id": "u14-article-v92",
+      "term": "ones",
+      "meaningZh": "那些（代词）",
+      "exampleSentenceId": "u14-article-s15"
+    },
+    {
+      "id": "u14-article-v93",
+      "term": "ancient",
+      "meaningZh": "古代的",
+      "exampleSentenceId": "u14-article-s16"
+    },
+    {
+      "id": "u14-article-v94",
+      "term": "shu",
+      "meaningZh": "蜀（地名/朝代）",
+      "exampleSentenceId": "u14-article-s16"
+    },
+    {
+      "id": "u14-article-v95",
+      "term": "people",
+      "meaningZh": "人们",
+      "exampleSentenceId": "u14-article-s16"
+    },
+    {
+      "id": "u14-article-v96",
+      "term": "able",
+      "meaningZh": "能够的",
+      "exampleSentenceId": "u14-article-s16"
+    },
+    {
+      "id": "u14-article-v97",
+      "term": "see",
+      "meaningZh": "看见",
+      "exampleSentenceId": "u14-article-s16"
+    },
+    {
+      "id": "u14-article-v98",
+      "term": "hear",
+      "meaningZh": "听见",
+      "exampleSentenceId": "u14-article-s16"
+    },
+    {
+      "id": "u14-article-v99",
+      "term": "further",
+      "meaningZh": "更远",
+      "exampleSentenceId": "u14-article-s16"
+    },
+    {
+      "id": "u14-article-v100",
+      "term": "us",
+      "meaningZh": "我们（宾格）",
+      "exampleSentenceId": "u14-article-s3"
+    },
+    {
+      "id": "u14-article-v101",
+      "term": "wondered",
+      "meaningZh": "想知道（wonder的过去式）",
+      "exampleSentenceId": "u14-article-s16"
+    },
+    {
+      "id": "u14-article-v102",
+      "term": "wanted",
+      "meaningZh": "想要",
+      "exampleSentenceId": "u14-article-s17"
+    },
+    {
+      "id": "u14-article-v103",
+      "term": "stay",
+      "meaningZh": "停留",
+      "exampleSentenceId": "u14-article-s17"
+    },
+    {
+      "id": "u14-article-v104",
+      "term": "for",
+      "meaningZh": "为了；长达",
+      "exampleSentenceId": "u14-article-s17"
+    },
+    {
+      "id": "u14-article-v105",
+      "term": "week",
+      "meaningZh": "周",
+      "exampleSentenceId": "u14-article-s17"
+    },
+    {
+      "id": "u14-article-v106",
+      "term": "day",
+      "meaningZh": "天",
+      "exampleSentenceId": "u14-article-s18"
+    },
+    {
+      "id": "u14-article-v107",
+      "term": "full",
+      "meaningZh": "满的",
+      "exampleSentenceId": "u14-article-s10"
+    },
+    {
+      "id": "u14-article-v108",
+      "term": "im",
+      "meaningZh": "我是（I am）"
+    },
+    {
+      "id": "u14-article-v109",
+      "term": "looking",
+      "meaningZh": "看（look的现在分词）",
+      "exampleSentenceId": "u14-article-s19"
+    },
+    {
+      "id": "u14-article-v110",
+      "term": "forward",
+      "meaningZh": "向前",
+      "exampleSentenceId": "u14-article-s19"
+    },
+    {
+      "id": "u14-article-v111",
+      "term": "rest",
+      "meaningZh": "剩余部分；休息",
+      "exampleSentenceId": "u14-article-s2"
+    },
+    {
+      "id": "u14-article-v112",
+      "term": "trip",
+      "meaningZh": "旅行",
+      "exampleSentenceId": "u14-article-s19"
+    },
+    {
+      "id": "u14-article-v113",
+      "term": "around",
+      "meaningZh": "环绕；在...周围",
+      "exampleSentenceId": "u14-article-s19"
+    },
+    {
+      "id": "u14-article-v114",
+      "term": "an",
+      "meaningZh": "一个（用于元音音素前）",
+      "exampleSentenceId": "u14-article-s2"
+    },
+    {
+      "id": "u14-article-v115",
+      "term": "exciting",
+      "meaningZh": "令人兴奋的",
+      "exampleSentenceId": "u14-article-s18"
+    },
+    {
+      "id": "u14-article-v116",
+      "term": "place",
+      "meaningZh": "地方",
+      "exampleSentenceId": "u14-article-s18"
     }
   ],
-  "sentenceTasks": [
-    {
-      "id": "u14-st1",
-      "sentenceId": "u14-s13",
-      "type": "chunk_reorder",
-      "promptZh": "把句子语块按正确顺序拖拽排列",
-      "chunks": [
-        {
-          "id": "u14-c1",
-          "text": "After lunch,",
-          "tag": "时间状语"
-        },
-        {
-          "id": "u14-c2",
-          "text": "things went from really hot to totally cool -",
-          "tag": "主句"
-        },
-        {
-          "id": "u14-c3",
-          "text": "we went to the new Sanxingdui Museum!",
-          "tag": "同位语/补充说明"
-        }
-      ],
-      "correctOrder": [
-        "u14-c1",
-        "u14-c2",
-        "u14-c3"
-      ],
-      "focusPointsZh": [
-        "时间状语从句",
-        "主句结构",
-        "同位语用法"
-      ]
-    },
-    {
-      "id": "u14-st2",
-      "sentenceId": "u14-s15",
-      "type": "chunk_reorder",
-      "promptZh": "把句子语块按正确顺序拖拽排列",
-      "chunks": [
-        {
-          "id": "u14-c4",
-          "text": "\"Why are their eyes and ears much bigger than normal ones?",
-          "tag": "疑问句1"
-        },
-        {
-          "id": "u14-c5",
-          "text": "Were ancient Shu people able to see and hear further than us?\"",
-          "tag": "疑问句2"
-        },
-        {
-          "id": "u14-c6",
-          "text": "I wondered.",
-          "tag": "主句"
-        }
-      ],
-      "correctOrder": [
-        "u14-c4",
-        "u14-c5",
-        "u14-c6"
-      ],
-      "focusPointsZh": [
-        "直接引语",
-        "疑问句结构",
-        "主句位置"
-      ]
-    }
-  ],
+  "sentenceTasks": [],
   "readingQuestions": [
     {
-      "id": "u14-rq1",
+      "id": "reading-q1",
       "type": "single_choice",
-      "stem": "What did the author do right after arriving in Chengdu?",
+      "stem": "What did the author do immediately after tasting the hot pot?",
       "options": [
-        "He went to a hotel.",
-        "He tried Sichuan hot pot.",
-        "He visited a museum.",
-        "He drank lemon tea."
+        "A. He asked for some water.",
+        "B. He stopped eating immediately.",
+        "C. He drank a glass of iced lemon tea.",
+        "D. He left the restaurant."
       ],
-      "answer": "He tried Sichuan hot pot.",
-      "rationaleZh": "文章第一段提到作者到达成都后，朋友直接从机场带他去餐厅，他迫不及待想尝试四川火锅。",
-      "evidenceSentenceIds": [
-        "u14-s1",
-        "u14-s2",
-        "u14-s3"
-      ]
+      "answer": "C. He drank a glass of iced lemon tea.",
+      "rationaleZh": "根据文章第二段 'I took a deep breath and drank a whole glass of iced lemon tea.' 可知，作者喝了一杯冰柠檬茶。"
     },
     {
-      "id": "u14-rq2",
+      "id": "reading-q2",
       "type": "single_choice",
-      "stem": "How did the author react when the hot pot was too hot?",
+      "stem": "What does the sentence 'When in China, do as the Chinese do!' mean?",
       "options": [
-        "He stopped eating immediately.",
-        "He asked for less hot food.",
-        "He drank iced lemon tea and continued.",
-        "He left the restaurant."
+        "A. Chinese people like cooking.",
+        "B. One should follow local customs.",
+        "C. Hot pot is a famous Chinese dish.",
+        "D. We should speak Chinese in China."
       ],
-      "answer": "He drank iced lemon tea and continued.",
-      "rationaleZh": "第二段描述作者觉得火锅太辣时，深吸一口气喝了一杯冰柠檬茶，并坚持入乡随俗继续尝试。",
-      "evidenceSentenceIds": [
-        "u14-s6",
-        "u14-s9",
-        "u14-s10"
-      ]
+      "answer": "B. One should follow local customs.",
+      "rationaleZh": "这是一句谚语，意为'入乡随俗'，即遵循当地的风俗习惯。"
     },
     {
-      "id": "u14-rq3",
+      "id": "reading-q3",
       "type": "single_choice",
-      "stem": "What does \"things went from really hot to totally cool\" mean in the context?",
+      "stem": "According to the author, what was as fun as eating hot pot?",
       "options": [
-        "The weather changed.",
-        "The author's feelings shifted from spicy food to a museum visit.",
-        "The food became cold.",
-        "The museum was air-conditioned."
+        "A. Drinking tea.",
+        "B. Cooking hot pot.",
+        "C. Visiting the museum.",
+        "D. Meeting his friend."
       ],
-      "answer": "The author's feelings shifted from spicy food to a museum visit.",
-      "rationaleZh": "这句话是比喻，'hot'指辣的食物体验，'cool'指参观三星堆博物馆的酷炫经历，表示活动从餐饮转到文化参观。",
-      "evidenceSentenceIds": [
-        "u14-s13"
-      ]
+      "answer": "B. Cooking hot pot.",
+      "rationaleZh": "根据文章第三段 'And cooking hot pot was just as fun as eating it!' 可知，煮火锅和吃火锅一样有趣。"
     },
     {
-      "id": "u14-rq4",
+      "id": "reading-q4",
       "type": "single_choice",
-      "stem": "Why did the author want to stay in the museum for a week?",
+      "stem": "Why did the author wonder about the big eyes and ears on the masks?",
       "options": [
-        "Because it was very large.",
-        "Because the masks were fantastic and sparked curiosity.",
-        "Because he was tired from the trip.",
-        "Because the entrance fee was low."
+        "A. He thought they looked scary.",
+        "B. He thought they were broken.",
+        "C. He wondered if ancient people could see and hear further.",
+        "D. He wanted to buy one as a gift."
       ],
-      "answer": "Because the masks were fantastic and sparked curiosity.",
-      "rationaleZh": "作者觉得面具很棒，并对古代蜀人的眼睛和耳朵更大感到好奇，因此想多停留探索。",
-      "evidenceSentenceIds": [
-        "u14-s14",
-        "u14-s15",
-        "u14-s16"
-      ]
+      "answer": "C. He wondered if ancient people could see and hear further.",
+      "rationaleZh": "根据文章第四段 'Were ancient Shu people able to see and hear further than us? I wondered.' 可知，作者好奇古蜀人是否能看听得更远。"
     },
     {
-      "id": "u14-rq5",
+      "id": "reading-q5",
       "type": "single_choice",
-      "stem": "What is the main idea of the article?",
+      "stem": "What is the passage mainly about?",
       "options": [
-        "A travel guide to Chengdu.",
-        "A story about adapting to new experiences in China.",
-        "A review of Sichuan hot pot.",
-        "A history lesson on Sanxingdui."
+        "A. How to cook Sichuan hot pot.",
+        "B. The history of Sanxingdui Museum.",
+        "C. The author's first day trip in Chengdu.",
+        "D. The friendship between the author and Haoyu."
       ],
-      "answer": "A story about adapting to new experiences in China.",
-      "rationaleZh": "文章通过作者尝试辣火锅和参观博物馆的经历，展现了适应中国新体验的主题，结尾表达了对后续旅行的期待。",
-      "evidenceSentenceIds": [
-        "u14-s9",
-        "u14-s17",
-        "u14-s18"
-      ]
+      "answer": "C. The author's first day trip in Chengdu.",
+      "rationaleZh": "文章最后一段总结说 'My first day in China was full of fun'，全文主要记录了作者在成都第一天的经历（吃火锅和参观博物馆）。"
     }
   ],
-  "quoteCandidates": [
-    {
-      "sentenceId": "u14-s9",
-      "reasonZh": "这句谚语'入乡随俗'文化内涵丰富，鼓励开放心态适应新环境。"
+  "quoteCandidates": [],
+  "lexicon": {
+    "at": {
+      "phonetic": "/æt/",
+      "pos": "prep.",
+      "meaningZh": "在（某处/某时间）",
+      "usageZh": "",
+      "example": ""
     },
-    {
-      "sentenceId": "u14-s13",
-      "reasonZh": "比喻生动，从'hot'到'cool'巧妙连接饮食和文化体验，语言富有创意。"
+    "last": {
+      "phonetic": "/lɑːst/",
+      "pos": "adv.",
+      "meaningZh": "最后；上一个",
+      "usageZh": "",
+      "example": ""
     },
-    {
-      "sentenceId": "u14-s18",
-      "reasonZh": "表达积极乐观的旅行期待，情感真挚，适合作为励志引用。"
+    "i": {
+      "phonetic": "/aɪ/",
+      "pos": "pron.",
+      "meaningZh": "我",
+      "usageZh": "",
+      "example": ""
+    },
+    "arrived": {
+      "phonetic": "/əˈraɪvd/",
+      "pos": "v.",
+      "meaningZh": "到达",
+      "usageZh": "",
+      "example": ""
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "pos": "prep.",
+      "meaningZh": "在...里面",
+      "usageZh": "",
+      "example": ""
+    },
+    "chengdu": {
+      "phonetic": "/tʃɛŋˈduː/",
+      "pos": "n.",
+      "meaningZh": "成都（地名）",
+      "usageZh": "",
+      "example": ""
+    },
+    "my": {
+      "phonetic": "/maɪ/",
+      "pos": "pron.",
+      "meaningZh": "我的",
+      "usageZh": "",
+      "example": ""
+    },
+    "friend": {
+      "phonetic": "/frend/",
+      "pos": "n.",
+      "meaningZh": "朋友",
+      "usageZh": "",
+      "example": ""
+    },
+    "haoyu": {
+      "phonetic": "/haʊjuː/",
+      "pos": "n.",
+      "meaningZh": "浩宇（人名）",
+      "usageZh": "",
+      "example": ""
+    },
+    "took": {
+      "phonetic": "/tʊk/",
+      "pos": "v.",
+      "meaningZh": "带；拿（take的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "me": {
+      "phonetic": "/miː/",
+      "pos": "pron.",
+      "meaningZh": "我（宾格）",
+      "usageZh": "",
+      "example": ""
+    },
+    "to": {
+      "phonetic": "/tuː/",
+      "pos": "prep.",
+      "meaningZh": "向；朝",
+      "usageZh": "",
+      "example": ""
+    },
+    "a": {
+      "phonetic": "/ə/",
+      "pos": "art.",
+      "meaningZh": "一个",
+      "usageZh": "",
+      "example": ""
+    },
+    "restaurant": {
+      "phonetic": "/ˈrestərɒnt/",
+      "pos": "n.",
+      "meaningZh": "餐馆",
+      "usageZh": "",
+      "example": ""
+    },
+    "right": {
+      "phonetic": "/raɪt/",
+      "pos": "adv.",
+      "meaningZh": "正好；直接；右边",
+      "usageZh": "",
+      "example": ""
+    },
+    "from": {
+      "phonetic": "/frɒm/",
+      "pos": "prep.",
+      "meaningZh": "来自",
+      "usageZh": "",
+      "example": ""
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "pos": "art.",
+      "meaningZh": "这；那",
+      "usageZh": "",
+      "example": ""
+    },
+    "airport": {
+      "phonetic": "/ˈeəpɔːt/",
+      "pos": "n.",
+      "meaningZh": "机场",
+      "usageZh": "",
+      "example": ""
+    },
+    "just": {
+      "phonetic": "/dʒʌst/",
+      "pos": "adv.",
+      "meaningZh": "仅仅；刚才",
+      "usageZh": "",
+      "example": ""
+    },
+    "couldn't": {
+      "phonetic": "/ˈkʊdnt/",
+      "pos": "abbr.",
+      "meaningZh": "不能（could not）",
+      "usageZh": "",
+      "example": ""
+    },
+    "wait": {
+      "phonetic": "/weɪt/",
+      "pos": "v.",
+      "meaningZh": "等待",
+      "usageZh": "",
+      "example": ""
+    },
+    "try": {
+      "phonetic": "/traɪ/",
+      "pos": "v.",
+      "meaningZh": "尝试",
+      "usageZh": "",
+      "example": ""
+    },
+    "tried": {
+      "phonetic": "/traɪd/",
+      "pos": "v.",
+      "meaningZh": "尝试（try的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "sichuan": {
+      "phonetic": "/ˈsɪtʃwɑːn/",
+      "pos": "n.",
+      "meaningZh": "四川",
+      "usageZh": "",
+      "example": ""
+    },
+    "hot": {
+      "phonetic": "/hɒt/",
+      "pos": "adj.",
+      "meaningZh": "热的；辣的",
+      "usageZh": "",
+      "example": ""
+    },
+    "pot": {
+      "phonetic": "/pɒt/",
+      "pos": "n.",
+      "meaningZh": "锅",
+      "usageZh": "",
+      "example": ""
+    },
+    "but": {
+      "phonetic": "/bʌt/",
+      "pos": "conj.",
+      "meaningZh": "但是",
+      "usageZh": "",
+      "example": ""
+    },
+    "first": {
+      "phonetic": "/fɜːst/",
+      "pos": "adj.",
+      "meaningZh": "第一的",
+      "usageZh": "",
+      "example": ""
+    },
+    "taste": {
+      "phonetic": "/teɪst/",
+      "pos": "n.",
+      "meaningZh": "味道；品尝",
+      "usageZh": "",
+      "example": ""
+    },
+    "made": {
+      "phonetic": "/meɪd/",
+      "pos": "v.",
+      "meaningZh": "使；制作（make的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "mouth": {
+      "phonetic": "/maʊθ/",
+      "pos": "n.",
+      "meaningZh": "嘴",
+      "usageZh": "",
+      "example": ""
+    },
+    "burn": {
+      "phonetic": "/bɜːn/",
+      "pos": "v.",
+      "meaningZh": "燃烧；发烫",
+      "usageZh": "",
+      "example": ""
+    },
+    "food": {
+      "phonetic": "/fuːd/",
+      "pos": "n.",
+      "meaningZh": "食物",
+      "usageZh": "",
+      "example": ""
+    },
+    "was": {
+      "phonetic": "/wɒz/",
+      "pos": "v.",
+      "meaningZh": "是（is的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "much": {
+      "phonetic": "/mʌtʃ/",
+      "pos": "adv.",
+      "meaningZh": "非常；许多",
+      "usageZh": "",
+      "example": ""
+    },
+    "hotter": {
+      "phonetic": "/ˈhɒtə(r)/",
+      "pos": "adj.",
+      "meaningZh": "更热的；更辣的",
+      "usageZh": "",
+      "example": ""
+    },
+    "than": {
+      "phonetic": "/ðæn/",
+      "pos": "prep.",
+      "meaningZh": "比",
+      "usageZh": "",
+      "example": ""
+    },
+    "expected": {
+      "phonetic": "/ɪkˈspektɪd/",
+      "pos": "v.",
+      "meaningZh": "预期",
+      "usageZh": "",
+      "example": ""
+    },
+    "deep": {
+      "phonetic": "/diːp/",
+      "pos": "adj.",
+      "meaningZh": "深的",
+      "usageZh": "",
+      "example": ""
+    },
+    "breath": {
+      "phonetic": "/breθ/",
+      "pos": "n.",
+      "meaningZh": "呼吸",
+      "usageZh": "",
+      "example": ""
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "pos": "conj.",
+      "meaningZh": "和",
+      "usageZh": "",
+      "example": ""
+    },
+    "drank": {
+      "phonetic": "/dræŋk/",
+      "pos": "v.",
+      "meaningZh": "喝（drink的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "whole": {
+      "phonetic": "/həʊl/",
+      "pos": "adj.",
+      "meaningZh": "整个的",
+      "usageZh": "",
+      "example": ""
+    },
+    "glass": {
+      "phonetic": "/ɡlɑːs/",
+      "pos": "n.",
+      "meaningZh": "玻璃杯",
+      "usageZh": "",
+      "example": ""
+    },
+    "of": {
+      "phonetic": "/ɒv/",
+      "pos": "prep.",
+      "meaningZh": "...的",
+      "usageZh": "",
+      "example": ""
+    },
+    "iced": {
+      "phonetic": "/aɪst/",
+      "pos": "adj.",
+      "meaningZh": "冰镇的",
+      "usageZh": "",
+      "example": ""
+    },
+    "lemon": {
+      "phonetic": "/ˈlemən/",
+      "pos": "n.",
+      "meaningZh": "柠檬",
+      "usageZh": "",
+      "example": ""
+    },
+    "tea": {
+      "phonetic": "/tiː/",
+      "pos": "n.",
+      "meaningZh": "茶",
+      "usageZh": "",
+      "example": ""
+    },
+    "do": {
+      "phonetic": "/duː/",
+      "pos": "v.",
+      "meaningZh": "做",
+      "usageZh": "",
+      "example": ""
+    },
+    "you": {
+      "phonetic": "/juː/",
+      "pos": "pron.",
+      "meaningZh": "你",
+      "usageZh": "",
+      "example": ""
+    },
+    "want": {
+      "phonetic": "/wɒnt/",
+      "pos": "v.",
+      "meaningZh": "想要",
+      "usageZh": "",
+      "example": ""
+    },
+    "something": {
+      "phonetic": "/ˈsʌmθɪŋ/",
+      "pos": "pron.",
+      "meaningZh": "某事；某物",
+      "usageZh": "",
+      "example": ""
+    },
+    "less": {
+      "phonetic": "/les/",
+      "pos": "adj.",
+      "meaningZh": "更少的",
+      "usageZh": "",
+      "example": ""
+    },
+    "said": {
+      "phonetic": "/sed/",
+      "pos": "v.",
+      "meaningZh": "说（say的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "no": {
+      "phonetic": "/nəʊ/",
+      "pos": "adv.",
+      "meaningZh": "不",
+      "usageZh": "",
+      "example": ""
+    },
+    "replied": {
+      "phonetic": "/rɪˈplaɪd/",
+      "pos": "v.",
+      "meaningZh": "回答",
+      "usageZh": "",
+      "example": ""
+    },
+    "when": {
+      "phonetic": "/wen/",
+      "pos": "conj.",
+      "meaningZh": "当...时候",
+      "usageZh": "",
+      "example": ""
+    },
+    "china": {
+      "phonetic": "/ˈtʃaɪnə/",
+      "pos": "n.",
+      "meaningZh": "中国",
+      "usageZh": "",
+      "example": ""
+    },
+    "as": {
+      "phonetic": "/æz/",
+      "pos": "conj.",
+      "meaningZh": "像...一样",
+      "usageZh": "",
+      "example": ""
+    },
+    "chinese": {
+      "phonetic": "/ˌtʃaɪˈniːz/",
+      "pos": "adj. & n.",
+      "meaningZh": "中国的；中国人",
+      "usageZh": "",
+      "example": ""
+    },
+    "carefully": {
+      "phonetic": "/ˈkeəfəli/",
+      "pos": "adv.",
+      "meaningZh": "小心地",
+      "usageZh": "",
+      "example": ""
+    },
+    "small": {
+      "phonetic": "/smɔːl/",
+      "pos": "adj.",
+      "meaningZh": "小的",
+      "usageZh": "",
+      "example": ""
+    },
+    "mouthful": {
+      "phonetic": "/ˈmaʊθfʊl/",
+      "pos": "n.",
+      "meaningZh": "一口",
+      "usageZh": "",
+      "example": ""
+    },
+    "surprisingly": {
+      "phonetic": "/səˈpraɪzɪŋli/",
+      "pos": "adv.",
+      "meaningZh": "令人惊讶地",
+      "usageZh": "",
+      "example": ""
+    },
+    "started": {
+      "phonetic": "/ˈstɑːtɪd/",
+      "pos": "v.",
+      "meaningZh": "开始",
+      "usageZh": "",
+      "example": ""
+    },
+    "enjoy": {
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "pos": "v.",
+      "meaningZh": "享受",
+      "usageZh": "",
+      "example": ""
+    },
+    "cooking": {
+      "phonetic": "/ˈkʊkɪŋ/",
+      "pos": "n.",
+      "meaningZh": "烹饪",
+      "usageZh": "",
+      "example": ""
+    },
+    "fun": {
+      "phonetic": "/fʌn/",
+      "pos": "n.",
+      "meaningZh": "乐趣",
+      "usageZh": "",
+      "example": ""
+    },
+    "eating": {
+      "phonetic": "/ˈiːtɪŋ/",
+      "pos": "n.",
+      "meaningZh": "吃",
+      "usageZh": "",
+      "example": ""
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "pos": "pron.",
+      "meaningZh": "它",
+      "usageZh": "",
+      "example": ""
+    },
+    "after": {
+      "phonetic": "/ˈɑːftə(r)/",
+      "pos": "prep.",
+      "meaningZh": "在...之后",
+      "usageZh": "",
+      "example": ""
+    },
+    "lunch": {
+      "phonetic": "/lʌntʃ/",
+      "pos": "n.",
+      "meaningZh": "午餐",
+      "usageZh": "",
+      "example": ""
+    },
+    "things": {
+      "phonetic": "/θɪŋz/",
+      "pos": "n.",
+      "meaningZh": "事情；情况",
+      "usageZh": "",
+      "example": ""
+    },
+    "went": {
+      "phonetic": "/went/",
+      "pos": "v.",
+      "meaningZh": "去（go的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "really": {
+      "phonetic": "/ˈrɪəli/",
+      "pos": "adv.",
+      "meaningZh": "真正地",
+      "usageZh": "",
+      "example": ""
+    },
+    "totally": {
+      "phonetic": "/ˈtəʊtəli/",
+      "pos": "adv.",
+      "meaningZh": "完全地",
+      "usageZh": "",
+      "example": ""
+    },
+    "cool": {
+      "phonetic": "/kuːl/",
+      "pos": "adj.",
+      "meaningZh": "酷；凉爽",
+      "usageZh": "",
+      "example": ""
+    },
+    "we": {
+      "phonetic": "/wiː/",
+      "pos": "pron.",
+      "meaningZh": "我们",
+      "usageZh": "",
+      "example": ""
+    },
+    "new": {
+      "phonetic": "/njuː/",
+      "pos": "adj.",
+      "meaningZh": "新的",
+      "usageZh": "",
+      "example": ""
+    },
+    "sanxingdui": {
+      "phonetic": "/sænʃɪŋduːi/",
+      "pos": "n.",
+      "meaningZh": "三星堆",
+      "usageZh": "",
+      "example": ""
+    },
+    "museum": {
+      "phonetic": "/mjuˈziːəm/",
+      "pos": "n.",
+      "meaningZh": "博物馆",
+      "usageZh": "",
+      "example": ""
+    },
+    "masks": {
+      "phonetic": "/mɑːsks/",
+      "pos": "n.",
+      "meaningZh": "面具",
+      "usageZh": "",
+      "example": ""
+    },
+    "were": {
+      "phonetic": "/wɜː(r)/",
+      "pos": "v.",
+      "meaningZh": "是（are的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "fantastic": {
+      "phonetic": "/fænˈtæstɪk/",
+      "pos": "adj.",
+      "meaningZh": "极好的",
+      "usageZh": "",
+      "example": ""
+    },
+    "why": {
+      "phonetic": "/waɪ/",
+      "pos": "adv.",
+      "meaningZh": "为什么",
+      "usageZh": "",
+      "example": ""
+    },
+    "are": {
+      "phonetic": "/ɑː(r)/",
+      "pos": "v.",
+      "meaningZh": "是",
+      "usageZh": "",
+      "example": ""
+    },
+    "their": {
+      "phonetic": "/ðeə(r)/",
+      "pos": "pron.",
+      "meaningZh": "他们的",
+      "usageZh": "",
+      "example": ""
+    },
+    "eyes": {
+      "phonetic": "/aɪz/",
+      "pos": "n.",
+      "meaningZh": "眼睛",
+      "usageZh": "",
+      "example": ""
+    },
+    "ears": {
+      "phonetic": "/ɪəz/",
+      "pos": "n.",
+      "meaningZh": "耳朵",
+      "usageZh": "",
+      "example": ""
+    },
+    "bigger": {
+      "phonetic": "/ˈbɪɡə(r)/",
+      "pos": "adj.",
+      "meaningZh": "更大的",
+      "usageZh": "",
+      "example": ""
+    },
+    "normal": {
+      "phonetic": "/ˈnɔːml/",
+      "pos": "adj.",
+      "meaningZh": "正常的",
+      "usageZh": "",
+      "example": ""
+    },
+    "ones": {
+      "phonetic": "/wʌnz/",
+      "pos": "n.",
+      "meaningZh": "那些（代词）",
+      "usageZh": "",
+      "example": ""
+    },
+    "ancient": {
+      "phonetic": "/ˈeɪnʃənt/",
+      "pos": "adj.",
+      "meaningZh": "古代的",
+      "usageZh": "",
+      "example": ""
+    },
+    "shu": {
+      "phonetic": "/ʃuː/",
+      "pos": "n.",
+      "meaningZh": "蜀（地名/朝代）",
+      "usageZh": "",
+      "example": ""
+    },
+    "people": {
+      "phonetic": "/ˈpiːpl/",
+      "pos": "n.",
+      "meaningZh": "人们",
+      "usageZh": "",
+      "example": ""
+    },
+    "able": {
+      "phonetic": "/ˈeɪbl/",
+      "pos": "adj.",
+      "meaningZh": "能够的",
+      "usageZh": "",
+      "example": ""
+    },
+    "see": {
+      "phonetic": "/siː/",
+      "pos": "v.",
+      "meaningZh": "看见",
+      "usageZh": "",
+      "example": ""
+    },
+    "hear": {
+      "phonetic": "/hɪə(r)/",
+      "pos": "v.",
+      "meaningZh": "听见",
+      "usageZh": "",
+      "example": ""
+    },
+    "further": {
+      "phonetic": "/ˈfɜːðə(r)/",
+      "pos": "adv.",
+      "meaningZh": "更远",
+      "usageZh": "",
+      "example": ""
+    },
+    "us": {
+      "phonetic": "/ʌs/",
+      "pos": "pron.",
+      "meaningZh": "我们（宾格）",
+      "usageZh": "",
+      "example": ""
+    },
+    "wondered": {
+      "phonetic": "/ˈwʌndəd/",
+      "pos": "v.",
+      "meaningZh": "想知道（wonder的过去式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "wanted": {
+      "phonetic": "/ˈwɒntɪd/",
+      "pos": "v.",
+      "meaningZh": "想要",
+      "usageZh": "",
+      "example": ""
+    },
+    "stay": {
+      "phonetic": "/steɪ/",
+      "pos": "v.",
+      "meaningZh": "停留",
+      "usageZh": "",
+      "example": ""
+    },
+    "for": {
+      "phonetic": "/fɔː(r)/",
+      "pos": "prep.",
+      "meaningZh": "为了；长达",
+      "usageZh": "",
+      "example": ""
+    },
+    "week": {
+      "phonetic": "/wiːk/",
+      "pos": "n.",
+      "meaningZh": "周",
+      "usageZh": "",
+      "example": ""
+    },
+    "day": {
+      "phonetic": "/deɪ/",
+      "pos": "n.",
+      "meaningZh": "天",
+      "usageZh": "",
+      "example": ""
+    },
+    "full": {
+      "phonetic": "/fʊl/",
+      "pos": "adj.",
+      "meaningZh": "满的",
+      "usageZh": "",
+      "example": ""
+    },
+    "im": {
+      "phonetic": "/aɪm/",
+      "pos": "abbr.",
+      "meaningZh": "我是（I am）",
+      "usageZh": "",
+      "example": ""
+    },
+    "looking": {
+      "phonetic": "/ˈlʊkɪŋ/",
+      "pos": "v.",
+      "meaningZh": "看（look的现在分词）",
+      "usageZh": "",
+      "example": ""
+    },
+    "forward": {
+      "phonetic": "/ˈfɔːwəd/",
+      "pos": "adv.",
+      "meaningZh": "向前",
+      "usageZh": "",
+      "example": ""
+    },
+    "rest": {
+      "phonetic": "/rest/",
+      "pos": "n.",
+      "meaningZh": "剩余部分；休息",
+      "usageZh": "",
+      "example": ""
+    },
+    "trip": {
+      "phonetic": "/trɪp/",
+      "pos": "n.",
+      "meaningZh": "旅行",
+      "usageZh": "",
+      "example": ""
+    },
+    "around": {
+      "phonetic": "/əˈraʊnd/",
+      "pos": "prep.",
+      "meaningZh": "环绕；在...周围",
+      "usageZh": "",
+      "example": ""
+    },
+    "an": {
+      "phonetic": "/ən/",
+      "pos": "art.",
+      "meaningZh": "一个（用于元音音素前）",
+      "usageZh": "",
+      "example": ""
+    },
+    "exciting": {
+      "phonetic": "/ɪkˈsaɪtɪŋ/",
+      "pos": "adj.",
+      "meaningZh": "令人兴奋的",
+      "usageZh": "",
+      "example": ""
+    },
+    "place": {
+      "phonetic": "/pleɪs/",
+      "pos": "n.",
+      "meaningZh": "地方",
+      "usageZh": "",
+      "example": ""
     }
-  ]
+  }
 }

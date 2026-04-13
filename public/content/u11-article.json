@@ -1,60 +1,61 @@
 {
   "meta": {
-    "schemaVersion": "1.0",
-    "source": "七年级下册英语教材",
-    "notes": "自动生成"
+    "schemaVersion": "2.0",
+    "source": "七年级下册互动课文",
+    "importedFrom": "Unit 4 Passage 2 The time-eating monster（互动课文教学动画）英语新教材外研版七年级下册.html",
+    "importedAt": "2026-04-13T04:50:28.072Z"
   },
   "article": {
     "id": "u11-article",
     "title": "The time-eating monster",
     "unit": "Unit 4 The art of having fun",
-    "genre": "narrative",
     "paragraphs": [
       {
-        "id": "u11-p1",
+        "id": "u11-article-p1",
         "sentenceIds": [
-          "u11-s1",
-          "u11-s2",
-          "u11-s3",
-          "u11-s4"
+          "u11-article-s1",
+          "u11-article-s2",
+          "u11-article-s3",
+          "u11-article-s4",
+          "u11-article-s5"
         ]
       },
       {
-        "id": "u11-p2",
+        "id": "u11-article-p2",
         "sentenceIds": [
-          "u11-s5",
-          "u11-s6",
-          "u11-s7",
-          "u11-s8"
+          "u11-article-s6",
+          "u11-article-s7",
+          "u11-article-s8",
+          "u11-article-s9",
+          "u11-article-s10",
+          "u11-article-s11"
         ]
       },
       {
-        "id": "u11-p3",
+        "id": "u11-article-p3",
         "sentenceIds": [
-          "u11-s9",
-          "u11-s10",
-          "u11-s11"
+          "u11-article-s12",
+          "u11-article-s13",
+          "u11-article-s14"
         ]
       },
       {
-        "id": "u11-p4",
+        "id": "u11-article-p4",
         "sentenceIds": [
-          "u11-s12",
-          "u11-s13"
+          "u11-article-s15",
+          "u11-article-s16",
+          "u11-article-s17"
         ]
       },
       {
-        "id": "u11-p5",
+        "id": "u11-article-p5",
         "sentenceIds": [
-          "u11-s14",
-          "u11-s15",
-          "u11-s16",
-          "u11-s17",
-          "u11-s18",
-          "u11-s19",
-          "u11-s20",
-          "u11-s21",
-          "u11-s22"
+          "u11-article-s18",
+          "u11-article-s19",
+          "u11-article-s20",
+          "u11-article-s21",
+          "u11-article-s22",
+          "u11-article-s23"
         ]
       }
     ],
@@ -62,476 +63,290 @@
     "stageLabel": "写作篇",
     "unitNumber": 4,
     "unitTheme": "The art of having fun",
-    "bookOrder": 41,
+    "bookId": "g7b",
+    "bookLabel": "七年级下册",
+    "bookShortLabel": "7下",
+    "bookOrder": 241,
     "summary": "识别吞噬时间的娱乐陷阱，学习保持有节制的快乐。"
   },
   "sentences": [
     {
-      "id": "u11-s1",
-      "text": "Have you ever noticed a monster around us?",
-      "paragraphId": "u11-p1",
-      "keywords": [
-        "noticed",
-        "monster",
-        "around"
-      ]
+      "id": "u11-article-s1",
+      "text": "",
+      "paragraphId": "u11-article-p1",
+      "tr": "你有没有注意到我们身边有一个怪兽？",
+      "g": "现在完成时态疑问句",
+      "d": "Have you ever done...? 意为“你曾经做过...吗？”",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/g7ytepJN7GSMjd2yUKLZei.mp3"
     },
     {
-      "id": "u11-s2",
-      "text": "It's not big or scary, but it's very dangerous.",
-      "paragraphId": "u11-p1",
-      "keywords": [
-        "scary",
-        "dangerous"
-      ]
+      "id": "u11-article-s2",
+      "text": "",
+      "paragraphId": "u11-article-p1",
+      "tr": "它并不高大也不可怕，但它非常危险。",
+      "g": "并列复合句结构",
+      "d": "but 连接两个分句，表示转折。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/CKE4qxmLq74Dxz34ZK235U.mp3"
     },
     {
-      "id": "u11-s3",
-      "text": "This monster comes in many forms – games, social media and TV shows.",
-      "paragraphId": "u11-p1",
-      "keywords": [
-        "forms",
-        "games",
-        "social media",
-        "TV shows"
-      ]
+      "id": "u11-article-s3",
+      "text": "",
+      "paragraphId": "u11-article-p1",
+      "tr": "这个怪兽以多种形式出现——游戏、社交媒体和电视节目。",
+      "g": "主语+谓语+状语结构",
+      "d": "come in many forms 以多种形式出现。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XfimvMjeWCXrU6cR82KgMA.mp3"
     },
     {
-      "id": "u11-s4",
-      "text": "You may ask, “It brings us so much fun. So why do you say it's a monster?”",
-      "paragraphId": "u11-p1",
-      "keywords": [
-        "brings",
-        "fun",
-        "monster"
-      ]
+      "id": "u11-article-s4",
+      "text": "",
+      "paragraphId": "u11-article-p1",
+      "tr": "你可能会问：“它带给我们这么多乐趣。”",
+      "g": "主语+谓语+宾语结构",
+      "d": "may 表示推测；bring sb. sth. 给某人带来某物。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/suQ9EdjHruLidCNKtM46fG.mp3"
     },
     {
-      "id": "u11-s5",
-      "text": "At first, we may all think, \"I'll just have a little fun.\"",
-      "paragraphId": "u11-p2",
-      "keywords": [
-        "at first",
-        "think",
-        "little fun"
-      ]
+      "id": "u11-article-s5",
+      "text": "",
+      "paragraphId": "u11-article-p1",
+      "tr": "那你为什么说它是怪兽呢？",
+      "g": "特殊疑问句结构",
+      "d": "why 引导特殊疑问句，询问原因。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/kP3FNumgePhw2TQXi76eHF.mp3"
     },
     {
-      "id": "u11-s6",
-      "text": "We turn on the computer and start a game.",
-      "paragraphId": "u11-p2",
-      "keywords": [
-        "turn on",
-        "computer",
-        "start",
-        "game"
-      ]
+      "id": "u11-article-s6",
+      "text": "",
+      "paragraphId": "u11-article-p2",
+      "tr": "起初，我们可能都会想：“我只是想玩一会儿。”",
+      "g": "直接引语结构",
+      "d": "At first 意为“起初”；have a little fun 玩一会儿。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/aQAQGdcYM9AB73Unk7A54P.mp3"
     },
     {
-      "id": "u11-s7",
-      "text": "But soon the monster takes over.",
-      "paragraphId": "u11-p2",
-      "keywords": [
-        "soon",
-        "monster",
-        "takes over"
-      ]
+      "id": "u11-article-s7",
+      "text": "",
+      "paragraphId": "u11-article-p2",
+      "tr": "我们打开电脑，开始玩游戏。",
+      "g": "并列谓语结构",
+      "d": "turn on 意为“打开（电器等）”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FyhJ2D99o54ciGGLUrK44f.mp3"
     },
     {
-      "id": "u11-s8",
-      "text": "It starts to eat away our time, minute by minute.",
-      "paragraphId": "u11-p2",
-      "keywords": [
-        "starts",
-        "eat away",
-        "time",
-        "minute by minute"
-      ]
+      "id": "u11-article-s8",
+      "text": "",
+      "paragraphId": "u11-article-p2",
+      "tr": "但很快怪兽就接管了。",
+      "g": "主语+谓语结构",
+      "d": "take over 意为“接管，控制”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZTh4Vipmh8TXRgdQbFDGYK.mp3"
     },
     {
-      "id": "u11-s9",
-      "text": "But we just sit there and look at the screen without noticing it at all.",
-      "paragraphId": "u11-p3",
-      "keywords": [
-        "sit",
-        "look",
-        "screen",
-        "noticing"
-      ]
+      "id": "u11-article-s9",
+      "text": "",
+      "paragraphId": "u11-article-p2",
+      "tr": "它开始一分钟一分钟地吞噬我们的时间。",
+      "g": "主语+谓语+宾语结构",
+      "d": "start to do sth. 开始做某事；minute by minute 一分钟一分钟地。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pzZh3R7DZRekq4su3Fhvmi.mp3"
     },
     {
-      "id": "u11-s10",
-      "text": "We often get lost in the monster's world like this.",
-      "paragraphId": "u11-p3",
-      "keywords": [
-        "get lost",
-        "monster's world"
-      ]
+      "id": "u11-article-s10",
+      "text": "",
+      "paragraphId": "u11-article-p2",
+      "tr": "但我们只是坐在那里盯着屏幕，完全没有注意到它。",
+      "g": "并列复合句结构",
+      "d": "without doing sth. 意为“没有做某事”；not...at all 一点也不。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3armZPvR9pBQrW3HgBKYFk.mp3"
     },
     {
-      "id": "u11-s11",
-      "text": "We become couch potatoes with sore necks and dry eyes.",
-      "paragraphId": "u11-p3",
-      "keywords": [
-        "become",
-        "couch potatoes",
-        "sore necks",
-        "dry eyes"
-      ]
+      "id": "u11-article-s11",
+      "text": "",
+      "paragraphId": "u11-article-p2",
+      "tr": "我们就这样经常迷失在怪兽的世界里。",
+      "g": "主语+系动词+表语结构",
+      "d": "get lost 意为“迷失”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dVd4qZyp4dRXhwSkrzNyb3.mp3"
     },
     {
-      "id": "u11-s12",
-      "text": "We miss out on sweet moments with loved ones.",
-      "paragraphId": "u11-p4",
-      "keywords": [
-        "miss out",
-        "sweet moments",
-        "loved ones"
-      ]
+      "id": "u11-article-s12",
+      "text": "",
+      "paragraphId": "u11-article-p3",
+      "tr": "我们变成了脖子酸痛、眼睛干涩的“电视迷”。",
+      "g": "主语+系动词+表语结构",
+      "d": "couch potato 意为“整天坐在沙发上看电视的人”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/xkFFMxb42AJ7YcCRXmgeCc.mp3"
     },
     {
-      "id": "u11-s13",
-      "text": "We are deaf to the real world.",
-      "paragraphId": "u11-p4",
-      "keywords": [
-        "deaf",
-        "real world"
-      ]
+      "id": "u11-article-s13",
+      "text": "",
+      "paragraphId": "u11-article-p3",
+      "tr": "我们错过了与亲人在一起的甜蜜时刻。",
+      "g": "主语+谓语+宾语结构",
+      "d": "miss out on 意为“错过”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/VQxso78gHL3FTHvw5TWd98.mp3"
     },
     {
-      "id": "u11-s14",
-      "text": "Just remember, too much fun also makes Jack a dull boy!",
-      "paragraphId": "u11-p5",
-      "keywords": [
-        "remember",
-        "too much fun",
-        "dull boy"
-      ]
+      "id": "u11-article-s14",
+      "text": "",
+      "paragraphId": "u11-article-p3",
+      "tr": "我们对现实世界充耳不闻。",
+      "g": "主语+系动词+表语结构",
+      "d": "be deaf to 意为“对...充耳不闻”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gaDaie4SJQDKN8TJLsFVyP.mp3"
     },
     {
-      "id": "u11-s15",
-      "text": "The time-eating monster will always be there.",
-      "paragraphId": "u11-p5",
-      "keywords": [
-        "time-eating monster",
-        "always",
-        "there"
-      ]
+      "id": "u11-article-s15",
+      "text": "",
+      "paragraphId": "u11-article-p4",
+      "tr": "记住，过度娱乐也会让孩子变傻！",
+      "g": "祈使句结构",
+      "d": "too much 意为“太多”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WQGbTNWUzH3mRdQrdkKe9Q.mp3"
     },
     {
-      "id": "u11-s16",
-      "text": "But we can keep it away by having fun in a balanced way.",
-      "paragraphId": "u11-p5",
-      "keywords": [
-        "keep away",
-        "balanced way"
-      ]
+      "id": "u11-article-s16",
+      "text": "",
+      "paragraphId": "u11-article-p4",
+      "tr": "时间怪兽永远都在那里。",
+      "g": "主语+谓语+状语结构",
+      "d": "will always be 意为“将永远是”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3XhatGqVmgjAfhvkiPGUYf.mp3"
     },
     {
-      "id": "u11-s17",
-      "text": "So, stand up and leave the screens!",
-      "paragraphId": "u11-p5",
-      "keywords": [
-        "stand up",
-        "leave",
-        "screens"
-      ]
+      "id": "u11-article-s17",
+      "text": "",
+      "paragraphId": "u11-article-p4",
+      "tr": "但我们可以通过平衡的娱乐方式让它远离。",
+      "g": "主语+谓语+宾语结构",
+      "d": "keep...away 意为“使...远离”；by doing sth. 通过做某事。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dXkt3gNokoua3PF5Tw8cMV.mp3"
     },
     {
-      "id": "u11-s18",
-      "text": "Go outside, feel the sun on your face, and jog in the fresh air.",
-      "paragraphId": "u11-p5",
-      "keywords": [
-        "go outside",
-        "feel",
-        "sun",
-        "jog",
-        "fresh air"
-      ]
+      "id": "u11-article-s18",
+      "text": "",
+      "paragraphId": "u11-article-p5",
+      "tr": "所以，站起来，离开屏幕！",
+      "g": "祈使句结构",
+      "d": "stand up 站起来；leave 离开。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/MBuV7AKLnXYSkVDPFT4wEV.mp3"
     },
     {
-      "id": "u11-s19",
-      "text": "Play tennis or go hiking with your friends.",
-      "paragraphId": "u11-p5",
-      "keywords": [
-        "play tennis",
-        "go hiking",
-        "friends"
-      ]
+      "id": "u11-article-s19",
+      "text": "",
+      "paragraphId": "u11-article-p5",
+      "tr": "去户外，感受阳光洒在脸上，在清新的空气中慢跑。",
+      "g": "祈使句结构",
+      "d": "feel the sun 感受阳光；fresh air 清新的空气。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rSDMc36de7sBaJZVmgCceR.mp3"
     },
     {
-      "id": "u11-s20",
-      "text": "Talk about your day with your family.",
-      "paragraphId": "u11-p5",
-      "keywords": [
-        "talk about",
-        "day",
-        "family"
-      ]
+      "id": "u11-article-s20",
+      "text": "",
+      "paragraphId": "u11-article-p5",
+      "tr": "和朋友一起打网球或徒步旅行。",
+      "g": "祈使句结构",
+      "d": "go hiking 去徒步；with your friends 和你的朋友。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RweRpw2PQeiB4iYLNpfLTm.mp3"
     },
     {
-      "id": "u11-s21",
-      "text": "There is so much for you to do.",
-      "paragraphId": "u11-p5",
-      "keywords": [
-        "so much",
-        "do"
-      ]
+      "id": "u11-article-s21",
+      "text": "",
+      "paragraphId": "u11-article-p5",
+      "tr": "和家人聊聊你的一天。",
+      "g": "祈使句结构",
+      "d": "talk about 谈论；your day 你的一天。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/DE245vAno3NCqMrSFZVoZe.mp3"
     },
     {
-      "id": "u11-s22",
-      "text": "The choice is ours.",
-      "paragraphId": "u11-p5",
-      "keywords": [
-        "choice",
-        "ours"
-      ]
+      "id": "u11-article-s22",
+      "text": "",
+      "paragraphId": "u11-article-p5",
+      "tr": "你有这么多事情可以做。",
+      "g": "存在句 (There be) 结构",
+      "d": "There is so much for you to do. 有很多事等着你去做。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/vUfNJpw8KtCFURKtTtMBsT.mp3"
+    },
+    {
+      "id": "u11-article-s23",
+      "text": "",
+      "paragraphId": "u11-article-p5",
+      "tr": "选择权在我们手中。",
+      "g": "主语+系动词+表语结构",
+      "d": "ours 是名词性物主代词，意为“我们的”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/cwDBPpkjUnc8QMkThbj9MJ.mp3"
     }
   ],
-  "vocabItems": [
-    {
-      "id": "u11-v1",
-      "term": "monster",
-      "meaningZh": "怪物",
-      "exampleSentenceId": "u11-s1",
-      "distractorsZh": [
-        "怪兽",
-        "魔鬼",
-        "恶魔"
-      ]
-    },
-    {
-      "id": "u11-v2",
-      "term": "dangerous",
-      "meaningZh": "危险的",
-      "exampleSentenceId": "u11-s2",
-      "distractorsZh": [
-        "安全",
-        "可怕",
-        "有害"
-      ]
-    },
-    {
-      "id": "u11-v3",
-      "term": "social media",
-      "meaningZh": "社交媒体",
-      "exampleSentenceId": "u11-s3",
-      "distractorsZh": [
-        "社会媒体",
-        "社交网络",
-        "媒体平台"
-      ]
-    },
-    {
-      "id": "u11-v4",
-      "term": "couch potatoes",
-      "meaningZh": "沙发土豆（指长时间看电视或玩电子设备的人）",
-      "exampleSentenceId": "u11-s11",
-      "distractorsZh": [
-        "沙发豆",
-        "懒人",
-        "电视迷"
-      ]
-    },
-    {
-      "id": "u11-v5",
-      "term": "miss out on",
-      "meaningZh": "错过",
-      "exampleSentenceId": "u11-s12",
-      "distractorsZh": [
-        "失去",
-        "遗漏",
-        "忽略"
-      ]
-    },
-    {
-      "id": "u11-v6",
-      "term": "balanced way",
-      "meaningZh": "平衡的方式",
-      "exampleSentenceId": "u11-s16",
-      "distractorsZh": [
-        "公平方式",
-        "均衡方法",
-        "稳定途径"
-      ]
-    },
-    {
-      "id": "u11-v7",
-      "term": "jog",
-      "meaningZh": "慢跑",
-      "exampleSentenceId": "u11-s18",
-      "distractorsZh": [
-        "跑步",
-        "散步",
-        "快走"
-      ]
-    },
-    {
-      "id": "u11-v8",
-      "term": "choice",
-      "meaningZh": "选择",
-      "exampleSentenceId": "u11-s22",
-      "distractorsZh": [
-        "机会",
-        "决定",
-        "选项"
-      ]
-    }
-  ],
-  "sentenceTasks": [
-    {
-      "id": "u11-st1",
-      "sentenceId": "u11-s18",
-      "type": "chunk_reorder",
-      "promptZh": "把句子语块按正确顺序拖拽排列",
-      "chunks": [
-        {
-          "id": "u11-c1",
-          "text": "Go outside",
-          "tag": "动词短语"
-        },
-        {
-          "id": "u11-c2",
-          "text": "feel the sun on your face",
-          "tag": "动词短语"
-        },
-        {
-          "id": "u11-c3",
-          "text": "and jog in the fresh air",
-          "tag": "动词短语"
-        }
-      ],
-      "correctOrder": [
-        "u11-c1",
-        "u11-c2",
-        "u11-c3"
-      ],
-      "focusPointsZh": [
-        "并列动词短语结构"
-      ]
-    },
-    {
-      "id": "u11-st2",
-      "sentenceId": "u11-s11",
-      "type": "chunk_reorder",
-      "promptZh": "把句子语块按正确顺序拖拽排列",
-      "chunks": [
-        {
-          "id": "u11-c4",
-          "text": "We become couch potatoes",
-          "tag": "主语+谓语"
-        },
-        {
-          "id": "u11-c5",
-          "text": "with sore necks and dry eyes",
-          "tag": "介词短语"
-        }
-      ],
-      "correctOrder": [
-        "u11-c4",
-        "u11-c5"
-      ],
-      "focusPointsZh": [
-        "介词短语作状语"
-      ]
-    }
-  ],
+  "vocabItems": [],
+  "sentenceTasks": [],
   "readingQuestions": [
     {
-      "id": "u11-rq1",
+      "id": "reading-q1",
       "type": "single_choice",
-      "stem": "What does the \"time-eating monster\" refer to in the article?",
+      "stem": "What is the 'monster' mentioned in the text?",
       "options": [
-        "A scary creature",
-        "Games, social media, and TV shows",
-        "A dangerous animal",
-        "A fun activity"
+        "A. A big scary animal",
+        "B. Games, social media and TV",
+        "C. A person who eats time",
+        "D. A computer screen"
       ],
-      "answer": "Games, social media, and TV shows",
-      "rationaleZh": "文章第一段明确指出这个怪物以多种形式出现，包括游戏、社交媒体和电视节目。",
-      "evidenceSentenceIds": [
-        "u11-s3"
-      ]
+      "answer": "B. Games, social media and TV",
+      "rationaleZh": "第一段明确提到：This monster comes in many forms – games, social media and TV shows."
     },
     {
-      "id": "u11-rq2",
+      "id": "reading-q2",
       "type": "single_choice",
-      "stem": "What is one negative effect mentioned of spending too much time with the monster?",
+      "stem": "What happens when the monster 'takes over'?",
       "options": [
-        "Becoming more energetic",
-        "Missing out on time with loved ones",
-        "Improving eyesight",
-        "Feeling happier"
+        "A. We have more fun",
+        "B. It eats our food",
+        "C. It eats away our time",
+        "D. We turn off the computer"
       ],
-      "answer": "Missing out on time with loved ones",
-      "rationaleZh": "文章第四段提到，我们会错过与亲人共度的甜蜜时光。",
-      "evidenceSentenceIds": [
-        "u11-s12"
-      ]
+      "answer": "C. It eats away our time",
+      "rationaleZh": "第二段提到：But soon the monster takes over. It starts to eat away our time."
     },
     {
-      "id": "u11-rq3",
+      "id": "reading-q3",
       "type": "single_choice",
-      "stem": "How can we keep the time-eating monster away according to the article?",
+      "stem": "What does 'couch potato' mean in paragraph 3?",
       "options": [
-        "By playing more games",
-        "By having fun in a balanced way",
-        "By ignoring it",
-        "By watching more TV"
+        "A. A potato on a couch",
+        "B. Someone who loves gardening",
+        "C. Someone who spends too much time watching TV",
+        "D. A healthy person"
       ],
-      "answer": "By having fun in a balanced way",
-      "rationaleZh": "文章第五段建议通过平衡娱乐的方式来远离这个怪物。",
-      "evidenceSentenceIds": [
-        "u11-s16"
-      ]
+      "answer": "C. Someone who spends too much time watching TV",
+      "rationaleZh": "Couch potato 是英语习语，指整天坐在沙发上看电视的人。"
     },
     {
-      "id": "u11-rq4",
+      "id": "reading-q4",
       "type": "single_choice",
-      "stem": "What does the phrase \"couch potatoes\" imply in the context?",
+      "stem": "How can we keep the monster away?",
       "options": [
-        "People who eat potatoes on the couch",
-        "People who exercise a lot",
-        "People who spend too much time sitting and watching screens",
-        "People who are very active"
+        "A. By playing more games",
+        "B. By having fun in a balanced way",
+        "C. By staying inside",
+        "D. By buying a new screen"
       ],
-      "answer": "People who spend too much time sitting and watching screens",
-      "rationaleZh": "结合上下文，\"couch potatoes\" 指长时间坐着看电视或使用电子设备的人，导致脖子酸痛和眼睛干涩。",
-      "evidenceSentenceIds": [
-        "u11-s11"
-      ]
+      "answer": "B. By having fun in a balanced way",
+      "rationaleZh": "第四段提到：But we can keep it away by having fun in a balanced way."
     },
     {
-      "id": "u11-rq5",
+      "id": "reading-q5",
       "type": "single_choice",
-      "stem": "What is the main message of the article?",
+      "stem": "Which activity is NOT suggested in the last paragraph?",
       "options": [
-        "We should avoid all fun activities",
-        "We need to balance screen time with real-world activities",
-        "Monsters are real and dangerous",
-        "Technology is always harmful"
+        "A. Jogging outside",
+        "B. Playing tennis",
+        "C. Talking with family",
+        "D. Watching more TV"
       ],
-      "answer": "We need to balance screen time with real-world activities",
-      "rationaleZh": "文章强调过度使用电子设备的危害，并鼓励通过户外活动等方式平衡娱乐，选择权在我们手中。",
-      "evidenceSentenceIds": [
-        "u11-s16",
-        "u11-s17",
-        "u11-s22"
-      ]
+      "answer": "D. Watching more TV",
+      "rationaleZh": "最后一段建议离开屏幕去户外活动，而不是看更多电视。"
     }
   ],
-  "quoteCandidates": [
-    {
-      "sentenceId": "u11-s14",
-      "reasonZh": "使用谚语生动地传达过度娱乐的危害，语言简洁有力。"
-    },
-    {
-      "sentenceId": "u11-s18",
-      "reasonZh": "描绘了积极的户外活动场景，鼓励读者体验真实世界的美好。"
-    },
-    {
-      "sentenceId": "u11-s22",
-      "reasonZh": "结尾句简洁明了，强调个人选择的重要性，具有启发性。"
-    }
-  ]
+  "quoteCandidates": [],
+  "lexicon": {}
 }

@@ -1,0 +1,2610 @@
+{
+  "meta": {
+    "schemaVersion": "2.0",
+    "source": "八年级下册互动课文",
+    "importedFrom": "Unit 3 Passage 2 No I in team（互动课文教学动画）英语新教材外研版八年级下册.html",
+    "importedAt": "2026-04-13T04:50:28.102Z"
+  },
+  "article": {
+    "id": "g8b-u3-p2",
+    "title": "No I in team",
+    "unit": "Unit 3 行动与团队",
+    "paragraphs": [
+      {
+        "id": "g8b-u3-p2-p1",
+        "sentenceIds": [
+          "g8b-u3-p2-s1",
+          "g8b-u3-p2-s2",
+          "g8b-u3-p2-s3",
+          "g8b-u3-p2-s4",
+          "g8b-u3-p2-s5"
+        ]
+      },
+      {
+        "id": "g8b-u3-p2-p2",
+        "sentenceIds": [
+          "g8b-u3-p2-s6",
+          "g8b-u3-p2-s7",
+          "g8b-u3-p2-s8",
+          "g8b-u3-p2-s9",
+          "g8b-u3-p2-s10",
+          "g8b-u3-p2-s11",
+          "g8b-u3-p2-s12",
+          "g8b-u3-p2-s13",
+          "g8b-u3-p2-s14",
+          "g8b-u3-p2-s15",
+          "g8b-u3-p2-s16"
+        ]
+      },
+      {
+        "id": "g8b-u3-p2-p3",
+        "sentenceIds": [
+          "g8b-u3-p2-s17",
+          "g8b-u3-p2-s18",
+          "g8b-u3-p2-s19",
+          "g8b-u3-p2-s20",
+          "g8b-u3-p2-s21",
+          "g8b-u3-p2-s22",
+          "g8b-u3-p2-s23",
+          "g8b-u3-p2-s24",
+          "g8b-u3-p2-s25"
+        ]
+      },
+      {
+        "id": "g8b-u3-p2-p4",
+        "sentenceIds": [
+          "g8b-u3-p2-s26",
+          "g8b-u3-p2-s27"
+        ]
+      }
+    ],
+    "stage": "Reading for writing",
+    "stageLabel": "写作篇",
+    "unitNumber": 3,
+    "unitTheme": "行动与团队",
+    "bookId": "g8b",
+    "bookLabel": "八年级下册",
+    "bookShortLabel": "8下",
+    "bookOrder": 431,
+    "summary": "通过团队故事理解合作、分工和共同目标的意义。"
+  },
+  "sentences": [
+    {
+      "id": "g8b-u3-p2-s1",
+      "text": "At noon on 24 May 1960, four climbers stood alone on the \"roof of the world\".",
+      "paragraphId": "g8b-u3-p2-p1",
+      "tr": "1960年5月24日中午，四名登山者独自站在“世界屋脊”上。",
+      "g": "时间状语 + 主语 + 谓语 + 方式状语 + 地点状语",
+      "d": "\"At noon on 24 May 1960\"是具体的时间状语。\"roof of the world\"指珠穆朗玛峰。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/89e5ifnPpsD3fhWrMMc76a.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s2",
+      "text": "They were near the top of a thirty-metre-high wall of rock.",
+      "paragraphId": "g8b-u3-p2-p1",
+      "tr": "他们靠近一堵三十米高的岩壁顶部。",
+      "g": "主系表结构",
+      "d": "\"thirty-metre-high\"是复合形容词，修饰wall。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/q2LmAFSRXzmLHS5fT8SxDK.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s3",
+      "text": "It was called the Second Step.",
+      "paragraphId": "g8b-u3-p2-p1",
+      "tr": "它被称为第二台阶。",
+      "g": "被动语态",
+      "d": "\"was called\"是被动语态，表示“被称为”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/c6cpp5BTC6G2bDx7ZBpcUn.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s4",
+      "text": "The top of Mount Qomolangma seemed right within reach.",
+      "paragraphId": "g8b-u3-p2-p1",
+      "tr": "珠穆朗玛峰的顶峰似乎触手可及。",
+      "g": "主系表结构",
+      "d": "\"seemed\"是系动词，\"within reach\"是介词短语作表语，表示“在可及范围内”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/nT8fPe2zvH22A3ZnLyTmPC.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s5",
+      "text": "But no one had ever climbed the last few metres of the Second Step before.",
+      "paragraphId": "g8b-u3-p2-p1",
+      "tr": "但以前从未有人攀登过第二台阶的最后几米。",
+      "g": "过去完成时",
+      "d": "\"had climbed\"是过去完成时，表示在过去某个时间点之前发生的动作。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZKvV96bMWBuXjWAQ2UUh7D.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s6",
+      "text": "Liu Lianman led the way.",
+      "paragraphId": "g8b-u3-p2-p2",
+      "tr": "刘连满带路。",
+      "g": "主谓宾结构",
+      "d": "\"led\"是lead的过去式，意为“带领”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/oQtoMZJFt5TSWA8dPTftWK.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s7",
+      "text": "He tried four times.",
+      "paragraphId": "g8b-u3-p2-p2",
+      "tr": "他尝试了四次。",
+      "g": "主谓结构 + 频度状语",
+      "d": "简单句，描述动作发生的次数。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/NpLaNseH76QWxLtWWQqNMR.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s8",
+      "text": "Each time, he fell back into the snow.",
+      "paragraphId": "g8b-u3-p2-p2",
+      "tr": "每次，他都摔回雪地里。",
+      "g": "时间状语 + 主谓结构 + 地点状语",
+      "d": "\"fell back\"表示“向后摔倒”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gp8WErMb737dEzTCEixLVh.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s9",
+      "text": "The thin air took his strength away.",
+      "paragraphId": "g8b-u3-p2-p2",
+      "tr": "稀薄的空气耗尽了他的体力。",
+      "g": "主谓宾结构",
+      "d": "\"took away\"是动词短语，意为“带走，耗尽”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/uAxDtfK4NdkdWmJDTcrLT6.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s10",
+      "text": "\"I'm not strong enough to try again,\" he thought.",
+      "paragraphId": "g8b-u3-p2-p2",
+      "tr": "“我没有足够的力气再试一次了，”他想。",
+      "g": "直接引语 + 主谓结构",
+      "d": "\"strong enough to do sth\"表示“足够强壮去做某事”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/JJfGNBt8rfzyethC9nBEQn.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s11",
+      "text": "So he chose to be a \"human ladder\" for his teammates!",
+      "paragraphId": "g8b-u3-p2-p2",
+      "tr": "所以他选择做队友的“人梯”！",
+      "g": "主谓宾结构",
+      "d": "\"chose to be\"表示“选择成为”。\"human ladder\"是比喻用法。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/r2x8D55e6K7quXwgJSUwkY.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s12",
+      "text": "He lowered his body and let Qu Yinhua stand on his shoulders.",
+      "paragraphId": "g8b-u3-p2-p2",
+      "tr": "他蹲下身子，让屈银华站在他的肩膀上。",
+      "g": "并列谓语 + 使役动词结构",
+      "d": "\"let sb do sth\"表示“让某人做某事”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/N5rkrdtstBzi2XLqSvDXdn.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s13",
+      "text": "Slowly, bit by bit, Liu stood up and helped Qu climb to the top.",
+      "paragraphId": "g8b-u3-p2-p2",
+      "tr": "慢慢地，一点一点地，刘连满站了起来，帮助屈银华爬到了顶部。",
+      "g": "方式状语 + 主谓结构 + 并列谓语",
+      "d": "\"bit by bit\"意为“一点一点地”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/V4cNRP6bwWQHiJg8tocUSd.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s14",
+      "text": "Every second was painful, but Liu stood still.",
+      "paragraphId": "g8b-u3-p2-p2",
+      "tr": "每一秒都很痛苦，但刘连满站着不动。",
+      "g": "主系表结构",
+      "d": "\"stood\"在这里系动词用法，\"still\"是形容词，表示“静止的”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/PsUZewVNjSB2KewRyXyTe6.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s15",
+      "text": "And he did the same for Gong Bu.",
+      "paragraphId": "g8b-u3-p2-p2",
+      "tr": "他也为贡布做了同样的事。",
+      "g": "主谓宾结构",
+      "d": "\"the same\"指代前面提到的动作（做人梯）。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/5VJ7pQaaStdyqLJxcS7bbh.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s16",
+      "text": "Then he and Wang Fuzhou climbed up with a rope.",
+      "paragraphId": "g8b-u3-p2-p2",
+      "tr": "然后他和王富洲顺着绳子爬了上去。",
+      "g": "主谓结构 + 方式状语",
+      "d": "\"with a rope\"表示借助绳子。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/BVPCF96FjtqRg84QBBoJYT.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s17",
+      "text": "But Liu was too tired to keep going.",
+      "paragraphId": "g8b-u3-p2-p3",
+      "tr": "但是刘连满太累了，无法继续前进。",
+      "g": "too...to...结构",
+      "d": "\"too...to...\"表示“太...而不能...”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/eCicHt9ChVztxhfgJyFHT5.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s18",
+      "text": "The team were worried, but they had to carry on.",
+      "paragraphId": "g8b-u3-p2-p3",
+      "tr": "队员们很担心，但他们必须继续前进。",
+      "g": "转折复句",
+      "d": "\"had to\"表示“不得不，必须”。\"carry on\"意为“继续”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/SR36MCZzPHE6SS43zagG7S.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s19",
+      "text": "They gave Liu all their oxygen.",
+      "paragraphId": "g8b-u3-p2-p3",
+      "tr": "他们把所有的氧气都给了刘连满。",
+      "g": "主谓双宾结构",
+      "d": "\"gave sb sth\"表示“给某人某物”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/4hcJrPQBy7eBwa7k3ZsQEg.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s20",
+      "text": "It was dangerous to climb without oxygen, but they knew Liu needed it.",
+      "paragraphId": "g8b-u3-p2-p3",
+      "tr": "没有氧气攀登很危险，但他们知道刘连满需要它。",
+      "g": "形式主语 + 宾语从句",
+      "d": "\"It\"是形式主语，真正的主语是\"to climb without oxygen\"。\"knew\"后省略了that引导的宾语从句。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/4SVJMnk2fhVpcywjqPitgY.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s21",
+      "text": "They made every effort through the cold and dark.",
+      "paragraphId": "g8b-u3-p2-p3",
+      "tr": "他们在寒冷和黑暗中竭尽全力。",
+      "g": "主谓宾 + 目的状语",
+      "d": "\"make every effort\"意为“竭尽全力”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/HF92VZz7Ev7hjo4aLKAJhf.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s22",
+      "text": "Hours later, they reached the top of the towering mountain at 4:20 am on 25 May.",
+      "paragraphId": "g8b-u3-p2-p3",
+      "tr": "几个小时后，他们在5月25日凌晨4点20分到达了这座高耸山峰的顶峰。",
+      "g": "时间状语 + 主谓宾 + 时间状语",
+      "d": "\"towering\"形容词，意为“高耸的”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WQfwrbTGHZizEF3ruDe8Zb.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s23",
+      "text": "They were the first Chinese to do so!",
+      "paragraphId": "g8b-u3-p2-p3",
+      "tr": "他们是第一批这样做的中国人！",
+      "g": "主系表 + 不定式作定语",
+      "d": "\"to do so\"作后置定语修饰\"Chinese\"。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/tzDYXns6pf96tszVCVYUt7.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s24",
+      "text": "They were also the first people to climb the difficult North Ridge.",
+      "paragraphId": "g8b-u3-p2-p3",
+      "tr": "他们也是第一批攀登艰难的北坡的人。",
+      "g": "主系表 + 不定式作定语",
+      "d": "\"to climb...\"作后置定语修饰\"people\"。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/GYTe8WRCys4MiqSkAhBosj.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s25",
+      "text": "What's more, no one had done so without using oxygen!",
+      "paragraphId": "g8b-u3-p2-p3",
+      "tr": "更重要的是，以前从未有人在不使用氧气的情况下这样做过！",
+      "g": "插入语 + 过去完成时",
+      "d": "\"What's more\"表示“更重要的是”。\"without using oxygen\"是介词短语作方式状语。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qWqtQDtBr55A8JbLsPH6pU.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s26",
+      "text": "When they returned to base camp, they were welcomed as heroes. People cheered for Liu, too.",
+      "paragraphId": "g8b-u3-p2-p4",
+      "tr": "当他们回到大本营时，受到了英雄般的欢迎。人们也为刘连满欢呼。",
+      "g": "时间状语从句 + 被动语态",
+      "d": "\"were welcomed\"是被动语态。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/tAmaUAasJypTT29MhSifiV.mp3"
+    },
+    {
+      "id": "g8b-u3-p2-s27",
+      "text": "He did not reach the top, but he shouldered his team into China's mountaineering history.",
+      "paragraphId": "g8b-u3-p2-p4",
+      "tr": "他没有到达顶峰，但他用肩膀将他的团队托入了中国登山史。",
+      "g": "转折复句",
+      "d": "\"shouldered\"这里作动词用，双关语，既指“用肩膀托”，也指“肩负”。",
+      "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/84Zk5ZfzCG3vdDNpy9iSaQ.mp3"
+    }
+  ],
+  "vocabItems": [
+    {
+      "id": "g8b-u3-p2-v1",
+      "term": "24",
+      "meaningZh": "二十四",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v2",
+      "term": "25",
+      "meaningZh": "二十五",
+      "exampleSentenceId": "g8b-u3-p2-s22"
+    },
+    {
+      "id": "g8b-u3-p2-v3",
+      "term": "1960",
+      "meaningZh": "一九六零年",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v4",
+      "term": "i'm",
+      "meaningZh": "我是（I am的缩写）",
+      "exampleSentenceId": "g8b-u3-p2-s10"
+    },
+    {
+      "id": "g8b-u3-p2-v5",
+      "term": "human",
+      "meaningZh": "人类",
+      "exampleSentenceId": "g8b-u3-p2-s11"
+    },
+    {
+      "id": "g8b-u3-p2-v6",
+      "term": "climb",
+      "meaningZh": "攀登",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v7",
+      "term": "ever",
+      "meaningZh": "曾经",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v8",
+      "term": "4:20",
+      "meaningZh": "四点二十",
+      "exampleSentenceId": "g8b-u3-p2-s22"
+    },
+    {
+      "id": "g8b-u3-p2-v9",
+      "term": "am",
+      "meaningZh": "上午",
+      "exampleSentenceId": "g8b-u3-p2-s11"
+    },
+    {
+      "id": "g8b-u3-p2-v10",
+      "term": "climbers",
+      "meaningZh": "登山者",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v11",
+      "term": "roof",
+      "meaningZh": "屋顶，顶部",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v12",
+      "term": "reach",
+      "meaningZh": "伸手可及的距离",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v13",
+      "term": "ladder",
+      "meaningZh": "梯子",
+      "exampleSentenceId": "g8b-u3-p2-s11"
+    },
+    {
+      "id": "g8b-u3-p2-v14",
+      "term": "lowered",
+      "meaningZh": "降低，放下（lower的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s12"
+    },
+    {
+      "id": "g8b-u3-p2-v15",
+      "term": "shoulders",
+      "meaningZh": "肩膀",
+      "exampleSentenceId": "g8b-u3-p2-s12"
+    },
+    {
+      "id": "g8b-u3-p2-v16",
+      "term": "oxygen",
+      "meaningZh": "氧气",
+      "exampleSentenceId": "g8b-u3-p2-s19"
+    },
+    {
+      "id": "g8b-u3-p2-v17",
+      "term": "dangerous",
+      "meaningZh": "危险的",
+      "exampleSentenceId": "g8b-u3-p2-s20"
+    },
+    {
+      "id": "g8b-u3-p2-v18",
+      "term": "effort",
+      "meaningZh": "努力",
+      "exampleSentenceId": "g8b-u3-p2-s21"
+    },
+    {
+      "id": "g8b-u3-p2-v19",
+      "term": "towering",
+      "meaningZh": "高耸的",
+      "exampleSentenceId": "g8b-u3-p2-s22"
+    },
+    {
+      "id": "g8b-u3-p2-v20",
+      "term": "ridge",
+      "meaningZh": "山脊",
+      "exampleSentenceId": "g8b-u3-p2-s24"
+    },
+    {
+      "id": "g8b-u3-p2-v21",
+      "term": "base",
+      "meaningZh": "基础，基地",
+      "exampleSentenceId": "g8b-u3-p2-s26"
+    },
+    {
+      "id": "g8b-u3-p2-v22",
+      "term": "camp",
+      "meaningZh": "营地",
+      "exampleSentenceId": "g8b-u3-p2-s26"
+    },
+    {
+      "id": "g8b-u3-p2-v23",
+      "term": "history",
+      "meaningZh": "历史",
+      "exampleSentenceId": "g8b-u3-p2-s27"
+    },
+    {
+      "id": "g8b-u3-p2-v24",
+      "term": "qomolangma",
+      "meaningZh": "珠穆朗玛峰",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v25",
+      "term": "shouldered",
+      "meaningZh": "肩负，扛起（shoulder的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s27"
+    },
+    {
+      "id": "g8b-u3-p2-v26",
+      "term": "teammates",
+      "meaningZh": "队友",
+      "exampleSentenceId": "g8b-u3-p2-s11"
+    },
+    {
+      "id": "g8b-u3-p2-v27",
+      "term": "strength",
+      "meaningZh": "力量",
+      "exampleSentenceId": "g8b-u3-p2-s9"
+    },
+    {
+      "id": "g8b-u3-p2-v28",
+      "term": "rope",
+      "meaningZh": "绳索",
+      "exampleSentenceId": "g8b-u3-p2-s16"
+    },
+    {
+      "id": "g8b-u3-p2-v29",
+      "term": "tired",
+      "meaningZh": "疲劳的",
+      "exampleSentenceId": "g8b-u3-p2-s17"
+    },
+    {
+      "id": "g8b-u3-p2-v30",
+      "term": "worried",
+      "meaningZh": "担心的",
+      "exampleSentenceId": "g8b-u3-p2-s18"
+    },
+    {
+      "id": "g8b-u3-p2-v31",
+      "term": "difficult",
+      "meaningZh": "困难的",
+      "exampleSentenceId": "g8b-u3-p2-s24"
+    },
+    {
+      "id": "g8b-u3-p2-v32",
+      "term": "returned",
+      "meaningZh": "返回（return的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s26"
+    },
+    {
+      "id": "g8b-u3-p2-v33",
+      "term": "welcomed",
+      "meaningZh": "受欢迎（welcome的过去分词）",
+      "exampleSentenceId": "g8b-u3-p2-s26"
+    },
+    {
+      "id": "g8b-u3-p2-v34",
+      "term": "cheered",
+      "meaningZh": "欢呼（cheer的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s26"
+    },
+    {
+      "id": "g8b-u3-p2-v35",
+      "term": "mountaineering",
+      "meaningZh": "登山运动",
+      "exampleSentenceId": "g8b-u3-p2-s27"
+    },
+    {
+      "id": "g8b-u3-p2-v36",
+      "term": "noon",
+      "meaningZh": "中午",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v37",
+      "term": "may",
+      "meaningZh": "五月",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v38",
+      "term": "stood",
+      "meaningZh": "站立（stand的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v39",
+      "term": "alone",
+      "meaningZh": "独自的",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v40",
+      "term": "world",
+      "meaningZh": "世界",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v41",
+      "term": "near",
+      "meaningZh": "靠近",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v42",
+      "term": "top",
+      "meaningZh": "顶部",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v43",
+      "term": "wall",
+      "meaningZh": "墙",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v44",
+      "term": "rock",
+      "meaningZh": "岩石",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v45",
+      "term": "called",
+      "meaningZh": "称呼（call的过去分词）",
+      "exampleSentenceId": "g8b-u3-p2-s3"
+    },
+    {
+      "id": "g8b-u3-p2-v46",
+      "term": "wang",
+      "meaningZh": "王（姓氏）",
+      "exampleSentenceId": "g8b-u3-p2-s16"
+    },
+    {
+      "id": "g8b-u3-p2-v47",
+      "term": "fuzhou",
+      "meaningZh": "富洲（名字）",
+      "exampleSentenceId": "g8b-u3-p2-s16"
+    },
+    {
+      "id": "g8b-u3-p2-v48",
+      "term": "liu",
+      "meaningZh": "刘（姓氏）",
+      "exampleSentenceId": "g8b-u3-p2-s6"
+    },
+    {
+      "id": "g8b-u3-p2-v49",
+      "term": "lianman",
+      "meaningZh": "连满（名字）",
+      "exampleSentenceId": "g8b-u3-p2-s6"
+    },
+    {
+      "id": "g8b-u3-p2-v50",
+      "term": "qu",
+      "meaningZh": "屈（姓氏）",
+      "exampleSentenceId": "g8b-u3-p2-s12"
+    },
+    {
+      "id": "g8b-u3-p2-v51",
+      "term": "yinhua",
+      "meaningZh": "银华（名字）",
+      "exampleSentenceId": "g8b-u3-p2-s12"
+    },
+    {
+      "id": "g8b-u3-p2-v52",
+      "term": "gong",
+      "meaningZh": "贡（姓氏）",
+      "exampleSentenceId": "g8b-u3-p2-s15"
+    },
+    {
+      "id": "g8b-u3-p2-v53",
+      "term": "bu",
+      "meaningZh": "布（名字）",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v54",
+      "term": "qi",
+      "meaningZh": "齐（姓氏）"
+    },
+    {
+      "id": "g8b-u3-p2-v55",
+      "term": "jingxi",
+      "meaningZh": "京西（名字）"
+    },
+    {
+      "id": "g8b-u3-p2-v56",
+      "term": "thirty-metre-high",
+      "meaningZh": "三十米高的",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v57",
+      "term": "human-ladder",
+      "meaningZh": "人梯"
+    },
+    {
+      "id": "g8b-u3-p2-v58",
+      "term": "north-ridge",
+      "meaningZh": "北坡"
+    },
+    {
+      "id": "g8b-u3-p2-v59",
+      "term": "base-camp",
+      "meaningZh": "大本营"
+    },
+    {
+      "id": "g8b-u3-p2-v60",
+      "term": "second",
+      "meaningZh": "第二",
+      "exampleSentenceId": "g8b-u3-p2-s3"
+    },
+    {
+      "id": "g8b-u3-p2-v61",
+      "term": "step",
+      "meaningZh": "台阶",
+      "exampleSentenceId": "g8b-u3-p2-s3"
+    },
+    {
+      "id": "g8b-u3-p2-v62",
+      "term": "mount",
+      "meaningZh": "山",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v63",
+      "term": "seemed",
+      "meaningZh": "似乎（seem的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v64",
+      "term": "right",
+      "meaningZh": "正好",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v65",
+      "term": "within",
+      "meaningZh": "在...之内",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v66",
+      "term": "climbed",
+      "meaningZh": "攀登（climb的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v67",
+      "term": "last",
+      "meaningZh": "最后的",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v68",
+      "term": "few",
+      "meaningZh": "很少的",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v69",
+      "term": "metres",
+      "meaningZh": "米",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v70",
+      "term": "before",
+      "meaningZh": "以前",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v71",
+      "term": "led",
+      "meaningZh": "带领（lead的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s3"
+    },
+    {
+      "id": "g8b-u3-p2-v72",
+      "term": "way",
+      "meaningZh": "路",
+      "exampleSentenceId": "g8b-u3-p2-s6"
+    },
+    {
+      "id": "g8b-u3-p2-v73",
+      "term": "tried",
+      "meaningZh": "尝试（try的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s7"
+    },
+    {
+      "id": "g8b-u3-p2-v74",
+      "term": "times",
+      "meaningZh": "次数",
+      "exampleSentenceId": "g8b-u3-p2-s7"
+    },
+    {
+      "id": "g8b-u3-p2-v75",
+      "term": "each",
+      "meaningZh": "每个",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v76",
+      "term": "time",
+      "meaningZh": "时间，次",
+      "exampleSentenceId": "g8b-u3-p2-s7"
+    },
+    {
+      "id": "g8b-u3-p2-v77",
+      "term": "fell",
+      "meaningZh": "跌倒（fall的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s8"
+    },
+    {
+      "id": "g8b-u3-p2-v78",
+      "term": "back",
+      "meaningZh": "向后",
+      "exampleSentenceId": "g8b-u3-p2-s8"
+    },
+    {
+      "id": "g8b-u3-p2-v79",
+      "term": "into",
+      "meaningZh": "进入",
+      "exampleSentenceId": "g8b-u3-p2-s8"
+    },
+    {
+      "id": "g8b-u3-p2-v80",
+      "term": "snow",
+      "meaningZh": "雪",
+      "exampleSentenceId": "g8b-u3-p2-s8"
+    },
+    {
+      "id": "g8b-u3-p2-v81",
+      "term": "thin",
+      "meaningZh": "稀薄的",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v82",
+      "term": "air",
+      "meaningZh": "空气",
+      "exampleSentenceId": "g8b-u3-p2-s9"
+    },
+    {
+      "id": "g8b-u3-p2-v83",
+      "term": "took",
+      "meaningZh": "拿走（take的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s9"
+    },
+    {
+      "id": "g8b-u3-p2-v84",
+      "term": "away",
+      "meaningZh": "离开",
+      "exampleSentenceId": "g8b-u3-p2-s9"
+    },
+    {
+      "id": "g8b-u3-p2-v85",
+      "term": "strong",
+      "meaningZh": "强壮的",
+      "exampleSentenceId": "g8b-u3-p2-s10"
+    },
+    {
+      "id": "g8b-u3-p2-v86",
+      "term": "enough",
+      "meaningZh": "足够地",
+      "exampleSentenceId": "g8b-u3-p2-s10"
+    },
+    {
+      "id": "g8b-u3-p2-v87",
+      "term": "try",
+      "meaningZh": "尝试",
+      "exampleSentenceId": "g8b-u3-p2-s10"
+    },
+    {
+      "id": "g8b-u3-p2-v88",
+      "term": "again",
+      "meaningZh": "再一次",
+      "exampleSentenceId": "g8b-u3-p2-s10"
+    },
+    {
+      "id": "g8b-u3-p2-v89",
+      "term": "thought",
+      "meaningZh": "想（think的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s10"
+    },
+    {
+      "id": "g8b-u3-p2-v90",
+      "term": "so",
+      "meaningZh": "所以",
+      "exampleSentenceId": "g8b-u3-p2-s11"
+    },
+    {
+      "id": "g8b-u3-p2-v91",
+      "term": "chose",
+      "meaningZh": "选择（choose的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s11"
+    },
+    {
+      "id": "g8b-u3-p2-v92",
+      "term": "body",
+      "meaningZh": "身体",
+      "exampleSentenceId": "g8b-u3-p2-s12"
+    },
+    {
+      "id": "g8b-u3-p2-v93",
+      "term": "let",
+      "meaningZh": "让",
+      "exampleSentenceId": "g8b-u3-p2-s12"
+    },
+    {
+      "id": "g8b-u3-p2-v94",
+      "term": "stand",
+      "meaningZh": "站立",
+      "exampleSentenceId": "g8b-u3-p2-s12"
+    },
+    {
+      "id": "g8b-u3-p2-v95",
+      "term": "slowly",
+      "meaningZh": "慢慢地",
+      "exampleSentenceId": "g8b-u3-p2-s13"
+    },
+    {
+      "id": "g8b-u3-p2-v96",
+      "term": "bit",
+      "meaningZh": "一点",
+      "exampleSentenceId": "g8b-u3-p2-s13"
+    },
+    {
+      "id": "g8b-u3-p2-v97",
+      "term": "up",
+      "meaningZh": "向上",
+      "exampleSentenceId": "g8b-u3-p2-s13"
+    },
+    {
+      "id": "g8b-u3-p2-v98",
+      "term": "helped",
+      "meaningZh": "帮助（help的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s13"
+    },
+    {
+      "id": "g8b-u3-p2-v99",
+      "term": "still",
+      "meaningZh": "静止的",
+      "exampleSentenceId": "g8b-u3-p2-s14"
+    },
+    {
+      "id": "g8b-u3-p2-v100",
+      "term": "did",
+      "meaningZh": "做（do的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s15"
+    },
+    {
+      "id": "g8b-u3-p2-v101",
+      "term": "same",
+      "meaningZh": "相同的",
+      "exampleSentenceId": "g8b-u3-p2-s15"
+    },
+    {
+      "id": "g8b-u3-p2-v102",
+      "term": "then",
+      "meaningZh": "然后",
+      "exampleSentenceId": "g8b-u3-p2-s16"
+    },
+    {
+      "id": "g8b-u3-p2-v103",
+      "term": "with",
+      "meaningZh": "用，随着",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v104",
+      "term": "keep",
+      "meaningZh": "保持",
+      "exampleSentenceId": "g8b-u3-p2-s17"
+    },
+    {
+      "id": "g8b-u3-p2-v105",
+      "term": "going",
+      "meaningZh": "进行",
+      "exampleSentenceId": "g8b-u3-p2-s17"
+    },
+    {
+      "id": "g8b-u3-p2-v106",
+      "term": "team",
+      "meaningZh": "团队",
+      "exampleSentenceId": "g8b-u3-p2-s11"
+    },
+    {
+      "id": "g8b-u3-p2-v107",
+      "term": "had",
+      "meaningZh": "必须（have的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v108",
+      "term": "carry",
+      "meaningZh": "携带，继续",
+      "exampleSentenceId": "g8b-u3-p2-s18"
+    },
+    {
+      "id": "g8b-u3-p2-v109",
+      "term": "on",
+      "meaningZh": "继续",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v110",
+      "term": "gave",
+      "meaningZh": "给（give的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s19"
+    },
+    {
+      "id": "g8b-u3-p2-v111",
+      "term": "all",
+      "meaningZh": "所有的",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v112",
+      "term": "their",
+      "meaningZh": "他们的",
+      "exampleSentenceId": "g8b-u3-p2-s19"
+    },
+    {
+      "id": "g8b-u3-p2-v113",
+      "term": "without",
+      "meaningZh": "没有",
+      "exampleSentenceId": "g8b-u3-p2-s20"
+    },
+    {
+      "id": "g8b-u3-p2-v114",
+      "term": "knew",
+      "meaningZh": "知道（know的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s20"
+    },
+    {
+      "id": "g8b-u3-p2-v115",
+      "term": "needed",
+      "meaningZh": "需要（need的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s20"
+    },
+    {
+      "id": "g8b-u3-p2-v116",
+      "term": "made",
+      "meaningZh": "做（make的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s21"
+    },
+    {
+      "id": "g8b-u3-p2-v117",
+      "term": "every",
+      "meaningZh": "每一个",
+      "exampleSentenceId": "g8b-u3-p2-s14"
+    },
+    {
+      "id": "g8b-u3-p2-v118",
+      "term": "painful",
+      "meaningZh": "痛苦的",
+      "exampleSentenceId": "g8b-u3-p2-s14"
+    },
+    {
+      "id": "g8b-u3-p2-v119",
+      "term": "through",
+      "meaningZh": "穿过",
+      "exampleSentenceId": "g8b-u3-p2-s21"
+    },
+    {
+      "id": "g8b-u3-p2-v120",
+      "term": "cold",
+      "meaningZh": "寒冷的",
+      "exampleSentenceId": "g8b-u3-p2-s21"
+    },
+    {
+      "id": "g8b-u3-p2-v121",
+      "term": "dark",
+      "meaningZh": "黑暗的",
+      "exampleSentenceId": "g8b-u3-p2-s21"
+    },
+    {
+      "id": "g8b-u3-p2-v122",
+      "term": "hours",
+      "meaningZh": "小时",
+      "exampleSentenceId": "g8b-u3-p2-s22"
+    },
+    {
+      "id": "g8b-u3-p2-v123",
+      "term": "later",
+      "meaningZh": "后来",
+      "exampleSentenceId": "g8b-u3-p2-s22"
+    },
+    {
+      "id": "g8b-u3-p2-v124",
+      "term": "reached",
+      "meaningZh": "到达（reach的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s22"
+    },
+    {
+      "id": "g8b-u3-p2-v125",
+      "term": "mountain",
+      "meaningZh": "山",
+      "exampleSentenceId": "g8b-u3-p2-s22"
+    },
+    {
+      "id": "g8b-u3-p2-v126",
+      "term": "first",
+      "meaningZh": "第一",
+      "exampleSentenceId": "g8b-u3-p2-s23"
+    },
+    {
+      "id": "g8b-u3-p2-v127",
+      "term": "chinese",
+      "meaningZh": "中国人",
+      "exampleSentenceId": "g8b-u3-p2-s23"
+    },
+    {
+      "id": "g8b-u3-p2-v128",
+      "term": "do",
+      "meaningZh": "做",
+      "exampleSentenceId": "g8b-u3-p2-s23"
+    },
+    {
+      "id": "g8b-u3-p2-v129",
+      "term": "also",
+      "meaningZh": "也",
+      "exampleSentenceId": "g8b-u3-p2-s24"
+    },
+    {
+      "id": "g8b-u3-p2-v130",
+      "term": "people",
+      "meaningZh": "人们",
+      "exampleSentenceId": "g8b-u3-p2-s24"
+    },
+    {
+      "id": "g8b-u3-p2-v131",
+      "term": "north",
+      "meaningZh": "北",
+      "exampleSentenceId": "g8b-u3-p2-s24"
+    },
+    {
+      "id": "g8b-u3-p2-v132",
+      "term": "what's",
+      "meaningZh": "是什么",
+      "exampleSentenceId": "g8b-u3-p2-s25"
+    },
+    {
+      "id": "g8b-u3-p2-v133",
+      "term": "more",
+      "meaningZh": "更多",
+      "exampleSentenceId": "g8b-u3-p2-s25"
+    },
+    {
+      "id": "g8b-u3-p2-v134",
+      "term": "no",
+      "meaningZh": "没有",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v135",
+      "term": "one",
+      "meaningZh": "一个人",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v136",
+      "term": "done",
+      "meaningZh": "做（do的过去分词）",
+      "exampleSentenceId": "g8b-u3-p2-s25"
+    },
+    {
+      "id": "g8b-u3-p2-v137",
+      "term": "using",
+      "meaningZh": "使用",
+      "exampleSentenceId": "g8b-u3-p2-s25"
+    },
+    {
+      "id": "g8b-u3-p2-v138",
+      "term": "when",
+      "meaningZh": "当...时候",
+      "exampleSentenceId": "g8b-u3-p2-s26"
+    },
+    {
+      "id": "g8b-u3-p2-v139",
+      "term": "by",
+      "meaningZh": "被",
+      "exampleSentenceId": "g8b-u3-p2-s13"
+    },
+    {
+      "id": "g8b-u3-p2-v140",
+      "term": "for",
+      "meaningZh": "为了",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v141",
+      "term": "too",
+      "meaningZh": "也",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v142",
+      "term": "not",
+      "meaningZh": "不",
+      "exampleSentenceId": "g8b-u3-p2-s10"
+    },
+    {
+      "id": "g8b-u3-p2-v143",
+      "term": "but",
+      "meaningZh": "但是",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v144",
+      "term": "his",
+      "meaningZh": "他的",
+      "exampleSentenceId": "g8b-u3-p2-s9"
+    },
+    {
+      "id": "g8b-u3-p2-v145",
+      "term": "china's",
+      "meaningZh": "中国的",
+      "exampleSentenceId": "g8b-u3-p2-s27"
+    },
+    {
+      "id": "g8b-u3-p2-v146",
+      "term": "at",
+      "meaningZh": "在",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v147",
+      "term": "four",
+      "meaningZh": "四",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v148",
+      "term": "the",
+      "meaningZh": "这，那",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v149",
+      "term": "of",
+      "meaningZh": "...的",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v150",
+      "term": "they",
+      "meaningZh": "他们",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v151",
+      "term": "were",
+      "meaningZh": "是（are的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v152",
+      "term": "a",
+      "meaningZh": "一个",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v153",
+      "term": "it",
+      "meaningZh": "它",
+      "exampleSentenceId": "g8b-u3-p2-s3"
+    },
+    {
+      "id": "g8b-u3-p2-v154",
+      "term": "was",
+      "meaningZh": "是（is的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s3"
+    },
+    {
+      "id": "g8b-u3-p2-v155",
+      "term": "he",
+      "meaningZh": "他",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v156",
+      "term": "to",
+      "meaningZh": "去，向",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v157",
+      "term": "and",
+      "meaningZh": "和",
+      "exampleSentenceId": "g8b-u3-p2-s12"
+    },
+    {
+      "id": "g8b-u3-p2-v158",
+      "term": "in",
+      "meaningZh": "在...里面",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v159",
+      "term": "i",
+      "meaningZh": "我",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    }
+  ],
+  "sentenceTasks": [],
+  "readingQuestions": [
+    {
+      "id": "reading-q1",
+      "type": "single_choice",
+      "stem": "Why did Liu Lianman choose to be a \"human ladder\"?",
+      "options": [
+        "A. He wanted to show off his strength.",
+        "B. He was too tired to climb and wanted to help his teammates.",
+        "C. It was the only way to cross a river.",
+        "D. He was ordered to do so by the team leader."
+      ],
+      "answer": "B. He was too tired to climb and wanted to help his teammates.",
+      "rationaleZh": "文章提到刘连满尝试了四次都失败了，体力耗尽，所以选择做人梯帮助队友。"
+    },
+    {
+      "id": "reading-q2",
+      "type": "single_choice",
+      "stem": "What was special about their achievement?",
+      "options": [
+        "A. They climbed the South Ridge.",
+        "B. They were the first people to climb Mount Qomolangma.",
+        "C. They were the first Chinese to climb the North Ridge, and did so without oxygen.",
+        "D. They found a new route called the Second Step."
+      ],
+      "answer": "C. They were the first Chinese to climb the North Ridge, and did so without oxygen.",
+      "rationaleZh": "文章提到他们是第一批攀登北坡的中国人，且是在没有氧气的情况下完成的。"
+    },
+    {
+      "id": "reading-q3",
+      "type": "single_choice",
+      "stem": "What does the phrase \"shouldered his team into history\" mean?",
+      "options": [
+        "A. He carried his team on his back all the way.",
+        "B. He pushed his team off the mountain.",
+        "C. His sacrifice and help enabled the team to succeed and make history.",
+        "D. He wrote a history book about the team."
+      ],
+      "answer": "C. His sacrifice and help enabled the team to succeed and make history.",
+      "rationaleZh": "这是一个比喻，指刘连满的牺牲和帮助（做人梯）使得团队能够成功并创造历史。"
+    },
+    {
+      "id": "reading-q4",
+      "type": "single_choice",
+      "stem": "When did the team reach the top of Mount Qomolangma?",
+      "options": [
+        "A. At noon on 24 May 1960.",
+        "B. At 4:20 on 25 May.",
+        "C. In the afternoon of 24 May.",
+        "D. At midnight on 25 May."
+      ],
+      "answer": "B. At 4:20 on 25 May.",
+      "rationaleZh": "文章明确提到 'Hours later, they reached the top of the towering mountain at 4:20 on 25 May.'"
+    },
+    {
+      "id": "reading-q5",
+      "type": "single_choice",
+      "stem": "Which of the following statements is TRUE according to the passage?",
+      "options": [
+        "A. All four climbers reached the top of the mountain.",
+        "B. The Second Step was easy to climb.",
+        "C. Qu Yinhua was the first one to climb up the human ladder.",
+        "D. They had enough oxygen for everyone."
+      ],
+      "answer": "C. Qu Yinhua was the first one to climb up the human ladder.",
+      "rationaleZh": "文章提到 'He lowered his body and let Qu Yinhua stand on his shoulders.' 且最后提到刘连满没有登顶，其他人无氧登顶。"
+    }
+  ],
+  "quoteCandidates": [],
+  "lexicon": {
+    "24": {
+      "phonetic": "/ˌtwenti ˈfɔː/",
+      "pos": "num.",
+      "meaningZh": "二十四",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/w5Qd5xCftANLiEc6ysEiuE.mp3"
+    },
+    "25": {
+      "phonetic": "/ˌtwenti ˈfaɪv/",
+      "pos": "num.",
+      "meaningZh": "二十五",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3yXXmReJFyc7RRGRtBHoRj.mp3"
+    },
+    "1960": {
+      "phonetic": "/ˌnaɪnˈtiːn ˈsɪksti/",
+      "pos": "num.",
+      "meaningZh": "一九六零年",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XrZZXW8hrNtWUq856DtNRj.mp3"
+    },
+    "i'm": {
+      "phonetic": "/aɪm/",
+      "pos": "abbr.",
+      "meaningZh": "我是（I am的缩写）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/U297cpaT88WAXb5bJMhoMg.mp3"
+    },
+    "human": {
+      "phonetic": "/ˈhjuːmən/",
+      "pos": "n.",
+      "meaningZh": "人类",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7rUmiTadqzbYEcDYjnPX9h.mp3"
+    },
+    "climb": {
+      "phonetic": "/klaɪm/",
+      "pos": "v.",
+      "meaningZh": "攀登",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/W5kPS4Ya4WR2beyZYkomYk.mp3"
+    },
+    "ever": {
+      "phonetic": "/ˈevə/",
+      "pos": "adv.",
+      "meaningZh": "曾经",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/yw7ZdDWbopRibk5QbZbfp6.mp3"
+    },
+    "4:20": {
+      "phonetic": "/fɔː ˈtwenti/",
+      "pos": "time",
+      "meaningZh": "四点二十",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XAHLqhHtUeueotMKvXQ4BN.mp3"
+    },
+    "am": {
+      "phonetic": "/ˌeɪ ˈem/",
+      "pos": "abbr.",
+      "meaningZh": "上午",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/BoKg8QbgdUYcZmF5g7KwJ3.mp3"
+    },
+    "climbers": {
+      "phonetic": "/ˈklaɪməz/",
+      "pos": "n.",
+      "meaningZh": "登山者",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/GUHzKQdgtAVdXNeTR7B9Gk.mp3"
+    },
+    "roof": {
+      "phonetic": "/ruːf/",
+      "pos": "n.",
+      "meaningZh": "屋顶，顶部",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/YynH7ShgFmkQ7KJhewPkmD.mp3"
+    },
+    "reach": {
+      "phonetic": "/riːtʃ/",
+      "pos": "n.",
+      "meaningZh": "伸手可及的距离",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/riRCLbnH9L8UvWMfAUR3XJ.mp3"
+    },
+    "ladder": {
+      "phonetic": "/ˈlædə/",
+      "pos": "n.",
+      "meaningZh": "梯子",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/mxunCHrbpvS9ve6UnckawK.mp3"
+    },
+    "lowered": {
+      "phonetic": "/ˈləʊəd/",
+      "pos": "v.",
+      "meaningZh": "降低，放下（lower的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Mh7CnxJdtWm7SpMJCXu422.mp3"
+    },
+    "shoulders": {
+      "phonetic": "/ˈʃəʊldəz/",
+      "pos": "n.",
+      "meaningZh": "肩膀",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7nEXdd6hzbHvqKJCsE2VFU.mp3"
+    },
+    "oxygen": {
+      "phonetic": "/ˈɒksɪdʒən/",
+      "pos": "n.",
+      "meaningZh": "氧气",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/GsiaEwB8e9xataLTJpz2nL.mp3"
+    },
+    "dangerous": {
+      "phonetic": "/ˈdeɪndʒərəs/",
+      "pos": "adj.",
+      "meaningZh": "危险的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ASyBabdZAPmKSBnwt9qnYE.mp3"
+    },
+    "effort": {
+      "phonetic": "/ˈefət/",
+      "pos": "n.",
+      "meaningZh": "努力",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/8Qxd4chDnJ9MsSKKFQgUKa.mp3"
+    },
+    "towering": {
+      "phonetic": "/ˈtaʊərɪŋ/",
+      "pos": "adj.",
+      "meaningZh": "高耸的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/jRCKqfqfHSpwnWqvJVRu8G.mp3"
+    },
+    "ridge": {
+      "phonetic": "/rɪdʒ/",
+      "pos": "n.",
+      "meaningZh": "山脊",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/vDYVzFCvPhL6HC7nksdKkC.mp3"
+    },
+    "base": {
+      "phonetic": "/beɪs/",
+      "pos": "n.",
+      "meaningZh": "基础，基地",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/SeqronHVitDxZPiN5xQguA.mp3"
+    },
+    "camp": {
+      "phonetic": "/kæmp/",
+      "pos": "n.",
+      "meaningZh": "营地",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gUQCw3MnS85YiMRsKxNN26.mp3"
+    },
+    "history": {
+      "phonetic": "/ˈhɪstri/",
+      "pos": "n.",
+      "meaningZh": "历史",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hqNXatpGPei45dUKo778Tj.mp3"
+    },
+    "qomolangma": {
+      "phonetic": "/ˌtʃəʊməʊˈlɑːŋmə/",
+      "pos": "n.",
+      "meaningZh": "珠穆朗玛峰",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/5wGYuE356Q5V4haij3oR2f.mp3"
+    },
+    "shouldered": {
+      "phonetic": "/ˈʃəʊldəd/",
+      "pos": "v.",
+      "meaningZh": "肩负，扛起（shoulder的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gRtsWgSAwe9X7ZNhrS4TZm.mp3"
+    },
+    "teammates": {
+      "phonetic": "/ˈtiːmmeɪts/",
+      "pos": "n.",
+      "meaningZh": "队友",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/wEbLbvp4z9SXCsHtN43Yzg.mp3"
+    },
+    "strength": {
+      "phonetic": "/streŋθ/",
+      "pos": "n.",
+      "meaningZh": "力量",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/V9WfjVgzvtRKK7Z2MhhopX.mp3"
+    },
+    "rope": {
+      "phonetic": "/rəʊp/",
+      "pos": "n.",
+      "meaningZh": "绳索",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/22P784hjFoDgvZQcDQdxFM.mp3"
+    },
+    "tired": {
+      "phonetic": "/ˈtaɪəd/",
+      "pos": "adj.",
+      "meaningZh": "疲劳的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2NqxVW2M96fe56f37Eh7F9.mp3"
+    },
+    "worried": {
+      "phonetic": "/ˈwʌrid/",
+      "pos": "adj.",
+      "meaningZh": "担心的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/xuiCe7hrhVzviAVF7Lvokn.mp3"
+    },
+    "difficult": {
+      "phonetic": "/ˈdɪfɪkəlt/",
+      "pos": "adj.",
+      "meaningZh": "困难的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/NPk5vUM2J7QL3mEeiuPGB2.mp3"
+    },
+    "returned": {
+      "phonetic": "/rɪˈtɜːnd/",
+      "pos": "v.",
+      "meaningZh": "返回（return的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Z9DjdDLTPWJ55C5AuiBpLE.mp3"
+    },
+    "welcomed": {
+      "phonetic": "/ˈwelkəmd/",
+      "pos": "v.",
+      "meaningZh": "受欢迎（welcome的过去分词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/My9TagQLbqf2jWhv8ZqUNa.mp3"
+    },
+    "cheered": {
+      "phonetic": "/tʃɪəd/",
+      "pos": "v.",
+      "meaningZh": "欢呼（cheer的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/TuFWAuLZoSBf6A9LaPSMzC.mp3"
+    },
+    "mountaineering": {
+      "phonetic": "/ˌmaʊntɪˈnɪərɪŋ/",
+      "pos": "n.",
+      "meaningZh": "登山运动",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/AUQkdqnxkGXCw2PowfqjEf.mp3"
+    },
+    "noon": {
+      "phonetic": "/nuːn/",
+      "pos": "n.",
+      "meaningZh": "中午",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/kYBog62KRWLAoGGgmLL6kA.mp3"
+    },
+    "may": {
+      "phonetic": "/meɪ/",
+      "pos": "n.",
+      "meaningZh": "五月",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/jDgrbVnCvpwMuHBQokpMkB.mp3"
+    },
+    "stood": {
+      "phonetic": "/stʊd/",
+      "pos": "v.",
+      "meaningZh": "站立（stand的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/YFWVvs3VTFLjzmDwyg4HZf.mp3"
+    },
+    "alone": {
+      "phonetic": "/əˈləʊn/",
+      "pos": "adj.",
+      "meaningZh": "独自的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qKLKG8JhpYLGMpHyeySrW3.mp3"
+    },
+    "world": {
+      "phonetic": "/wɜːld/",
+      "pos": "n.",
+      "meaningZh": "世界",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sZzFbVFzvHZi2WDYoxmxXY.mp3"
+    },
+    "near": {
+      "phonetic": "/nɪə/",
+      "pos": "prep.",
+      "meaningZh": "靠近",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/JhqVmsT7A9zcGyDsB9kUSG.mp3"
+    },
+    "top": {
+      "phonetic": "/tɒp/",
+      "pos": "n.",
+      "meaningZh": "顶部",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/uBzuiEFnztrgGmhyxbyqw7.mp3"
+    },
+    "wall": {
+      "phonetic": "/wɔːl/",
+      "pos": "n.",
+      "meaningZh": "墙",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/9pWxyNVpdehRADRG7fzFrn.mp3"
+    },
+    "rock": {
+      "phonetic": "/rɒk/",
+      "pos": "n.",
+      "meaningZh": "岩石",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/GRk2KTvoeE3oYp7rdFviuR.mp3"
+    },
+    "called": {
+      "phonetic": "/kɔːld/",
+      "pos": "v.",
+      "meaningZh": "称呼（call的过去分词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/mnovPAijAv23JZKk8vcDm6.mp3"
+    },
+    "wang": {
+      "phonetic": "/wæŋ/",
+      "pos": "n.",
+      "meaningZh": "王（姓氏）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/q55awUYHzM3gTTD2c3pj2P.mp3"
+    },
+    "fuzhou": {
+      "phonetic": "/fuːˈdʒəʊ/",
+      "pos": "n.",
+      "meaningZh": "富洲（名字）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/thDmVA7kLa7HJWysT5Aa48.mp3"
+    },
+    "liu": {
+      "phonetic": "/ljuː/",
+      "pos": "n.",
+      "meaningZh": "刘（姓氏）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZHVPuqCkqt4zipgESNLSBD.mp3"
+    },
+    "lianman": {
+      "phonetic": "/ljænˈmæn/",
+      "pos": "n.",
+      "meaningZh": "连满（名字）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KdcMhf3Z3yUTUzc7kcjF5X.mp3"
+    },
+    "qu": {
+      "phonetic": "/tʃuː/",
+      "pos": "n.",
+      "meaningZh": "屈（姓氏）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/JWnYeifmay6GDPa2o7RokY.mp3"
+    },
+    "yinhua": {
+      "phonetic": "/jɪnˈhwɑː/",
+      "pos": "n.",
+      "meaningZh": "银华（名字）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/YW4fp9daKEyG8qE72kcAib.mp3"
+    },
+    "gong": {
+      "phonetic": "/ɡɒŋ/",
+      "pos": "n.",
+      "meaningZh": "贡（姓氏）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/nh7sB8CvNQAxuu2jtitMJ2.mp3"
+    },
+    "bu": {
+      "phonetic": "/buː/",
+      "pos": "n.",
+      "meaningZh": "布（名字）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RxCpUF6iZT4LtkpAHU4Lin.mp3"
+    },
+    "qi": {
+      "phonetic": "/tʃiː/",
+      "pos": "n.",
+      "meaningZh": "齐（姓氏）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Ypmpjvb9b4GEXavXyBAqJ6.mp3"
+    },
+    "jingxi": {
+      "phonetic": "/dʒɪŋˈʃiː/",
+      "pos": "n.",
+      "meaningZh": "京西（名字）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/QFEon2wR8r2c2ivTMmpGyc.mp3"
+    },
+    "thirty-metre-high": {
+      "phonetic": "/ˈθɜːti ˈmiːtə haɪ/",
+      "pos": "adj.",
+      "meaningZh": "三十米高的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/9eXtqoFdULx3fEmo8zC4vJ.mp3"
+    },
+    "human-ladder": {
+      "phonetic": "/ˈhjuːmən ˈlædə/",
+      "pos": "n.",
+      "meaningZh": "人梯",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hjBURjg9wAD2ncrU8pgmoG.mp3"
+    },
+    "north-ridge": {
+      "phonetic": "/nɔːθ rɪdʒ/",
+      "pos": "n.",
+      "meaningZh": "北坡",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iLEepeWWpVxADorEsGU7XH.mp3"
+    },
+    "base-camp": {
+      "phonetic": "/beɪs kæmp/",
+      "pos": "n.",
+      "meaningZh": "大本营",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KgKYkCpBqMMUFmokNgePxb.mp3"
+    },
+    "second": {
+      "phonetic": "/ˈsekənd/",
+      "pos": "num.",
+      "meaningZh": "第二",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/sCDWowh9LB7L5QJCEGDx7S.mp3"
+    },
+    "step": {
+      "phonetic": "/step/",
+      "pos": "n.",
+      "meaningZh": "台阶",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/crVPMH9idhJRFYGki4LJXZ.mp3"
+    },
+    "mount": {
+      "phonetic": "/maʊnt/",
+      "pos": "n.",
+      "meaningZh": "山",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/8Z42PBnvRkgvGdPkFG2HXR.mp3"
+    },
+    "seemed": {
+      "phonetic": "/siːmd/",
+      "pos": "v.",
+      "meaningZh": "似乎（seem的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FizXwBHtWX7B5JL3NrwkAi.mp3"
+    },
+    "right": {
+      "phonetic": "/raɪt/",
+      "pos": "adv.",
+      "meaningZh": "正好",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/yBDmjdHQaiAjTgkm6fuZDR.mp3"
+    },
+    "within": {
+      "phonetic": "/wɪˈðɪn/",
+      "pos": "prep.",
+      "meaningZh": "在...之内",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/W3sRBgVd5wUq96mNPm2D4Q.mp3"
+    },
+    "climbed": {
+      "phonetic": "/klaɪmd/",
+      "pos": "v.",
+      "meaningZh": "攀登（climb的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7LzzYBcGMdkTbdbPXJmncU.mp3"
+    },
+    "last": {
+      "phonetic": "/lɑːst/",
+      "pos": "adj.",
+      "meaningZh": "最后的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/HMhrheUB2XnkHg7ADXeKY7.mp3"
+    },
+    "few": {
+      "phonetic": "/fjuː/",
+      "pos": "adj.",
+      "meaningZh": "很少的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KvJjc7ykepkSbWFCTZFoTg.mp3"
+    },
+    "metres": {
+      "phonetic": "/ˈmiːtəz/",
+      "pos": "n.",
+      "meaningZh": "米",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/EQ3Z7EAarub4NBSpJCKJDQ.mp3"
+    },
+    "before": {
+      "phonetic": "/bɪˈfɔː/",
+      "pos": "adv.",
+      "meaningZh": "以前",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZVnAQajLe5BVpbTAoj9Chk.mp3"
+    },
+    "led": {
+      "phonetic": "/led/",
+      "pos": "v.",
+      "meaningZh": "带领（lead的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/79kxGXVXGy2MjHM7ZfQ6KR.mp3"
+    },
+    "way": {
+      "phonetic": "/weɪ/",
+      "pos": "n.",
+      "meaningZh": "路",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/swAccPUuTwMjcBMkshXhpk.mp3"
+    },
+    "tried": {
+      "phonetic": "/traɪd/",
+      "pos": "v.",
+      "meaningZh": "尝试（try的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/fpWADaZx4iym7VXj7kRFki.mp3"
+    },
+    "times": {
+      "phonetic": "/taɪmz/",
+      "pos": "n.",
+      "meaningZh": "次数",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/U6GDpqDA45PeVbwbBAc9dc.mp3"
+    },
+    "each": {
+      "phonetic": "/iːtʃ/",
+      "pos": "adj.",
+      "meaningZh": "每个",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/PCmaNooLucBs3UpeHkgcKM.mp3"
+    },
+    "time": {
+      "phonetic": "/taɪm/",
+      "pos": "n.",
+      "meaningZh": "时间，次",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Yrs7xdWBD4ku9JKjCYB9GG.mp3"
+    },
+    "fell": {
+      "phonetic": "/fel/",
+      "pos": "v.",
+      "meaningZh": "跌倒（fall的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZbSNZGnCNt2JWfTuotNL55.mp3"
+    },
+    "back": {
+      "phonetic": "/bæk/",
+      "pos": "adv.",
+      "meaningZh": "向后",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/QBCiPmfYzQLNmoELVpS4DY.mp3"
+    },
+    "into": {
+      "phonetic": "/ˈɪntə/",
+      "pos": "prep.",
+      "meaningZh": "进入",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/bsHAmigmBQYLeZC6pE9AhW.mp3"
+    },
+    "snow": {
+      "phonetic": "/snəʊ/",
+      "pos": "n.",
+      "meaningZh": "雪",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pK4FpUvw94af3cJqqPosjB.mp3"
+    },
+    "thin": {
+      "phonetic": "/θɪn/",
+      "pos": "adj.",
+      "meaningZh": "稀薄的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ynkQxSGKL8n5TNTDjDdcEU.mp3"
+    },
+    "air": {
+      "phonetic": "/eə/",
+      "pos": "n.",
+      "meaningZh": "空气",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rCdvPi5KQZgwFZ8LpaKm7k.mp3"
+    },
+    "took": {
+      "phonetic": "/tʊk/",
+      "pos": "v.",
+      "meaningZh": "拿走（take的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/yoY8ZAW9KKhggY9xuzAM22.mp3"
+    },
+    "away": {
+      "phonetic": "/əˈweɪ/",
+      "pos": "adv.",
+      "meaningZh": "离开",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3U6WPcsF8GdFgoRmvZu3sK.mp3"
+    },
+    "strong": {
+      "phonetic": "/strɒŋ/",
+      "pos": "adj.",
+      "meaningZh": "强壮的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3nTAL3isEd8kTcuzzuWCg4.mp3"
+    },
+    "enough": {
+      "phonetic": "/ɪˈnʌf/",
+      "pos": "adv.",
+      "meaningZh": "足够地",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WAijVj8zG5GesFaJBFmYBD.mp3"
+    },
+    "try": {
+      "phonetic": "/traɪ/",
+      "pos": "v.",
+      "meaningZh": "尝试",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dBFx45b6txB7qUwPzTpjbG.mp3"
+    },
+    "again": {
+      "phonetic": "/əˈɡen/",
+      "pos": "adv.",
+      "meaningZh": "再一次",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/kXFttho2UnviMANKt8fPQT.mp3"
+    },
+    "thought": {
+      "phonetic": "/θɔːt/",
+      "pos": "v.",
+      "meaningZh": "想（think的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/bUQhJi3pqJP3rgj7x8rtj2.mp3"
+    },
+    "so": {
+      "phonetic": "/səʊ/",
+      "pos": "conj.",
+      "meaningZh": "所以",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UieuwkEVCYewcQh87Nv4Eb.mp3"
+    },
+    "chose": {
+      "phonetic": "/tʃəʊz/",
+      "pos": "v.",
+      "meaningZh": "选择（choose的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/JAtwjq5SDA4dR4TSLsLsg6.mp3"
+    },
+    "body": {
+      "phonetic": "/ˈbɒdi/",
+      "pos": "n.",
+      "meaningZh": "身体",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/srWs7fXMWVc8KjEYWsEcyX.mp3"
+    },
+    "let": {
+      "phonetic": "/let/",
+      "pos": "v.",
+      "meaningZh": "让",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/oFoWvjWFh2VkQ2F3uGaA25.mp3"
+    },
+    "stand": {
+      "phonetic": "/stænd/",
+      "pos": "v.",
+      "meaningZh": "站立",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/zbBo8gUztcd4hD23v9b8oT.mp3"
+    },
+    "slowly": {
+      "phonetic": "/ˈsləʊli/",
+      "pos": "adv.",
+      "meaningZh": "慢慢地",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/aUYtuWiSVsSBu72nc57bSD.mp3"
+    },
+    "bit": {
+      "phonetic": "/bɪt/",
+      "pos": "n.",
+      "meaningZh": "一点",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/uLyenG5YyiYnzAChQnBnVD.mp3"
+    },
+    "up": {
+      "phonetic": "/ʌp/",
+      "pos": "adv.",
+      "meaningZh": "向上",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ogTq7phN883MvN4rJJ5HLV.mp3"
+    },
+    "helped": {
+      "phonetic": "/helpt/",
+      "pos": "v.",
+      "meaningZh": "帮助（help的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/H7UPuzxzR5xr7nKMvppJB6.mp3"
+    },
+    "still": {
+      "phonetic": "/stɪl/",
+      "pos": "adj.",
+      "meaningZh": "静止的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/DesPg2hYbs5bfE3WG2FPmP.mp3"
+    },
+    "did": {
+      "phonetic": "/dɪd/",
+      "pos": "v.",
+      "meaningZh": "做（do的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/VQEyH6zztyc7vgRrmhtrik.mp3"
+    },
+    "same": {
+      "phonetic": "/seɪm/",
+      "pos": "adj.",
+      "meaningZh": "相同的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Kg6gGVXYbFrGMjw2pa4mW9.mp3"
+    },
+    "then": {
+      "phonetic": "/ðen/",
+      "pos": "adv.",
+      "meaningZh": "然后",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6DrUn7Sd5puyH47R2LDYWU.mp3"
+    },
+    "with": {
+      "phonetic": "/wɪð/",
+      "pos": "prep.",
+      "meaningZh": "用，随着",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6RLYkAThgXwWFmQCToqdtX.mp3"
+    },
+    "keep": {
+      "phonetic": "/kiːp/",
+      "pos": "v.",
+      "meaningZh": "保持",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6Rck35d8WBjWSLpoyKLoNj.mp3"
+    },
+    "going": {
+      "phonetic": "/ˈɡəʊɪŋ/",
+      "pos": "v.",
+      "meaningZh": "进行",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FMv3AZnUcCf7DadCVNbdQj.mp3"
+    },
+    "team": {
+      "phonetic": "/tiːm/",
+      "pos": "n.",
+      "meaningZh": "团队",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/9W42KBUCJd9NBXvYHfWJ2D.mp3"
+    },
+    "had": {
+      "phonetic": "/hæd/",
+      "pos": "v.",
+      "meaningZh": "必须（have的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/dM8QTD2dt36UGxuicnifwi.mp3"
+    },
+    "carry": {
+      "phonetic": "/ˈkæri/",
+      "pos": "v.",
+      "meaningZh": "携带，继续",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/vasrU7XJ7vP7YjgincE3tG.mp3"
+    },
+    "on": {
+      "phonetic": "/ɒn/",
+      "pos": "adv.",
+      "meaningZh": "继续",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/5zfmFvw42v68peFUxPfauT.mp3"
+    },
+    "gave": {
+      "phonetic": "/ɡeɪv/",
+      "pos": "v.",
+      "meaningZh": "给（give的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WCxwGrnefxFYHSCJc264CB.mp3"
+    },
+    "all": {
+      "phonetic": "/ɔːl/",
+      "pos": "adj.",
+      "meaningZh": "所有的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/it5oF4YMnPYyHKXH5qYqZE.mp3"
+    },
+    "their": {
+      "phonetic": "/ðeə/",
+      "pos": "pron.",
+      "meaningZh": "他们的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/hP5qNvmb7i7kZFVsvch7zL.mp3"
+    },
+    "without": {
+      "phonetic": "/wɪˈðaʊt/",
+      "pos": "prep.",
+      "meaningZh": "没有",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/w4ooSFvQuy3grDGf8j3gqV.mp3"
+    },
+    "knew": {
+      "phonetic": "/njuː/",
+      "pos": "v.",
+      "meaningZh": "知道（know的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/82kaVqyRiTKZWvkvxFahsP.mp3"
+    },
+    "needed": {
+      "phonetic": "/ˈniːdɪd/",
+      "pos": "v.",
+      "meaningZh": "需要（need的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/qX3R5LQSs3R2Qxw4tLEDmE.mp3"
+    },
+    "made": {
+      "phonetic": "/meɪd/",
+      "pos": "v.",
+      "meaningZh": "做（make的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/PAyeTiLkUsVG3igTjQ9Bj9.mp3"
+    },
+    "every": {
+      "phonetic": "/ˈevri/",
+      "pos": "adj.",
+      "meaningZh": "每一个",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/WMbWi2B4Nv3ScDhgdFBjtT.mp3"
+    },
+    "painful": {
+      "phonetic": "/ˈpeɪnfl/",
+      "pos": "adj.",
+      "meaningZh": "痛苦的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2CVRM3U8jnVvmTzfyDmCWZ.mp3"
+    },
+    "through": {
+      "phonetic": "/θruː/",
+      "pos": "prep.",
+      "meaningZh": "穿过",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/u8KQtj4GMjuqTZviXuk6v5.mp3"
+    },
+    "cold": {
+      "phonetic": "/kəʊld/",
+      "pos": "adj.",
+      "meaningZh": "寒冷的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/iGPEBZLoiv3V5TQjDkusTb.mp3"
+    },
+    "dark": {
+      "phonetic": "/dɑːk/",
+      "pos": "adj.",
+      "meaningZh": "黑暗的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/86EfKUFszV7jzvPPuuu8J6.mp3"
+    },
+    "hours": {
+      "phonetic": "/ˈaʊəz/",
+      "pos": "n.",
+      "meaningZh": "小时",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/KPTD5k77hrR37ZkDawcboC.mp3"
+    },
+    "later": {
+      "phonetic": "/ˈleɪtə/",
+      "pos": "adv.",
+      "meaningZh": "后来",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/YxhfUvH4qesb4MVwDtdGp3.mp3"
+    },
+    "reached": {
+      "phonetic": "/riːtʃt/",
+      "pos": "v.",
+      "meaningZh": "到达（reach的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/PNP4CewtK5ttwNEqks4CbB.mp3"
+    },
+    "mountain": {
+      "phonetic": "/ˈmaʊntɪn/",
+      "pos": "n.",
+      "meaningZh": "山",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZUghZJGwtQMQj7UVFrz3pM.mp3"
+    },
+    "first": {
+      "phonetic": "/fɜːst/",
+      "pos": "adj.",
+      "meaningZh": "第一",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/or9pogSCLABG4VK8bNfukU.mp3"
+    },
+    "chinese": {
+      "phonetic": "/ˌtʃaɪˈniːz/",
+      "pos": "n.",
+      "meaningZh": "中国人",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Kt9JJbL8Y23porrR9yNKzY.mp3"
+    },
+    "do": {
+      "phonetic": "/duː/",
+      "pos": "v.",
+      "meaningZh": "做",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/xsUgDvahpBRrg6RMtHXUgG.mp3"
+    },
+    "also": {
+      "phonetic": "/ˈɔːlsəʊ/",
+      "pos": "adv.",
+      "meaningZh": "也",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ZcvfujRGwZmYHhuzzzpw5e.mp3"
+    },
+    "people": {
+      "phonetic": "/ˈpiːpl/",
+      "pos": "n.",
+      "meaningZh": "人们",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/LjGviq6dv7mgro2yGAXTKU.mp3"
+    },
+    "north": {
+      "phonetic": "/nɔːθ/",
+      "pos": "n.",
+      "meaningZh": "北",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/gnxDLXcTuZDkoifa9hUjK5.mp3"
+    },
+    "what's": {
+      "phonetic": "/wɒts/",
+      "pos": "abbr.",
+      "meaningZh": "是什么",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UX8SioMVQxTb27EPKbeLga.mp3"
+    },
+    "more": {
+      "phonetic": "/mɔː/",
+      "pos": "adv.",
+      "meaningZh": "更多",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/xYXzkdCG6tvshcg62dz5k9.mp3"
+    },
+    "no": {
+      "phonetic": "/nəʊ/",
+      "pos": "adj.",
+      "meaningZh": "没有",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/tE78kVD7qgtjc7jb4aK83G.mp3"
+    },
+    "one": {
+      "phonetic": "/wʌn/",
+      "pos": "pron.",
+      "meaningZh": "一个人",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/CgGxvop9S2fYtEn2QzDcNG.mp3"
+    },
+    "done": {
+      "phonetic": "/dʌn/",
+      "pos": "v.",
+      "meaningZh": "做（do的过去分词）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/h2vVqVyVNtVWCkERjsQWJK.mp3"
+    },
+    "using": {
+      "phonetic": "/ˈjuːzɪŋ/",
+      "pos": "v.",
+      "meaningZh": "使用",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/mxFy7BBkmGXUiFWDLoXj7G.mp3"
+    },
+    "when": {
+      "phonetic": "/wen/",
+      "pos": "conj.",
+      "meaningZh": "当...时候",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/2WuyQkPytmc6NusxjJ7NiP.mp3"
+    },
+    "by": {
+      "phonetic": "/baɪ/",
+      "pos": "prep.",
+      "meaningZh": "被",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/GNNJXSes5wdNFdgqoKdDLi.mp3"
+    },
+    "for": {
+      "phonetic": "/fɔː/",
+      "pos": "prep.",
+      "meaningZh": "为了",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/m76JGL5cjuVVPTWHwPVBJV.mp3"
+    },
+    "too": {
+      "phonetic": "/tuː/",
+      "pos": "adv.",
+      "meaningZh": "也",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/858F2tRwT6h62LCKNMyT2L.mp3"
+    },
+    "not": {
+      "phonetic": "/nɒt/",
+      "pos": "adv.",
+      "meaningZh": "不",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/rJPyTWxLdQQ7GELvikwAuG.mp3"
+    },
+    "but": {
+      "phonetic": "/bʌt/",
+      "pos": "conj.",
+      "meaningZh": "但是",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/q8UHNJWsGxgoKexjz2dTCQ.mp3"
+    },
+    "his": {
+      "phonetic": "/hɪz/",
+      "pos": "pron.",
+      "meaningZh": "他的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/g5QbgeRQ9NZd25bkEiwwxE.mp3"
+    },
+    "china's": {
+      "phonetic": "/ˈtʃaɪnəz/",
+      "pos": "n.",
+      "meaningZh": "中国的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/6E933sFaxb6sBEnwik8vHP.mp3"
+    },
+    "at": {
+      "phonetic": "/æt/",
+      "pos": "prep.",
+      "meaningZh": "在",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/GpjzTWU2cujywEBLwnfPBY.mp3"
+    },
+    "four": {
+      "phonetic": "/fɔː/",
+      "pos": "num.",
+      "meaningZh": "四",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/FHXmnrfg2xmjsMWUXQQ7in.mp3"
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "pos": "art.",
+      "meaningZh": "这，那",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/RjHhdqhHwJFXT77Wn3nWuW.mp3"
+    },
+    "of": {
+      "phonetic": "/ɒv/",
+      "pos": "prep.",
+      "meaningZh": "...的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/pe4YPx4cuAPxDbDRVCtkWc.mp3"
+    },
+    "they": {
+      "phonetic": "/ðeɪ/",
+      "pos": "pron.",
+      "meaningZh": "他们",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/L6fDjymrpMp3sUxEN4S8MQ.mp3"
+    },
+    "were": {
+      "phonetic": "/wɜː/",
+      "pos": "v.",
+      "meaningZh": "是（are的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/eABPhUsbH4C47hkxBZXbDg.mp3"
+    },
+    "a": {
+      "phonetic": "/ə/",
+      "pos": "art.",
+      "meaningZh": "一个",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3dZ6eHEdCwtbdH2FmPiZtR.mp3"
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "pos": "pron.",
+      "meaningZh": "它",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Gzj86fyFzrk2YJJge9XeL5.mp3"
+    },
+    "was": {
+      "phonetic": "/wɒz/",
+      "pos": "v.",
+      "meaningZh": "是（is的过去式）",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/5QPpz4ph5RCY8tdr6RT85F.mp3"
+    },
+    "he": {
+      "phonetic": "/hiː/",
+      "pos": "pron.",
+      "meaningZh": "他",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/CYBiiAqFdQcAmQQvCAvdP2.mp3"
+    },
+    "to": {
+      "phonetic": "/tuː/",
+      "pos": "prep.",
+      "meaningZh": "去，向",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XGRFwR9QcDXRdEoZXJERLb.mp3"
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "pos": "conj.",
+      "meaningZh": "和",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/TpYLcfRibrH2RrUztZt3AA.mp3"
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "pos": "prep.",
+      "meaningZh": "在...里面",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/7kcWKDckhfKzV5E9TUqSW3.mp3"
+    },
+    "i": {
+      "phonetic": "/aɪ/",
+      "pos": "pron.",
+      "meaningZh": "我",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/LbMs8Q7oyRXGqAfcdKHc5d.mp3"
+    }
+  }
+}
