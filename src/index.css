@@ -14,9 +14,12 @@
   body {
     @apply bg-background text-secondary antialiased;
     background-image:
-      radial-gradient(circle at top left, rgba(194, 101, 52, 0.14), transparent 26%),
+      radial-gradient(circle at top left, rgba(194, 101, 52, 0.14), transparent 24%),
       radial-gradient(circle at top right, rgba(22, 101, 52, 0.1), transparent 24%),
-      linear-gradient(180deg, #f6f2e9 0%, #f3efe6 42%, #f8f7f3 100%);
+      linear-gradient(180deg, rgba(255,255,255,0.24) 0, rgba(255,255,255,0.24) 1px, transparent 1px, transparent 36px),
+      linear-gradient(90deg, rgba(255,255,255,0.18) 0, rgba(255,255,255,0.18) 1px, transparent 1px, transparent 36px),
+      linear-gradient(180deg, #f6f2e9 0%, #f4efe7 42%, #f7f6f1 100%);
+    background-size: auto, auto, 36px 36px, 36px 36px, auto;
     min-height: 100vh;
   }
 
@@ -52,6 +55,10 @@
   }
   .ir-sentence-collected {
     @apply bg-accent/10;
+  }
+
+  .ir-soft-panel {
+    @apply border border-white/70 bg-white/84 shadow-[0_18px_50px_rgba(15,23,42,0.05)];
   }
 }
 

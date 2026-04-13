@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
+import { LibraryIllustration } from "../components/EditorialArt";
 import { LOADED_TEXTBOOK_BOOKS, TEXTBOOK_BOOKS } from "../../features/content/catalog";
 
 export function DashboardRoute() {
@@ -15,60 +16,67 @@ export function DashboardRoute() {
   }, [nav, className, studentName]);
 
   return (
-    <div className="space-y-8 pb-10">
-      <section className="relative overflow-hidden rounded-[2rem] border border-white/70 bg-white/90 p-6 shadow-[0_24px_80px_rgba(15,23,42,0.08)] sm:p-8">
-        <div className="absolute inset-x-0 top-0 h-28 bg-[radial-gradient(circle_at_top_left,_rgba(194,101,52,0.22),_transparent_48%),radial-gradient(circle_at_top_right,_rgba(22,101,52,0.16),_transparent_46%)]" />
-        <div className="relative grid gap-6 lg:grid-cols-[1.4fr_0.9fr]">
-          <div className="space-y-4">
-            <div className="inline-flex rounded-full border border-primary/15 bg-primary/5 px-3 py-1 text-xs font-semibold uppercase tracking-[0.22em] text-primary">
-              教材语篇地图
-            </div>
-            <div>
-              <h1 className="font-display text-4xl text-secondary sm:text-5xl">先看书架，再进单元，不再在文章堆里迷路。</h1>
-              <p className="mt-3 max-w-2xl text-sm leading-7 text-slate-600 sm:text-base">
-                当前系统已经按初中英语外研版三年六册建立书架结构。其中七下、八下已导入完整互动课文，
-                每个单元固定两篇核心语篇：先读
-                <span className="font-semibold text-secondary">理解篇</span>，再进
-                <span className="font-semibold text-secondary">写作篇</span>。
-              </p>
-            </div>
-            <div className="flex flex-wrap gap-3 text-sm text-slate-600">
-              <span className="rounded-full bg-slate-100 px-3 py-1.5">6 册书架</span>
-              <span className="rounded-full bg-slate-100 px-3 py-1.5">2 册已导入</span>
-              <span className="rounded-full bg-slate-100 px-3 py-1.5">22 篇真人课文</span>
-            </div>
+    <div className="space-y-10 pb-10">
+      <section className="grid gap-6 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
+        <div className="space-y-5">
+          <div className="inline-flex rounded-full border border-primary/15 bg-primary/5 px-3 py-1 text-xs font-semibold uppercase tracking-[0.22em] text-primary">
+            六册阅读系统
           </div>
+          <div>
+            <h1 className="max-w-3xl font-display text-4xl leading-tight text-secondary sm:text-5xl">初中英语六册阅读系统</h1>
+            <p className="mt-4 max-w-2xl text-sm leading-8 text-slate-600 sm:text-base">
+              七下和八下已经接入真人课文音频、词句解析和读后练习，其余册次保留扩展位置，后续可继续接入。
+            </p>
+          </div>
+          <div className="flex flex-wrap gap-3 text-sm text-slate-600">
+            <span className="rounded-full bg-white/80 px-3 py-1.5">6 册结构</span>
+            <span className="rounded-full bg-white/80 px-3 py-1.5">2 册已导入</span>
+            <span className="rounded-full bg-white/80 px-3 py-1.5">22 篇真人课文</span>
+          </div>
+          <div className="flex flex-wrap gap-3">
+            <Link to="/me/report" className="rounded-full bg-secondary px-5 py-3 text-sm font-semibold text-white transition hover:bg-secondary/92">
+              查看学习报告
+            </Link>
+            <a
+              href="https://wordflow.newsunenglish.com/"
+              target="_blank"
+              rel="noreferrer"
+              className="rounded-full border border-slate-200 bg-white/84 px-5 py-3 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white"
+            >
+              智能词汇学习
+            </a>
+          </div>
+        </div>
 
-          <div className="rounded-[1.6rem] border border-slate-200/80 bg-[linear-gradient(135deg,rgba(255,255,255,0.88),rgba(248,250,252,0.95))] p-5 shadow-sm">
-            <div className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">当前学习档案</div>
-            <div className="mt-4 space-y-4">
-              <div>
-                <div className="text-sm text-slate-500">班级</div>
-                <div className="mt-1 text-xl font-semibold text-secondary">{className}</div>
-              </div>
-              <div>
-                <div className="text-sm text-slate-500">学生</div>
-                <div className="mt-1 text-xl font-semibold text-secondary">{studentName}</div>
-              </div>
-              <div className="flex flex-wrap gap-3 pt-3">
-                <Link to="/me/report" className="rounded-full border border-slate-200 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-slate-300 hover:bg-slate-50">
-                  查看学习报告
-                </Link>
-                <button
-                  type="button"
-                  onClick={() => {
-                    window.localStorage.removeItem("className");
-                    window.localStorage.removeItem("studentName");
-                    window.localStorage.removeItem("classId");
-                    window.localStorage.removeItem("userId");
-                    nav("/login");
-                  }}
-                  className="rounded-full bg-secondary px-4 py-2 text-sm font-medium text-white transition hover:bg-secondary/90"
-                >
-                  切换账号
-                </button>
+        <div className="space-y-4">
+          <LibraryIllustration />
+          <div className="grid gap-4 sm:grid-cols-[1fr_auto]">
+            <div className="rounded-[1.6rem] border border-white/70 bg-white/84 p-5 shadow-[0_18px_50px_rgba(15,23,42,0.05)]">
+              <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">当前学习档案</div>
+              <div className="mt-4 grid gap-4 sm:grid-cols-2">
+                <div>
+                  <div className="text-sm text-slate-500">班级</div>
+                  <div className="mt-1 text-xl font-semibold text-secondary">{className}</div>
+                </div>
+                <div>
+                  <div className="text-sm text-slate-500">学生</div>
+                  <div className="mt-1 text-xl font-semibold text-secondary">{studentName}</div>
+                </div>
               </div>
             </div>
+            <button
+              type="button"
+              onClick={() => {
+                window.localStorage.removeItem("className");
+                window.localStorage.removeItem("studentName");
+                window.localStorage.removeItem("classId");
+                window.localStorage.removeItem("userId");
+                nav("/login");
+              }}
+              className="rounded-[1.6rem] bg-white/84 px-5 py-4 text-sm font-semibold text-slate-700 shadow-[0_18px_50px_rgba(15,23,42,0.05)] transition hover:bg-white"
+            >
+              切换账号
+            </button>
           </div>
         </div>
       </section>
@@ -77,10 +85,10 @@ export function DashboardRoute() {
         <div className="flex items-end justify-between gap-4">
           <div>
             <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Bookshelf</div>
-            <h2 className="mt-1 font-display text-3xl text-secondary">六册总览</h2>
+            <h2 className="mt-1 font-display text-3xl text-secondary">全部册次</h2>
           </div>
           <p className="max-w-xl text-right text-sm leading-6 text-slate-500">
-            已导入册次可以直接进入单元学习，未导入册次保留位置，后续接入时不需要再改系统骨架。
+            已导入册次可以直接进入单元学习，未导入册次先保留位置。
           </p>
         </div>
 
@@ -133,10 +141,10 @@ export function DashboardRoute() {
         <div className="flex items-end justify-between gap-4">
           <div>
             <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Loaded Books</div>
-            <h2 className="mt-1 font-display text-3xl text-secondary">已导入册次</h2>
+            <h2 className="mt-1 font-display text-3xl text-secondary">开始学习</h2>
           </div>
           <p className="max-w-xl text-right text-sm leading-6 text-slate-500">
-            当前先开放七下与八下。点击语篇先看任务路径，再进入沉浸式阅读。
+            当前先开放七下与八下，直接按单元进入即可。
           </p>
         </div>
 

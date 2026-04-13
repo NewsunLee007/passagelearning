@@ -1,5 +1,6 @@
 import { useMemo } from "react";
 import { Link, useParams } from "react-router-dom";
+import { ReadingIllustration } from "../components/EditorialArt";
 import { getSession } from "../../features/auth/session";
 import { getAdjacentArticles, getTextbookArticle } from "../../features/content/catalog";
 import { useArticleDemo } from "../../features/content/useArticleDemo";
@@ -65,8 +66,8 @@ export function ArticleHomeRoute() {
         <div className="grid gap-5 px-6 py-6 sm:px-8 lg:grid-cols-[1.2fr_0.8fr]">
           <div className="space-y-5">
             <div>
-              <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">建议路径</div>
-              <h2 className="mt-2 font-display text-2xl text-secondary">三步就够：阅读，词句，练习。</h2>
+                <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">学习路径</div>
+                <h2 className="mt-2 font-display text-2xl text-secondary">阅读、词句、练习</h2>
             </div>
             <div className="grid gap-4 md:grid-cols-3">
               {taskCards.map((task, index) => (
@@ -87,6 +88,7 @@ export function ArticleHomeRoute() {
           </div>
 
           <aside className="space-y-4 rounded-[1.6rem] border border-slate-200/80 bg-[linear-gradient(180deg,rgba(250,249,246,0.98),rgba(255,255,255,0.94))] p-5">
+            <ReadingIllustration />
             <div>
               <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">阅读面板</div>
               <div className="mt-3 grid gap-3 sm:grid-cols-3 lg:grid-cols-1">
@@ -96,9 +98,9 @@ export function ArticleHomeRoute() {
               </div>
             </div>
             <div className="rounded-[1.3rem] bg-slate-50/80 p-4">
-              <div className="text-sm font-semibold text-secondary">学习提醒</div>
+              <div className="text-sm font-semibold text-secondary">进入方式</div>
               <p className="mt-2 text-sm leading-7 text-slate-600">
-                这一页只保留路线说明。真正的操作集中在上方二级菜单，不再分散到多个返回入口里。
+                这一页只负责定路径。真正的操作集中在左侧导航和上方菜单里。
               </p>
             </div>
             <Link
