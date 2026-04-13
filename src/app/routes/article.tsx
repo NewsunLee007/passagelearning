@@ -1,6 +1,5 @@
 import { useMemo } from "react";
 import { Link, useParams } from "react-router-dom";
-import { ReadingIllustration } from "../components/EditorialArt";
 import { getSession } from "../../features/auth/session";
 import { getAdjacentArticles, getTextbookArticle } from "../../features/content/catalog";
 import { useArticleDemo } from "../../features/content/useArticleDemo";
@@ -88,7 +87,6 @@ export function ArticleHomeRoute() {
           </div>
 
           <aside className="space-y-4 rounded-[1.6rem] border border-slate-200/80 bg-[linear-gradient(180deg,rgba(250,249,246,0.98),rgba(255,255,255,0.94))] p-5">
-            <ReadingIllustration />
             <div>
               <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">阅读面板</div>
               <div className="mt-3 grid gap-3 sm:grid-cols-3 lg:grid-cols-1">

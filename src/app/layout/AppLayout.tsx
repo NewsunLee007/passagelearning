@@ -69,7 +69,7 @@ export function AppLayout() {
               href="https://wordflow.newsunenglish.com/"
               target="_blank"
               rel="noreferrer"
-              className="block rounded-2xl border border-primary/10 bg-primary/5 px-4 py-3 text-sm font-medium text-primary transition hover:border-primary/20 hover:bg-primary/8"
+              className="block px-4 py-3 text-sm font-medium text-primary transition hover:text-primary/80"
             >
               词汇学习
             </a>

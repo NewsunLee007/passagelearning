@@ -13,8 +13,6 @@ export function LibraryIllustration() {
         <div className="h-20 w-10 rounded-[1.2rem] bg-[#8e9b8c]" />
       </div>
 
-      <div className="absolute left-10 top-8 text-[10px] font-semibold uppercase tracking-[0.28em] text-slate-500">Reading Shelf</div>
-
       <div className="absolute bottom-8 left-10 right-10 flex items-end justify-between gap-6">
         <div className="max-w-[220px]">
           <div className="font-display text-4xl leading-none text-secondary">六册</div>
@@ -45,14 +43,7 @@ export function ReadingIllustration() {
         <div className="mt-2 h-2 w-12 rounded-full bg-slate-200/90" />
       </div>
 
-      <div className="absolute bottom-6 left-8 right-8 flex items-end justify-between gap-4">
-        <div>
-          <div className="text-[11px] font-semibold uppercase tracking-[0.22em] text-slate-500">Reading Workspace</div>
-          <div className="mt-2 font-display text-2xl text-secondary">紧凑阅读区</div>
-          <div className="mt-2 text-sm text-slate-600">保留原文、朗读和词句入口，去掉无效大块留白。</div>
-        </div>
-        <div className="hidden rounded-full bg-white/75 px-4 py-2 text-xs font-semibold text-slate-600 sm:block">移动端优先</div>
-      </div>
+      <div className="absolute bottom-6 left-8 right-8 h-10 rounded-full bg-white/45" />
     </div>
   );
 }
