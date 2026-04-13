@@ -14,12 +14,13 @@
   body {
     @apply bg-background text-secondary antialiased;
     background-image:
-      radial-gradient(circle at top left, rgba(217, 130, 76, 0.12), transparent 22%),
-      radial-gradient(circle at top right, rgba(47, 110, 99, 0.1), transparent 24%),
+      radial-gradient(circle at top left, rgba(217, 130, 76, 0.18), transparent 26%),
+      radial-gradient(circle at top right, rgba(47, 110, 99, 0.16), transparent 28%),
+      radial-gradient(circle at 40% 20%, rgba(59, 130, 246, 0.12), transparent 34%),
       linear-gradient(180deg, rgba(255,255,255,0.26) 0, rgba(255,255,255,0.26) 1px, transparent 1px, transparent 40px),
       linear-gradient(90deg, rgba(255,255,255,0.22) 0, rgba(255,255,255,0.22) 1px, transparent 1px, transparent 40px),
-      linear-gradient(180deg, #f4f7f7 0%, #eef4f3 45%, #f9fbfb 100%);
-    background-size: auto, auto, 40px 40px, 40px 40px, auto;
+      linear-gradient(180deg, #f4f7f7 0%, #eef7f4 45%, #ffffff 100%);
+    background-size: auto, auto, auto, 40px 40px, 40px 40px, auto;
     min-height: 100vh;
   }
 

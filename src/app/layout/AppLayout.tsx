@@ -41,10 +41,6 @@ export function AppLayout() {
   const showTopBar = useMemo(() => !location.pathname.startsWith("/t/"), [location.pathname]);
   const isRead = location.pathname.includes("/read");
   const isArticleRoute = location.pathname.startsWith("/a/");
-  const navItems = [
-    { to: "/dashboard", label: "学习大厅" },
-    { to: "/me/report", label: "查看学习报告" }
-  ];
 
   function switchAccount() {
     window.localStorage.removeItem("className");
@@ -117,59 +113,67 @@ export function AppLayout() {
               <div className="font-display text-xl text-secondary">互动阅读</div>
             </button>
 
-            <div className="ml-auto flex items-center gap-2">
-              {session.studentName ? (
-                <div className="hidden text-sm text-slate-500 md:block">{[session.className, session.studentName].filter(Boolean).join(" · ")}</div>
-              ) : null}
-              <button
-                type="button"
-                className="rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-medium text-slate-700 transition hover:border-slate-300 hover:bg-white"
-                onClick={() => setMode((current) => (current === "classroom" ? "normal" : "classroom"))}
-                aria-pressed={mode === "classroom"}
+            <div className="ml-auto flex max-w-[70vw] items-center justify-end gap-2 overflow-x-auto">
+              <Link
+                to={session.studentName ? "/dashboard" : "/login"}
+                className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white"
               >
-                {mode === "classroom" ? "标准" : "大屏"}
-              </button>
-            </div>
-          </div>
-
-          <div className="border-t border-white/60 bg-white/76">
-            <div className="mx-auto flex max-w-7xl items-center gap-2 overflow-x-auto px-4 py-2.5 sm:px-6 lg:px-8">
-              {navItems.map((item) => {
-                const active = location.pathname.startsWith(item.to);
-                return (
-                  <Link
-                    key={item.to}
-                    to={item.to}
-                    className={[
-                      "whitespace-nowrap rounded-full px-4 py-2 text-sm font-semibold transition",
-                      active ? "bg-primary text-white shadow-[0_12px_28px_rgba(47,110,99,0.22)]" : "bg-white/86 text-slate-700 hover:bg-white"
-                    ].join(" ")}
-                  >
-                    {item.label}
-                  </Link>
-                );
-              })}
-              <button
-                type="button"
-                onClick={switchAccount}
-                className="whitespace-nowrap rounded-full bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:bg-white"
-              >
-                切换账号
-              </button>
+                返回主页
+              </Link>
               <a
                 href="https://wordflow.newsunenglish.com/"
                 target="_blank"
                 rel="noreferrer"
-                className="whitespace-nowrap rounded-full bg-primary/10 px-4 py-2 text-sm font-semibold text-primary transition hover:bg-primary/15"
+                className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-semibold text-primary transition hover:border-slate-300 hover:bg-white"
               >
                 词汇学习
               </a>
               <Link
                 to="/t/login"
-                className="whitespace-nowrap rounded-full bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:bg-white"
+                className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white"
               >
-                教师端
+                教师端口
               </Link>
+              <button
+                type="button"
+                className={[
+                  "whitespace-nowrap rounded-full border px-4 py-2 text-sm font-semibold transition",
+                  mode === "classroom"
+                    ? "border-primary/10 bg-primary/10 text-primary shadow-[0_12px_28px_rgba(47,110,99,0.12)]"
+                    : "border-slate-200 bg-white/86 text-slate-700 hover:border-slate-300 hover:bg-white"
+                ].join(" ")}
+                onClick={() => setMode((current) => (current === "classroom" ? "normal" : "classroom"))}
+                aria-pressed={mode === "classroom"}
+              >
+                大屏展示
+              </button>
+              {session.studentName ? (
+                <div className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700">
+                  {[session.className, session.studentName].filter(Boolean).join(" · ")}
+                </div>
+              ) : null}
+              {session.studentName ? (
+                <Link
+                  to="/me/report"
+                  className={[
+                    "whitespace-nowrap rounded-full border px-4 py-2 text-sm font-semibold transition",
+                    location.pathname.startsWith("/me/report")
+                      ? "border-primary/10 bg-primary text-white shadow-[0_12px_28px_rgba(47,110,99,0.22)]"
+                      : "border-slate-200 bg-white/86 text-slate-700 hover:border-slate-300 hover:bg-white"
+                  ].join(" ")}
+                >
+                  学习报告
+                </Link>
+              ) : null}
+              {session.studentName ? (
+                <button
+                  type="button"
+                  onClick={switchAccount}
+                  className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white"
+                >
+                  切换账号
+                </button>
+              ) : null}
             </div>
           </div>
         </header>
@@ -192,6 +196,25 @@ export function AppLayout() {
       >
         {<Outlet />}
       </main>
+      {showTopBar ? (
+        <footer className="border-t border-white/70 bg-white/55 backdrop-blur-xl">
+          <div className="mx-auto flex max-w-7xl flex-col gap-2 px-4 py-6 text-sm text-slate-600 sm:flex-row sm:items-center sm:justify-between sm:px-6 lg:px-10">
+            <div className="flex flex-wrap items-center gap-2">
+              <span className="font-semibold text-secondary">初中英语互动阅读</span>
+              <span className="text-slate-400">·</span>
+              <span>© {new Date().getFullYear()} Newsun English</span>
+            </div>
+            <div className="flex flex-wrap items-center gap-3 text-slate-500">
+              <a className="hover:text-secondary" href="https://wordflow.newsunenglish.com/" target="_blank" rel="noreferrer">
+                词汇学习
+              </a>
+              <a className="hover:text-secondary" href="https://github.com/NewsunLee007/passagelearning" target="_blank" rel="noreferrer">
+                GitHub
+              </a>
+            </div>
+          </div>
+        </footer>
+      ) : null}
       </div>
     </div>
   );
