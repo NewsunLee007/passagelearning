@@ -63,13 +63,13 @@ export function ArticleHomeRoute() {
         </div>
       </section>
 
-      <section className="grid gap-6 lg:grid-cols-[1.2fr_0.8fr]">
-        <div className="rounded-[1.8rem] border border-white/70 bg-white/85 p-6 shadow-[0_16px_56px_rgba(15,23,42,0.05)]">
+      <section className="space-y-6">
+        <div className="rounded-[1.8rem] border border-white/70 bg-white/85 p-6 shadow-[0_16px_56px_rgba(15,23,42,0.05)] sm:p-8 sm:px-10">
           <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">原文预览</div>
-          <div className="mt-4 space-y-4 text-[15px] leading-8 text-slate-700">
+          <div className="mt-6 space-y-5 text-[17px] sm:text-[19px] leading-[1.8] sm:leading-[2] text-slate-800 font-serif tracking-wide">
             {data.article.paragraphs.map((paragraph, index) => (
-              <p key={paragraph.id}>
-                <span className="mr-3 inline-flex h-7 w-7 items-center justify-center rounded-full bg-primary/8 text-xs font-semibold text-primary">
+              <p key={paragraph.id} className="text-justify">
+                <span className="mr-3 inline-flex h-6 w-6 sm:h-7 sm:w-7 -translate-y-[2px] items-center justify-center rounded-full bg-primary/10 text-[11px] sm:text-xs font-semibold text-primary font-sans tracking-normal">
                   {index + 1}
                 </span>
                 {paragraph.sentenceIds
@@ -81,33 +81,11 @@ export function ArticleHomeRoute() {
           </div>
         </div>
 
-        <aside className="space-y-4">
-          <div className="rounded-[1.8rem] border border-white/70 bg-white/85 p-6 shadow-[0_16px_56px_rgba(15,23,42,0.05)]">
-            <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">教材进度</div>
-            <div className="mt-4 space-y-3">
-              {adjacent.previous ? (
-                <Link to={`/a/${adjacent.previous.id}`} className="block rounded-[1.2rem] border border-slate-200 px-4 py-3 transition hover:border-slate-300 hover:bg-slate-50">
-                  <div className="text-xs text-slate-400">上一篇</div>
-                  <div className="mt-1 font-medium text-secondary">{adjacent.previous.title}</div>
-                </Link>
-              ) : (
-                <div className="rounded-[1.2rem] border border-dashed border-slate-200 px-4 py-3 text-sm text-slate-400">这是第一篇核心语篇。</div>
-              )}
-              {adjacent.next ? (
-                <Link to={`/a/${adjacent.next.id}`} className="block rounded-[1.2rem] border border-slate-200 px-4 py-3 transition hover:border-slate-300 hover:bg-slate-50">
-                  <div className="text-xs text-slate-400">下一篇</div>
-                  <div className="mt-1 font-medium text-secondary">{adjacent.next.title}</div>
-                </Link>
-              ) : (
-                <div className="rounded-[1.2rem] border border-dashed border-slate-200 px-4 py-3 text-sm text-slate-400">这已经是本册最后一篇核心语篇。</div>
-              )}
-            </div>
-          </div>
-
-          <Link to="/dashboard" className="inline-flex items-center gap-2 text-sm font-medium text-slate-600 hover:text-secondary">
+        <div>
+          <Link to="/dashboard" className="inline-flex items-center gap-2 text-sm font-medium text-slate-600 hover:text-secondary bg-white/60 px-5 py-3 rounded-2xl border border-white/80 shadow-sm transition hover:bg-white/80">
             ← 返回学习大厅
           </Link>
-        </aside>
+        </div>
       </section>
     </div>
   );
