@@ -108,9 +108,12 @@ export function AppLayout() {
       {showTopBar && (
         <header className="sticky top-0 z-40 border-b border-white/60 bg-[rgba(244,247,247,0.92)] backdrop-blur-xl">
           <div className="mx-auto flex max-w-7xl items-center gap-4 px-4 py-3 sm:px-6 lg:px-8">
-            <button className="text-left leading-tight" onClick={() => nav(session.studentName ? "/dashboard" : "/login")} type="button">
-              <div className="text-[11px] font-semibold uppercase tracking-[0.24em] text-slate-500">初中英语</div>
-              <div className="font-display text-xl text-secondary">互动阅读</div>
+            <button className="flex items-center gap-3 text-left leading-tight" onClick={() => nav(session.studentName ? "/dashboard" : "/login")} type="button">
+              <img src="https://p.ipic.vip/lmzked.jpg" alt="互动阅读 Logo" className="h-9 w-9 rounded-xl object-cover shadow-sm" />
+              <div>
+                <div className="text-[11px] font-semibold uppercase tracking-[0.24em] text-slate-500">初中英语</div>
+                <div className="font-display text-xl text-secondary">互动阅读</div>
+              </div>
             </button>
 
             <div className="ml-auto flex max-w-[70vw] items-center justify-end gap-2 overflow-x-auto">
