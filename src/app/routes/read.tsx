@@ -4,9 +4,8 @@ import { Link, useNavigate, useParams } from "react-router-dom";
 import { getSession } from "../../features/auth/session";
 import { getAdjacentArticles, getTextbookArticle } from "../../features/content/catalog";
 import { useArticleDemo } from "../../features/content/useArticleDemo";
-import { saveAttempt } from "../../features/storage/attempts";
 import { loadQuotes, toggleQuote } from "../../features/storage/quotes";
-import { clearWordFavs, loadWordFavs, toggleWordFav } from "../../features/storage/wordFavorites";
+import { loadWordFavs, toggleWordFav } from "../../features/storage/wordFavorites";
 
 type LexiconItem = {
   phonetic?: string;
@@ -153,21 +152,6 @@ export function ReadingMainRoute() {
     return new Set(list.map((w) => w.term));
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [refreshFavs, data?.article.id, session.userId]);
-
-  const favPreview = useMemo(() => {
-    const w = loadWordFavs(session.userId, data?.article.id ?? "").map((x) => ({
-      type: "word" as const,
-      createdAt: x.createdAt,
-      text: x.term
-    }));
-    const s = loadQuotes(session.userId, data?.article.id ?? "").map((x) => ({
-      type: "sentence" as const,
-      createdAt: x.createdAt,
-      text: byId.get(x.sentenceId)?.text ?? x.sentenceId
-    }));
-    return [...w, ...s].sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime()).slice(0, 3);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [refreshFavs, data?.article.id, session.userId, byId]);
 
   useEffect(() => {
     if (!session.className.trim() || !session.studentName.trim()) nav("/login", { replace: true });
@@ -346,17 +330,6 @@ export function ReadingMainRoute() {
   async function onToggleWordFav(word: string) {
     if (!data) return;
     await toggleWordFav({ userId: session.userId, classId: session.classId, articleId: data.article.id, term: word });
-    setRefreshFavs((x) => x + 1);
-  }
-
-  async function clearFavs() {
-    if (!data) return;
-    if (!confirm("确定清空收藏夹吗？")) return;
-    clearWordFavs(session.userId, data.article.id);
-    const list = loadQuotes(session.userId, data.article.id).map((q) => q.sentenceId);
-    for (const sid of list) {
-      await toggleQuote({ userId: session.userId, classId: session.classId, articleId: data.article.id, sentenceId: sid });
-    }
     setRefreshFavs((x) => x + 1);
   }
 
