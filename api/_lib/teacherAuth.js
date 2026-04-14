@@ -23,11 +23,20 @@ function signPayload(encodedPayload, secret) {
 
 export function createTeacherToken() {
   const secret = readSecret();
-  const payload = {
-    role: "teacher",
+  const payload = { role: "teacher", teacherId: "teacher", exp: Date.now() + 1000 * 60 * 60 * 12 };
+  const encodedPayload = toBase64Url(JSON.stringify(payload));
+  const signature = signPayload(encodedPayload, secret);
+  return `${encodedPayload}.${signature}`;
+}
+
+export function createTeacherTokenWithPayload(payload) {
+  const secret = readSecret();
+  const fullPayload = {
+    role: payload?.role || "teacher",
+    teacherId: payload?.teacherId || "teacher",
     exp: Date.now() + 1000 * 60 * 60 * 12
   };
-  const encodedPayload = toBase64Url(JSON.stringify(payload));
+  const encodedPayload = toBase64Url(JSON.stringify(fullPayload));
   const signature = signPayload(encodedPayload, secret);
   return `${encodedPayload}.${signature}`;
 }
@@ -45,7 +54,7 @@ export function verifyTeacherToken(token) {
   if (!timingSafeEqual(left, right)) return false;
 
   const payload = JSON.parse(fromBase64Url(encodedPayload));
-  return payload?.role === "teacher" && Number(payload?.exp || 0) > Date.now();
+  return ["teacher", "admin"].includes(payload?.role) && Number(payload?.exp || 0) > Date.now();
 }
 
 export function readTeacherToken(req) {
@@ -67,4 +76,3 @@ export function requireTeacher(req, res) {
     return false;
   }
 }
-

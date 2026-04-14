@@ -1,8 +1,11 @@
 import fs from "fs";
 import path from "path";
 
-const apiKey = "sk-4ba39acf4f014ea78677a6d55571d023";
-const baseUrl = "https://api.deepseek.com";
+const apiKey = process.env.DEEPSEEK_API_KEY || "";
+const baseUrl = process.env.DEEPSEEK_BASE_URL || "https://api.deepseek.com";
+if (!apiKey) {
+  throw new Error("Missing DEEPSEEK_API_KEY.");
+}
 const contentDir = path.join(process.cwd(), "public/content");
 const files = fs.readdirSync(contentDir).filter(f => f.endsWith("-article.json"));
 
@@ -15,7 +18,6 @@ async function processFiles() {
 
     const wordsToFetch = {};
     for (const item of data.vocabItems) {
-      // Skip if it already looks like it has real generated data (not the mock "暂无" text)
       if (data.lexicon && data.lexicon[item.term] && !data.lexicon[item.term].usageZh?.includes("暂无")) {
         continue;
       }
