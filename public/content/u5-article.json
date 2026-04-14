@@ -169,6 +169,31 @@
         "再次增长财富",
         "再次提高技能"
       ]
+    },
+    {
+      "term": "cancer",
+      "meaningZh": "癌（症）",
+      "exampleSentenceId": "u5-s2"
+    },
+    {
+      "term": "wig",
+      "meaningZh": "假发",
+      "exampleSentenceId": "u5-s3"
+    },
+    {
+      "term": "smart",
+      "meaningZh": "聪颖的，机灵的；明智的",
+      "exampleSentenceId": "u5-s5"
+    },
+    {
+      "term": "other",
+      "meaningZh": "另外的，其他的",
+      "exampleSentenceId": "u5-s6"
+    },
+    {
+      "term": "himself",
+      "meaningZh": "他自己",
+      "exampleSentenceId": "u5-s7"
     }
   ],
   "sentenceTasks": [

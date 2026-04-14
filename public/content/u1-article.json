@@ -76,17 +76,6 @@
   ],
   "vocabItems": [
     {
-      "id": "v1",
-      "term": "textbook",
-      "meaningZh": "教科书",
-      "exampleSentenceId": "s1",
-      "distractorsZh": [
-        "笔记本",
-        "字典",
-        "杂志"
-      ]
-    },
-    {
       "id": "v2",
       "term": "reading skills",
       "meaningZh": "阅读技能",
@@ -95,39 +84,6 @@
         "写作技巧",
         "听力能力",
         "口语表达"
-      ]
-    },
-    {
-      "id": "v3",
-      "term": "themes",
-      "meaningZh": "主题",
-      "exampleSentenceId": "s3",
-      "distractorsZh": [
-        "章节",
-        "练习",
-        "问题"
-      ]
-    },
-    {
-      "id": "v4",
-      "term": "vocabulary",
-      "meaningZh": "词汇",
-      "exampleSentenceId": "s4",
-      "distractorsZh": [
-        "语法",
-        "发音",
-        "拼写"
-      ]
-    },
-    {
-      "id": "v5",
-      "term": "interactive",
-      "meaningZh": "互动的",
-      "exampleSentenceId": "s5",
-      "distractorsZh": [
-        "被动的",
-        "传统的",
-        "复杂的"
       ]
     },
     {
@@ -140,6 +96,21 @@
         "创造能力",
         "分析能力"
       ]
+    },
+    {
+      "term": "interest",
+      "meaningZh": "兴趣",
+      "exampleSentenceId": "s1"
+    },
+    {
+      "term": "skill",
+      "meaningZh": "技能，技巧，技艺",
+      "exampleSentenceId": "s2"
+    },
+    {
+      "term": "text",
+      "meaningZh": "文字材料",
+      "exampleSentenceId": "s2"
     }
   ],
   "sentenceTasks": [

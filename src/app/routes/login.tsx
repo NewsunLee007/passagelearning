@@ -77,10 +77,11 @@ export function LoginRoute() {
           <label className="block">
             <div className="text-sm font-medium text-slate-700">班级名称</div>
             <input
+              type="number"
               className="mt-1.5 w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-2.5 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
               value={className}
               onChange={(e) => setClassName(e.target.value)}
-              placeholder="例如：七（14）班"
+              placeholder="数字格式，例如：701"
               autoComplete="organization"
             />
           </label>
@@ -96,13 +97,34 @@ export function LoginRoute() {
             />
           </label>
 
-          <button
-            type="submit"
-            className="mt-2 w-full rounded-full bg-secondary px-5 py-3 text-sm font-semibold text-white transition hover:bg-secondary/92 disabled:cursor-not-allowed disabled:opacity-55"
-            disabled={!canSubmit || submitting}
-          >
-            {submitting ? "正在进入学习大厅…" : "进入学习大厅"}
-          </button>
+          <div className="pt-2 space-y-3">
+            <button
+              type="submit"
+              className="w-full rounded-full bg-secondary px-5 py-3 text-sm font-semibold text-white shadow-md transition hover:bg-secondary/92 disabled:cursor-not-allowed disabled:opacity-55 disabled:shadow-none"
+              disabled={!canSubmit || submitting}
+            >
+              {submitting ? "正在进入学习大厅…" : "进入学习大厅"}
+            </button>
+            
+            <button
+              type="button"
+              onClick={async () => {
+                setClassName("000");
+                setStudentName("体验用户");
+                setSubmitting(true);
+                try {
+                  await loginWithClassAndName({ className: "000", studentName: "体验用户" });
+                  nav("/dashboard");
+                } catch (e: unknown) {
+                  setErrMsg(String((e as { message?: string })?.message ?? e));
+                  setSubmitting(false);
+                }
+              }}
+              className="w-full rounded-full border-2 border-slate-200 bg-white px-5 py-2.5 text-sm font-semibold text-slate-600 transition hover:bg-slate-50 hover:text-slate-900"
+            >
+              免注册体验
+            </button>
+          </div>
 
           {errMsg && (
             <div className="rounded-[1rem] border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700">

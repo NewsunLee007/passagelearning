@@ -279,18 +279,141 @@
     }
   ],
   "vocabItems": [
-    { "term": "monster", "meaningZh": "怪兽；怪物", "exampleSentenceId": "u11-article-s1" },
-    { "term": "dangerous", "meaningZh": "危险的", "exampleSentenceId": "u11-article-s2" },
-    { "term": "social media", "meaningZh": "社交媒体", "exampleSentenceId": "u11-article-s3" },
-    { "term": "take over", "meaningZh": "接管；控制", "exampleSentenceId": "u11-article-s8" },
-    { "term": "eat away", "meaningZh": "逐渐吞噬；消耗", "exampleSentenceId": "u11-article-s9" },
-    { "term": "minute by minute", "meaningZh": "一分钟一分钟地；逐渐地", "exampleSentenceId": "u11-article-s9" },
-    { "term": "get lost", "meaningZh": "迷失；沉迷", "exampleSentenceId": "u11-article-s11" },
-    { "term": "couch potato", "meaningZh": "电视迷；整天窝在沙发上看电视的人", "exampleSentenceId": "u11-article-s12" },
-    { "term": "miss out on", "meaningZh": "错过（机会/体验）", "exampleSentenceId": "u11-article-s13" },
-    { "term": "be deaf to", "meaningZh": "对……充耳不闻", "exampleSentenceId": "u11-article-s14" },
-    { "term": "balanced", "meaningZh": "平衡的；均衡的", "exampleSentenceId": "u11-article-s17" },
-    { "term": "choice", "meaningZh": "选择；抉择", "exampleSentenceId": "u11-article-s23" }
+    {
+      "term": "social media",
+      "meaningZh": "社交媒体",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "term": "take over",
+      "meaningZh": "接管；控制",
+      "exampleSentenceId": "u11-article-s8"
+    },
+    {
+      "term": "eat away",
+      "meaningZh": "逐渐吞噬；消耗",
+      "exampleSentenceId": "u11-article-s9"
+    },
+    {
+      "term": "minute by minute",
+      "meaningZh": "一分钟一分钟地；逐渐地",
+      "exampleSentenceId": "u11-article-s9"
+    },
+    {
+      "term": "get lost",
+      "meaningZh": "迷失；沉迷",
+      "exampleSentenceId": "u11-article-s11"
+    },
+    {
+      "term": "couch potato",
+      "meaningZh": "电视迷；整天窝在沙发上看电视的人",
+      "exampleSentenceId": "u11-article-s12"
+    },
+    {
+      "term": "miss out on",
+      "meaningZh": "错过（机会/体验）",
+      "exampleSentenceId": "u11-article-s13"
+    },
+    {
+      "term": "be deaf to",
+      "meaningZh": "对……充耳不闻",
+      "exampleSentenceId": "u11-article-s14"
+    },
+    {
+      "term": "monster",
+      "meaningZh": "妖怪；怪兽；怪物",
+      "exampleSentenceId": "u11-article-s1"
+    },
+    {
+      "term": "dangerous",
+      "meaningZh": "危险的，有危害的",
+      "exampleSentenceId": "u11-article-s2"
+    },
+    {
+      "term": "form",
+      "meaningZh": "形式，方式",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "term": "social",
+      "meaningZh": "社交的",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "term": "media",
+      "meaningZh": "媒体；传媒",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "term": "screen",
+      "meaningZh": "屏幕",
+      "exampleSentenceId": "u11-article-s10"
+    },
+    {
+      "term": "become",
+      "meaningZh": "变成，变得",
+      "exampleSentenceId": "u11-article-s12"
+    },
+    {
+      "term": "couch",
+      "meaningZh": "长沙发",
+      "exampleSentenceId": "u11-article-s12"
+    },
+    {
+      "term": "sore",
+      "meaningZh": "疼痛的；酸痛的",
+      "exampleSentenceId": "u11-article-s12"
+    },
+    {
+      "term": "neck",
+      "meaningZh": "颈，脖子",
+      "exampleSentenceId": "u11-article-s12"
+    },
+    {
+      "term": "moment",
+      "meaningZh": "某一时刻",
+      "exampleSentenceId": "u11-article-s13"
+    },
+    {
+      "term": "deaf",
+      "meaningZh": "耳聋的，失聪的",
+      "exampleSentenceId": "u11-article-s14"
+    },
+    {
+      "term": "dull",
+      "meaningZh": "愚笨的，迟钝的",
+      "exampleSentenceId": "u11-article-s15"
+    },
+    {
+      "term": "balanced",
+      "meaningZh": "均衡的",
+      "exampleSentenceId": "u11-article-s17"
+    },
+    {
+      "term": "jog",
+      "meaningZh": "慢跑",
+      "exampleSentenceId": "u11-article-s19"
+    },
+    {
+      "term": "fresh",
+      "meaningZh": "新鲜的",
+      "exampleSentenceId": "u11-article-s19"
+    },
+    {
+      "term": "tennis",
+      "meaningZh": "网球（运动）",
+      "exampleSentenceId": "u11-article-s20"
+    },
+    {
+      "term": "choice",
+      "meaningZh": "选择；选择权",
+      "exampleSentenceId": "u11-article-s23"
+    },
+    {
+      "term": "ours",
+      "meaningZh": "（属于）我们的",
+      "exampleSentenceId": "u11-article-s23"
+    }
   ],
   "sentenceTasks": [],
   "readingQuestions": [
@@ -362,17 +485,57 @@
   ],
   "quoteCandidates": [],
   "lexicon": {
-    "monster": { "phonetic": "/ˈmɒnstə/", "pos": "n.", "meaningZh": "怪兽；怪物" },
-    "dangerous": { "phonetic": "/ˈdeɪndʒərəs/", "pos": "adj.", "meaningZh": "危险的" },
-    "social media": { "pos": "n.", "meaningZh": "社交媒体" },
-    "take over": { "pos": "v.", "meaningZh": "接管；控制" },
-    "eat away": { "pos": "v.", "meaningZh": "逐渐吞噬；消耗" },
-    "minute by minute": { "pos": "phr.", "meaningZh": "一分钟一分钟地；逐渐地" },
-    "get lost": { "pos": "v.", "meaningZh": "迷失；沉迷" },
-    "couch potato": { "pos": "n.", "meaningZh": "电视迷；整天窝在沙发上看电视的人" },
-    "miss out on": { "pos": "v.", "meaningZh": "错过（机会/体验）" },
-    "be deaf to": { "pos": "phr.", "meaningZh": "对……充耳不闻" },
-    "balanced": { "phonetic": "/ˈbælənst/", "pos": "adj.", "meaningZh": "平衡的；均衡的" },
-    "choice": { "phonetic": "/tʃɔɪs/", "pos": "n.", "meaningZh": "选择；抉择" }
+    "monster": {
+      "phonetic": "/ˈmɒnstə/",
+      "pos": "n.",
+      "meaningZh": "怪兽；怪物"
+    },
+    "dangerous": {
+      "phonetic": "/ˈdeɪndʒərəs/",
+      "pos": "adj.",
+      "meaningZh": "危险的"
+    },
+    "social media": {
+      "pos": "n.",
+      "meaningZh": "社交媒体"
+    },
+    "take over": {
+      "pos": "v.",
+      "meaningZh": "接管；控制"
+    },
+    "eat away": {
+      "pos": "v.",
+      "meaningZh": "逐渐吞噬；消耗"
+    },
+    "minute by minute": {
+      "pos": "phr.",
+      "meaningZh": "一分钟一分钟地；逐渐地"
+    },
+    "get lost": {
+      "pos": "v.",
+      "meaningZh": "迷失；沉迷"
+    },
+    "couch potato": {
+      "pos": "n.",
+      "meaningZh": "电视迷；整天窝在沙发上看电视的人"
+    },
+    "miss out on": {
+      "pos": "v.",
+      "meaningZh": "错过（机会/体验）"
+    },
+    "be deaf to": {
+      "pos": "phr.",
+      "meaningZh": "对……充耳不闻"
+    },
+    "balanced": {
+      "phonetic": "/ˈbælənst/",
+      "pos": "adj.",
+      "meaningZh": "平衡的；均衡的"
+    },
+    "choice": {
+      "phonetic": "/tʃɔɪs/",
+      "pos": "n.",
+      "meaningZh": "选择；抉择"
+    }
   }
 }

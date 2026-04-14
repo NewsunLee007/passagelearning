@@ -39,6 +39,7 @@ export function AppLayout() {
   const currentBook = useMemo(() => getTextbookBookByArticle(articleMeta?.id), [articleMeta]);
 
   const showTopBar = useMemo(() => !location.pathname.startsWith("/t/"), [location.pathname]);
+  const isHome = location.pathname === "/" || location.pathname === "/login" || location.pathname === "/dashboard";
   const isRead = location.pathname.includes("/read");
   const isArticleRoute = location.pathname.startsWith("/a/");
 
@@ -117,12 +118,14 @@ export function AppLayout() {
             </button>
 
             <div className="ml-auto flex max-w-[70vw] items-center justify-end gap-2 overflow-x-auto">
-              <Link
-                to={session.studentName ? "/dashboard" : "/login"}
-                className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white"
-              >
-                返回主页
-              </Link>
+              {!isHome && (
+                <Link
+                  to={session.studentName ? "/dashboard" : "/login"}
+                  className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white"
+                >
+                  返回主页
+                </Link>
+              )}
               <a
                 href="https://wordflow.newsunenglish.com/"
                 target="_blank"

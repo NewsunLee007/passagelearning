@@ -270,700 +270,105 @@
   ],
   "vocabItems": [
     {
-      "id": "u12-article-v1",
-      "term": "my",
-      "meaningZh": "我的",
-      "exampleSentenceId": "u12-article-s1"
-    },
-    {
-      "id": "u12-article-v2",
-      "term": "hometown",
-      "meaningZh": "家乡",
-      "exampleSentenceId": "u12-article-s1"
-    },
-    {
-      "id": "u12-article-v3",
-      "term": "is",
-      "meaningZh": "是（be动词第三人称单数）",
-      "exampleSentenceId": "u12-article-s1"
-    },
-    {
-      "id": "u12-article-v4",
-      "term": "on",
-      "meaningZh": "在...上",
-      "exampleSentenceId": "u12-article-s1"
-    },
-    {
-      "id": "u12-article-v5",
-      "term": "the",
-      "meaningZh": "这个，那个（定冠词）",
-      "exampleSentenceId": "u12-article-s1"
-    },
-    {
       "id": "u12-article-v6",
       "term": "qinghai-tibet",
       "meaningZh": "青藏（专有名词）",
       "exampleSentenceId": "u12-article-s1"
     },
     {
-      "id": "u12-article-v7",
       "term": "plateau",
       "meaningZh": "高原",
       "exampleSentenceId": "u12-article-s1"
     },
     {
-      "id": "u12-article-v8",
-      "term": "geography",
-      "meaningZh": "地理，地形",
-      "exampleSentenceId": "u12-article-s2"
-    },
-    {
-      "id": "u12-article-v9",
-      "term": "here",
-      "meaningZh": "这里",
-      "exampleSentenceId": "u12-article-s2"
-    },
-    {
-      "id": "u12-article-v10",
-      "term": "amazing",
-      "meaningZh": "令人惊叹的",
-      "exampleSentenceId": "u12-article-s2"
-    },
-    {
-      "id": "u12-article-v11",
-      "term": "it",
-      "meaningZh": "它",
-      "exampleSentenceId": "u12-article-s3"
-    },
-    {
-      "id": "u12-article-v12",
-      "term": "famous",
-      "meaningZh": "著名的",
-      "exampleSentenceId": "u12-article-s3"
-    },
-    {
-      "id": "u12-article-v13",
-      "term": "for",
-      "meaningZh": "为了，因为",
-      "exampleSentenceId": "u12-article-s3"
-    },
-    {
-      "id": "u12-article-v14",
-      "term": "world's",
-      "meaningZh": "世界的（所有格）",
-      "exampleSentenceId": "u12-article-s3"
-    },
-    {
-      "id": "u12-article-v15",
-      "term": "highest",
-      "meaningZh": "最高的（high的最高级）",
-      "exampleSentenceId": "u12-article-s3"
-    },
-    {
-      "id": "u12-article-v16",
-      "term": "mountain",
-      "meaningZh": "山，山脉",
-      "exampleSentenceId": "u12-article-s3"
-    },
-    {
-      "id": "u12-article-v17",
-      "term": "but",
-      "meaningZh": "但是",
-      "exampleSentenceId": "u12-article-s4"
-    },
-    {
-      "id": "u12-article-v18",
-      "term": "this",
-      "meaningZh": "这个",
-      "exampleSentenceId": "u12-article-s4"
-    },
-    {
-      "id": "u12-article-v19",
-      "term": "area",
-      "meaningZh": "地区，区域",
-      "exampleSentenceId": "u12-article-s4"
-    },
-    {
-      "id": "u12-article-v20",
-      "term": "also",
-      "meaningZh": "也，同样",
-      "exampleSentenceId": "u12-article-s4"
-    },
-    {
-      "id": "u12-article-v21",
-      "term": "full",
-      "meaningZh": "充满的",
-      "exampleSentenceId": "u12-article-s4"
-    },
-    {
-      "id": "u12-article-v22",
-      "term": "of",
-      "meaningZh": "...的",
-      "exampleSentenceId": "u12-article-s4"
-    },
-    {
-      "id": "u12-article-v23",
       "term": "most",
-      "meaningZh": "最（many/much的最高级）",
+      "meaningZh": "最",
       "exampleSentenceId": "u12-article-s4"
     },
     {
-      "id": "u12-article-v24",
-      "term": "colours",
-      "meaningZh": "颜色（colour的复数）",
-      "exampleSentenceId": "u12-article-s4"
-    },
-    {
-      "id": "u12-article-v25",
-      "term": "in",
-      "meaningZh": "在...里面",
-      "exampleSentenceId": "u12-article-s1"
-    },
-    {
-      "id": "u12-article-v26",
-      "term": "nature",
-      "meaningZh": "大自然，自然界",
-      "exampleSentenceId": "u12-article-s4"
-    },
-    {
-      "id": "u12-article-v27",
-      "term": "colour",
-      "meaningZh": "颜色",
-      "exampleSentenceId": "u12-article-s4"
-    },
-    {
-      "id": "u12-article-v28",
-      "term": "white",
-      "meaningZh": "白色的；白色",
-      "exampleSentenceId": "u12-article-s5"
-    },
-    {
-      "id": "u12-article-v29",
-      "term": "meets",
-      "meaningZh": "遇见，映入（meet的第三人称单数）",
-      "exampleSentenceId": "u12-article-s5"
-    },
-    {
-      "id": "u12-article-v30",
-      "term": "your",
-      "meaningZh": "你的，你们的",
-      "exampleSentenceId": "u12-article-s5"
-    },
-    {
-      "id": "u12-article-v31",
-      "term": "eyes",
-      "meaningZh": "眼睛（eye的复数）",
-      "exampleSentenceId": "u12-article-s5"
-    },
-    {
-      "id": "u12-article-v32",
-      "term": "all",
-      "meaningZh": "所有的，全部",
-      "exampleSentenceId": "u12-article-s5"
-    },
-    {
-      "id": "u12-article-v33",
-      "term": "around",
-      "meaningZh": "周围，四处",
-      "exampleSentenceId": "u12-article-s5"
-    },
-    {
-      "id": "u12-article-v34",
-      "term": "clouds",
-      "meaningZh": "云（cloud的复数）",
+      "term": "cloud",
+      "meaningZh": "云",
       "exampleSentenceId": "u12-article-s6"
     },
     {
-      "id": "u12-article-v35",
-      "term": "are",
-      "meaningZh": "是（be动词复数形式）",
-      "exampleSentenceId": "u12-article-s4"
-    },
-    {
-      "id": "u12-article-v36",
-      "term": "clean",
-      "meaningZh": "干净的，洁净的",
-      "exampleSentenceId": "u12-article-s6"
-    },
-    {
-      "id": "u12-article-v37",
-      "term": "and",
-      "meaningZh": "和，与",
-      "exampleSentenceId": "u12-article-s6"
-    },
-    {
-      "id": "u12-article-v38",
       "term": "soft",
       "meaningZh": "柔软的",
       "exampleSentenceId": "u12-article-s6"
     },
     {
-      "id": "u12-article-v39",
-      "term": "like",
-      "meaningZh": "像；喜欢",
-      "exampleSentenceId": "u12-article-s6"
-    },
-    {
-      "id": "u12-article-v40",
-      "term": "our",
-      "meaningZh": "我们的",
-      "exampleSentenceId": "u12-article-s4"
-    },
-    {
-      "id": "u12-article-v41",
-      "term": "sheep",
-      "meaningZh": "羊，绵羊",
-      "exampleSentenceId": "u12-article-s6"
-    },
-    {
-      "id": "u12-article-v42",
-      "term": "mountains",
-      "meaningZh": "山脉（mountain的复数）",
-      "exampleSentenceId": "u12-article-s7"
-    },
-    {
-      "id": "u12-article-v43",
-      "term": "shine",
-      "meaningZh": "发光，闪耀",
-      "exampleSentenceId": "u12-article-s7"
-    },
-    {
-      "id": "u12-article-v44",
       "term": "brightly",
       "meaningZh": "明亮地",
       "exampleSentenceId": "u12-article-s7"
     },
     {
-      "id": "u12-article-v45",
-      "term": "under",
-      "meaningZh": "在...下面",
-      "exampleSentenceId": "u12-article-s7"
-    },
-    {
-      "id": "u12-article-v46",
-      "term": "sun",
-      "meaningZh": "太阳",
-      "exampleSentenceId": "u12-article-s7"
-    },
-    {
-      "id": "u12-article-v47",
-      "term": "lotus",
-      "meaningZh": "莲花",
-      "exampleSentenceId": "u12-article-s7"
-    },
-    {
-      "id": "u12-article-v48",
-      "term": "flowers",
-      "meaningZh": "花（flower的复数）",
-      "exampleSentenceId": "u12-article-s7"
-    },
-    {
-      "id": "u12-article-v49",
-      "term": "lovely",
-      "meaningZh": "可爱的，美好的",
-      "exampleSentenceId": "u12-article-s8"
-    },
-    {
-      "id": "u12-article-v50",
-      "term": "blue",
-      "meaningZh": "蓝色的；蓝色",
-      "exampleSentenceId": "u12-article-s8"
-    },
-    {
-      "id": "u12-article-v51",
       "term": "sky",
-      "meaningZh": "天空",
+      "meaningZh": "天，天空",
       "exampleSentenceId": "u12-article-s8"
     },
     {
-      "id": "u12-article-v52",
-      "term": "always",
-      "meaningZh": "总是，一直",
-      "exampleSentenceId": "u12-article-s8"
-    },
-    {
-      "id": "u12-article-v53",
-      "term": "gives",
-      "meaningZh": "给予（give的第三人称单数）",
-      "exampleSentenceId": "u12-article-s8"
-    },
-    {
-      "id": "u12-article-v54",
-      "term": "me",
-      "meaningZh": "我（宾格）",
-      "exampleSentenceId": "u12-article-s1"
-    },
-    {
-      "id": "u12-article-v55",
-      "term": "a",
-      "meaningZh": "一个（不定冠词）",
-      "exampleSentenceId": "u12-article-s1"
-    },
-    {
-      "id": "u12-article-v56",
       "term": "calm",
-      "meaningZh": "平静的，镇静的",
+      "meaningZh": "镇静的，沉着的；心平气和的",
       "exampleSentenceId": "u12-article-s8"
     },
     {
-      "id": "u12-article-v57",
       "term": "feeling",
-      "meaningZh": "感觉，感受",
+      "meaningZh": "感觉",
       "exampleSentenceId": "u12-article-s8"
     },
     {
-      "id": "u12-article-v58",
-      "term": "great",
-      "meaningZh": "巨大的，伟大的",
-      "exampleSentenceId": "u12-article-s9"
-    },
-    {
-      "id": "u12-article-v59",
-      "term": "sea",
-      "meaningZh": "海，海洋",
-      "exampleSentenceId": "u12-article-s9"
-    },
-    {
-      "id": "u12-article-v60",
       "term": "above",
-      "meaningZh": "在...上方",
+      "meaningZh": "在（……）上方",
       "exampleSentenceId": "u12-article-s9"
     },
     {
-      "id": "u12-article-v61",
-      "term": "words",
-      "meaningZh": "话语，言语（word的复数）",
-      "exampleSentenceId": "u12-article-s10"
-    },
-    {
-      "id": "u12-article-v62",
-      "term": "can't",
-      "meaningZh": "不能（cannot的缩写）",
-      "exampleSentenceId": "u12-article-s10"
-    },
-    {
-      "id": "u12-article-v63",
       "term": "express",
-      "meaningZh": "表达，表示",
+      "meaningZh": "表达；表示；表现",
       "exampleSentenceId": "u12-article-s10"
     },
     {
-      "id": "u12-article-v64",
-      "term": "love",
-      "meaningZh": "爱，热爱",
-      "exampleSentenceId": "u12-article-s8"
-    },
-    {
-      "id": "u12-article-v65",
-      "term": "rivers",
-      "meaningZh": "河流（river的复数）",
-      "exampleSentenceId": "u12-article-s10"
-    },
-    {
-      "id": "u12-article-v66",
-      "term": "lakes",
-      "meaningZh": "湖泊（lake的复数）",
-      "exampleSentenceId": "u12-article-s10"
-    },
-    {
-      "id": "u12-article-v67",
-      "term": "there",
-      "meaningZh": "那里",
-      "exampleSentenceId": "u12-article-s11"
-    },
-    {
-      "id": "u12-article-v68",
-      "term": "hundred",
-      "meaningZh": "一百",
-      "exampleSentenceId": "u12-article-s11"
-    },
-    {
-      "id": "u12-article-v69",
-      "term": "kinds",
-      "meaningZh": "种类（kind的复数）",
-      "exampleSentenceId": "u12-article-s11"
-    },
-    {
-      "id": "u12-article-v70",
-      "term": "water",
-      "meaningZh": "水",
-      "exampleSentenceId": "u12-article-s11"
-    },
-    {
-      "id": "u12-article-v71",
-      "term": "grasslands",
-      "meaningZh": "草原（grassland的复数）",
+      "term": "grassland",
+      "meaningZh": "草原",
       "exampleSentenceId": "u12-article-s12"
     },
     {
-      "id": "u12-article-v72",
-      "term": "forests",
-      "meaningZh": "森林（forest的复数）",
+      "term": "field",
+      "meaningZh": "田地，田野",
       "exampleSentenceId": "u12-article-s12"
     },
     {
-      "id": "u12-article-v73",
-      "term": "fields",
-      "meaningZh": "田野（field的复数）",
-      "exampleSentenceId": "u12-article-s12"
-    },
-    {
-      "id": "u12-article-v74",
-      "term": "green",
-      "meaningZh": "绿色的；绿色",
-      "exampleSentenceId": "u12-article-s12"
-    },
-    {
-      "id": "u12-article-v75",
-      "term": "that's",
-      "meaningZh": "那是（that is的缩写）",
-      "exampleSentenceId": "u12-article-s13"
-    },
-    {
-      "id": "u12-article-v76",
-      "term": "favourite",
-      "meaningZh": "最喜欢的",
-      "exampleSentenceId": "u12-article-s13"
-    },
-    {
-      "id": "u12-article-v77",
       "term": "means",
-      "meaningZh": "意味着（mean的第三人称单数）",
+      "meaningZh": "手段；方法；工具",
       "exampleSentenceId": "u12-article-s14"
     },
     {
-      "id": "u12-article-v78",
-      "term": "hope",
-      "meaningZh": "希望",
-      "exampleSentenceId": "u12-article-s14"
-    },
-    {
-      "id": "u12-article-v79",
-      "term": "because",
-      "meaningZh": "因为",
-      "exampleSentenceId": "u12-article-s14"
-    },
-    {
-      "id": "u12-article-v80",
-      "term": "life",
-      "meaningZh": "生命，生活",
-      "exampleSentenceId": "u12-article-s14"
-    },
-    {
-      "id": "u12-article-v81",
-      "term": "not",
-      "meaningZh": "不",
-      "exampleSentenceId": "u12-article-s15"
-    },
-    {
-      "id": "u12-article-v82",
-      "term": "just",
-      "meaningZh": "仅仅，只是",
-      "exampleSentenceId": "u12-article-s15"
-    },
-    {
-      "id": "u12-article-v83",
-      "term": "now",
-      "meaningZh": "现在",
-      "exampleSentenceId": "u12-article-s15"
-    },
-    {
-      "id": "u12-article-v84",
-      "term": "trains",
-      "meaningZh": "火车（train的复数）",
-      "exampleSentenceId": "u12-article-s16"
-    },
-    {
-      "id": "u12-article-v85",
-      "term": "running",
-      "meaningZh": "奔跑，运行（run的现在分词）",
-      "exampleSentenceId": "u12-article-s16"
-    },
-    {
-      "id": "u12-article-v86",
-      "term": "through",
-      "meaningZh": "穿过，通过",
-      "exampleSentenceId": "u12-article-s16"
-    },
-    {
-      "id": "u12-article-v87",
-      "term": "they",
-      "meaningZh": "他们，它们",
-      "exampleSentenceId": "u12-article-s17"
-    },
-    {
-      "id": "u12-article-v88",
-      "term": "beautiful",
-      "meaningZh": "美丽的",
-      "exampleSentenceId": "u12-article-s17"
-    },
-    {
-      "id": "u12-article-v89",
-      "term": "too",
-      "meaningZh": "也，还",
-      "exampleSentenceId": "u12-article-s17"
-    },
-    {
-      "id": "u12-article-v90",
-      "term": "quieter",
-      "meaningZh": "更安静的（quiet的比较级）",
-      "exampleSentenceId": "u12-article-s18"
-    },
-    {
-      "id": "u12-article-v91",
       "term": "than",
       "meaningZh": "比",
       "exampleSentenceId": "u12-article-s18"
     },
     {
-      "id": "u12-article-v92",
-      "term": "big",
-      "meaningZh": "大的",
-      "exampleSentenceId": "u12-article-s18"
-    },
-    {
-      "id": "u12-article-v93",
-      "term": "cities",
-      "meaningZh": "城市（city的复数）",
-      "exampleSentenceId": "u12-article-s18"
-    },
-    {
-      "id": "u12-article-v94",
-      "term": "we",
-      "meaningZh": "我们",
-      "exampleSentenceId": "u12-article-s7"
-    },
-    {
-      "id": "u12-article-v95",
-      "term": "have",
-      "meaningZh": "有",
+      "term": "restaurant",
+      "meaningZh": "饭店，餐馆",
       "exampleSentenceId": "u12-article-s19"
     },
     {
-      "id": "u12-article-v96",
-      "term": "fewer",
-      "meaningZh": "更少的（few的比较级）",
-      "exampleSentenceId": "u12-article-s19"
-    },
-    {
-      "id": "u12-article-v97",
-      "term": "shops",
-      "meaningZh": "商店（shop的复数）",
-      "exampleSentenceId": "u12-article-s19"
-    },
-    {
-      "id": "u12-article-v98",
-      "term": "restaurants",
-      "meaningZh": "餐馆（restaurant的复数）",
-      "exampleSentenceId": "u12-article-s19"
-    },
-    {
-      "id": "u12-article-v99",
-      "term": "best",
-      "meaningZh": "最好的（good的最高级）",
+      "term": "present",
+      "meaningZh": "礼物，赠品",
       "exampleSentenceId": "u12-article-s20"
     },
     {
-      "id": "u12-article-v100",
-      "term": "presents",
-      "meaningZh": "礼物（present的复数）",
-      "exampleSentenceId": "u12-article-s20"
-    },
-    {
-      "id": "u12-article-v101",
-      "term": "from",
-      "meaningZh": "来自",
-      "exampleSentenceId": "u12-article-s20"
-    },
-    {
-      "id": "u12-article-v102",
-      "term": "heart",
-      "meaningZh": "心，内心",
-      "exampleSentenceId": "u12-article-s21"
-    },
-    {
-      "id": "u12-article-v103",
-      "term": "it's",
-      "meaningZh": "它是（it is的缩写）",
-      "exampleSentenceId": "u12-article-s21"
-    },
-    {
-      "id": "u12-article-v104",
       "term": "better",
-      "meaningZh": "更好的（good的比较级）",
+      "meaningZh": "更好的，较好的",
       "exampleSentenceId": "u12-article-s21"
     },
     {
-      "id": "u12-article-v105",
-      "term": "any",
-      "meaningZh": "任何的",
-      "exampleSentenceId": "u12-article-s21"
-    },
-    {
-      "id": "u12-article-v106",
       "term": "other",
-      "meaningZh": "其他的",
+      "meaningZh": "另外的，其他的",
       "exampleSentenceId": "u12-article-s21"
     },
     {
-      "id": "u12-article-v107",
-      "term": "place",
-      "meaningZh": "地方，地点",
-      "exampleSentenceId": "u12-article-s21"
-    },
-    {
-      "id": "u12-article-v108",
-      "term": "i'm",
-      "meaningZh": "我是（I am的缩写）",
-      "exampleSentenceId": "u12-article-s22"
-    },
-    {
-      "id": "u12-article-v109",
       "term": "proud",
-      "meaningZh": "自豪的，骄傲的",
+      "meaningZh": "自豪的，得意的",
       "exampleSentenceId": "u12-article-s22"
-    },
-    {
-      "id": "u12-article-v110",
-      "term": "to",
-      "meaningZh": "到，向",
-      "exampleSentenceId": "u12-article-s1"
-    },
-    {
-      "id": "u12-article-v111",
-      "term": "say",
-      "meaningZh": "说",
-      "exampleSentenceId": "u12-article-s22"
-    },
-    {
-      "id": "u12-article-v112",
-      "term": "that",
-      "meaningZh": "那个；（引导从句）",
-      "exampleSentenceId": "u12-article-s13"
-    },
-    {
-      "id": "u12-article-v113",
-      "term": "i",
-      "meaningZh": "我",
-      "exampleSentenceId": "u12-article-s1"
-    },
-    {
-      "id": "u12-article-v114",
-      "term": "one",
-      "meaningZh": "一个",
-      "exampleSentenceId": "u12-article-s22"
-    },
-    {
-      "id": "u12-article-v115",
-      "term": "places",
-      "meaningZh": "地方（place的复数）",
-      "exampleSentenceId": "u12-article-s22"
-    },
-    {
-      "id": "u12-article-v116",
-      "term": "world",
-      "meaningZh": "世界",
-      "exampleSentenceId": "u12-article-s3"
     }
   ],
   "sentenceTasks": [],

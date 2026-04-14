@@ -240,727 +240,106 @@
   ],
   "vocabItems": [
     {
-      "id": "u9-article-v1",
-      "term": "the",
-      "meaningZh": "这，那",
-      "exampleSentenceId": "u9-article-s1"
-    },
-    {
-      "id": "u9-article-v2",
-      "term": "history",
-      "meaningZh": "历史",
-      "exampleSentenceId": "u9-article-s1"
-    },
-    {
-      "id": "u9-article-v3",
-      "term": "of",
-      "meaningZh": "……的",
-      "exampleSentenceId": "u9-article-s1"
-    },
-    {
-      "id": "u9-article-v4",
-      "term": "foods",
-      "meaningZh": "食物（food的复数形式）",
-      "exampleSentenceId": "u9-article-s1"
-    },
-    {
-      "id": "u9-article-v5",
-      "term": "food",
-      "meaningZh": "食物",
-      "exampleSentenceId": "u9-article-s1"
-    },
-    {
-      "id": "u9-article-v6",
-      "term": "is",
-      "meaningZh": "是",
-      "exampleSentenceId": "u9-article-s1"
-    },
-    {
-      "id": "u9-article-v7",
-      "term": "never",
-      "meaningZh": "从不",
-      "exampleSentenceId": "u9-article-s1"
-    },
-    {
-      "id": "u9-article-v8",
-      "term": "simple",
-      "meaningZh": "简单的",
-      "exampleSentenceId": "u9-article-s1"
-    },
-    {
-      "id": "u9-article-v9",
-      "term": "think",
-      "meaningZh": "思考，认为",
-      "exampleSentenceId": "u9-article-s2"
-    },
-    {
-      "id": "u9-article-v10",
-      "term": "ice",
-      "meaningZh": "冰",
-      "exampleSentenceId": "u9-article-s2"
-    },
-    {
-      "id": "u9-article-v11",
-      "term": "cream",
-      "meaningZh": "奶油",
-      "exampleSentenceId": "u9-article-s2"
-    },
-    {
-      "id": "u9-article-v12",
-      "term": "many",
-      "meaningZh": "许多的",
-      "exampleSentenceId": "u9-article-s3"
-    },
-    {
-      "id": "u9-article-v13",
-      "term": "people",
-      "meaningZh": "人们",
-      "exampleSentenceId": "u9-article-s3"
-    },
-    {
-      "id": "u9-article-v14",
-      "term": "see",
-      "meaningZh": "看见，看作",
-      "exampleSentenceId": "u9-article-s3"
-    },
-    {
-      "id": "u9-article-v15",
-      "term": "it",
-      "meaningZh": "它",
-      "exampleSentenceId": "u9-article-s3"
-    },
-    {
-      "id": "u9-article-v16",
-      "term": "as",
-      "meaningZh": "作为",
-      "exampleSentenceId": "u9-article-s3"
-    },
-    {
-      "id": "u9-article-v17",
-      "term": "a",
-      "meaningZh": "一个",
-      "exampleSentenceId": "u9-article-s2"
-    },
-    {
-      "id": "u9-article-v18",
       "term": "western",
-      "meaningZh": "西方的",
+      "meaningZh": "（观念或方式）西方的；欧美的",
       "exampleSentenceId": "u9-article-s3"
     },
     {
-      "id": "u9-article-v19",
       "term": "dessert",
-      "meaningZh": "甜点",
+      "meaningZh": "（饭后的）甜点，甜食，甜品",
       "exampleSentenceId": "u9-article-s3"
     },
     {
-      "id": "u9-article-v20",
       "term": "however",
-      "meaningZh": "然而",
+      "meaningZh": "然而，不过，但是",
       "exampleSentenceId": "u9-article-s4"
     },
     {
-      "id": "u9-article-v21",
-      "term": "this",
-      "meaningZh": "这，这个",
-      "exampleSentenceId": "u9-article-s4"
-    },
-    {
-      "id": "u9-article-v22",
-      "term": "sweet",
-      "meaningZh": "甜的，美好的",
-      "exampleSentenceId": "u9-article-s4"
-    },
-    {
-      "id": "u9-article-v23",
-      "term": "treat",
-      "meaningZh": "乐事，款待",
-      "exampleSentenceId": "u9-article-s4"
-    },
-    {
-      "id": "u9-article-v24",
-      "term": "actually",
-      "meaningZh": "实际上",
-      "exampleSentenceId": "u9-article-s4"
-    },
-    {
-      "id": "u9-article-v25",
-      "term": "and",
-      "meaningZh": "和，而且",
-      "exampleSentenceId": "u9-article-s9"
-    },
-    {
-      "id": "u9-article-v26",
-      "term": "came",
-      "meaningZh": "来（come的过去式）",
-      "exampleSentenceId": "u9-article-s4"
-    },
-    {
-      "id": "u9-article-v27",
-      "term": "from",
-      "meaningZh": "来自",
-      "exampleSentenceId": "u9-article-s4"
-    },
-    {
-      "id": "u9-article-v28",
-      "term": "china",
-      "meaningZh": "中国",
-      "exampleSentenceId": "u9-article-s4"
-    },
-    {
-      "id": "u9-article-v29",
-      "term": "in",
-      "meaningZh": "在……里",
-      "exampleSentenceId": "u9-article-s2"
-    },
-    {
-      "id": "u9-article-v30",
-      "term": "zhou",
-      "meaningZh": "周（朝）",
-      "exampleSentenceId": "u9-article-s5"
-    },
-    {
-      "id": "u9-article-v31",
       "term": "dynasty",
       "meaningZh": "朝代",
       "exampleSentenceId": "u9-article-s5"
     },
     {
-      "id": "u9-article-v32",
-      "term": "chinese",
-      "meaningZh": "中国的",
-      "exampleSentenceId": "u9-article-s5"
-    },
-    {
-      "id": "u9-article-v33",
-      "term": "began",
-      "meaningZh": "开始（begin的过去式）",
-      "exampleSentenceId": "u9-article-s5"
-    },
-    {
-      "id": "u9-article-v34",
-      "term": "to",
-      "meaningZh": "去，向",
-      "exampleSentenceId": "u9-article-s1"
-    },
-    {
-      "id": "u9-article-v35",
       "term": "store",
-      "meaningZh": "储存",
+      "meaningZh": "贮藏，贮存，积蓄",
       "exampleSentenceId": "u9-article-s5"
     },
     {
-      "id": "u9-article-v36",
-      "term": "winter",
-      "meaningZh": "冬天",
-      "exampleSentenceId": "u9-article-s5"
-    },
-    {
-      "id": "u9-article-v37",
-      "term": "enjoy",
-      "meaningZh": "享受",
-      "exampleSentenceId": "u9-article-s5"
-    },
-    {
-      "id": "u9-article-v38",
-      "term": "summer",
-      "meaningZh": "夏天",
-      "exampleSentenceId": "u9-article-s5"
-    },
-    {
-      "id": "u9-article-v39",
-      "term": "song",
-      "meaningZh": "宋（朝）",
-      "exampleSentenceId": "u9-article-s6"
-    },
-    {
-      "id": "u9-article-v40",
-      "term": "started",
-      "meaningZh": "开始（start的过去式）",
-      "exampleSentenceId": "u9-article-s6"
-    },
-    {
-      "id": "u9-article-v41",
-      "term": "make",
-      "meaningZh": "制作",
-      "exampleSentenceId": "u9-article-s6"
-    },
-    {
-      "id": "u9-article-v42",
-      "term": "binglao",
-      "meaningZh": "冰酪",
-      "exampleSentenceId": "u9-article-s6"
-    },
-    {
-      "id": "u9-article-v43",
-      "term": "just",
-      "meaningZh": "仅仅，只是",
-      "exampleSentenceId": "u9-article-s6"
-    },
-    {
-      "id": "u9-article-v44",
       "term": "means",
-      "meaningZh": "意思是（mean的三单形式）",
+      "meaningZh": "手段；方法；工具",
       "exampleSentenceId": "u9-article-s6"
     },
     {
-      "id": "u9-article-v45",
-      "term": "english",
-      "meaningZh": "英语",
-      "exampleSentenceId": "u9-article-s6"
-    },
-    {
-      "id": "u9-article-v46",
-      "term": "was",
-      "meaningZh": "是（过去式）",
-      "exampleSentenceId": "u9-article-s7"
-    },
-    {
-      "id": "u9-article-v47",
-      "term": "lot",
-      "meaningZh": "大量",
-      "exampleSentenceId": "u9-article-s7"
-    },
-    {
-      "id": "u9-article-v48",
-      "term": "like",
-      "meaningZh": "像",
-      "exampleSentenceId": "u9-article-s7"
-    },
-    {
-      "id": "u9-article-v49",
-      "term": "modern",
-      "meaningZh": "现代的",
-      "exampleSentenceId": "u9-article-s7"
-    },
-    {
-      "id": "u9-article-v50",
       "term": "folk",
-      "meaningZh": "民间的",
+      "meaningZh": "民间的，民俗的",
       "exampleSentenceId": "u9-article-s8"
     },
     {
-      "id": "u9-article-v51",
-      "term": "tales",
-      "meaningZh": "故事，传说（tale的复数形式）",
+      "term": "tale",
+      "meaningZh": "故事",
       "exampleSentenceId": "u9-article-s8"
     },
     {
-      "id": "u9-article-v52",
-      "term": "have",
-      "meaningZh": "有",
-      "exampleSentenceId": "u9-article-s8"
-    },
-    {
-      "id": "u9-article-v53",
-      "term": "that",
-      "meaningZh": "（引导从句）",
-      "exampleSentenceId": "u9-article-s8"
-    },
-    {
-      "id": "u9-article-v54",
       "term": "emperor",
       "meaningZh": "皇帝",
       "exampleSentenceId": "u9-article-s8"
     },
     {
-      "id": "u9-article-v55",
-      "term": "huizong",
-      "meaningZh": "徽宗",
-      "exampleSentenceId": "u9-article-s8"
-    },
-    {
-      "id": "u9-article-v56",
-      "term": "suffered",
-      "meaningZh": "遭受（suffer的过去式）",
-      "exampleSentenceId": "u9-article-s8"
-    },
-    {
-      "id": "u9-article-v57",
       "term": "stomach",
       "meaningZh": "胃",
       "exampleSentenceId": "u9-article-s8"
     },
     {
-      "id": "u9-article-v58",
-      "term": "pains",
-      "meaningZh": "疼痛（pain的复数形式）",
-      "exampleSentenceId": "u9-article-s8"
-    },
-    {
-      "id": "u9-article-v59",
-      "term": "after",
-      "meaningZh": "在……之后",
-      "exampleSentenceId": "u9-article-s8"
-    },
-    {
-      "id": "u9-article-v60",
-      "term": "eating",
-      "meaningZh": "吃（eat的动名词形式）",
-      "exampleSentenceId": "u9-article-s8"
-    },
-    {
-      "id": "u9-article-v61",
-      "term": "too",
-      "meaningZh": "太，过于",
-      "exampleSentenceId": "u9-article-s8"
-    },
-    {
-      "id": "u9-article-v62",
-      "term": "much",
-      "meaningZh": "许多的",
-      "exampleSentenceId": "u9-article-s8"
-    },
-    {
-      "id": "u9-article-v63",
-      "term": "yuan",
-      "meaningZh": "元（朝）",
-      "exampleSentenceId": "u9-article-s9"
-    },
-    {
-      "id": "u9-article-v64",
-      "term": "marco",
-      "meaningZh": "马可",
-      "exampleSentenceId": "u9-article-s9"
-    },
-    {
-      "id": "u9-article-v65",
-      "term": "polo",
-      "meaningZh": "波罗",
-      "exampleSentenceId": "u9-article-s9"
-    },
-    {
-      "id": "u9-article-v66",
-      "term": "tasted",
-      "meaningZh": "品尝（taste的过去式）",
-      "exampleSentenceId": "u9-article-s9"
-    },
-    {
-      "id": "u9-article-v67",
-      "term": "carried",
-      "meaningZh": "携带，运送（carry的过去式）",
-      "exampleSentenceId": "u9-article-s9"
-    },
-    {
-      "id": "u9-article-v68",
-      "term": "idea",
-      "meaningZh": "主意，创意",
-      "exampleSentenceId": "u9-article-s9"
-    },
-    {
-      "id": "u9-article-v69",
-      "term": "all",
-      "meaningZh": "全部，一直",
-      "exampleSentenceId": "u9-article-s4"
-    },
-    {
-      "id": "u9-article-v70",
-      "term": "way",
-      "meaningZh": "道路，方向",
-      "exampleSentenceId": "u9-article-s9"
-    },
-    {
-      "id": "u9-article-v71",
-      "term": "back",
-      "meaningZh": "回来，向后",
-      "exampleSentenceId": "u9-article-s9"
-    },
-    {
-      "id": "u9-article-v72",
-      "term": "europe",
-      "meaningZh": "欧洲",
-      "exampleSentenceId": "u9-article-s9"
-    },
-    {
-      "id": "u9-article-v73",
-      "term": "there",
-      "meaningZh": "在那里",
+      "term": "taste",
+      "meaningZh": "味道；有……的味道",
       "exampleSentenceId": "u9-article-s10"
     },
     {
-      "id": "u9-article-v74",
-      "term": "added",
-      "meaningZh": "添加（add的过去式）",
-      "exampleSentenceId": "u9-article-s10"
-    },
-    {
-      "id": "u9-article-v75",
-      "term": "heavy",
-      "meaningZh": "重的，浓厚的",
-      "exampleSentenceId": "u9-article-s10"
-    },
-    {
-      "id": "u9-article-v76",
-      "term": "new",
-      "meaningZh": "新的",
-      "exampleSentenceId": "u9-article-s10"
-    },
-    {
-      "id": "u9-article-v77",
-      "term": "tastes",
-      "meaningZh": "味道，口味（taste的复数形式）",
-      "exampleSentenceId": "u9-article-s10"
-    },
-    {
-      "id": "u9-article-v78",
-      "term": "rest",
-      "meaningZh": "剩余部分",
-      "exampleSentenceId": "u9-article-s11"
-    },
-    {
-      "id": "u9-article-v79",
-      "term": "sometimes",
-      "meaningZh": "有时",
-      "exampleSentenceId": "u9-article-s12"
-    },
-    {
-      "id": "u9-article-v80",
-      "term": "totally",
-      "meaningZh": "完全地",
-      "exampleSentenceId": "u9-article-s12"
-    },
-    {
-      "id": "u9-article-v81",
-      "term": "different",
-      "meaningZh": "不同的",
-      "exampleSentenceId": "u9-article-s12"
-    },
-    {
-      "id": "u9-article-v82",
-      "term": "cultures",
-      "meaningZh": "文化（culture的复数形式）",
-      "exampleSentenceId": "u9-article-s12"
-    },
-    {
-      "id": "u9-article-v83",
-      "term": "similar",
-      "meaningZh": "相似的",
-      "exampleSentenceId": "u9-article-s12"
-    },
-    {
-      "id": "u9-article-v84",
-      "term": "dishes",
-      "meaningZh": "菜肴（dish的复数形式）",
-      "exampleSentenceId": "u9-article-s12"
-    },
-    {
-      "id": "u9-article-v85",
-      "term": "iranians",
-      "meaningZh": "伊朗人（iranian的复数形式）",
+      "term": "iranian",
+      "meaningZh": "伊朗人",
       "exampleSentenceId": "u9-article-s13"
     },
     {
-      "id": "u9-article-v86",
-      "term": "love",
-      "meaningZh": "喜欢，爱",
-      "exampleSentenceId": "u9-article-s13"
-    },
-    {
-      "id": "u9-article-v87",
-      "term": "kind",
-      "meaningZh": "种类",
-      "exampleSentenceId": "u9-article-s13"
-    },
-    {
-      "id": "u9-article-v88",
       "term": "flat",
-      "meaningZh": "扁平的",
+      "meaningZh": "平的，平坦的",
       "exampleSentenceId": "u9-article-s13"
     },
     {
-      "id": "u9-article-v89",
-      "term": "bread",
-      "meaningZh": "面包",
-      "exampleSentenceId": "u9-article-s13"
-    },
-    {
-      "id": "u9-article-v90",
-      "term": "sangak",
-      "meaningZh": "桑嘎克（伊朗面包）",
-      "exampleSentenceId": "u9-article-s13"
-    },
-    {
-      "id": "u9-article-v91",
-      "term": "shaanxi",
-      "meaningZh": "陕西",
+      "term": "pancake",
+      "meaningZh": "薄煎（烤，烙）饼",
       "exampleSentenceId": "u9-article-s14"
     },
     {
-      "id": "u9-article-v92",
-      "term": "stone",
-      "meaningZh": "石头",
-      "exampleSentenceId": "u9-article-s14"
-    },
-    {
-      "id": "u9-article-v93",
-      "term": "pancakes",
-      "meaningZh": "薄饼，煎饼（pancake的复数形式）",
-      "exampleSentenceId": "u9-article-s14"
-    },
-    {
-      "id": "u9-article-v94",
-      "term": "these",
-      "meaningZh": "这些",
-      "exampleSentenceId": "u9-article-s15"
-    },
-    {
-      "id": "u9-article-v95",
-      "term": "two",
-      "meaningZh": "二，两个",
-      "exampleSentenceId": "u9-article-s15"
-    },
-    {
-      "id": "u9-article-v96",
-      "term": "look",
-      "meaningZh": "看起来",
-      "exampleSentenceId": "u9-article-s15"
-    },
-    {
-      "id": "u9-article-v97",
-      "term": "almost",
-      "meaningZh": "几乎",
-      "exampleSentenceId": "u9-article-s15"
-    },
-    {
-      "id": "u9-article-v98",
-      "term": "same",
-      "meaningZh": "相同的",
-      "exampleSentenceId": "u9-article-s15"
-    },
-    {
-      "id": "u9-article-v99",
-      "term": "often",
-      "meaningZh": "经常",
-      "exampleSentenceId": "u9-article-s16"
-    },
-    {
-      "id": "u9-article-v100",
       "term": "compare",
-      "meaningZh": "比较，比作",
+      "meaningZh": "相比较；可媲美",
       "exampleSentenceId": "u9-article-s16"
     },
     {
-      "id": "u9-article-v101",
-      "term": "roujiamo",
-      "meaningZh": "肉夹馍",
-      "exampleSentenceId": "u9-article-s16"
-    },
-    {
-      "id": "u9-article-v102",
-      "term": "hamburgers",
-      "meaningZh": "汉堡包（hamburger的复数形式）",
-      "exampleSentenceId": "u9-article-s16"
-    },
-    {
-      "id": "u9-article-v103",
       "term": "hamburger",
       "meaningZh": "汉堡包",
       "exampleSentenceId": "u9-article-s16"
     },
     {
-      "id": "u9-article-v104",
-      "term": "symbol",
-      "meaningZh": "象征",
-      "exampleSentenceId": "u9-article-s16"
-    },
-    {
-      "id": "u9-article-v105",
-      "term": "american",
-      "meaningZh": "美国的",
-      "exampleSentenceId": "u9-article-s16"
-    },
-    {
-      "id": "u9-article-v106",
-      "term": "call",
-      "meaningZh": "称呼，呼叫",
-      "exampleSentenceId": "u9-article-s17"
-    },
-    {
-      "id": "u9-article-v107",
-      "term": "but",
-      "meaningZh": "但是",
-      "exampleSentenceId": "u9-article-s18"
-    },
-    {
-      "id": "u9-article-v108",
-      "term": "fact",
-      "meaningZh": "事实",
-      "exampleSentenceId": "u9-article-s18"
-    },
-    {
-      "id": "u9-article-v109",
-      "term": "arepas",
-      "meaningZh": "阿瑞巴（arepa的复数形式）",
-      "exampleSentenceId": "u9-article-s18"
-    },
-    {
-      "id": "u9-article-v110",
-      "term": "venezuela",
-      "meaningZh": "委内瑞拉",
-      "exampleSentenceId": "u9-article-s18"
-    },
-    {
-      "id": "u9-article-v111",
-      "term": "more",
-      "meaningZh": "更多地",
-      "exampleSentenceId": "u9-article-s18"
-    },
-    {
-      "id": "u9-article-v112",
       "term": "twin",
-      "meaningZh": "孪生的",
+      "meaningZh": "双胞胎之一的",
       "exampleSentenceId": "u9-article-s18"
     },
     {
-      "id": "u9-article-v113",
-      "term": "brother",
-      "meaningZh": "兄弟",
-      "exampleSentenceId": "u9-article-s18"
-    },
-    {
-      "id": "u9-article-v114",
       "term": "bridge",
-      "meaningZh": "桥梁",
+      "meaningZh": "（事物之间的）桥梁，纽带；桥",
       "exampleSentenceId": "u9-article-s19"
     },
     {
-      "id": "u9-article-v115",
-      "term": "between",
-      "meaningZh": "在……之间",
-      "exampleSentenceId": "u9-article-s19"
-    },
-    {
-      "id": "u9-article-v116",
-      "term": "when",
-      "meaningZh": "当……时",
-      "exampleSentenceId": "u9-article-s20"
-    },
-    {
-      "id": "u9-article-v117",
       "term": "cross",
-      "meaningZh": "跨越",
+      "meaningZh": "穿过，越过，跑过（终点线、小径等）",
       "exampleSentenceId": "u9-article-s20"
     },
     {
-      "id": "u9-article-v118",
-      "term": "borders",
-      "meaningZh": "边界，国界（border的复数形式）",
+      "term": "border",
+      "meaningZh": "边界；边境",
       "exampleSentenceId": "u9-article-s20"
     },
     {
-      "id": "u9-article-v119",
-      "term": "things",
-      "meaningZh": "事情",
-      "exampleSentenceId": "u9-article-s20"
-    },
-    {
-      "id": "u9-article-v120",
-      "term": "can",
-      "meaningZh": "能，可以",
-      "exampleSentenceId": "u9-article-s16"
-    },
-    {
-      "id": "u9-article-v121",
       "term": "happen",
       "meaningZh": "发生",
       "exampleSentenceId": "u9-article-s20"

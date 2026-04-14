@@ -270,832 +270,99 @@
   ],
   "vocabItems": [
     {
-      "id": "u15-article-v1",
-      "term": "22",
-      "meaningZh": "22",
-      "exampleSentenceId": "u15-article-s11"
-    },
-    {
-      "id": "u15-article-v2",
-      "term": "30",
-      "meaningZh": "30",
-      "exampleSentenceId": "u15-article-s12"
-    },
-    {
-      "id": "u15-article-v3",
-      "term": "400",
-      "meaningZh": "400",
-      "exampleSentenceId": "u15-article-s21"
-    },
-    {
-      "id": "u15-article-v4",
-      "term": "1640",
-      "meaningZh": "1640年",
-      "exampleSentenceId": "u15-article-s1"
-    },
-    {
-      "id": "u15-article-v5",
-      "term": "in",
-      "meaningZh": "在...里",
-      "exampleSentenceId": "u15-article-s1"
-    },
-    {
-      "id": "u15-article-v6",
-      "term": "man",
-      "meaningZh": "男人",
-      "exampleSentenceId": "u15-article-s1"
-    },
-    {
-      "id": "u15-article-v7",
-      "term": "was",
-      "meaningZh": "是（is/am的过去式）",
-      "exampleSentenceId": "u15-article-s1"
-    },
-    {
-      "id": "u15-article-v8",
       "term": "seriously",
-      "meaningZh": "严重地",
+      "meaningZh": "严重地，非常",
       "exampleSentenceId": "u15-article-s1"
     },
     {
-      "id": "u15-article-v9",
-      "term": "ill",
-      "meaningZh": "生病的",
-      "exampleSentenceId": "u15-article-s1"
-    },
-    {
-      "id": "u15-article-v10",
-      "term": "he",
-      "meaningZh": "他",
-      "exampleSentenceId": "u15-article-s2"
-    },
-    {
-      "id": "u15-article-v11",
-      "term": "had",
-      "meaningZh": "有（have的过去式）",
-      "exampleSentenceId": "u15-article-s2"
-    },
-    {
-      "id": "u15-article-v12",
-      "term": "to",
-      "meaningZh": "向，朝",
-      "exampleSentenceId": "u15-article-s2"
-    },
-    {
-      "id": "u15-article-v13",
       "term": "end",
-      "meaningZh": "结束",
+      "meaningZh": "使结束，使停止",
       "exampleSentenceId": "u15-article-s2"
     },
     {
-      "id": "u15-article-v14",
-      "term": "the",
-      "meaningZh": "这，那",
-      "exampleSentenceId": "u15-article-s2"
-    },
-    {
-      "id": "u15-article-v15",
-      "term": "last",
-      "meaningZh": "最后的",
-      "exampleSentenceId": "u15-article-s2"
-    },
-    {
-      "id": "u15-article-v16",
       "term": "trip",
-      "meaningZh": "旅行",
+      "meaningZh": "旅游；旅行，出行",
       "exampleSentenceId": "u15-article-s2"
     },
     {
-      "id": "u15-article-v17",
-      "term": "of",
-      "meaningZh": "...的",
-      "exampleSentenceId": "u15-article-s2"
-    },
-    {
-      "id": "u15-article-v18",
-      "term": "his",
-      "meaningZh": "他的",
-      "exampleSentenceId": "u15-article-s2"
-    },
-    {
-      "id": "u15-article-v19",
-      "term": "life",
-      "meaningZh": "生活，生命",
-      "exampleSentenceId": "u15-article-s2"
-    },
-    {
-      "id": "u15-article-v20",
-      "term": "life's",
-      "meaningZh": "生命的",
-      "exampleSentenceId": "u15-article-s11"
-    },
-    {
-      "id": "u15-article-v21",
-      "term": "back",
-      "meaningZh": "回原处",
-      "exampleSentenceId": "u15-article-s3"
-    },
-    {
-      "id": "u15-article-v22",
-      "term": "home",
-      "meaningZh": "家",
-      "exampleSentenceId": "u15-article-s3"
-    },
-    {
-      "id": "u15-article-v23",
-      "term": "people",
-      "meaningZh": "人们",
-      "exampleSentenceId": "u15-article-s3"
-    },
-    {
-      "id": "u15-article-v24",
-      "term": "asked",
-      "meaningZh": "问（ask的过去式）",
-      "exampleSentenceId": "u15-article-s3"
-    },
-    {
-      "id": "u15-article-v25",
-      "term": "him",
-      "meaningZh": "他（宾格）",
-      "exampleSentenceId": "u15-article-s3"
-    },
-    {
-      "id": "u15-article-v26",
-      "term": "you",
-      "meaningZh": "你",
-      "exampleSentenceId": "u15-article-s3"
-    },
-    {
-      "id": "u15-article-v27",
-      "term": "spent",
-      "meaningZh": "花费（spend的过去式）",
-      "exampleSentenceId": "u15-article-s3"
-    },
-    {
-      "id": "u15-article-v28",
-      "term": "your",
-      "meaningZh": "你的",
-      "exampleSentenceId": "u15-article-s3"
-    },
-    {
-      "id": "u15-article-v29",
-      "term": "whole",
-      "meaningZh": "整个的",
-      "exampleSentenceId": "u15-article-s3"
-    },
-    {
-      "id": "u15-article-v30",
-      "term": "on",
-      "meaningZh": "在...上",
-      "exampleSentenceId": "u15-article-s3"
-    },
-    {
-      "id": "u15-article-v31",
-      "term": "road",
-      "meaningZh": "路",
-      "exampleSentenceId": "u15-article-s3"
-    },
-    {
-      "id": "u15-article-v32",
-      "term": "do",
-      "meaningZh": "做",
-      "exampleSentenceId": "u15-article-s3"
-    },
-    {
-      "id": "u15-article-v33",
-      "term": "regret",
-      "meaningZh": "后悔",
-      "exampleSentenceId": "u15-article-s3"
-    },
-    {
-      "id": "u15-article-v34",
-      "term": "it",
-      "meaningZh": "它",
-      "exampleSentenceId": "u15-article-s3"
-    },
-    {
-      "id": "u15-article-v35",
-      "term": "i",
-      "meaningZh": "我",
-      "exampleSentenceId": "u15-article-s1"
-    },
-    {
-      "id": "u15-article-v36",
-      "term": "walked",
-      "meaningZh": "走（walk的过去式）",
-      "exampleSentenceId": "u15-article-s4"
-    },
-    {
-      "id": "u15-article-v37",
-      "term": "through",
-      "meaningZh": "穿过",
-      "exampleSentenceId": "u15-article-s4"
-    },
-    {
-      "id": "u15-article-v38",
-      "term": "many",
-      "meaningZh": "许多",
-      "exampleSentenceId": "u15-article-s4"
-    },
-    {
-      "id": "u15-article-v39",
-      "term": "fantastic",
-      "meaningZh": "极好的",
-      "exampleSentenceId": "u15-article-s4"
-    },
-    {
-      "id": "u15-article-v40",
-      "term": "places",
-      "meaningZh": "地方",
-      "exampleSentenceId": "u15-article-s4"
-    },
-    {
-      "id": "u15-article-v41",
-      "term": "china",
-      "meaningZh": "中国",
-      "exampleSentenceId": "u15-article-s4"
-    },
-    {
-      "id": "u15-article-v42",
-      "term": "china's",
-      "meaningZh": "中国的",
-      "exampleSentenceId": "u15-article-s8"
-    },
-    {
-      "id": "u15-article-v43",
-      "term": "replied",
-      "meaningZh": "回答（reply的过去式）",
-      "exampleSentenceId": "u15-article-s4"
-    },
-    {
-      "id": "u15-article-v44",
-      "term": "say",
-      "meaningZh": "说",
-      "exampleSentenceId": "u15-article-s5"
-    },
-    {
-      "id": "u15-article-v45",
-      "term": "i'm",
-      "meaningZh": "我是（I am的缩写）",
-      "exampleSentenceId": "u15-article-s5"
-    },
-    {
-      "id": "u15-article-v46",
-      "term": "as",
-      "meaningZh": "像...一样",
-      "exampleSentenceId": "u15-article-s1"
-    },
-    {
-      "id": "u15-article-v47",
-      "term": "great",
-      "meaningZh": "伟大的",
-      "exampleSentenceId": "u15-article-s5"
-    },
-    {
-      "id": "u15-article-v48",
-      "term": "zhang",
-      "meaningZh": "张（姓氏）",
-      "exampleSentenceId": "u15-article-s5"
-    },
-    {
-      "id": "u15-article-v49",
-      "term": "qian",
-      "meaningZh": "骞（名）",
-      "exampleSentenceId": "u15-article-s5"
-    },
-    {
-      "id": "u15-article-v50",
-      "term": "and",
-      "meaningZh": "和",
-      "exampleSentenceId": "u15-article-s5"
-    },
-    {
-      "id": "u15-article-v51",
-      "term": "xuanzang",
-      "meaningZh": "玄奘",
-      "exampleSentenceId": "u15-article-s5"
-    },
-    {
-      "id": "u15-article-v52",
-      "term": "so",
-      "meaningZh": "所以",
-      "exampleSentenceId": "u15-article-s6"
-    },
-    {
-      "id": "u15-article-v53",
-      "term": "have",
-      "meaningZh": "有",
-      "exampleSentenceId": "u15-article-s6"
-    },
-    {
-      "id": "u15-article-v54",
-      "term": "no",
-      "meaningZh": "不",
-      "exampleSentenceId": "u15-article-s6"
-    },
-    {
-      "id": "u15-article-v55",
-      "term": "regrets",
-      "meaningZh": "遗憾",
-      "exampleSentenceId": "u15-article-s6"
-    },
-    {
-      "id": "u15-article-v56",
-      "term": "at",
-      "meaningZh": "在",
-      "exampleSentenceId": "u15-article-s5"
-    },
-    {
-      "id": "u15-article-v57",
-      "term": "all",
-      "meaningZh": "完全",
-      "exampleSentenceId": "u15-article-s6"
-    },
-    {
-      "id": "u15-article-v58",
-      "term": "this",
-      "meaningZh": "这",
-      "exampleSentenceId": "u15-article-s7"
-    },
-    {
-      "id": "u15-article-v59",
-      "term": "xu",
-      "meaningZh": "徐（姓氏）",
-      "exampleSentenceId": "u15-article-s5"
-    },
-    {
-      "id": "u15-article-v60",
-      "term": "xiake",
-      "meaningZh": "霞客（名）",
-      "exampleSentenceId": "u15-article-s7"
-    },
-    {
-      "id": "u15-article-v61",
-      "term": "xiake's",
-      "meaningZh": "霞客的",
-      "exampleSentenceId": "u15-article-s20"
-    },
-    {
-      "id": "u15-article-v62",
-      "term": "greatest",
-      "meaningZh": "最伟大的",
-      "exampleSentenceId": "u15-article-s7"
-    },
-    {
-      "id": "u15-article-v63",
-      "term": "traveller",
-      "meaningZh": "旅行者",
-      "exampleSentenceId": "u15-article-s7"
-    },
-    {
-      "id": "u15-article-v64",
-      "term": "history",
-      "meaningZh": "历史",
-      "exampleSentenceId": "u15-article-s7"
-    },
-    {
-      "id": "u15-article-v65",
-      "term": "from",
-      "meaningZh": "来自",
-      "exampleSentenceId": "u15-article-s8"
-    },
-    {
-      "id": "u15-article-v66",
-      "term": "an",
-      "meaningZh": "一个",
-      "exampleSentenceId": "u15-article-s1"
-    },
-    {
-      "id": "u15-article-v67",
-      "term": "a",
-      "meaningZh": "一个",
-      "exampleSentenceId": "u15-article-s1"
-    },
-    {
-      "id": "u15-article-v68",
-      "term": "early",
-      "meaningZh": "早的",
-      "exampleSentenceId": "u15-article-s8"
-    },
-    {
-      "id": "u15-article-v69",
-      "term": "age",
-      "meaningZh": "年龄",
-      "exampleSentenceId": "u15-article-s8"
-    },
-    {
-      "id": "u15-article-v70",
-      "term": "dreamed",
-      "meaningZh": "梦想（dream的过去式）",
-      "exampleSentenceId": "u15-article-s8"
-    },
-    {
-      "id": "u15-article-v71",
-      "term": "visiting",
-      "meaningZh": "访问",
-      "exampleSentenceId": "u15-article-s8"
-    },
-    {
-      "id": "u15-article-v72",
-      "term": "seas",
-      "meaningZh": "海",
-      "exampleSentenceId": "u15-article-s8"
-    },
-    {
-      "id": "u15-article-v73",
-      "term": "mountains",
-      "meaningZh": "山",
-      "exampleSentenceId": "u15-article-s8"
-    },
-    {
-      "id": "u15-article-v74",
-      "term": "but",
-      "meaningZh": "但是",
-      "exampleSentenceId": "u15-article-s9"
-    },
-    {
-      "id": "u15-article-v75",
-      "term": "time",
-      "meaningZh": "时间",
-      "exampleSentenceId": "u15-article-s9"
-    },
-    {
-      "id": "u15-article-v76",
-      "term": "very",
-      "meaningZh": "非常",
-      "exampleSentenceId": "u15-article-s9"
-    },
-    {
-      "id": "u15-article-v77",
-      "term": "difficult",
-      "meaningZh": "困难的",
-      "exampleSentenceId": "u15-article-s9"
-    },
-    {
-      "id": "u15-article-v78",
-      "term": "travel",
-      "meaningZh": "旅行",
-      "exampleSentenceId": "u15-article-s7"
-    },
-    {
-      "id": "u15-article-v79",
-      "term": "far",
-      "meaningZh": "远",
-      "exampleSentenceId": "u15-article-s9"
-    },
-    {
-      "id": "u15-article-v80",
-      "term": "didn't",
-      "meaningZh": "没有（did not的缩写）",
-      "exampleSentenceId": "u15-article-s10"
-    },
-    {
-      "id": "u15-article-v81",
-      "term": "stop",
-      "meaningZh": "停止",
-      "exampleSentenceId": "u15-article-s10"
-    },
-    {
-      "id": "u15-article-v82",
-      "term": "however",
-      "meaningZh": "然而",
-      "exampleSentenceId": "u15-article-s10"
-    },
-    {
-      "id": "u15-article-v83",
-      "term": "set",
-      "meaningZh": "放置，开始",
-      "exampleSentenceId": "u15-article-s11"
-    },
-    {
-      "id": "u15-article-v84",
-      "term": "out",
-      "meaningZh": "出去",
-      "exampleSentenceId": "u15-article-s11"
-    },
-    {
-      "id": "u15-article-v85",
-      "term": "journey",
-      "meaningZh": "旅程",
-      "exampleSentenceId": "u15-article-s11"
-    },
-    {
-      "id": "u15-article-v86",
-      "term": "travelled",
-      "meaningZh": "旅行（travel的过去式）",
-      "exampleSentenceId": "u15-article-s12"
-    },
-    {
-      "id": "u15-article-v87",
-      "term": "for",
-      "meaningZh": "为了，持续",
-      "exampleSentenceId": "u15-article-s12"
-    },
-    {
-      "id": "u15-article-v88",
-      "term": "about",
-      "meaningZh": "关于，大约",
-      "exampleSentenceId": "u15-article-s12"
-    },
-    {
-      "id": "u15-article-v89",
-      "term": "years",
-      "meaningZh": "年",
-      "exampleSentenceId": "u15-article-s12"
-    },
-    {
-      "id": "u15-article-v90",
-      "term": "achieved",
-      "meaningZh": "实现（achieve的过去式）",
-      "exampleSentenceId": "u15-article-s12"
-    },
-    {
-      "id": "u15-article-v91",
       "term": "dream",
-      "meaningZh": "梦想",
+      "meaningZh": "梦想，希望",
       "exampleSentenceId": "u15-article-s8"
     },
     {
-      "id": "u15-article-v92",
-      "term": "made",
-      "meaningZh": "做（make的过去式）",
-      "exampleSentenceId": "u15-article-s13"
+      "term": "however",
+      "meaningZh": "然而，不过，但是",
+      "exampleSentenceId": "u15-article-s10"
     },
     {
-      "id": "u15-article-v93",
+      "term": "set",
+      "meaningZh": "确立",
+      "exampleSentenceId": "u15-article-s11"
+    },
+    {
       "term": "geographical",
-      "meaningZh": "地理的",
+      "meaningZh": "地理的；地理（学）的",
       "exampleSentenceId": "u15-article-s13"
     },
     {
-      "id": "u15-article-v94",
-      "term": "discoveries",
-      "meaningZh": "发现",
-      "exampleSentenceId": "u15-article-s13"
-    },
-    {
-      "id": "u15-article-v95",
-      "term": "during",
-      "meaningZh": "在...期间",
-      "exampleSentenceId": "u15-article-s13"
-    },
-    {
-      "id": "u15-article-v96",
-      "term": "once",
-      "meaningZh": "曾经",
-      "exampleSentenceId": "u15-article-s14"
-    },
-    {
-      "id": "u15-article-v97",
-      "term": "visited",
-      "meaningZh": "访问（visit的过去式）",
-      "exampleSentenceId": "u15-article-s14"
-    },
-    {
-      "id": "u15-article-v98",
-      "term": "mount",
-      "meaningZh": "山",
-      "exampleSentenceId": "u15-article-s8"
-    },
-    {
-      "id": "u15-article-v99",
-      "term": "huangshan",
-      "meaningZh": "黄山",
-      "exampleSentenceId": "u15-article-s14"
-    },
-    {
-      "id": "u15-article-v100",
-      "term": "then",
-      "meaningZh": "那时",
-      "exampleSentenceId": "u15-article-s15"
-    },
-    {
-      "id": "u15-article-v101",
-      "term": "thought",
-      "meaningZh": "认为（think的过去式）",
-      "exampleSentenceId": "u15-article-s15"
-    },
-    {
-      "id": "u15-article-v102",
-      "term": "tiandu",
-      "meaningZh": "天都（峰名）",
-      "exampleSentenceId": "u15-article-s15"
-    },
-    {
-      "id": "u15-article-v103",
       "term": "peak",
-      "meaningZh": "山峰",
+      "meaningZh": "山顶，山峰；山，山岳",
       "exampleSentenceId": "u15-article-s15"
     },
     {
-      "id": "u15-article-v104",
-      "term": "higher",
-      "meaningZh": "更高的",
-      "exampleSentenceId": "u15-article-s15"
-    },
-    {
-      "id": "u15-article-v105",
       "term": "than",
       "meaningZh": "比",
       "exampleSentenceId": "u15-article-s15"
     },
     {
-      "id": "u15-article-v106",
-      "term": "lianhua",
-      "meaningZh": "莲花（峰名）",
-      "exampleSentenceId": "u15-article-s15"
-    },
-    {
-      "id": "u15-article-v107",
-      "term": "find",
-      "meaningZh": "发现",
-      "exampleSentenceId": "u15-article-s16"
-    },
-    {
-      "id": "u15-article-v108",
       "term": "truth",
-      "meaningZh": "真相",
+      "meaningZh": "事实，真相，实情",
       "exampleSentenceId": "u15-article-s16"
     },
     {
-      "id": "u15-article-v109",
-      "term": "climbed",
-      "meaningZh": "攀登（climb的过去式）",
+      "term": "climb",
+      "meaningZh": "爬（山），登（山）",
       "exampleSentenceId": "u15-article-s16"
     },
     {
-      "id": "u15-article-v110",
       "term": "both",
-      "meaningZh": "两者的",
+      "meaningZh": "两者，双方，两个都",
       "exampleSentenceId": "u15-article-s16"
     },
     {
-      "id": "u15-article-v111",
-      "term": "peaks",
-      "meaningZh": "山峰",
-      "exampleSentenceId": "u15-article-s16"
-    },
-    {
-      "id": "u15-article-v112",
-      "term": "discovered",
-      "meaningZh": "发现（discover的过去式）",
+      "term": "discover",
+      "meaningZh": "发现，找到",
       "exampleSentenceId": "u15-article-s17"
     },
     {
-      "id": "u15-article-v113",
-      "term": "that",
-      "meaningZh": "那个",
-      "exampleSentenceId": "u15-article-s17"
-    },
-    {
-      "id": "u15-article-v114",
-      "term": "gave",
-      "meaningZh": "给（give的过去式）",
-      "exampleSentenceId": "u15-article-s17"
-    },
-    {
-      "id": "u15-article-v115",
-      "term": "wider",
-      "meaningZh": "更宽的",
-      "exampleSentenceId": "u15-article-s17"
-    },
-    {
-      "id": "u15-article-v116",
       "term": "view",
       "meaningZh": "视野",
       "exampleSentenceId": "u15-article-s17"
     },
     {
-      "id": "u15-article-v117",
-      "term": "must",
-      "meaningZh": "必须，一定",
-      "exampleSentenceId": "u15-article-s17"
-    },
-    {
-      "id": "u15-article-v118",
-      "term": "be",
-      "meaningZh": "是",
-      "exampleSentenceId": "u15-article-s16"
-    },
-    {
-      "id": "u15-article-v119",
-      "term": "right",
-      "meaningZh": "正确的",
-      "exampleSentenceId": "u15-article-s18"
-    },
-    {
-      "id": "u15-article-v120",
-      "term": "recorded",
-      "meaningZh": "记录（record的过去式）",
+      "term": "record",
+      "meaningZh": "记录",
       "exampleSentenceId": "u15-article-s19"
     },
     {
-      "id": "u15-article-v121",
-      "term": "experiences",
-      "meaningZh": "经历",
+      "term": "experience",
+      "meaningZh": "经验；经历",
       "exampleSentenceId": "u15-article-s19"
     },
     {
-      "id": "u15-article-v122",
       "term": "diary",
-      "meaningZh": "日记",
+      "meaningZh": "日记，日志",
       "exampleSentenceId": "u15-article-s19"
     },
     {
-      "id": "u15-article-v123",
-      "term": "later",
-      "meaningZh": "后来",
-      "exampleSentenceId": "u15-article-s20"
-    },
-    {
-      "id": "u15-article-v124",
-      "term": "became",
-      "meaningZh": "成为（become的过去式）",
-      "exampleSentenceId": "u15-article-s20"
-    },
-    {
-      "id": "u15-article-v125",
-      "term": "notes",
-      "meaningZh": "笔记",
-      "exampleSentenceId": "u15-article-s20"
-    },
-    {
-      "id": "u15-article-v126",
-      "term": "thanks",
-      "meaningZh": "感谢",
-      "exampleSentenceId": "u15-article-s21"
-    },
-    {
-      "id": "u15-article-v127",
-      "term": "book",
-      "meaningZh": "书",
-      "exampleSentenceId": "u15-article-s21"
-    },
-    {
-      "id": "u15-article-v128",
-      "term": "we",
-      "meaningZh": "我们",
-      "exampleSentenceId": "u15-article-s10"
-    },
-    {
-      "id": "u15-article-v129",
-      "term": "can",
-      "meaningZh": "能",
-      "exampleSentenceId": "u15-article-s21"
-    },
-    {
-      "id": "u15-article-v130",
-      "term": "learn",
-      "meaningZh": "学习",
-      "exampleSentenceId": "u15-article-s21"
-    },
-    {
-      "id": "u15-article-v131",
-      "term": "almost",
-      "meaningZh": "几乎",
-      "exampleSentenceId": "u15-article-s21"
-    },
-    {
-      "id": "u15-article-v132",
-      "term": "ago",
-      "meaningZh": "以前",
-      "exampleSentenceId": "u15-article-s21"
-    },
-    {
-      "id": "u15-article-v133",
-      "term": "exploring",
-      "meaningZh": "探索",
-      "exampleSentenceId": "u15-article-s22"
-    },
-    {
-      "id": "u15-article-v134",
       "term": "unexplored",
-      "meaningZh": "未探索的",
+      "meaningZh": "（地方）未曾探索的，未经勘察的",
       "exampleSentenceId": "u15-article-s22"
     },
     {
-      "id": "u15-article-v135",
-      "term": "is",
-      "meaningZh": "是",
-      "exampleSentenceId": "u15-article-s2"
-    },
-    {
-      "id": "u15-article-v136",
-      "term": "best",
-      "meaningZh": "最好的",
-      "exampleSentenceId": "u15-article-s22"
-    },
-    {
-      "id": "u15-article-v137",
       "term": "description",
-      "meaningZh": "描述",
+      "meaningZh": "描述，描写，叙述",
       "exampleSentenceId": "u15-article-s22"
-    },
-    {
-      "id": "u15-article-v138",
-      "term": "chinese",
-      "meaningZh": "中国的",
-      "exampleSentenceId": "u15-article-s7"
     }
   ],
   "sentenceTasks": [],

@@ -245,699 +245,109 @@
   ],
   "vocabItems": [
     {
-      "id": "u14-article-v1",
-      "term": "at",
-      "meaningZh": "在（某处/某时间）",
-      "exampleSentenceId": "u14-article-s1"
-    },
-    {
-      "id": "u14-article-v2",
-      "term": "last",
-      "meaningZh": "最后；上一个",
-      "exampleSentenceId": "u14-article-s1"
-    },
-    {
-      "id": "u14-article-v3",
-      "term": "i",
-      "meaningZh": "我",
-      "exampleSentenceId": "u14-article-s1"
-    },
-    {
-      "id": "u14-article-v4",
-      "term": "arrived",
-      "meaningZh": "到达",
-      "exampleSentenceId": "u14-article-s1"
-    },
-    {
-      "id": "u14-article-v5",
-      "term": "in",
-      "meaningZh": "在...里面",
-      "exampleSentenceId": "u14-article-s1"
-    },
-    {
-      "id": "u14-article-v6",
-      "term": "chengdu",
-      "meaningZh": "成都（地名）",
-      "exampleSentenceId": "u14-article-s1"
-    },
-    {
-      "id": "u14-article-v7",
-      "term": "my",
-      "meaningZh": "我的",
-      "exampleSentenceId": "u14-article-s2"
-    },
-    {
-      "id": "u14-article-v8",
-      "term": "friend",
-      "meaningZh": "朋友",
-      "exampleSentenceId": "u14-article-s2"
-    },
-    {
-      "id": "u14-article-v9",
-      "term": "haoyu",
-      "meaningZh": "浩宇（人名）",
-      "exampleSentenceId": "u14-article-s2"
-    },
-    {
-      "id": "u14-article-v10",
-      "term": "took",
-      "meaningZh": "带；拿（take的过去式）",
-      "exampleSentenceId": "u14-article-s2"
-    },
-    {
-      "id": "u14-article-v11",
-      "term": "me",
-      "meaningZh": "我（宾格）",
-      "exampleSentenceId": "u14-article-s2"
-    },
-    {
-      "id": "u14-article-v12",
-      "term": "to",
-      "meaningZh": "向；朝",
-      "exampleSentenceId": "u14-article-s2"
-    },
-    {
-      "id": "u14-article-v13",
-      "term": "a",
-      "meaningZh": "一个",
-      "exampleSentenceId": "u14-article-s1"
-    },
-    {
-      "id": "u14-article-v14",
       "term": "restaurant",
-      "meaningZh": "餐馆",
+      "meaningZh": "饭店，餐馆",
       "exampleSentenceId": "u14-article-s2"
     },
     {
-      "id": "u14-article-v15",
-      "term": "right",
-      "meaningZh": "正好；直接；右边",
-      "exampleSentenceId": "u14-article-s2"
-    },
-    {
-      "id": "u14-article-v16",
-      "term": "from",
-      "meaningZh": "来自",
-      "exampleSentenceId": "u14-article-s2"
-    },
-    {
-      "id": "u14-article-v17",
-      "term": "the",
-      "meaningZh": "这；那",
-      "exampleSentenceId": "u14-article-s2"
-    },
-    {
-      "id": "u14-article-v18",
       "term": "airport",
-      "meaningZh": "机场",
+      "meaningZh": "机场，航空站（港）",
       "exampleSentenceId": "u14-article-s2"
     },
     {
-      "id": "u14-article-v19",
-      "term": "just",
-      "meaningZh": "仅仅；刚才",
-      "exampleSentenceId": "u14-article-s3"
-    },
-    {
-      "id": "u14-article-v20",
-      "term": "couldn't",
-      "meaningZh": "不能（could not）",
-      "exampleSentenceId": "u14-article-s3"
-    },
-    {
-      "id": "u14-article-v21",
-      "term": "wait",
-      "meaningZh": "等待",
-      "exampleSentenceId": "u14-article-s3"
-    },
-    {
-      "id": "u14-article-v22",
-      "term": "try",
-      "meaningZh": "尝试",
-      "exampleSentenceId": "u14-article-s3"
-    },
-    {
-      "id": "u14-article-v23",
-      "term": "tried",
-      "meaningZh": "尝试（try的过去式）",
-      "exampleSentenceId": "u14-article-s18"
-    },
-    {
-      "id": "u14-article-v24",
-      "term": "sichuan",
-      "meaningZh": "四川",
-      "exampleSentenceId": "u14-article-s3"
-    },
-    {
-      "id": "u14-article-v25",
-      "term": "hot",
-      "meaningZh": "热的；辣的",
-      "exampleSentenceId": "u14-article-s3"
-    },
-    {
-      "id": "u14-article-v26",
       "term": "pot",
-      "meaningZh": "锅",
+      "meaningZh": "（通常为金属制成的圆而深的）锅",
       "exampleSentenceId": "u14-article-s3"
     },
     {
-      "id": "u14-article-v27",
-      "term": "but",
-      "meaningZh": "但是",
-      "exampleSentenceId": "u14-article-s4"
-    },
-    {
-      "id": "u14-article-v28",
-      "term": "first",
-      "meaningZh": "第一的",
-      "exampleSentenceId": "u14-article-s4"
-    },
-    {
-      "id": "u14-article-v29",
       "term": "taste",
-      "meaningZh": "味道；品尝",
+      "meaningZh": "味道；有……的味道",
       "exampleSentenceId": "u14-article-s4"
     },
     {
-      "id": "u14-article-v30",
-      "term": "made",
-      "meaningZh": "使；制作（make的过去式）",
-      "exampleSentenceId": "u14-article-s4"
-    },
-    {
-      "id": "u14-article-v31",
-      "term": "mouth",
-      "meaningZh": "嘴",
-      "exampleSentenceId": "u14-article-s4"
-    },
-    {
-      "id": "u14-article-v32",
       "term": "burn",
-      "meaningZh": "燃烧；发烫",
+      "meaningZh": "（使）身体部位灼痛；（使）火辣辣地痛",
       "exampleSentenceId": "u14-article-s4"
     },
     {
-      "id": "u14-article-v33",
-      "term": "food",
-      "meaningZh": "食物",
-      "exampleSentenceId": "u14-article-s5"
-    },
-    {
-      "id": "u14-article-v34",
-      "term": "was",
-      "meaningZh": "是（is的过去式）",
-      "exampleSentenceId": "u14-article-s5"
-    },
-    {
-      "id": "u14-article-v35",
-      "term": "much",
-      "meaningZh": "非常；许多",
-      "exampleSentenceId": "u14-article-s5"
-    },
-    {
-      "id": "u14-article-v36",
-      "term": "hotter",
-      "meaningZh": "更热的；更辣的",
-      "exampleSentenceId": "u14-article-s5"
-    },
-    {
-      "id": "u14-article-v37",
       "term": "than",
       "meaningZh": "比",
       "exampleSentenceId": "u14-article-s5"
     },
     {
-      "id": "u14-article-v38",
-      "term": "expected",
-      "meaningZh": "预期",
+      "term": "expect",
+      "meaningZh": "预料，预期，预计",
       "exampleSentenceId": "u14-article-s5"
     },
     {
-      "id": "u14-article-v39",
       "term": "deep",
-      "meaningZh": "深的",
+      "meaningZh": "（呼吸或叹息）深深的",
       "exampleSentenceId": "u14-article-s6"
     },
     {
-      "id": "u14-article-v40",
       "term": "breath",
-      "meaningZh": "呼吸",
+      "meaningZh": "呼出的气；吸入的气",
       "exampleSentenceId": "u14-article-s6"
     },
     {
-      "id": "u14-article-v41",
-      "term": "and",
-      "meaningZh": "和",
-      "exampleSentenceId": "u14-article-s6"
-    },
-    {
-      "id": "u14-article-v42",
-      "term": "drank",
-      "meaningZh": "喝（drink的过去式）",
-      "exampleSentenceId": "u14-article-s6"
-    },
-    {
-      "id": "u14-article-v43",
-      "term": "whole",
-      "meaningZh": "整个的",
-      "exampleSentenceId": "u14-article-s6"
-    },
-    {
-      "id": "u14-article-v44",
-      "term": "glass",
-      "meaningZh": "玻璃杯",
-      "exampleSentenceId": "u14-article-s6"
-    },
-    {
-      "id": "u14-article-v45",
-      "term": "of",
-      "meaningZh": "...的",
-      "exampleSentenceId": "u14-article-s6"
-    },
-    {
-      "id": "u14-article-v46",
-      "term": "iced",
-      "meaningZh": "冰镇的",
-      "exampleSentenceId": "u14-article-s6"
-    },
-    {
-      "id": "u14-article-v47",
       "term": "lemon",
       "meaningZh": "柠檬",
       "exampleSentenceId": "u14-article-s6"
     },
     {
-      "id": "u14-article-v48",
-      "term": "tea",
-      "meaningZh": "茶",
-      "exampleSentenceId": "u14-article-s6"
-    },
-    {
-      "id": "u14-article-v49",
-      "term": "do",
-      "meaningZh": "做",
-      "exampleSentenceId": "u14-article-s7"
-    },
-    {
-      "id": "u14-article-v50",
-      "term": "you",
-      "meaningZh": "你",
-      "exampleSentenceId": "u14-article-s7"
-    },
-    {
-      "id": "u14-article-v51",
-      "term": "want",
-      "meaningZh": "想要",
-      "exampleSentenceId": "u14-article-s7"
-    },
-    {
-      "id": "u14-article-v52",
-      "term": "something",
-      "meaningZh": "某事；某物",
-      "exampleSentenceId": "u14-article-s7"
-    },
-    {
-      "id": "u14-article-v53",
       "term": "less",
-      "meaningZh": "更少的",
+      "meaningZh": "不那么多，更（较）少",
       "exampleSentenceId": "u14-article-s7"
     },
     {
-      "id": "u14-article-v54",
-      "term": "said",
-      "meaningZh": "说（say的过去式）",
-      "exampleSentenceId": "u14-article-s7"
-    },
-    {
-      "id": "u14-article-v55",
-      "term": "no",
-      "meaningZh": "不",
-      "exampleSentenceId": "u14-article-s8"
-    },
-    {
-      "id": "u14-article-v56",
-      "term": "replied",
-      "meaningZh": "回答",
-      "exampleSentenceId": "u14-article-s8"
-    },
-    {
-      "id": "u14-article-v57",
-      "term": "when",
-      "meaningZh": "当...时候",
-      "exampleSentenceId": "u14-article-s9"
-    },
-    {
-      "id": "u14-article-v58",
-      "term": "china",
-      "meaningZh": "中国",
-      "exampleSentenceId": "u14-article-s9"
-    },
-    {
-      "id": "u14-article-v59",
-      "term": "as",
-      "meaningZh": "像...一样",
-      "exampleSentenceId": "u14-article-s1"
-    },
-    {
-      "id": "u14-article-v60",
-      "term": "chinese",
-      "meaningZh": "中国的；中国人",
-      "exampleSentenceId": "u14-article-s9"
-    },
-    {
-      "id": "u14-article-v61",
-      "term": "carefully",
-      "meaningZh": "小心地",
-      "exampleSentenceId": "u14-article-s10"
-    },
-    {
-      "id": "u14-article-v62",
-      "term": "small",
-      "meaningZh": "小的",
-      "exampleSentenceId": "u14-article-s10"
-    },
-    {
-      "id": "u14-article-v63",
       "term": "mouthful",
-      "meaningZh": "一口",
+      "meaningZh": "（食物或饮料的）一口，一满口",
       "exampleSentenceId": "u14-article-s10"
     },
     {
-      "id": "u14-article-v64",
       "term": "surprisingly",
-      "meaningZh": "令人惊讶地",
+      "meaningZh": "惊人地，使人吃惊地，出人意料地",
       "exampleSentenceId": "u14-article-s11"
     },
     {
-      "id": "u14-article-v65",
-      "term": "started",
-      "meaningZh": "开始",
-      "exampleSentenceId": "u14-article-s11"
-    },
-    {
-      "id": "u14-article-v66",
-      "term": "enjoy",
-      "meaningZh": "享受",
-      "exampleSentenceId": "u14-article-s11"
-    },
-    {
-      "id": "u14-article-v67",
-      "term": "cooking",
-      "meaningZh": "烹饪",
-      "exampleSentenceId": "u14-article-s12"
-    },
-    {
-      "id": "u14-article-v68",
-      "term": "fun",
-      "meaningZh": "乐趣",
-      "exampleSentenceId": "u14-article-s12"
-    },
-    {
-      "id": "u14-article-v69",
-      "term": "eating",
-      "meaningZh": "吃",
-      "exampleSentenceId": "u14-article-s12"
-    },
-    {
-      "id": "u14-article-v70",
-      "term": "it",
-      "meaningZh": "它",
-      "exampleSentenceId": "u14-article-s3"
-    },
-    {
-      "id": "u14-article-v71",
-      "term": "after",
-      "meaningZh": "在...之后",
-      "exampleSentenceId": "u14-article-s13"
-    },
-    {
-      "id": "u14-article-v72",
-      "term": "lunch",
-      "meaningZh": "午餐",
-      "exampleSentenceId": "u14-article-s13"
-    },
-    {
-      "id": "u14-article-v73",
-      "term": "things",
-      "meaningZh": "事情；情况",
-      "exampleSentenceId": "u14-article-s13"
-    },
-    {
-      "id": "u14-article-v74",
-      "term": "went",
-      "meaningZh": "去（go的过去式）",
-      "exampleSentenceId": "u14-article-s13"
-    },
-    {
-      "id": "u14-article-v75",
-      "term": "really",
-      "meaningZh": "真正地",
-      "exampleSentenceId": "u14-article-s13"
-    },
-    {
-      "id": "u14-article-v76",
-      "term": "totally",
-      "meaningZh": "完全地",
-      "exampleSentenceId": "u14-article-s13"
-    },
-    {
-      "id": "u14-article-v77",
-      "term": "cool",
-      "meaningZh": "酷；凉爽",
-      "exampleSentenceId": "u14-article-s13"
-    },
-    {
-      "id": "u14-article-v78",
-      "term": "we",
-      "meaningZh": "我们",
-      "exampleSentenceId": "u14-article-s13"
-    },
-    {
-      "id": "u14-article-v79",
-      "term": "new",
-      "meaningZh": "新的",
-      "exampleSentenceId": "u14-article-s13"
-    },
-    {
-      "id": "u14-article-v80",
-      "term": "sanxingdui",
-      "meaningZh": "三星堆",
-      "exampleSentenceId": "u14-article-s13"
-    },
-    {
-      "id": "u14-article-v81",
-      "term": "museum",
-      "meaningZh": "博物馆",
-      "exampleSentenceId": "u14-article-s13"
-    },
-    {
-      "id": "u14-article-v82",
-      "term": "masks",
-      "meaningZh": "面具",
+      "term": "mask",
+      "meaningZh": "假面具，假面",
       "exampleSentenceId": "u14-article-s14"
     },
     {
-      "id": "u14-article-v83",
-      "term": "were",
-      "meaningZh": "是（are的过去式）",
-      "exampleSentenceId": "u14-article-s14"
-    },
-    {
-      "id": "u14-article-v84",
-      "term": "fantastic",
-      "meaningZh": "极好的",
-      "exampleSentenceId": "u14-article-s14"
-    },
-    {
-      "id": "u14-article-v85",
-      "term": "why",
-      "meaningZh": "为什么",
-      "exampleSentenceId": "u14-article-s15"
-    },
-    {
-      "id": "u14-article-v86",
-      "term": "are",
-      "meaningZh": "是",
-      "exampleSentenceId": "u14-article-s10"
-    },
-    {
-      "id": "u14-article-v87",
-      "term": "their",
-      "meaningZh": "他们的",
-      "exampleSentenceId": "u14-article-s15"
-    },
-    {
-      "id": "u14-article-v88",
-      "term": "eyes",
-      "meaningZh": "眼睛",
-      "exampleSentenceId": "u14-article-s15"
-    },
-    {
-      "id": "u14-article-v89",
-      "term": "ears",
-      "meaningZh": "耳朵",
-      "exampleSentenceId": "u14-article-s15"
-    },
-    {
-      "id": "u14-article-v90",
-      "term": "bigger",
-      "meaningZh": "更大的",
-      "exampleSentenceId": "u14-article-s15"
-    },
-    {
-      "id": "u14-article-v91",
       "term": "normal",
       "meaningZh": "正常的",
       "exampleSentenceId": "u14-article-s15"
     },
     {
-      "id": "u14-article-v92",
-      "term": "ones",
-      "meaningZh": "那些（代词）",
-      "exampleSentenceId": "u14-article-s15"
-    },
-    {
-      "id": "u14-article-v93",
       "term": "ancient",
       "meaningZh": "古代的",
       "exampleSentenceId": "u14-article-s16"
     },
     {
-      "id": "u14-article-v94",
-      "term": "shu",
-      "meaningZh": "蜀（地名/朝代）",
-      "exampleSentenceId": "u14-article-s16"
-    },
-    {
-      "id": "u14-article-v95",
-      "term": "people",
-      "meaningZh": "人们",
-      "exampleSentenceId": "u14-article-s16"
-    },
-    {
-      "id": "u14-article-v96",
       "term": "able",
-      "meaningZh": "能够的",
+      "meaningZh": "有能力做……的，会做……的",
       "exampleSentenceId": "u14-article-s16"
     },
     {
-      "id": "u14-article-v97",
-      "term": "see",
-      "meaningZh": "看见",
-      "exampleSentenceId": "u14-article-s16"
-    },
-    {
-      "id": "u14-article-v98",
-      "term": "hear",
-      "meaningZh": "听见",
-      "exampleSentenceId": "u14-article-s16"
-    },
-    {
-      "id": "u14-article-v99",
       "term": "further",
       "meaningZh": "更远",
       "exampleSentenceId": "u14-article-s16"
     },
     {
-      "id": "u14-article-v100",
-      "term": "us",
-      "meaningZh": "我们（宾格）",
-      "exampleSentenceId": "u14-article-s3"
-    },
-    {
-      "id": "u14-article-v101",
-      "term": "wondered",
-      "meaningZh": "想知道（wonder的过去式）",
+      "term": "wonder",
+      "meaningZh": "想要知道",
       "exampleSentenceId": "u14-article-s16"
     },
     {
-      "id": "u14-article-v102",
-      "term": "wanted",
-      "meaningZh": "想要",
-      "exampleSentenceId": "u14-article-s17"
-    },
-    {
-      "id": "u14-article-v103",
-      "term": "stay",
-      "meaningZh": "停留",
-      "exampleSentenceId": "u14-article-s17"
-    },
-    {
-      "id": "u14-article-v104",
-      "term": "for",
-      "meaningZh": "为了；长达",
-      "exampleSentenceId": "u14-article-s17"
-    },
-    {
-      "id": "u14-article-v105",
-      "term": "week",
-      "meaningZh": "周",
-      "exampleSentenceId": "u14-article-s17"
-    },
-    {
-      "id": "u14-article-v106",
-      "term": "day",
-      "meaningZh": "天",
-      "exampleSentenceId": "u14-article-s18"
-    },
-    {
-      "id": "u14-article-v107",
-      "term": "full",
-      "meaningZh": "满的",
-      "exampleSentenceId": "u14-article-s10"
-    },
-    {
-      "id": "u14-article-v108",
-      "term": "im",
-      "meaningZh": "我是（I am）"
-    },
-    {
-      "id": "u14-article-v109",
-      "term": "looking",
-      "meaningZh": "看（look的现在分词）",
-      "exampleSentenceId": "u14-article-s19"
-    },
-    {
-      "id": "u14-article-v110",
-      "term": "forward",
-      "meaningZh": "向前",
-      "exampleSentenceId": "u14-article-s19"
-    },
-    {
-      "id": "u14-article-v111",
-      "term": "rest",
-      "meaningZh": "剩余部分；休息",
-      "exampleSentenceId": "u14-article-s2"
-    },
-    {
-      "id": "u14-article-v112",
-      "term": "trip",
-      "meaningZh": "旅行",
-      "exampleSentenceId": "u14-article-s19"
-    },
-    {
-      "id": "u14-article-v113",
-      "term": "around",
-      "meaningZh": "环绕；在...周围",
-      "exampleSentenceId": "u14-article-s19"
-    },
-    {
-      "id": "u14-article-v114",
-      "term": "an",
-      "meaningZh": "一个（用于元音音素前）",
-      "exampleSentenceId": "u14-article-s2"
-    },
-    {
-      "id": "u14-article-v115",
       "term": "exciting",
-      "meaningZh": "令人兴奋的",
+      "meaningZh": "令人兴奋的；使人激动的；刺激的",
       "exampleSentenceId": "u14-article-s18"
     },
     {
-      "id": "u14-article-v116",
-      "term": "place",
-      "meaningZh": "地方",
-      "exampleSentenceId": "u14-article-s18"
+      "term": "trip",
+      "meaningZh": "旅游；旅行，出行",
+      "exampleSentenceId": "u14-article-s19"
     }
   ],
   "sentenceTasks": [],
