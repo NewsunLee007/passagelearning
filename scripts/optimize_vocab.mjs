@@ -28,7 +28,7 @@ for (const file of csvFiles) {
 console.log(`Loaded ${targetVocab.size} core vocabulary words from CSVs.`);
 
 const contentDir = path.join(process.cwd(), "public/content");
-const files = fs.readdirSync(contentDir).filter(f => f.endsWith("-article.json"));
+const files = fs.readdirSync(contentDir).filter(f => f.endsWith(".json") && f !== "article-demo.json");
 
 function normalizeWord(token) {
   return token.replace(/[.,!?;:—"“”'’()[\]{}*]+$/g, "").replace(/^[("“”'’]+/g, "").toLowerCase();
@@ -43,6 +43,8 @@ for (const file of files) {
   // 1. Collect all normalized tokens from the article
   const articleTokens = new Set();
   const tokenToSentenceId = new Map();
+
+  if (!data.sentences) continue;
 
   for (const s of data.sentences) {
     const tokens = s.text.split(/\s+/);

@@ -353,1046 +353,84 @@
   ],
   "vocabItems": [
     {
-      "id": "g8b-u2-p2-v1",
-      "term": "17",
-      "meaningZh": "十七",
-      "exampleSentenceId": "g8b-u2-p2-s8"
-    },
-    {
-      "id": "g8b-u2-p2-v2",
-      "term": "21",
-      "meaningZh": "二十一",
-      "exampleSentenceId": "g8b-u2-p2-s1"
-    },
-    {
-      "id": "g8b-u2-p2-v3",
-      "term": "2021",
-      "meaningZh": "2021年",
-      "exampleSentenceId": "g8b-u2-p2-s1"
-    },
-    {
-      "id": "g8b-u2-p2-v4",
-      "term": "2025",
-      "meaningZh": "2025年",
-      "exampleSentenceId": "g8b-u2-p2-s8"
-    },
-    {
-      "id": "g8b-u2-p2-v5",
-      "term": "october",
-      "meaningZh": "十月",
-      "exampleSentenceId": "g8b-u2-p2-s1"
-    },
-    {
-      "id": "g8b-u2-p2-v6",
-      "term": "dear",
-      "meaningZh": "亲爱的",
-      "exampleSentenceId": "g8b-u2-p2-s2"
-    },
-    {
-      "id": "g8b-u2-p2-v7",
       "term": "diary",
       "meaningZh": "日记",
       "exampleSentenceId": "g8b-u2-p2-s2"
     },
     {
-      "id": "g8b-u2-p2-v8",
-      "term": "i",
-      "meaningZh": "我",
-      "exampleSentenceId": "g8b-u2-p2-s2"
-    },
-    {
-      "id": "g8b-u2-p2-v9",
-      "term": "had",
-      "meaningZh": "有；度过 (have的过去式)",
-      "exampleSentenceId": "g8b-u2-p2-s3"
-    },
-    {
-      "id": "g8b-u2-p2-v10",
-      "term": "a",
-      "meaningZh": "一个",
-      "exampleSentenceId": "g8b-u2-p2-s2"
-    },
-    {
-      "id": "g8b-u2-p2-v11",
-      "term": "really",
-      "meaningZh": "真正地；非常",
-      "exampleSentenceId": "g8b-u2-p2-s3"
-    },
-    {
-      "id": "g8b-u2-p2-v12",
-      "term": "bad",
-      "meaningZh": "坏的；糟糕的",
-      "exampleSentenceId": "g8b-u2-p2-s3"
-    },
-    {
-      "id": "g8b-u2-p2-v13",
-      "term": "day",
-      "meaningZh": "一天",
-      "exampleSentenceId": "g8b-u2-p2-s3"
-    },
-    {
-      "id": "g8b-u2-p2-v14",
-      "term": "tried",
-      "meaningZh": "尝试 (try的过去式)",
-      "exampleSentenceId": "g8b-u2-p2-s4"
-    },
-    {
-      "id": "g8b-u2-p2-v15",
-      "term": "out",
-      "meaningZh": "向外",
-      "exampleSentenceId": "g8b-u2-p2-s4"
-    },
-    {
-      "id": "g8b-u2-p2-v16",
-      "term": "for",
-      "meaningZh": "为了",
-      "exampleSentenceId": "g8b-u2-p2-s4"
-    },
-    {
-      "id": "g8b-u2-p2-v17",
-      "term": "the",
-      "meaningZh": "这；那",
-      "exampleSentenceId": "g8b-u2-p2-s4"
-    },
-    {
-      "id": "g8b-u2-p2-v18",
-      "term": "basketball",
-      "meaningZh": "篮球",
-      "exampleSentenceId": "g8b-u2-p2-s4"
-    },
-    {
-      "id": "g8b-u2-p2-v19",
-      "term": "team",
-      "meaningZh": "队伍",
-      "exampleSentenceId": "g8b-u2-p2-s4"
-    },
-    {
-      "id": "g8b-u2-p2-v20",
-      "term": "but",
-      "meaningZh": "但是",
-      "exampleSentenceId": "g8b-u2-p2-s4"
-    },
-    {
-      "id": "g8b-u2-p2-v21",
-      "term": "coach",
-      "meaningZh": "教练",
-      "exampleSentenceId": "g8b-u2-p2-s4"
-    },
-    {
-      "id": "g8b-u2-p2-v22",
-      "term": "said",
-      "meaningZh": "说 (say的过去式)",
-      "exampleSentenceId": "g8b-u2-p2-s4"
-    },
-    {
-      "id": "g8b-u2-p2-v23",
-      "term": "wasn't",
-      "meaningZh": "不是 (was not)",
-      "exampleSentenceId": "g8b-u2-p2-s4"
-    },
-    {
-      "id": "g8b-u2-p2-v24",
-      "term": "tall",
-      "meaningZh": "高的",
-      "exampleSentenceId": "g8b-u2-p2-s4"
-    },
-    {
-      "id": "g8b-u2-p2-v25",
-      "term": "enough",
-      "meaningZh": "足够地",
-      "exampleSentenceId": "g8b-u2-p2-s4"
-    },
-    {
-      "id": "g8b-u2-p2-v26",
-      "term": "this",
-      "meaningZh": "这",
-      "exampleSentenceId": "g8b-u2-p2-s5"
-    },
-    {
-      "id": "g8b-u2-p2-v27",
-      "term": "has",
-      "meaningZh": "有 (have的第三人称单数)",
-      "exampleSentenceId": "g8b-u2-p2-s5"
-    },
-    {
-      "id": "g8b-u2-p2-v28",
-      "term": "been",
-      "meaningZh": "是 (be的过去分词)",
-      "exampleSentenceId": "g8b-u2-p2-s5"
-    },
-    {
-      "id": "g8b-u2-p2-v29",
-      "term": "my",
-      "meaningZh": "我的",
-      "exampleSentenceId": "g8b-u2-p2-s5"
-    },
-    {
-      "id": "g8b-u2-p2-v30",
       "term": "dream",
       "meaningZh": "梦想",
       "exampleSentenceId": "g8b-u2-p2-s5"
     },
     {
-      "id": "g8b-u2-p2-v31",
-      "term": "since",
-      "meaningZh": "自从",
-      "exampleSentenceId": "g8b-u2-p2-s5"
-    },
-    {
-      "id": "g8b-u2-p2-v32",
-      "term": "was",
-      "meaningZh": "是 (is/am的过去式)",
-      "exampleSentenceId": "g8b-u2-p2-s4"
-    },
-    {
-      "id": "g8b-u2-p2-v33",
-      "term": "little",
-      "meaningZh": "小的；年幼的",
-      "exampleSentenceId": "g8b-u2-p2-s5"
-    },
-    {
-      "id": "g8b-u2-p2-v34",
-      "term": "girl",
-      "meaningZh": "女孩",
-      "exampleSentenceId": "g8b-u2-p2-s5"
-    },
-    {
-      "id": "g8b-u2-p2-v35",
-      "term": "have",
-      "meaningZh": "有",
+      "term": "end",
+      "meaningZh": "使结束，使停止",
       "exampleSentenceId": "g8b-u2-p2-s6"
     },
     {
-      "id": "g8b-u2-p2-v36",
-      "term": "practised",
-      "meaningZh": "练习 (practise的过去式)",
-      "exampleSentenceId": "g8b-u2-p2-s6"
-    },
-    {
-      "id": "g8b-u2-p2-v37",
-      "term": "so",
-      "meaningZh": "如此；非常",
-      "exampleSentenceId": "g8b-u2-p2-s6"
-    },
-    {
-      "id": "g8b-u2-p2-v38",
-      "term": "much",
-      "meaningZh": "非常；大量",
-      "exampleSentenceId": "g8b-u2-p2-s6"
-    },
-    {
-      "id": "g8b-u2-p2-v39",
-      "term": "and",
-      "meaningZh": "和",
-      "exampleSentenceId": "g8b-u2-p2-s6"
-    },
-    {
-      "id": "g8b-u2-p2-v40",
-      "term": "it",
-      "meaningZh": "它",
-      "exampleSentenceId": "g8b-u2-p2-s5"
-    },
-    {
-      "id": "g8b-u2-p2-v41",
-      "term": "all",
-      "meaningZh": "完全；都",
-      "exampleSentenceId": "g8b-u2-p2-s3"
-    },
-    {
-      "id": "g8b-u2-p2-v42",
-      "term": "ended",
-      "meaningZh": "结束 (end的过去式)",
-      "exampleSentenceId": "g8b-u2-p2-s6"
-    },
-    {
-      "id": "g8b-u2-p2-v43",
-      "term": "today",
-      "meaningZh": "今天",
-      "exampleSentenceId": "g8b-u2-p2-s6"
-    },
-    {
-      "id": "g8b-u2-p2-v44",
-      "term": "feel",
-      "meaningZh": "感觉",
-      "exampleSentenceId": "g8b-u2-p2-s7"
-    },
-    {
-      "id": "g8b-u2-p2-v45",
-      "term": "very",
-      "meaningZh": "非常",
-      "exampleSentenceId": "g8b-u2-p2-s7"
-    },
-    {
-      "id": "g8b-u2-p2-v46",
-      "term": "september",
-      "meaningZh": "九月",
-      "exampleSentenceId": "g8b-u2-p2-s8"
-    },
-    {
-      "id": "g8b-u2-p2-v47",
-      "term": "just",
-      "meaningZh": "刚刚；只是",
-      "exampleSentenceId": "g8b-u2-p2-s10"
-    },
-    {
-      "id": "g8b-u2-p2-v48",
-      "term": "reading",
-      "meaningZh": "阅读 (read的现在分词)",
-      "exampleSentenceId": "g8b-u2-p2-s10"
-    },
-    {
-      "id": "g8b-u2-p2-v49",
-      "term": "from",
-      "meaningZh": "来自",
-      "exampleSentenceId": "g8b-u2-p2-s10"
-    },
-    {
-      "id": "g8b-u2-p2-v50",
-      "term": "four",
-      "meaningZh": "四",
-      "exampleSentenceId": "g8b-u2-p2-s10"
-    },
-    {
-      "id": "g8b-u2-p2-v51",
-      "term": "years",
-      "meaningZh": "年 (复数)",
-      "exampleSentenceId": "g8b-u2-p2-s10"
-    },
-    {
-      "id": "g8b-u2-p2-v52",
-      "term": "ago",
-      "meaningZh": "以前",
-      "exampleSentenceId": "g8b-u2-p2-s10"
-    },
-    {
-      "id": "g8b-u2-p2-v53",
-      "term": "how",
-      "meaningZh": "多么",
-      "exampleSentenceId": "g8b-u2-p2-s11"
-    },
-    {
-      "id": "g8b-u2-p2-v54",
-      "term": "time",
-      "meaningZh": "时间",
-      "exampleSentenceId": "g8b-u2-p2-s11"
-    },
-    {
-      "id": "g8b-u2-p2-v55",
-      "term": "flies",
-      "meaningZh": "飞逝 (fly的第三人称单数)",
-      "exampleSentenceId": "g8b-u2-p2-s11"
-    },
-    {
-      "id": "g8b-u2-p2-v56",
-      "term": "too",
-      "meaningZh": "太",
-      "exampleSentenceId": "g8b-u2-p2-s12"
-    },
-    {
-      "id": "g8b-u2-p2-v57",
-      "term": "fast",
-      "meaningZh": "快"
-    },
-    {
-      "id": "g8b-u2-p2-v58",
       "term": "disappointed",
       "meaningZh": "失望的",
       "exampleSentenceId": "g8b-u2-p2-s12"
     },
     {
-      "id": "g8b-u2-p2-v59",
-      "term": "at",
-      "meaningZh": "在",
+      "term": "fail",
+      "meaningZh": "失败；未做到",
       "exampleSentenceId": "g8b-u2-p2-s12"
     },
     {
-      "id": "g8b-u2-p2-v60",
-      "term": "being",
-      "meaningZh": "是 (be的现在分词)",
-      "exampleSentenceId": "g8b-u2-p2-s12"
-    },
-    {
-      "id": "g8b-u2-p2-v61",
-      "term": "short",
-      "meaningZh": "矮的",
-      "exampleSentenceId": "g8b-u2-p2-s12"
-    },
-    {
-      "id": "g8b-u2-p2-v62",
-      "term": "then",
-      "meaningZh": "那时",
-      "exampleSentenceId": "g8b-u2-p2-s12"
-    },
-    {
-      "id": "g8b-u2-p2-v63",
-      "term": "failing",
-      "meaningZh": "失败 (fail的现在分词)",
-      "exampleSentenceId": "g8b-u2-p2-s12"
-    },
-    {
-      "id": "g8b-u2-p2-v64",
-      "term": "to",
-      "meaningZh": "去；向",
-      "exampleSentenceId": "g8b-u2-p2-s1"
-    },
-    {
-      "id": "g8b-u2-p2-v65",
-      "term": "get",
-      "meaningZh": "得到；进入",
-      "exampleSentenceId": "g8b-u2-p2-s12"
-    },
-    {
-      "id": "g8b-u2-p2-v66",
-      "term": "on",
-      "meaningZh": "在...上",
-      "exampleSentenceId": "g8b-u2-p2-s12"
-    },
-    {
-      "id": "g8b-u2-p2-v67",
-      "term": "couldn't",
-      "meaningZh": "不能 (could not)",
-      "exampleSentenceId": "g8b-u2-p2-s13"
-    },
-    {
-      "id": "g8b-u2-p2-v68",
-      "term": "help",
-      "meaningZh": "忍住；帮助",
-      "exampleSentenceId": "g8b-u2-p2-s13"
-    },
-    {
-      "id": "g8b-u2-p2-v69",
-      "term": "laughing",
-      "meaningZh": "笑 (laugh的现在分词)",
-      "exampleSentenceId": "g8b-u2-p2-s13"
-    },
-    {
-      "id": "g8b-u2-p2-v70",
       "term": "heartbreaking",
       "meaningZh": "令人心碎的",
       "exampleSentenceId": "g8b-u2-p2-s13"
     },
     {
-      "id": "g8b-u2-p2-v71",
-      "term": "words",
-      "meaningZh": "话语 (复数)",
-      "exampleSentenceId": "g8b-u2-p2-s13"
-    },
-    {
-      "id": "g8b-u2-p2-v72",
-      "term": "big",
-      "meaningZh": "大的",
-      "exampleSentenceId": "g8b-u2-p2-s14"
-    },
-    {
-      "id": "g8b-u2-p2-v73",
-      "term": "deal",
-      "meaningZh": "交易；大事",
-      "exampleSentenceId": "g8b-u2-p2-s14"
-    },
-    {
-      "id": "g8b-u2-p2-v74",
-      "term": "me",
-      "meaningZh": "我 (宾格)",
-      "exampleSentenceId": "g8b-u2-p2-s11"
-    },
-    {
-      "id": "g8b-u2-p2-v75",
-      "term": "things",
-      "meaningZh": "事情 (复数)",
-      "exampleSentenceId": "g8b-u2-p2-s15"
-    },
-    {
-      "id": "g8b-u2-p2-v76",
-      "term": "changed",
-      "meaningZh": "改变 (change的过去式)",
-      "exampleSentenceId": "g8b-u2-p2-s15"
-    },
-    {
-      "id": "g8b-u2-p2-v77",
-      "term": "soon",
-      "meaningZh": "不久",
-      "exampleSentenceId": "g8b-u2-p2-s15"
-    },
-    {
-      "id": "g8b-u2-p2-v78",
-      "term": "after",
-      "meaningZh": "在...之后",
-      "exampleSentenceId": "g8b-u2-p2-s15"
-    },
-    {
-      "id": "g8b-u2-p2-v79",
-      "term": "that",
-      "meaningZh": "那",
-      "exampleSentenceId": "g8b-u2-p2-s15"
-    },
-    {
-      "id": "g8b-u2-p2-v80",
-      "term": "hurt",
-      "meaningZh": "受伤的",
-      "exampleSentenceId": "g8b-u2-p2-s16"
-    },
-    {
-      "id": "g8b-u2-p2-v81",
-      "term": "by",
-      "meaningZh": "被",
-      "exampleSentenceId": "g8b-u2-p2-s16"
-    },
-    {
-      "id": "g8b-u2-p2-v82",
-      "term": "failure",
-      "meaningZh": "失败",
-      "exampleSentenceId": "g8b-u2-p2-s16"
-    },
-    {
-      "id": "g8b-u2-p2-v83",
-      "term": "back",
-      "meaningZh": "回；向后",
-      "exampleSentenceId": "g8b-u2-p2-s12"
-    },
-    {
-      "id": "g8b-u2-p2-v84",
-      "term": "friends",
-      "meaningZh": "朋友 (复数)",
-      "exampleSentenceId": "g8b-u2-p2-s16"
-    },
-    {
-      "id": "g8b-u2-p2-v85",
-      "term": "were",
-      "meaningZh": "是 (are的过去式)",
-      "exampleSentenceId": "g8b-u2-p2-s16"
-    },
-    {
-      "id": "g8b-u2-p2-v86",
-      "term": "worried",
-      "meaningZh": "担心的",
-      "exampleSentenceId": "g8b-u2-p2-s16"
-    },
-    {
-      "id": "g8b-u2-p2-v87",
-      "term": "why",
-      "meaningZh": "为什么",
-      "exampleSentenceId": "g8b-u2-p2-s17"
-    },
-    {
-      "id": "g8b-u2-p2-v88",
-      "term": "not",
-      "meaningZh": "不",
-      "exampleSentenceId": "g8b-u2-p2-s17"
-    },
-    {
-      "id": "g8b-u2-p2-v89",
-      "term": "try",
-      "meaningZh": "尝试",
-      "exampleSentenceId": "g8b-u2-p2-s17"
-    },
-    {
-      "id": "g8b-u2-p2-v90",
-      "term": "something",
-      "meaningZh": "某事",
-      "exampleSentenceId": "g8b-u2-p2-s17"
-    },
-    {
-      "id": "g8b-u2-p2-v91",
-      "term": "else",
-      "meaningZh": "其他的",
-      "exampleSentenceId": "g8b-u2-p2-s17"
-    },
-    {
-      "id": "g8b-u2-p2-v92",
-      "term": "like",
-      "meaningZh": "像",
-      "exampleSentenceId": "g8b-u2-p2-s17"
-    },
-    {
-      "id": "g8b-u2-p2-v93",
-      "term": "swimming",
-      "meaningZh": "游泳",
-      "exampleSentenceId": "g8b-u2-p2-s17"
-    },
-    {
-      "id": "g8b-u2-p2-v94",
-      "term": "or",
-      "meaningZh": "或者",
-      "exampleSentenceId": "g8b-u2-p2-s4"
-    },
-    {
-      "id": "g8b-u2-p2-v95",
       "term": "skiing",
       "meaningZh": "滑雪",
       "exampleSentenceId": "g8b-u2-p2-s17"
     },
     {
-      "id": "g8b-u2-p2-v96",
-      "term": "suggested",
-      "meaningZh": "建议 (suggest的过去式)",
+      "term": "suggest",
+      "meaningZh": "暗示，暗指",
       "exampleSentenceId": "g8b-u2-p2-s17"
     },
     {
-      "id": "g8b-u2-p2-v97",
-      "term": "best",
-      "meaningZh": "最好的",
-      "exampleSentenceId": "g8b-u2-p2-s17"
-    },
-    {
-      "id": "g8b-u2-p2-v98",
-      "term": "friend",
-      "meaningZh": "朋友",
-      "exampleSentenceId": "g8b-u2-p2-s16"
-    },
-    {
-      "id": "g8b-u2-p2-v99",
-      "term": "first",
-      "meaningZh": "起初",
-      "exampleSentenceId": "g8b-u2-p2-s18"
-    },
-    {
-      "id": "g8b-u2-p2-v100",
-      "term": "swam",
-      "meaningZh": "游泳 (swim的过去式)",
-      "exampleSentenceId": "g8b-u2-p2-s18"
-    },
-    {
-      "id": "g8b-u2-p2-v101",
-      "term": "take",
-      "meaningZh": "拿；带",
-      "exampleSentenceId": "g8b-u2-p2-s18"
-    },
-    {
-      "id": "g8b-u2-p2-v102",
-      "term": "mind",
-      "meaningZh": "心思",
-      "exampleSentenceId": "g8b-u2-p2-s18"
-    },
-    {
-      "id": "g8b-u2-p2-v103",
-      "term": "off",
-      "meaningZh": "脱离",
-      "exampleSentenceId": "g8b-u2-p2-s18"
-    },
-    {
-      "id": "g8b-u2-p2-v104",
-      "term": "fell",
-      "meaningZh": "掉落 (fall的过去式)",
-      "exampleSentenceId": "g8b-u2-p2-s19"
-    },
-    {
-      "id": "g8b-u2-p2-v105",
       "term": "completely",
       "meaningZh": "完全地",
       "exampleSentenceId": "g8b-u2-p2-s19"
     },
     {
-      "id": "g8b-u2-p2-v106",
-      "term": "in",
-      "meaningZh": "在...里",
-      "exampleSentenceId": "g8b-u2-p2-s5"
-    },
-    {
-      "id": "g8b-u2-p2-v107",
-      "term": "love",
-      "meaningZh": "爱",
-      "exampleSentenceId": "g8b-u2-p2-s19"
-    },
-    {
-      "id": "g8b-u2-p2-v108",
-      "term": "with",
-      "meaningZh": "和...在一起",
-      "exampleSentenceId": "g8b-u2-p2-s19"
-    },
-    {
-      "id": "g8b-u2-p2-v109",
-      "term": "sport",
-      "meaningZh": "运动",
-      "exampleSentenceId": "g8b-u2-p2-s19"
-    },
-    {
-      "id": "g8b-u2-p2-v110",
-      "term": "i've",
-      "meaningZh": "我有 (I have)",
-      "exampleSentenceId": "g8b-u2-p2-s20"
-    },
-    {
-      "id": "g8b-u2-p2-v111",
-      "term": "won",
-      "meaningZh": "赢得 (win的过去式)",
-      "exampleSentenceId": "g8b-u2-p2-s20"
-    },
-    {
-      "id": "g8b-u2-p2-v112",
-      "term": "several",
-      "meaningZh": "几个",
-      "exampleSentenceId": "g8b-u2-p2-s20"
-    },
-    {
-      "id": "g8b-u2-p2-v113",
-      "term": "competitions",
-      "meaningZh": "比赛 (复数)",
-      "exampleSentenceId": "g8b-u2-p2-s20"
-    },
-    {
-      "id": "g8b-u2-p2-v114",
-      "term": "now",
-      "meaningZh": "现在",
-      "exampleSentenceId": "g8b-u2-p2-s20"
-    },
-    {
-      "id": "g8b-u2-p2-v115",
-      "term": "made",
-      "meaningZh": "交(朋友)；制作",
-      "exampleSentenceId": "g8b-u2-p2-s20"
-    },
-    {
-      "id": "g8b-u2-p2-v116",
-      "term": "lot",
-      "meaningZh": "大量",
-      "exampleSentenceId": "g8b-u2-p2-s20"
-    },
-    {
-      "id": "g8b-u2-p2-v117",
-      "term": "of",
-      "meaningZh": "的",
-      "exampleSentenceId": "g8b-u2-p2-s18"
-    },
-    {
-      "id": "g8b-u2-p2-v118",
-      "term": "life",
-      "meaningZh": "生活；人生",
-      "exampleSentenceId": "g8b-u2-p2-s21"
-    },
-    {
-      "id": "g8b-u2-p2-v119",
-      "term": "taken",
-      "meaningZh": "拿 (take的过去分词)",
-      "exampleSentenceId": "g8b-u2-p2-s21"
-    },
-    {
-      "id": "g8b-u2-p2-v120",
-      "term": "different",
-      "meaningZh": "不同的",
-      "exampleSentenceId": "g8b-u2-p2-s21"
-    },
-    {
-      "id": "g8b-u2-p2-v121",
-      "term": "turn",
-      "meaningZh": "转折",
-      "exampleSentenceId": "g8b-u2-p2-s21"
-    },
-    {
-      "id": "g8b-u2-p2-v122",
-      "term": "it's",
-      "meaningZh": "它是 (it is)",
-      "exampleSentenceId": "g8b-u2-p2-s22"
-    },
-    {
-      "id": "g8b-u2-p2-v123",
-      "term": "great",
-      "meaningZh": "棒的",
-      "exampleSentenceId": "g8b-u2-p2-s22"
-    },
-    {
-      "id": "g8b-u2-p2-v124",
-      "term": "look",
-      "meaningZh": "看",
-      "exampleSentenceId": "g8b-u2-p2-s22"
-    },
-    {
-      "id": "g8b-u2-p2-v125",
-      "term": "see",
-      "meaningZh": "看见",
-      "exampleSentenceId": "g8b-u2-p2-s22"
-    },
-    {
-      "id": "g8b-u2-p2-v126",
-      "term": "pains",
-      "meaningZh": "痛苦 (复数)",
-      "exampleSentenceId": "g8b-u2-p2-s22"
-    },
-    {
-      "id": "g8b-u2-p2-v127",
-      "term": "gains",
-      "meaningZh": "收获 (复数)",
-      "exampleSentenceId": "g8b-u2-p2-s22"
-    },
-    {
-      "id": "g8b-u2-p2-v128",
       "term": "fresh",
       "meaningZh": "新鲜的",
       "exampleSentenceId": "g8b-u2-p2-s22"
     },
     {
-      "id": "g8b-u2-p2-v129",
-      "term": "eyes",
-      "meaningZh": "眼睛 (复数)",
-      "exampleSentenceId": "g8b-u2-p2-s22"
-    },
-    {
-      "id": "g8b-u2-p2-v130",
-      "term": "growing",
-      "meaningZh": "成长 (grow的现在分词)",
-      "exampleSentenceId": "g8b-u2-p2-s23"
-    },
-    {
-      "id": "g8b-u2-p2-v131",
-      "term": "up",
-      "meaningZh": "向上",
-      "exampleSentenceId": "g8b-u2-p2-s23"
-    },
-    {
-      "id": "g8b-u2-p2-v132",
-      "term": "will",
-      "meaningZh": "将要",
-      "exampleSentenceId": "g8b-u2-p2-s23"
-    },
-    {
-      "id": "g8b-u2-p2-v133",
-      "term": "never",
-      "meaningZh": "从不",
-      "exampleSentenceId": "g8b-u2-p2-s23"
-    },
-    {
-      "id": "g8b-u2-p2-v134",
-      "term": "be",
-      "meaningZh": "是",
-      "exampleSentenceId": "g8b-u2-p2-s1"
-    },
-    {
-      "id": "g8b-u2-p2-v135",
-      "term": "an",
-      "meaningZh": "一个",
-      "exampleSentenceId": "g8b-u2-p2-s6"
-    },
-    {
-      "id": "g8b-u2-p2-v136",
-      "term": "easy",
-      "meaningZh": "容易的",
-      "exampleSentenceId": "g8b-u2-p2-s23"
-    },
-    {
-      "id": "g8b-u2-p2-v137",
-      "term": "thing",
-      "meaningZh": "事情",
-      "exampleSentenceId": "g8b-u2-p2-s15"
-    },
-    {
-      "id": "g8b-u2-p2-v138",
-      "term": "we",
-      "meaningZh": "我们",
-      "exampleSentenceId": "g8b-u2-p2-s16"
-    },
-    {
-      "id": "g8b-u2-p2-v139",
-      "term": "need",
-      "meaningZh": "需要",
-      "exampleSentenceId": "g8b-u2-p2-s24"
-    },
-    {
-      "id": "g8b-u2-p2-v140",
-      "term": "challenges",
-      "meaningZh": "挑战 (复数)",
-      "exampleSentenceId": "g8b-u2-p2-s24"
-    },
-    {
-      "id": "g8b-u2-p2-v141",
-      "term": "right",
-      "meaningZh": "正确的",
-      "exampleSentenceId": "g8b-u2-p2-s24"
-    },
-    {
-      "id": "g8b-u2-p2-v142",
-      "term": "way",
-      "meaningZh": "方式",
-      "exampleSentenceId": "g8b-u2-p2-s24"
-    },
-    {
-      "id": "g8b-u2-p2-v143",
       "term": "understand",
       "meaningZh": "理解",
       "exampleSentenceId": "g8b-u2-p2-s25"
     },
     {
-      "id": "g8b-u2-p2-v144",
-      "term": "part",
-      "meaningZh": "部分",
-      "exampleSentenceId": "g8b-u2-p2-s25"
-    },
-    {
-      "id": "g8b-u2-p2-v145",
-      "term": "is",
-      "meaningZh": "是",
-      "exampleSentenceId": "g8b-u2-p2-s5"
-    },
-    {
-      "id": "g8b-u2-p2-v146",
-      "term": "may",
-      "meaningZh": "可能",
-      "exampleSentenceId": "g8b-u2-p2-s26"
-    },
-    {
-      "id": "g8b-u2-p2-v147",
       "term": "fall",
       "meaningZh": "降临；落下",
       "exampleSentenceId": "g8b-u2-p2-s26"
     },
     {
-      "id": "g8b-u2-p2-v148",
       "term": "upon",
       "meaningZh": "在...之上",
       "exampleSentenceId": "g8b-u2-p2-s26"
     },
     {
-      "id": "g8b-u2-p2-v149",
-      "term": "us",
-      "meaningZh": "我们 (宾格)",
-      "exampleSentenceId": "g8b-u2-p2-s10"
-    },
-    {
-      "id": "g8b-u2-p2-v150",
-      "term": "our",
-      "meaningZh": "我们的",
-      "exampleSentenceId": "g8b-u2-p2-s10"
-    },
-    {
-      "id": "g8b-u2-p2-v151",
-      "term": "any",
-      "meaningZh": "任何",
-      "exampleSentenceId": "g8b-u2-p2-s26"
-    },
-    {
-      "id": "g8b-u2-p2-v152",
-      "term": "stage",
-      "meaningZh": "阶段",
-      "exampleSentenceId": "g8b-u2-p2-s26"
-    },
-    {
-      "id": "g8b-u2-p2-v153",
-      "term": "lives",
-      "meaningZh": "生命 (life的复数)",
-      "exampleSentenceId": "g8b-u2-p2-s26"
-    },
-    {
-      "id": "g8b-u2-p2-v154",
-      "term": "experienced",
-      "meaningZh": "经历 (experience的过去分词)",
-      "exampleSentenceId": "g8b-u2-p2-s27"
-    },
-    {
-      "id": "g8b-u2-p2-v155",
-      "term": "many",
-      "meaningZh": "许多",
-      "exampleSentenceId": "g8b-u2-p2-s27"
-    },
-    {
-      "id": "g8b-u2-p2-v156",
       "term": "other",
       "meaningZh": "其他的",
       "exampleSentenceId": "g8b-u2-p2-s27"
     },
     {
-      "id": "g8b-u2-p2-v157",
-      "term": "terrible",
-      "meaningZh": "可怕的",
-      "exampleSentenceId": "g8b-u2-p2-s27"
-    },
-    {
-      "id": "g8b-u2-p2-v158",
-      "term": "moments",
-      "meaningZh": "时刻 (复数)",
-      "exampleSentenceId": "g8b-u2-p2-s27"
-    },
-    {
-      "id": "g8b-u2-p2-v159",
-      "term": "felt",
-      "meaningZh": "感觉 (feel的过去式)",
-      "exampleSentenceId": "g8b-u2-p2-s28"
-    },
-    {
-      "id": "g8b-u2-p2-v160",
-      "term": "sad",
-      "meaningZh": "难过的"
-    },
-    {
-      "id": "g8b-u2-p2-v161",
-      "term": "again",
-      "meaningZh": "再一次",
-      "exampleSentenceId": "g8b-u2-p2-s28"
-    },
-    {
-      "id": "g8b-u2-p2-v162",
-      "term": "know",
-      "meaningZh": "知道",
-      "exampleSentenceId": "g8b-u2-p2-s29"
-    },
-    {
-      "id": "g8b-u2-p2-v163",
-      "term": "clearly",
-      "meaningZh": "清楚地",
-      "exampleSentenceId": "g8b-u2-p2-s29"
-    },
-    {
-      "id": "g8b-u2-p2-v164",
-      "term": "lasts",
-      "meaningZh": "持续 (last的第三人称单数)",
-      "exampleSentenceId": "g8b-u2-p2-s29"
-    },
-    {
-      "id": "g8b-u2-p2-v165",
       "term": "moment",
       "meaningZh": "片刻",
       "exampleSentenceId": "g8b-u2-p2-s27"
     },
     {
-      "id": "g8b-u2-p2-v166",
-      "term": "when",
-      "meaningZh": "当...时候",
-      "exampleSentenceId": "g8b-u2-p2-s30"
-    },
-    {
-      "id": "g8b-u2-p2-v167",
-      "term": "one",
-      "meaningZh": "一个",
-      "exampleSentenceId": "g8b-u2-p2-s30"
-    },
-    {
-      "id": "g8b-u2-p2-v168",
-      "term": "door",
-      "meaningZh": "门",
-      "exampleSentenceId": "g8b-u2-p2-s30"
-    },
-    {
-      "id": "g8b-u2-p2-v169",
-      "term": "closes",
-      "meaningZh": "关闭 (close的第三人称单数)",
-      "exampleSentenceId": "g8b-u2-p2-s30"
-    },
-    {
-      "id": "g8b-u2-p2-v170",
-      "term": "another",
-      "meaningZh": "另一个",
-      "exampleSentenceId": "g8b-u2-p2-s30"
-    },
-    {
-      "id": "g8b-u2-p2-v171",
-      "term": "opens",
-      "meaningZh": "打开 (open的第三人称单数)",
-      "exampleSentenceId": "g8b-u2-p2-s30"
-    },
-    {
-      "id": "g8b-u2-p2-v172",
-      "term": "waiting",
-      "meaningZh": "等待 (wait的现在分词)",
-      "exampleSentenceId": "g8b-u2-p2-s31"
-    },
-    {
-      "id": "g8b-u2-p2-v173",
-      "term": "surprises",
-      "meaningZh": "惊喜 (复数)",
-      "exampleSentenceId": "g8b-u2-p2-s31"
-    },
-    {
-      "id": "g8b-u2-p2-v174",
-      "term": "tomorrow",
-      "meaningZh": "明天",
-      "exampleSentenceId": "g8b-u2-p2-s32"
+      "term": "clearly",
+      "meaningZh": "清楚地",
+      "exampleSentenceId": "g8b-u2-p2-s29"
     }
   ],
   "sentenceTasks": [],
@@ -2856,6 +1894,27 @@
       "usageZh": "",
       "example": "",
       "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/svCmG8o6pGJDHSchjARec9.mp3"
+    },
+    "end": {
+      "phonetic": "/end/",
+      "pos": "v.",
+      "meaningZh": "使结束，使停止",
+      "usageZh": "常见搭配：end with (以...结束)，end in (以...告终)",
+      "example": "The meeting ended at 5 o'clock. (会议在五点钟结束了。)"
+    },
+    "fail": {
+      "phonetic": "/feɪl/",
+      "pos": "v.",
+      "meaningZh": "失败；未做到",
+      "usageZh": "常见搭配：fail to do (未能做某事)，fail in (在...方面失败)",
+      "example": "He failed the math test. (他数学考试没及格。)"
+    },
+    "suggest": {
+      "phonetic": "/səˈdʒest/",
+      "pos": "v.",
+      "meaningZh": "暗示，暗指",
+      "usageZh": "常见搭配：suggest that (暗示...)，suggest doing (建议做某事)",
+      "example": "Her smile suggested she was happy. (她的微笑暗示她很开心。)"
     }
   }
 }

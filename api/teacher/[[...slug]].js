@@ -298,7 +298,7 @@ Keep IDs stable and references valid. Include 5-10 lexicon entries and 3-5 readi
 export default async function handler(req, res) {
   try {
     const slug = req.query.slug;
-    const parts = Array.isArray(slug) ? slug.map((part) => String(part || "").trim()).filter(Boolean) : [];
+    const parts = Array.isArray(slug) ? slug.map((part) => String(part || "").trim()).filter(Boolean) : (typeof slug === "string" ? slug.split("/").filter(Boolean) : []);
     const route = String(parts[0] || "").trim();
 
     if (route === "login") return await handleTeacherLogin(req, res);

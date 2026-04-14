@@ -7,7 +7,7 @@ if (!apiKey) {
   throw new Error("Missing DEEPSEEK_API_KEY.");
 }
 const contentDir = path.join(process.cwd(), "public/content");
-const files = fs.readdirSync(contentDir).filter(f => f.endsWith("-article.json"));
+const files = fs.readdirSync(contentDir).filter(f => f.endsWith(".json") && f !== "article-demo.json");
 
 async function processFiles() {
   for (const file of files) {

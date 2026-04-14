@@ -305,999 +305,109 @@
   ],
   "vocabItems": [
     {
-      "id": "g8b-u1-p2-v1",
-      "term": "20",
-      "meaningZh": "二十",
-      "exampleSentenceId": "g8b-u1-p2-s12"
-    },
-    {
-      "id": "g8b-u1-p2-v2",
-      "term": "which",
-      "meaningZh": "哪一个，哪些"
-    },
-    {
-      "id": "g8b-u1-p2-v3",
-      "term": "jobs",
-      "meaningZh": "工作（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s1"
-    },
-    {
-      "id": "g8b-u1-p2-v4",
-      "term": "will",
-      "meaningZh": "将要",
-      "exampleSentenceId": "g8b-u1-p2-s11"
-    },
-    {
-      "id": "g8b-u1-p2-v5",
-      "term": "soon",
-      "meaningZh": "很快，不久",
-      "exampleSentenceId": "g8b-u1-p2-s8"
-    },
-    {
-      "id": "g8b-u1-p2-v6",
-      "term": "be",
-      "meaningZh": "是，成为",
-      "exampleSentenceId": "g8b-u1-p2-s2"
-    },
-    {
-      "id": "g8b-u1-p2-v7",
-      "term": "and",
-      "meaningZh": "和，与",
-      "exampleSentenceId": "g8b-u1-p2-s7"
-    },
-    {
-      "id": "g8b-u1-p2-v8",
-      "term": "ones",
-      "meaningZh": "一些（代词）",
-      "exampleSentenceId": "g8b-u1-p2-s6"
-    },
-    {
-      "id": "g8b-u1-p2-v9",
-      "term": "are",
-      "meaningZh": "是（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s5"
-    },
-    {
-      "id": "g8b-u1-p2-v10",
-      "term": "on",
-      "meaningZh": "在...上",
-      "exampleSentenceId": "g8b-u1-p2-s5"
-    },
-    {
-      "id": "g8b-u1-p2-v11",
-      "term": "the",
-      "meaningZh": "这个，那个（定冠词）",
-      "exampleSentenceId": "g8b-u1-p2-s2"
-    },
-    {
-      "id": "g8b-u1-p2-v12",
-      "term": "way",
-      "meaningZh": "道路，方式"
-    },
-    {
-      "id": "g8b-u1-p2-v13",
-      "term": "people's",
-      "meaningZh": "人们的",
-      "exampleSentenceId": "g8b-u1-p2-s1"
-    },
-    {
-      "id": "g8b-u1-p2-v14",
-      "term": "people",
-      "meaningZh": "人们",
-      "exampleSentenceId": "g8b-u1-p2-s1"
-    },
-    {
-      "id": "g8b-u1-p2-v15",
-      "term": "have",
-      "meaningZh": "有，已经",
-      "exampleSentenceId": "g8b-u1-p2-s1"
-    },
-    {
-      "id": "g8b-u1-p2-v16",
-      "term": "changed",
-      "meaningZh": "改变（过去分词）",
-      "exampleSentenceId": "g8b-u1-p2-s1"
-    },
-    {
-      "id": "g8b-u1-p2-v17",
-      "term": "throughout",
-      "meaningZh": "贯穿，遍及",
-      "exampleSentenceId": "g8b-u1-p2-s1"
-    },
-    {
-      "id": "g8b-u1-p2-v18",
-      "term": "if",
-      "meaningZh": "如果",
-      "exampleSentenceId": "g8b-u1-p2-s2"
-    },
-    {
-      "id": "g8b-u1-p2-v19",
-      "term": "you",
-      "meaningZh": "你，你们",
-      "exampleSentenceId": "g8b-u1-p2-s2"
-    },
-    {
-      "id": "g8b-u1-p2-v20",
-      "term": "lived",
-      "meaningZh": "生活（过去式）",
-      "exampleSentenceId": "g8b-u1-p2-s2"
-    },
-    {
-      "id": "g8b-u1-p2-v21",
-      "term": "in",
-      "meaningZh": "在...里面",
-      "exampleSentenceId": "g8b-u1-p2-s2"
-    },
-    {
-      "id": "g8b-u1-p2-v22",
-      "term": "mid",
-      "meaningZh": "中间的",
-      "exampleSentenceId": "g8b-u1-p2-s2"
-    },
-    {
-      "id": "g8b-u1-p2-v23",
-      "term": "1300s",
-      "meaningZh": "14世纪",
-      "exampleSentenceId": "g8b-u1-p2-s2"
-    },
-    {
       "id": "g8b-u1-p2-v24",
       "term": "mid-1300s",
       "meaningZh": "14世纪中期",
       "exampleSentenceId": "g8b-u1-p2-s2"
     },
     {
-      "id": "g8b-u1-p2-v25",
+      "term": "if",
+      "meaningZh": "如果",
+      "exampleSentenceId": "g8b-u1-p2-s2"
+    },
+    {
       "term": "might",
       "meaningZh": "可能",
       "exampleSentenceId": "g8b-u1-p2-s2"
     },
     {
-      "id": "g8b-u1-p2-v26",
-      "term": "been",
-      "meaningZh": "是（过去分词）",
-      "exampleSentenceId": "g8b-u1-p2-s2"
-    },
-    {
-      "id": "g8b-u1-p2-v27",
-      "term": "a",
-      "meaningZh": "一个（不定冠词）",
-      "exampleSentenceId": "g8b-u1-p2-s1"
-    },
-    {
-      "id": "g8b-u1-p2-v28",
-      "term": "job",
-      "meaningZh": "工作",
-      "exampleSentenceId": "g8b-u1-p2-s1"
-    },
-    {
-      "id": "g8b-u1-p2-v29",
-      "term": "was",
-      "meaningZh": "是（过去式）",
-      "exampleSentenceId": "g8b-u1-p2-s3"
-    },
-    {
-      "id": "g8b-u1-p2-v30",
-      "term": "well",
-      "meaningZh": "很好地",
-      "exampleSentenceId": "g8b-u1-p2-s3"
-    },
-    {
-      "id": "g8b-u1-p2-v31",
-      "term": "ago",
-      "meaningZh": "以前",
-      "exampleSentenceId": "g8b-u1-p2-s3"
-    },
-    {
-      "id": "g8b-u1-p2-v32",
-      "term": "but",
-      "meaningZh": "但是",
-      "exampleSentenceId": "g8b-u1-p2-s3"
-    },
-    {
-      "id": "g8b-u1-p2-v33",
       "term": "few",
       "meaningZh": "很少的",
       "exampleSentenceId": "g8b-u1-p2-s3"
     },
     {
-      "id": "g8b-u1-p2-v34",
-      "term": "do",
-      "meaningZh": "做",
-      "exampleSentenceId": "g8b-u1-p2-s3"
-    },
-    {
-      "id": "g8b-u1-p2-v35",
-      "term": "it",
-      "meaningZh": "它",
-      "exampleSentenceId": "g8b-u1-p2-s3"
-    },
-    {
-      "id": "g8b-u1-p2-v36",
-      "term": "today",
-      "meaningZh": "今天",
-      "exampleSentenceId": "g8b-u1-p2-s3"
-    },
-    {
-      "id": "g8b-u1-p2-v37",
-      "term": "now",
-      "meaningZh": "现在",
+      "term": "develop",
+      "meaningZh": "（使）成长，（使）发展",
       "exampleSentenceId": "g8b-u1-p2-s4"
     },
     {
-      "id": "g8b-u1-p2-v38",
-      "term": "is",
-      "meaningZh": "是",
-      "exampleSentenceId": "g8b-u1-p2-s1"
-    },
-    {
-      "id": "g8b-u1-p2-v39",
-      "term": "at",
-      "meaningZh": "在",
-      "exampleSentenceId": "g8b-u1-p2-s2"
-    },
-    {
-      "id": "g8b-u1-p2-v40",
-      "term": "an",
-      "meaningZh": "一个（元音前）",
-      "exampleSentenceId": "g8b-u1-p2-s1"
-    },
-    {
-      "id": "g8b-u1-p2-v41",
-      "term": "even",
-      "meaningZh": "甚至",
-      "exampleSentenceId": "g8b-u1-p2-s4"
-    },
-    {
-      "id": "g8b-u1-p2-v42",
-      "term": "faster",
-      "meaningZh": "更快的",
-      "exampleSentenceId": "g8b-u1-p2-s4"
-    },
-    {
-      "id": "g8b-u1-p2-v43",
-      "term": "some",
-      "meaningZh": "一些",
+      "term": "disappear",
+      "meaningZh": "消失，不见",
       "exampleSentenceId": "g8b-u1-p2-s5"
     },
     {
-      "id": "g8b-u1-p2-v44",
       "term": "however",
       "meaningZh": "然而",
       "exampleSentenceId": "g8b-u1-p2-s6"
     },
     {
-      "id": "g8b-u1-p2-v45",
-      "term": "new",
-      "meaningZh": "新的",
-      "exampleSentenceId": "g8b-u1-p2-s6"
-    },
-    {
-      "id": "g8b-u1-p2-v46",
-      "term": "to",
-      "meaningZh": "到，向",
-      "exampleSentenceId": "g8b-u1-p2-s1"
-    },
-    {
-      "id": "g8b-u1-p2-v47",
-      "term": "meet",
-      "meaningZh": "满足，遇见",
-      "exampleSentenceId": "g8b-u1-p2-s6"
-    },
-    {
-      "id": "g8b-u1-p2-v48",
-      "term": "cashiers",
-      "meaningZh": "收银员（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s7"
-    },
-    {
-      "id": "g8b-u1-p2-v49",
-      "term": "shops",
-      "meaningZh": "商店（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s7"
-    },
-    {
-      "id": "g8b-u1-p2-v50",
-      "term": "supermarkets",
-      "meaningZh": "超市（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s7"
-    },
-    {
-      "id": "g8b-u1-p2-v51",
-      "term": "may",
-      "meaningZh": "可能",
-      "exampleSentenceId": "g8b-u1-p2-s7"
-    },
-    {
-      "id": "g8b-u1-p2-v52",
-      "term": "not",
-      "meaningZh": "不",
-      "exampleSentenceId": "g8b-u1-p2-s7"
-    },
-    {
-      "id": "g8b-u1-p2-v53",
-      "term": "near",
-      "meaningZh": "近的",
-      "exampleSentenceId": "g8b-u1-p2-s7"
-    },
-    {
-      "id": "g8b-u1-p2-v54",
-      "term": "they",
-      "meaningZh": "他们",
-      "exampleSentenceId": "g8b-u1-p2-s8"
-    },
-    {
-      "id": "g8b-u1-p2-v55",
-      "term": "by",
-      "meaningZh": "被，由",
-      "exampleSentenceId": "g8b-u1-p2-s8"
-    },
-    {
-      "id": "g8b-u1-p2-v56",
-      "term": "can",
-      "meaningZh": "能够",
-      "exampleSentenceId": "g8b-u1-p2-s9"
-    },
-    {
-      "id": "g8b-u1-p2-v57",
-      "term": "pay",
-      "meaningZh": "支付",
-      "exampleSentenceId": "g8b-u1-p2-s9"
-    },
-    {
-      "id": "g8b-u1-p2-v58",
-      "term": "their",
-      "meaningZh": "他们的",
-      "exampleSentenceId": "g8b-u1-p2-s9"
-    },
-    {
-      "id": "g8b-u1-p2-v59",
-      "term": "own",
-      "meaningZh": "自己的",
-      "exampleSentenceId": "g8b-u1-p2-s9"
-    },
-    {
-      "id": "g8b-u1-p2-v60",
-      "term": "these",
-      "meaningZh": "这些",
-      "exampleSentenceId": "g8b-u1-p2-s9"
-    },
-    {
-      "id": "g8b-u1-p2-v61",
-      "term": "places",
-      "meaningZh": "地方（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s9"
-    },
-    {
-      "id": "g8b-u1-p2-v62",
-      "term": "autopilots",
-      "meaningZh": "自动驾驶仪（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s10"
-    },
-    {
-      "id": "g8b-u1-p2-v63",
-      "term": "were",
-      "meaningZh": "是（过去式复数）",
-      "exampleSentenceId": "g8b-u1-p2-s10"
-    },
-    {
-      "id": "g8b-u1-p2-v64",
-      "term": "first",
-      "meaningZh": "第一的",
-      "exampleSentenceId": "g8b-u1-p2-s10"
-    },
-    {
-      "id": "g8b-u1-p2-v65",
-      "term": "used",
-      "meaningZh": "使用（过去分词）",
-      "exampleSentenceId": "g8b-u1-p2-s10"
-    },
-    {
-      "id": "g8b-u1-p2-v66",
-      "term": "planes",
-      "meaningZh": "飞机（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s10"
-    },
-    {
-      "id": "g8b-u1-p2-v67",
-      "term": "over",
-      "meaningZh": "超过",
-      "exampleSentenceId": "g8b-u1-p2-s10"
-    },
-    {
-      "id": "g8b-u1-p2-v68",
-      "term": "century",
-      "meaningZh": "世纪",
-      "exampleSentenceId": "g8b-u1-p2-s10"
-    },
-    {
-      "id": "g8b-u1-p2-v69",
-      "term": "with",
-      "meaningZh": "随着，与",
-      "exampleSentenceId": "g8b-u1-p2-s11"
-    },
-    {
-      "id": "g8b-u1-p2-v70",
-      "term": "of",
-      "meaningZh": "...的",
-      "exampleSentenceId": "g8b-u1-p2-s11"
-    },
-    {
-      "id": "g8b-u1-p2-v71",
-      "term": "perhaps",
-      "meaningZh": "也许",
-      "exampleSentenceId": "g8b-u1-p2-s11"
-    },
-    {
-      "id": "g8b-u1-p2-v72",
-      "term": "there",
-      "meaningZh": "那里",
-      "exampleSentenceId": "g8b-u1-p2-s11"
-    },
-    {
-      "id": "g8b-u1-p2-v73",
-      "term": "no",
-      "meaningZh": "没有",
-      "exampleSentenceId": "g8b-u1-p2-s4"
-    },
-    {
-      "id": "g8b-u1-p2-v74",
-      "term": "human",
-      "meaningZh": "人类的",
-      "exampleSentenceId": "g8b-u1-p2-s11"
-    },
-    {
-      "id": "g8b-u1-p2-v75",
-      "term": "started",
-      "meaningZh": "开始（过去式）",
-      "exampleSentenceId": "g8b-u1-p2-s12"
-    },
-    {
-      "id": "g8b-u1-p2-v76",
-      "term": "years",
-      "meaningZh": "年（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s12"
-    },
-    {
-      "id": "g8b-u1-p2-v77",
-      "term": "travelling",
-      "meaningZh": "旅行（现在分词）",
-      "exampleSentenceId": "g8b-u1-p2-s13"
-    },
-    {
-      "id": "g8b-u1-p2-v78",
-      "term": "surely",
-      "meaningZh": "肯定地",
-      "exampleSentenceId": "g8b-u1-p2-s13"
-    },
-    {
-      "id": "g8b-u1-p2-v79",
-      "term": "lower",
-      "meaningZh": "更低的",
-      "exampleSentenceId": "g8b-u1-p2-s13"
-    },
-    {
-      "id": "g8b-u1-p2-v80",
-      "term": "needed",
-      "meaningZh": "需要（过去分词）",
-      "exampleSentenceId": "g8b-u1-p2-s14"
-    },
-    {
-      "id": "g8b-u1-p2-v81",
-      "term": "more",
-      "meaningZh": "更多的",
-      "exampleSentenceId": "g8b-u1-p2-s15"
-    },
-    {
-      "id": "g8b-u1-p2-v82",
-      "term": "work",
-      "meaningZh": "工作",
-      "exampleSentenceId": "g8b-u1-p2-s15"
-    },
-    {
-      "id": "g8b-u1-p2-v83",
-      "term": "play",
-      "meaningZh": "玩",
-      "exampleSentenceId": "g8b-u1-p2-s15"
-    },
-    {
-      "id": "g8b-u1-p2-v84",
-      "term": "need",
-      "meaningZh": "需要",
-      "exampleSentenceId": "g8b-u1-p2-s6"
-    },
-    {
-      "id": "g8b-u1-p2-v85",
-      "term": "cool",
-      "meaningZh": "酷的",
-      "exampleSentenceId": "g8b-u1-p2-s16"
-    },
-    {
-      "id": "g8b-u1-p2-v86",
-      "term": "clothes",
-      "meaningZh": "衣服",
-      "exampleSentenceId": "g8b-u1-p2-s16"
-    },
-    {
-      "id": "g8b-u1-p2-v87",
-      "term": "so",
-      "meaningZh": "所以",
-      "exampleSentenceId": "g8b-u1-p2-s5"
-    },
-    {
-      "id": "g8b-u1-p2-v88",
-      "term": "vr",
-      "meaningZh": "虚拟现实",
-      "exampleSentenceId": "g8b-u1-p2-s16"
-    },
-    {
-      "id": "g8b-u1-p2-v89",
-      "term": "ai",
-      "meaningZh": "人工智能"
-    },
-    {
-      "id": "g8b-u1-p2-v90",
-      "term": "fashion",
-      "meaningZh": "时尚",
-      "exampleSentenceId": "g8b-u1-p2-s16"
-    },
-    {
-      "id": "g8b-u1-p2-v91",
-      "term": "idea",
-      "meaningZh": "想法，主意",
-      "exampleSentenceId": "g8b-u1-p2-s17"
-    },
-    {
-      "id": "g8b-u1-p2-v92",
-      "term": "without",
-      "meaningZh": "没有",
-      "exampleSentenceId": "g8b-u1-p2-s17"
-    },
-    {
-      "id": "g8b-u1-p2-v93",
-      "term": "pilot",
-      "meaningZh": "飞行员",
-      "exampleSentenceId": "g8b-u1-p2-s10"
-    },
-    {
-      "id": "g8b-u1-p2-v94",
-      "term": "safe",
-      "meaningZh": "安全的",
-      "exampleSentenceId": "g8b-u1-p2-s18"
-    },
-    {
-      "id": "g8b-u1-p2-v95",
-      "term": "um",
-      "meaningZh": "嗯（语气词）",
-      "exampleSentenceId": "g8b-u1-p2-s11"
-    },
-    {
-      "id": "g8b-u1-p2-v96",
-      "term": "sign",
-      "meaningZh": "签名，报名",
-      "exampleSentenceId": "g8b-u1-p2-s16"
-    },
-    {
-      "id": "g8b-u1-p2-v97",
-      "term": "me",
-      "meaningZh": "我（宾格）",
-      "exampleSentenceId": "g8b-u1-p2-s5"
-    },
-    {
-      "id": "g8b-u1-p2-v98",
-      "term": "up",
-      "meaningZh": "向上",
-      "exampleSentenceId": "g8b-u1-p2-s6"
-    },
-    {
-      "id": "g8b-u1-p2-v99",
-      "term": "for",
-      "meaningZh": "为了",
-      "exampleSentenceId": "g8b-u1-p2-s20"
-    },
-    {
-      "id": "g8b-u1-p2-v100",
-      "term": "please",
-      "meaningZh": "请",
-      "exampleSentenceId": "g8b-u1-p2-s20"
-    },
-    {
-      "id": "g8b-u1-p2-v101",
-      "term": "what",
-      "meaningZh": "什么",
-      "exampleSentenceId": "g8b-u1-p2-s21"
-    },
-    {
-      "id": "g8b-u1-p2-v102",
-      "term": "i",
-      "meaningZh": "我",
-      "exampleSentenceId": "g8b-u1-p2-s1"
-    },
-    {
-      "id": "g8b-u1-p2-v103",
-      "term": "my",
-      "meaningZh": "我的",
-      "exampleSentenceId": "g8b-u1-p2-s21"
-    },
-    {
-      "id": "g8b-u1-p2-v104",
-      "term": "as",
-      "meaningZh": "作为",
-      "exampleSentenceId": "g8b-u1-p2-s3"
-    },
-    {
-      "id": "g8b-u1-p2-v105",
-      "term": "how",
-      "meaningZh": "如何，多么",
-      "exampleSentenceId": "g8b-u1-p2-s6"
-    },
-    {
-      "id": "g8b-u1-p2-v106",
-      "term": "make",
-      "meaningZh": "制作，赚取",
-      "exampleSentenceId": "g8b-u1-p2-s22"
-    },
-    {
-      "id": "g8b-u1-p2-v107",
-      "term": "money",
-      "meaningZh": "钱",
-      "exampleSentenceId": "g8b-u1-p2-s22"
-    },
-    {
-      "id": "g8b-u1-p2-v108",
-      "term": "fast",
-      "meaningZh": "快速地",
-      "exampleSentenceId": "g8b-u1-p2-s4"
-    },
-    {
-      "id": "g8b-u1-p2-v109",
-      "term": "we",
-      "meaningZh": "我们",
-      "exampleSentenceId": "g8b-u1-p2-s3"
-    },
-    {
-      "id": "g8b-u1-p2-v110",
-      "term": "can't",
-      "meaningZh": "不能（cannot缩写）",
-      "exampleSentenceId": "g8b-u1-p2-s24"
-    },
-    {
-      "id": "g8b-u1-p2-v111",
-      "term": "just",
-      "meaningZh": "仅仅，只是",
-      "exampleSentenceId": "g8b-u1-p2-s24"
-    },
-    {
-      "id": "g8b-u1-p2-v112",
-      "term": "sit",
-      "meaningZh": "坐",
-      "exampleSentenceId": "g8b-u1-p2-s24"
-    },
-    {
-      "id": "g8b-u1-p2-v113",
-      "term": "our",
-      "meaningZh": "我们的",
-      "exampleSentenceId": "g8b-u1-p2-s12"
-    },
-    {
-      "id": "g8b-u1-p2-v114",
-      "term": "things",
-      "meaningZh": "事情（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s24"
-    },
-    {
-      "id": "g8b-u1-p2-v115",
-      "term": "i'm",
-      "meaningZh": "我是（I am缩写）"
-    },
-    {
-      "id": "g8b-u1-p2-v116",
-      "term": "pilot's",
-      "meaningZh": "飞行员的"
-    },
-    {
-      "id": "g8b-u1-p2-v117",
       "term": "cashier",
       "meaningZh": "收银员",
       "exampleSentenceId": "g8b-u1-p2-s7"
     },
     {
-      "id": "g8b-u1-p2-v118",
-      "term": "space",
-      "meaningZh": "太空",
-      "exampleSentenceId": "g8b-u1-p2-s12"
-    },
-    {
-      "id": "g8b-u1-p2-v119",
-      "term": "tour",
-      "meaningZh": "旅行，游览",
-      "exampleSentenceId": "g8b-u1-p2-s12"
-    },
-    {
-      "id": "g8b-u1-p2-v120",
-      "term": "guide",
-      "meaningZh": "导游，指南",
-      "exampleSentenceId": "g8b-u1-p2-s14"
-    },
-    {
-      "id": "g8b-u1-p2-v121",
-      "term": "virtual",
-      "meaningZh": "虚拟的",
-      "exampleSentenceId": "g8b-u1-p2-s15"
-    },
-    {
-      "id": "g8b-u1-p2-v122",
-      "term": "reality",
-      "meaningZh": "现实",
-      "exampleSentenceId": "g8b-u1-p2-s15"
-    },
-    {
-      "id": "g8b-u1-p2-v123",
-      "term": "designer",
-      "meaningZh": "设计师",
-      "exampleSentenceId": "g8b-u1-p2-s16"
-    },
-    {
-      "id": "g8b-u1-p2-v124",
-      "term": "comments",
-      "meaningZh": "评论（复数）"
-    },
-    {
-      "id": "g8b-u1-p2-v125",
-      "term": "history",
-      "meaningZh": "历史；成为过去的事物",
-      "exampleSentenceId": "g8b-u1-p2-s1"
-    },
-    {
-      "id": "g8b-u1-p2-v126",
-      "term": "mouse",
-      "meaningZh": "老鼠",
-      "exampleSentenceId": "g8b-u1-p2-s2"
-    },
-    {
-      "id": "g8b-u1-p2-v127",
-      "term": "catcher",
-      "meaningZh": "捕捉者",
-      "exampleSentenceId": "g8b-u1-p2-s2"
-    },
-    {
-      "id": "g8b-u1-p2-v128",
-      "term": "respected",
-      "meaningZh": "受尊敬的",
-      "exampleSentenceId": "g8b-u1-p2-s3"
-    },
-    {
-      "id": "g8b-u1-p2-v129",
-      "term": "centuries",
-      "meaningZh": "世纪（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s3"
-    },
-    {
-      "id": "g8b-u1-p2-v130",
-      "term": "technology",
-      "meaningZh": "技术，科技",
-      "exampleSentenceId": "g8b-u1-p2-s4"
-    },
-    {
-      "id": "g8b-u1-p2-v131",
-      "term": "developing",
-      "meaningZh": "发展（现在分词）",
-      "exampleSentenceId": "g8b-u1-p2-s4"
-    },
-    {
-      "id": "g8b-u1-p2-v132",
-      "term": "speed",
-      "meaningZh": "速度",
-      "exampleSentenceId": "g8b-u1-p2-s4"
-    },
-    {
-      "id": "g8b-u1-p2-v133",
-      "term": "traditional",
-      "meaningZh": "传统的",
-      "exampleSentenceId": "g8b-u1-p2-s5"
-    },
-    {
-      "id": "g8b-u1-p2-v134",
-      "term": "disappearing",
-      "meaningZh": "消失（现在分词）",
-      "exampleSentenceId": "g8b-u1-p2-s5"
-    },
-    {
-      "id": "g8b-u1-p2-v135",
-      "term": "springing",
-      "meaningZh": "涌现（现在分词）",
-      "exampleSentenceId": "g8b-u1-p2-s6"
-    },
-    {
-      "id": "g8b-u1-p2-v136",
-      "term": "needs",
-      "meaningZh": "需求（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s6"
-    },
-    {
-      "id": "g8b-u1-p2-v137",
       "term": "necessary",
       "meaningZh": "必要的",
       "exampleSentenceId": "g8b-u1-p2-s7"
     },
     {
-      "id": "g8b-u1-p2-v138",
-      "term": "replaced",
-      "meaningZh": "取代（过去分词）",
-      "exampleSentenceId": "g8b-u1-p2-s8"
-    },
-    {
-      "id": "g8b-u1-p2-v139",
-      "term": "machines",
-      "meaningZh": "机器（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s8"
-    },
-    {
-      "id": "g8b-u1-p2-v140",
       "term": "autopilot",
       "meaningZh": "自动驾驶仪",
       "exampleSentenceId": "g8b-u1-p2-s10"
     },
     {
-      "id": "g8b-u1-p2-v141",
-      "term": "pilots",
-      "meaningZh": "飞行员（复数）",
+      "term": "pilot",
+      "meaningZh": "飞行员",
       "exampleSentenceId": "g8b-u1-p2-s10"
     },
     {
-      "id": "g8b-u1-p2-v142",
-      "term": "pilots'",
-      "meaningZh": "飞行员的（复数所有格）",
-      "exampleSentenceId": "g8b-u1-p2-s19"
-    },
-    {
-      "id": "g8b-u1-p2-v143",
-      "term": "go",
-      "meaningZh": "去，进行",
-      "exampleSentenceId": "g8b-u1-p2-s3"
-    },
-    {
-      "id": "g8b-u1-p2-v144",
-      "term": "development",
-      "meaningZh": "发展",
-      "exampleSentenceId": "g8b-u1-p2-s11"
-    },
-    {
-      "id": "g8b-u1-p2-v145",
-      "term": "future",
-      "meaningZh": "未来",
-      "exampleSentenceId": "g8b-u1-p2-s7"
-    },
-    {
-      "id": "g8b-u1-p2-v146",
       "term": "tourism",
       "meaningZh": "旅游业",
       "exampleSentenceId": "g8b-u1-p2-s12"
     },
     {
-      "id": "g8b-u1-p2-v147",
-      "term": "provided",
-      "meaningZh": "提供（过去分词）",
+      "term": "surely",
+      "meaningZh": "肯定地",
       "exampleSentenceId": "g8b-u1-p2-s13"
     },
     {
-      "id": "g8b-u1-p2-v148",
-      "term": "cost",
-      "meaningZh": "成本，费用",
+      "term": "lower",
+      "meaningZh": "更低的",
       "exampleSentenceId": "g8b-u1-p2-s13"
     },
     {
-      "id": "g8b-u1-p2-v149",
-      "term": "guides",
-      "meaningZh": "导游（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s14"
-    },
-    {
-      "id": "g8b-u1-p2-v150",
-      "term": "lead",
-      "meaningZh": "带领，引导",
-      "exampleSentenceId": "g8b-u1-p2-s14"
-    },
-    {
-      "id": "g8b-u1-p2-v151",
-      "term": "moon",
-      "meaningZh": "月球",
-      "exampleSentenceId": "g8b-u1-p2-s14"
-    },
-    {
-      "id": "g8b-u1-p2-v152",
       "term": "beyond",
       "meaningZh": "超过，在...之外",
       "exampleSentenceId": "g8b-u1-p2-s14"
     },
     {
-      "id": "g8b-u1-p2-v153",
+      "term": "virtual",
+      "meaningZh": "虚拟的",
+      "exampleSentenceId": "g8b-u1-p2-s15"
+    },
+    {
+      "term": "reality",
+      "meaningZh": "现实",
+      "exampleSentenceId": "g8b-u1-p2-s15"
+    },
+    {
       "term": "fashionable",
       "meaningZh": "时尚的",
       "exampleSentenceId": "g8b-u1-p2-s16"
     },
     {
-      "id": "g8b-u1-p2-v154",
-      "term": "designers",
-      "meaningZh": "设计师（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s16"
-    },
-    {
-      "id": "g8b-u1-p2-v155",
-      "term": "greatly",
-      "meaningZh": "非常，大大地",
-      "exampleSentenceId": "g8b-u1-p2-s16"
-    },
-    {
-      "id": "g8b-u1-p2-v156",
-      "term": "flying",
-      "meaningZh": "飞行（现在分词）",
-      "exampleSentenceId": "g8b-u1-p2-s17"
-    },
-    {
-      "id": "g8b-u1-p2-v157",
-      "term": "plane",
-      "meaningZh": "飞机",
-      "exampleSentenceId": "g8b-u1-p2-s10"
-    },
-    {
-      "id": "g8b-u1-p2-v158",
-      "term": "scary",
-      "meaningZh": "可怕的",
-      "exampleSentenceId": "g8b-u1-p2-s17"
-    },
-    {
-      "id": "g8b-u1-p2-v159",
-      "term": "enough",
-      "meaningZh": "足够地",
-      "exampleSentenceId": "g8b-u1-p2-s18"
-    },
-    {
-      "id": "g8b-u1-p2-v160",
-      "term": "smoke",
-      "meaningZh": "烟",
-      "exampleSentenceId": "g8b-u1-p2-s19"
-    },
-    {
-      "id": "g8b-u1-p2-v161",
       "term": "lose",
       "meaningZh": "失去",
       "exampleSentenceId": "g8b-u1-p2-s21"
     },
     {
-      "id": "g8b-u1-p2-v162",
       "term": "market",
       "meaningZh": "市场",
       "exampleSentenceId": "g8b-u1-p2-s7"
     },
     {
-      "id": "g8b-u1-p2-v163",
-      "term": "changes",
-      "meaningZh": "变化（第三人称单数）",
-      "exampleSentenceId": "g8b-u1-p2-s23"
-    },
-    {
-      "id": "g8b-u1-p2-v164",
-      "term": "desks",
-      "meaningZh": "书桌（复数）",
-      "exampleSentenceId": "g8b-u1-p2-s24"
-    },
-    {
-      "id": "g8b-u1-p2-v165",
       "term": "expect",
       "meaningZh": "期待，预期",
-      "exampleSentenceId": "g8b-u1-p2-s24"
-    },
-    {
-      "id": "g8b-u1-p2-v166",
-      "term": "stay",
-      "meaningZh": "保持",
-      "exampleSentenceId": "g8b-u1-p2-s24"
-    },
-    {
-      "id": "g8b-u1-p2-v167",
-      "term": "same",
-      "meaningZh": "相同的",
       "exampleSentenceId": "g8b-u1-p2-s24"
     }
   ],
@@ -2706,6 +1816,20 @@
       "usageZh": "",
       "example": "",
       "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/k7S4xbWBBZ3AZRgjGZiYom.mp3"
+    },
+    "develop": {
+      "phonetic": "/dɪˈveləp/",
+      "pos": "v.",
+      "meaningZh": "（使）成长，（使）发展",
+      "usageZh": "及物动词：develop a habit (养成习惯)；develop a plan (制定计划)；不及物动词：The city developed rapidly. (城市迅速发展。)",
+      "example": "Children develop important social skills through play. (孩子们通过玩耍发展重要的社交技能。)"
+    },
+    "disappear": {
+      "phonetic": "/ˌdɪsəˈpɪə(r)/",
+      "pos": "v.",
+      "meaningZh": "消失，不见",
+      "usageZh": "不及物动词：disappear from sight (从视线中消失)；disappear into the crowd (消失在人群中)",
+      "example": "The sun disappeared behind the clouds. (太阳消失在云层后面。)"
     }
   }
 }

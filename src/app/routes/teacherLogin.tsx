@@ -64,8 +64,22 @@ export function TeacherLoginRoute() {
   }
 
   return (
-    <div className="grid min-h-[calc(100dvh-8rem)] items-start gap-8 py-6 lg:grid-cols-2 animate-fade-in">
+    <div className="grid min-h-[calc(100dvh-8rem)] items-start gap-8 py-6 lg:grid-cols-2 animate-fade-in relative">
+      {/* 补充：返回主页控件 */}
+      <Link 
+        to="/" 
+        className="absolute top-0 left-4 z-50 flex items-center gap-2 rounded-full border border-slate-200 bg-white/80 px-4 py-2 text-sm font-semibold text-slate-600 shadow-sm backdrop-blur-md transition hover:bg-white hover:text-secondary lg:hidden"
+      >
+        ← 返回主页
+      </Link>
+
       <section className="relative hidden lg:flex flex-col justify-center overflow-hidden rounded-[2.2rem] border border-white/70 bg-[linear-gradient(135deg,rgba(47,110,99,0.14),rgba(217,130,76,0.16),rgba(59,130,246,0.12))] p-12 shadow-[0_20px_60px_rgba(15,23,42,0.06)] min-h-[500px]">
+        <Link 
+          to="/" 
+          className="absolute top-8 left-8 z-50 flex items-center gap-2 rounded-full bg-white/60 px-4 py-2 text-sm font-semibold text-slate-700 shadow-sm backdrop-blur-md transition hover:bg-white"
+        >
+          ← 返回主页
+        </Link>
         <div className="relative z-10 space-y-6">
           <div className="inline-flex items-center gap-2 rounded-full bg-white/80 px-4 py-1.5 text-sm font-semibold text-slate-700 shadow-sm backdrop-blur-md">
             <span className="h-2 w-2 rounded-full bg-primary" />
