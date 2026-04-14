@@ -142,7 +142,7 @@ export function ReadingRoute() {
   }
 
   return (
-    <div className="space-y-4">
+    <div className="space-y-4 animate-fade-in">
       <section className="rounded-[1.8rem] border border-white/70 bg-white/88 p-5 shadow-[0_16px_56px_rgba(15,23,42,0.05)] sm:p-6">
         <div className="flex flex-wrap items-start justify-between gap-3">
           <div>

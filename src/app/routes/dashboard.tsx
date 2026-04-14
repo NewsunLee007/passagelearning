@@ -16,7 +16,7 @@ export function DashboardRoute() {
   }, [nav, className, studentName]);
 
   return (
-    <div className="space-y-10 pb-10">
+    <div className="space-y-10 pb-10 animate-fade-in">
       <section className="relative overflow-hidden rounded-[2.2rem] border border-white/70 bg-[linear-gradient(135deg,rgba(47,110,99,0.14),rgba(217,130,76,0.16),rgba(59,130,246,0.12))] shadow-[0_30px_90px_rgba(15,23,42,0.10)]">
         {/* 背景图片渐变融合 */}
         <div 

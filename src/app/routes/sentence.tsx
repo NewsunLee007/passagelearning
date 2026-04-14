@@ -82,7 +82,7 @@ export function SentenceRoute() {
   if (error || !data) return <div className="text-sm text-red-600">加载失败：{error ?? "unknown"}</div>;
 
   return (
-    <div className="space-y-4">
+    <div className="space-y-4 animate-fade-in">
       <section className="space-y-4 rounded-[2rem] border border-white/70 bg-[linear-gradient(135deg,rgba(47,110,99,0.10),rgba(217,130,76,0.10),rgba(59,130,246,0.08))] p-5 shadow-[0_22px_70px_rgba(15,23,42,0.06)] sm:p-7">
         <div className="flex flex-wrap items-end justify-between gap-3">
           <div>

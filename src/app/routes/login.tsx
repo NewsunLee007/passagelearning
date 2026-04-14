@@ -30,7 +30,7 @@ export function LoginRoute() {
   }
 
   return (
-    <div className="grid min-h-[calc(100dvh-8rem)] items-start gap-8 py-6 lg:grid-cols-[minmax(0,1fr)_360px]">
+    <div className="grid min-h-[calc(100dvh-8rem)] items-start gap-8 py-6 lg:grid-cols-[minmax(0,1fr)_360px] animate-fade-in">
       <section className="space-y-6">
         <div className="relative overflow-hidden rounded-[2.2rem] border border-white/70 bg-[linear-gradient(135deg,rgba(47,110,99,0.14),rgba(217,130,76,0.16),rgba(59,130,246,0.12))] shadow-[0_20px_60px_rgba(15,23,42,0.06)]">
           <div 
@@ -66,6 +66,14 @@ export function LoginRoute() {
         <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">学生登录</div>
 
         <form onSubmit={onSubmit} className="mt-5 space-y-4">
+          <label className="block">
+            <div className="text-sm font-medium text-slate-700">学校 / 机构代码 (选填)</div>
+            <input
+              className="mt-1.5 w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-2.5 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
+              placeholder="例如：newsun"
+            />
+          </label>
+
           <label className="block">
             <div className="text-sm font-medium text-slate-700">班级名称</div>
             <input

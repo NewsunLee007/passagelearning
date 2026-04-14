@@ -369,7 +369,7 @@ export function ReadingMainRoute() {
   const hasNaturalAudio = sentences.some((sentence) => sentence.audioUrl);
 
   return (
-    <div className="pb-44 md:pb-[52vh]">
+    <div className="pb-44 md:pb-[52vh] animate-fade-in">
       <section className="mx-auto max-w-6xl px-4 pt-4 sm:px-6 lg:px-8">
         <div className="overflow-hidden rounded-[2.2rem] border border-white/80 bg-[linear-gradient(135deg,rgba(255,255,255,0.94),rgba(241,247,245,0.92))] shadow-[0_28px_80px_rgba(15,23,42,0.08)]">
           <div className="px-6 py-8 sm:px-8 sm:py-10">

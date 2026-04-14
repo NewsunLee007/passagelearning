@@ -104,7 +104,7 @@ export function AppLayout() {
         </aside>
       ) : null}
 
-      <div className="min-w-0">
+      <div className="min-w-0 animate-fade-in">
       {showTopBar && (
         <header className="sticky top-0 z-40 border-b border-white/60 bg-[rgba(244,247,247,0.92)] backdrop-blur-xl">
           <div className="mx-auto flex max-w-7xl items-center gap-4 px-4 py-3 sm:px-6 lg:px-8">
