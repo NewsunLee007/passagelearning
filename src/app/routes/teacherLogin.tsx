@@ -5,14 +5,24 @@ import { loginTeacherWithCode } from "../../features/auth/teacherSession";
 
 export function TeacherLoginRoute() {
   const nav = useNavigate();
+  const [mode, setMode] = useState<"login" | "register">("login");
   const [code, setCode] = useState("");
   const [err, setErr] = useState<string | null>(null);
   const [submitting, setSubmitting] = useState(false);
-  const canSubmit = useMemo(() => code.trim().length > 0, [code]);
 
-  async function onSubmit(event: FormEvent) {
+  const [regForm, setRegForm] = useState({
+    school: "",
+    name: "",
+    phone: "",
+    password: ""
+  });
+
+  const canSubmitLogin = useMemo(() => code.trim().length > 0, [code]);
+  const canSubmitReg = useMemo(() => regForm.school.trim() && regForm.name.trim() && regForm.phone.trim() && regForm.password.trim(), [regForm]);
+
+  async function onLogin(event: FormEvent) {
     event.preventDefault();
-    if (!canSubmit) return;
+    if (!canSubmitLogin) return;
 
     setSubmitting(true);
     setErr(null);
@@ -26,39 +36,160 @@ export function TeacherLoginRoute() {
     }
   }
 
+  async function onRegister(event: FormEvent) {
+    event.preventDefault();
+    if (!canSubmitReg) return;
+
+    setSubmitting(true);
+    setErr(null);
+    
+    // Mock registration logic: simply log them in with their chosen password as the TEACHER_CODE
+    setTimeout(async () => {
+      try {
+        await loginTeacher(regForm.password);
+        nav("/t/dashboard");
+      } catch (error) {
+        setErr("注册成功，但自动登录失败：" + (error instanceof Error ? error.message : "未知错误"));
+      } finally {
+        setSubmitting(false);
+      }
+    }, 1000);
+  }
+
   return (
-    <div className="mx-auto max-w-xl py-12 px-4 sm:px-6 animate-fade-in">
-      <div className="overflow-hidden rounded-[2.5rem] border border-white/80 bg-white/90 shadow-[0_24px_80px_rgba(15,23,42,0.06)]">
-        <div className="bg-slate-50/50 p-8 sm:p-10 border-b border-slate-100">
-          <h1 className="font-display text-[2rem] text-secondary">教师端登录</h1>
-          <p className="mt-3 text-base text-slate-600 leading-relaxed">
-            输入教师口令进入文章管理与班级统计。部署后该口令由 Vercel 环境变量控制。
+    <div className="grid min-h-[calc(100dvh-8rem)] items-start gap-8 py-6 lg:grid-cols-2 animate-fade-in">
+      <section className="relative hidden lg:flex flex-col justify-center overflow-hidden rounded-[2.2rem] border border-white/70 bg-[linear-gradient(135deg,rgba(47,110,99,0.14),rgba(217,130,76,0.16),rgba(59,130,246,0.12))] p-12 shadow-[0_20px_60px_rgba(15,23,42,0.06)] min-h-[500px]">
+        <div className="relative z-10 space-y-6">
+          <div className="inline-flex items-center gap-2 rounded-full bg-white/80 px-4 py-1.5 text-sm font-semibold text-slate-700 shadow-sm backdrop-blur-md">
+            <span className="h-2 w-2 rounded-full bg-primary" />
+            <span>Teacher Portal</span>
+          </div>
+          <h1 className="text-4xl font-display leading-[1.2] text-secondary drop-shadow-sm">
+            统一教师工作台<br/>
+            <span className="text-primary">赋能每一堂英语课</span>
+          </h1>
+          <p className="max-w-md text-lg text-slate-600 leading-relaxed">
+            管理教学班级、掌控学情数据、编辑教材语篇。从这里开始，构建您的数字化课堂互动闭环。
           </p>
         </div>
+        
+        {/* Background illustration */}
+        <div 
+          className="absolute inset-y-0 right-0 w-[80%] pointer-events-none"
+          style={{
+            maskImage: 'linear-gradient(to left, black 40%, transparent)',
+            WebkitMaskImage: 'linear-gradient(to left, black 40%, transparent)',
+          }}
+        >
+          <img
+            alt="教师工作台"
+            className="h-full w-full object-cover opacity-90 mix-blend-multiply"
+            src="https://p.ipic.vip/7hrt3q.png"
+          />
+        </div>
+      </section>
 
-        <form onSubmit={onSubmit} className="p-8 sm:p-10 space-y-6">
-          <label className="block">
-            <div className="text-sm font-bold text-slate-700 mb-2">教师口令</div>
-            <input
-              className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-5 py-4 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
-              value={code}
-              onChange={(event) => setCode(event.target.value)}
-              placeholder="输入 TEACHER_CODE"
-              type="password"
-            />
-          </label>
+      <section className="mx-auto w-full max-w-md lg:mt-8">
+        <div className="overflow-hidden rounded-[2.5rem] border border-white/80 bg-white/90 shadow-[0_24px_80px_rgba(15,23,42,0.06)]">
+          
+          <div className="flex border-b border-slate-100 bg-slate-50/50">
+            <button 
+              className={`flex-1 py-5 text-base font-bold transition-colors ${mode === 'login' ? 'text-primary border-b-2 border-primary' : 'text-slate-500 hover:text-slate-700'}`}
+              onClick={() => setMode('login')}
+              type="button"
+            >
+              教师登录
+            </button>
+            <button 
+              className={`flex-1 py-5 text-base font-bold transition-colors ${mode === 'register' ? 'text-primary border-b-2 border-primary' : 'text-slate-500 hover:text-slate-700'}`}
+              onClick={() => setMode('register')}
+              type="button"
+            >
+              机构入驻注册
+            </button>
+          </div>
 
-          <button
-            type="submit"
-            className="w-full rounded-full bg-secondary px-6 py-4 text-base font-bold text-white shadow-md transition hover:bg-secondary/90 disabled:cursor-not-allowed disabled:opacity-50 disabled:shadow-none"
-            disabled={!canSubmit || submitting}
-          >
-            {submitting ? "验证中…" : "进入教师端"}
-          </button>
+          {mode === 'login' ? (
+            <form onSubmit={onLogin} className="p-8 sm:p-10 space-y-5">
+              <label className="block">
+                <div className="text-sm font-bold text-slate-700 mb-2">登录账号 / 教师口令</div>
+                <input
+                  className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-5 py-4 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
+                  value={code}
+                  onChange={(event) => setCode(event.target.value)}
+                  placeholder="输入密码或 TEACHER_CODE"
+                  type="password"
+                />
+              </label>
 
-          {err && <div className="rounded-[1rem] border border-red-200 bg-red-50 px-5 py-4 text-sm text-red-700">{err}</div>}
-        </form>
-      </div>
+              <button
+                type="submit"
+                className="mt-4 w-full rounded-full bg-secondary px-6 py-4 text-base font-bold text-white shadow-md transition hover:bg-secondary/90 disabled:cursor-not-allowed disabled:opacity-50 disabled:shadow-none"
+                disabled={!canSubmitLogin || submitting}
+              >
+                {submitting ? "验证中…" : "进入工作台"}
+              </button>
+
+              {err && <div className="rounded-[1rem] border border-red-200 bg-red-50 px-5 py-4 text-sm text-red-700">{err}</div>}
+            </form>
+          ) : (
+            <form onSubmit={onRegister} className="p-8 sm:p-10 space-y-5 animate-fade-in">
+              <label className="block">
+                <div className="text-sm font-bold text-slate-700 mb-1.5">学校 / 机构名称</div>
+                <input
+                  className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-3 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
+                  value={regForm.school}
+                  onChange={(e) => setRegForm({...regForm, school: e.target.value})}
+                  placeholder="如：新日中学"
+                />
+              </label>
+
+              <div className="grid grid-cols-2 gap-4">
+                <label className="block">
+                  <div className="text-sm font-bold text-slate-700 mb-1.5">教师姓名</div>
+                  <input
+                    className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-3 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
+                    value={regForm.name}
+                    onChange={(e) => setRegForm({...regForm, name: e.target.value})}
+                    placeholder="如：李老师"
+                  />
+                </label>
+                <label className="block">
+                  <div className="text-sm font-bold text-slate-700 mb-1.5">手机号码</div>
+                  <input
+                    type="tel"
+                    className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-3 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
+                    value={regForm.phone}
+                    onChange={(e) => setRegForm({...regForm, phone: e.target.value})}
+                    placeholder="用于登录"
+                  />
+                </label>
+              </div>
+
+              <label className="block">
+                <div className="text-sm font-bold text-slate-700 mb-1.5">设置密码</div>
+                <input
+                  type="password"
+                  className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-3 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
+                  value={regForm.password}
+                  onChange={(e) => setRegForm({...regForm, password: e.target.value})}
+                  placeholder="至少 6 位"
+                />
+              </label>
+
+              <button
+                type="submit"
+                className="mt-4 w-full rounded-full bg-primary px-6 py-4 text-base font-bold text-white shadow-[0_8px_20px_rgba(47,110,99,0.2)] transition hover:bg-primary/90 disabled:cursor-not-allowed disabled:opacity-50 disabled:shadow-none"
+                disabled={!canSubmitReg || submitting}
+              >
+                {submitting ? "正在提交…" : "免费注册并入驻"}
+              </button>
+
+              {err && <div className="rounded-[1rem] border border-red-200 bg-red-50 px-5 py-3 text-sm text-red-700">{err}</div>}
+            </form>
+          )}
+        </div>
+      </section>
     </div>
   );
 }

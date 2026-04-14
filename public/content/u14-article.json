@@ -1233,25 +1233,25 @@
       "example": ""
     },
     "expect": {
-      "phonetic": "/expect/",
-      "pos": "v./n.",
+      "phonetic": "/ɪkˈspekt/",
+      "pos": "v.",
       "meaningZh": "预料，预期，预计",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a expect yesterday."
+      "usageZh": "常见搭配：expect to do (预计做某事)；expect sb. to do (期待某人做某事)；语法：及物动词，后接名词、代词、不定式或从句",
+      "example": "I expect to finish my homework by 8 PM. (我预计在晚上8点前完成作业。)"
     },
     "mask": {
-      "phonetic": "/mask/",
-      "pos": "v./n.",
+      "phonetic": "/mæsk/",
+      "pos": "n.",
       "meaningZh": "假面具，假面",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a mask yesterday."
+      "usageZh": "常见搭配：wear a mask (戴面具)；a gas mask (防毒面具)；语法：可数名词，复数形式为masks",
+      "example": "He wore a mask to the costume party. (他戴着面具去参加化装舞会。)"
     },
     "wonder": {
-      "phonetic": "/wonder/",
-      "pos": "v./n.",
+      "phonetic": "/ˈwʌndər/",
+      "pos": "v.",
       "meaningZh": "想要知道",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a wonder yesterday."
+      "usageZh": "常见搭配：wonder about (对...感到好奇)；wonder if/whether (想知道是否)；语法：及物动词，后接疑问词引导的从句",
+      "example": "I wonder what time the movie starts. (我想知道电影什么时候开始。)"
     }
   }
 }

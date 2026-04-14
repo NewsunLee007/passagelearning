@@ -1254,39 +1254,39 @@
       "example": ""
     },
     "cloud": {
-      "phonetic": "/cloud/",
-      "pos": "v./n.",
+      "phonetic": "/klaʊd/",
+      "pos": "n.",
       "meaningZh": "云",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a cloud yesterday."
+      "usageZh": "常见搭配：a cloud in the sky (天上的云)",
+      "example": "The sky is full of white clouds. (天空中布满了白云。)"
     },
     "grassland": {
-      "phonetic": "/grassland/",
-      "pos": "v./n.",
+      "phonetic": "/ˈɡrɑːslænd/",
+      "pos": "n.",
       "meaningZh": "草原",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a grassland yesterday."
+      "usageZh": "常见搭配：vast grassland (广阔的草原)",
+      "example": "Mongolia has beautiful grasslands. (蒙古有美丽的草原。)"
     },
     "field": {
-      "phonetic": "/field/",
-      "pos": "v./n.",
+      "phonetic": "/fiːld/",
+      "pos": "n.",
       "meaningZh": "田地，田野",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a field yesterday."
+      "usageZh": "常见搭配：work in the field (在田里工作)",
+      "example": "The farmers are working in the field. (农民们正在田里工作。)"
     },
     "restaurant": {
-      "phonetic": "/restaurant/",
-      "pos": "v./n.",
+      "phonetic": "/ˈrestrɒnt/",
+      "pos": "n.",
       "meaningZh": "饭店，餐馆",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a restaurant yesterday."
+      "usageZh": "常见搭配：go to a restaurant (去餐馆)",
+      "example": "We had dinner at a Chinese restaurant. (我们在一家中餐馆吃了晚饭。)"
     },
     "present": {
-      "phonetic": "/present/",
-      "pos": "v./n.",
+      "phonetic": "/ˈpreznt/",
+      "pos": "n.",
       "meaningZh": "礼物，赠品",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a present yesterday."
+      "usageZh": "常见搭配：birthday present (生日礼物)",
+      "example": "He gave me a present for my birthday. (他送了我一份生日礼物。)"
     }
   }
 }

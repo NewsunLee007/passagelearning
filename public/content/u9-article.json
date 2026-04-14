@@ -1268,39 +1268,39 @@
       "example": ""
     },
     "tale": {
-      "phonetic": "/tale/",
-      "pos": "v./n.",
+      "phonetic": "/teɪl/",
+      "pos": "n.",
       "meaningZh": "故事",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a tale yesterday."
+      "usageZh": "常见搭配：fairy tale (童话故事), tell a tale (讲故事)",
+      "example": "Grandma told us a magical tale. (奶奶给我们讲了一个神奇的故事。)"
     },
     "taste": {
-      "phonetic": "/taste/",
-      "pos": "v./n.",
+      "phonetic": "/teɪst/",
+      "pos": "n./v.",
       "meaningZh": "味道；有……的味道",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a taste yesterday."
+      "usageZh": "作名词：a sweet taste (甜味)；作动词：taste delicious (尝起来美味)",
+      "example": "This soup tastes too salty. (这汤尝起来太咸了。)"
     },
     "iranian": {
-      "phonetic": "/iranian/",
-      "pos": "v./n.",
+      "phonetic": "/ɪˈreɪniən/",
+      "pos": "n./adj.",
       "meaningZh": "伊朗人",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a iranian yesterday."
+      "usageZh": "作名词：an Iranian (一位伊朗人)；作形容词：Iranian culture (伊朗文化)",
+      "example": "My friend is an Iranian. (我的朋友是伊朗人。)"
     },
     "pancake": {
-      "phonetic": "/pancake/",
-      "pos": "v./n.",
+      "phonetic": "/ˈpænkeɪk/",
+      "pos": "n.",
       "meaningZh": "薄煎（烤，烙）饼",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a pancake yesterday."
+      "usageZh": "常见搭配：make pancakes (做薄煎饼), a stack of pancakes (一叠薄煎饼)",
+      "example": "We eat pancakes with maple syrup. (我们吃薄煎饼配枫糖浆。)"
     },
     "border": {
-      "phonetic": "/border/",
-      "pos": "v./n.",
+      "phonetic": "/ˈbɔːdə(r)/",
+      "pos": "n.",
       "meaningZh": "边界；边境",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a border yesterday."
+      "usageZh": "常见搭配：cross the border (穿越边境), border control (边境管制)",
+      "example": "The river forms the border between the two countries. (这条河构成了两国的边界。)"
     }
   }
 }

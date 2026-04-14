@@ -1540,32 +1540,32 @@
       "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/cuxoivCapGKzXp3rRb72Rf.mp3"
     },
     "climb": {
-      "phonetic": "/climb/",
-      "pos": "v./n.",
+      "phonetic": "/klaɪm/",
+      "pos": "v.",
       "meaningZh": "爬（山），登（山）",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a climb yesterday."
+      "usageZh": "常见搭配：climb a mountain (爬山)；climb up/down (爬上/下)；也可作名词：a steep climb (陡峭的攀登)",
+      "example": "They plan to climb Mount Everest next year. (他们计划明年攀登珠穆朗玛峰。)"
     },
     "discover": {
-      "phonetic": "/discover/",
-      "pos": "v./n.",
+      "phonetic": "/dɪˈskʌvər/",
+      "pos": "v.",
       "meaningZh": "发现，找到",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a discover yesterday."
+      "usageZh": "常见搭配：discover something new (发现新事物)；discover that... (发现...事实)；discover the truth (发现真相)",
+      "example": "Scientists discovered a new species in the rainforest. (科学家在雨林中发现了一个新物种。)"
     },
     "record": {
-      "phonetic": "/record/",
-      "pos": "v./n.",
+      "phonetic": "/ˈrekərd/ (n.), /rɪˈkɔːrd/ (v.)",
+      "pos": "n., v.",
       "meaningZh": "记录",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a record yesterday."
+      "usageZh": "名词：keep a record (保持记录)；break a record (打破纪录)；动词：record data (记录数据)；record music (录制音乐)",
+      "example": "She set a new world record in the 100-meter dash. (她在100米短跑中创造了新的世界纪录。)"
     },
     "experience": {
-      "phonetic": "/experience/",
-      "pos": "v./n.",
+      "phonetic": "/ɪkˈspɪriəns/",
+      "pos": "n., v.",
       "meaningZh": "经验；经历",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a experience yesterday."
+      "usageZh": "名词：work experience (工作经验)；a learning experience (学习经历)；动词：experience difficulties (经历困难)；experience joy (体验快乐)",
+      "example": "Traveling abroad was an unforgettable experience for him. (出国旅行对他来说是一次难忘的经历。)"
     }
   }
 }

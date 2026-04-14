@@ -1371,25 +1371,25 @@
       "example": ""
     },
     "shoulder": {
-      "phonetic": "/shoulder/",
-      "pos": "v./n.",
+      "phonetic": "/ˈʃoʊldər/",
+      "pos": "n.",
       "meaningZh": "肩膀",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a shoulder yesterday."
+      "usageZh": "常见搭配：shoulder to shoulder (肩并肩)；on one's shoulders (由某人承担)",
+      "example": "He carried the heavy box on his shoulder. (他把沉重的箱子扛在肩上。)"
     },
     "customer": {
-      "phonetic": "/customer/",
-      "pos": "v./n.",
+      "phonetic": "/ˈkʌstəmər/",
+      "pos": "n.",
       "meaningZh": "顾客，客户",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a customer yesterday."
+      "usageZh": "常见搭配：regular customer (常客)；customer service (客户服务)",
+      "example": "The customer is always right. (顾客永远是对的。)"
     },
     "wig": {
-      "phonetic": "/wig/",
-      "pos": "v./n.",
+      "phonetic": "/wɪɡ/",
+      "pos": "n.",
       "meaningZh": "假发",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a wig yesterday."
+      "usageZh": "常见搭配：wear a wig (戴假发)；blonde wig (金色假发)",
+      "example": "She wore a wig for the costume party. (她在化装舞会上戴了假发。)"
     }
   }
 }

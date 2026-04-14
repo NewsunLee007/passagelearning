@@ -331,81 +331,81 @@
   ],
   "lexicon": {
     "helping kids with cancer": {
-      "phonetic": "/helping kids with cancer/",
-      "pos": "v./n.",
+      "phonetic": "/ˈhelpɪŋ kɪdz wɪð ˈkænsər/",
+      "pos": "phr.",
       "meaningZh": "帮助患癌症的孩子们",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a helping kids with cancer yesterday."
+      "usageZh": "动名词短语作主语或宾语，with表示伴随",
+      "example": "Helping kids with cancer is a meaningful activity. (帮助患癌症的孩子们是一项有意义的活动。)"
     },
     "enough hair for three wigs": {
-      "phonetic": "/enough hair for three wigs/",
-      "pos": "v./n.",
+      "phonetic": "/ɪˈnʌf heər fɔːr θriː wɪɡz/",
+      "pos": "phr.",
       "meaningZh": "足够做三顶假发的头发",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a enough hair for three wigs yesterday."
+      "usageZh": "enough...for...结构，表示足够做某事",
+      "example": "She donated enough hair for three wigs. (她捐献了足够做三顶假发的头发。)"
     },
     "looked at the smart young man in the mirror": {
-      "phonetic": "/looked at the smart young man in the mirror/",
-      "pos": "v./n.",
+      "phonetic": "/lʊkt æt ðə smɑːrt jʌŋ mæn ɪn ðə ˈmɪrər/",
+      "pos": "phr.",
       "meaningZh": "看着镜子中聪明的年轻人",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a looked at the smart young man in the mirror yesterday."
+      "usageZh": "look at + 宾语，in the mirror作地点状语",
+      "example": "He looked at the smart young man in the mirror and smiled. (他看着镜子中聪明的年轻人，笑了。)"
     },
     "remembered the words of Plato": {
-      "phonetic": "/remembered the words of Plato/",
-      "pos": "v./n.",
+      "phonetic": "/rɪˈmembərd ðə wɜːrdz əv ˈpleɪtoʊ/",
+      "pos": "phr.",
       "meaningZh": "记起柏拉图的话",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a remembered the words of Plato yesterday."
+      "usageZh": "remember + 宾语，of表示所属关系",
+      "example": "She suddenly remembered the words of Plato. (她突然记起了柏拉图的话。)"
     },
     "Happiness springs from doing good and helping others": {
-      "phonetic": "/Happiness springs from doing good and helping others/",
-      "pos": "v./n.",
+      "phonetic": "/ˈhæpinəs sprɪŋz frəm ˈduːɪŋ ɡʊd ənd ˈhelpɪŋ ˈʌðərz/",
+      "pos": "sent.",
       "meaningZh": "幸福源于行善和帮助他人",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a Happiness springs from doing good and helping others yesterday."
+      "usageZh": "spring from表示来源，动名词作宾语",
+      "example": "Happiness springs from doing good and helping others. (幸福源于行善和帮助他人。)"
     },
     "grow happiness again": {
-      "phonetic": "/grow happiness again/",
-      "pos": "v./n.",
+      "phonetic": "/ɡroʊ ˈhæpinəs əˈɡen/",
+      "pos": "phr.",
       "meaningZh": "再次培育幸福",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a grow happiness again yesterday."
+      "usageZh": "grow + 抽象名词，again表示重复",
+      "example": "We need to grow happiness again in our community. (我们需要在社区中再次培育幸福。)"
     },
     "cancer": {
-      "phonetic": "/cancer/",
-      "pos": "v./n.",
+      "phonetic": "/ˈkænsər/",
+      "pos": "n.",
       "meaningZh": "癌（症）",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a cancer yesterday."
+      "usageZh": "不可数名词，常见搭配：lung cancer (肺癌)",
+      "example": "Early detection of cancer is important. (癌症的早期发现很重要。)"
     },
     "wig": {
-      "phonetic": "/wig/",
-      "pos": "v./n.",
+      "phonetic": "/wɪɡ/",
+      "pos": "n.",
       "meaningZh": "假发",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a wig yesterday."
+      "usageZh": "可数名词，常见搭配：wear a wig (戴假发)",
+      "example": "She wears a wig after chemotherapy. (化疗后她戴着假发。)"
     },
     "smart": {
-      "phonetic": "/smart/",
-      "pos": "v./n.",
+      "phonetic": "/smɑːrt/",
+      "pos": "adj.",
       "meaningZh": "聪颖的，机灵的；明智的",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a smart yesterday."
+      "usageZh": "作定语或表语，比较级smarter，最高级smartest",
+      "example": "He is a smart student who always asks good questions. (他是个聪明的学生，总是提出好问题。)"
     },
     "other": {
-      "phonetic": "/other/",
-      "pos": "v./n.",
+      "phonetic": "/ˈʌðər/",
+      "pos": "adj./pron.",
       "meaningZh": "另外的，其他的",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a other yesterday."
+      "usageZh": "作形容词时修饰名词，作代词时单独使用",
+      "example": "Some students like math, while other students prefer English. (有些学生喜欢数学，而其他学生更喜欢英语。)"
     },
     "himself": {
-      "phonetic": "/himself/",
-      "pos": "v./n.",
+      "phonetic": "/hɪmˈself/",
+      "pos": "pron.",
       "meaningZh": "他自己",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a himself yesterday."
+      "usageZh": "反身代词，作宾语或强调主语",
+      "example": "He taught himself how to play the guitar. (他自学了弹吉他。)"
     }
   }
 }

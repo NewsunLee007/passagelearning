@@ -1379,32 +1379,32 @@
       "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XBtqS9URuv5eQS3V8C2Hob.mp3"
     },
     "carrot": {
-      "phonetic": "/carrot/",
-      "pos": "v./n.",
+      "phonetic": "/ˈkærət/",
+      "pos": "n.",
       "meaningZh": "胡萝卜",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a carrot yesterday."
+      "usageZh": "常见搭配：carrot and stick (胡萝卜加大棒，软硬兼施)",
+      "example": "Rabbits love to eat carrots. (兔子喜欢吃胡萝卜。)"
     },
     "onion": {
-      "phonetic": "/onion/",
-      "pos": "v./n.",
+      "phonetic": "/ˈʌnjən/",
+      "pos": "n.",
       "meaningZh": "洋葱（头）",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a onion yesterday."
+      "usageZh": "常见搭配：chop an onion (切洋葱)",
+      "example": "The recipe requires one chopped onion. (这个食谱需要一个切碎的洋葱。)"
     },
     "pancake": {
-      "phonetic": "/pancake/",
-      "pos": "v./n.",
+      "phonetic": "/ˈpænkeɪk/",
+      "pos": "n.",
       "meaningZh": "薄煎（烤，烙）饼",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a pancake yesterday."
+      "usageZh": "常见搭配：make pancakes (做煎饼)",
+      "example": "We had pancakes with maple syrup for breakfast. (我们早餐吃了配枫糖浆的煎饼。)"
     },
     "remain": {
-      "phonetic": "/remain/",
-      "pos": "v./n.",
+      "phonetic": "/rɪˈmeɪn/",
+      "pos": "v.",
       "meaningZh": "继续，依然（保持某种状态）",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a remain yesterday."
+      "usageZh": "语法：常接形容词或名词作表语，如remain silent (保持沉默)",
+      "example": "Please remain seated until the plane stops. (请在飞机停稳前保持就坐。)"
     }
   }
 }

@@ -1378,32 +1378,32 @@
       "example": ""
     },
     "tool": {
-      "phonetic": "/tool/",
-      "pos": "v./n.",
+      "phonetic": "/tuːl/",
+      "pos": "n.",
       "meaningZh": "工具",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a tool yesterday."
+      "usageZh": "可数名词；常见搭配：a set of tools (一套工具), power tool (电动工具)",
+      "example": "A hammer is a useful tool for building. (锤子是建筑用的有用工具。)"
     },
     "spirit": {
-      "phonetic": "/spirit/",
-      "pos": "v./n.",
+      "phonetic": "/ˈspɪrɪt/",
+      "pos": "n.",
       "meaningZh": "（某一特定历史时期、地方或群体的）精神，风气",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a spirit yesterday."
+      "usageZh": "可数名词；常见搭配：team spirit (团队精神), in good spirit (情绪良好)",
+      "example": "The Olympic spirit brings people together. (奥林匹克精神将人们团结在一起。)"
     },
     "become": {
-      "phonetic": "/become/",
-      "pos": "v./n.",
+      "phonetic": "/bɪˈkʌm/",
+      "pos": "v.",
       "meaningZh": "变成，变得",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a become yesterday."
+      "usageZh": "系动词，后接形容词或名词作表语；过去式：became，过去分词：become",
+      "example": "She wants to become a doctor when she grows up. (她长大后想成为一名医生。)"
     },
     "other": {
-      "phonetic": "/other/",
-      "pos": "v./n.",
+      "phonetic": "/ˈʌðə(r)/",
+      "pos": "adj./pron.",
       "meaningZh": "另外的，其他的",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a other yesterday."
+      "usageZh": "形容词修饰名词：other people；代词：the other (两者中的另一个), others (其他人/物)",
+      "example": "Do you have any other questions? (你还有其他问题吗？)"
     }
   }
 }

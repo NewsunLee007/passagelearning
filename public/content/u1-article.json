@@ -205,39 +205,39 @@
   ],
   "lexicon": {
     "reading skills": {
-      "phonetic": "/reading skills/",
-      "pos": "v./n.",
+      "phonetic": "/ˈriːdɪŋ skɪlz/",
+      "pos": "n.",
       "meaningZh": "阅读技能",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a reading skills yesterday."
+      "usageZh": "常用复数形式，搭配：develop/improve reading skills (培养/提高阅读技能)",
+      "example": "Good reading skills are essential for academic success. (良好的阅读技能对学业成功至关重要。)"
     },
     "comprehension abilities": {
-      "phonetic": "/comprehension abilities/",
-      "pos": "v./n.",
+      "phonetic": "/ˌkɒmprɪˈhenʃən əˈbɪlətiz/",
+      "pos": "n.",
       "meaningZh": "理解能力",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a comprehension abilities yesterday."
+      "usageZh": "常用复数形式，搭配：test/assess comprehension abilities (测试/评估理解能力)",
+      "example": "The teacher focuses on developing students' comprehension abilities. (老师专注于培养学生的理解能力。)"
     },
     "interest": {
-      "phonetic": "/interest/",
-      "pos": "v./n.",
+      "phonetic": "/ˈɪntrəst/",
+      "pos": "n.",
       "meaningZh": "兴趣",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a interest yesterday."
+      "usageZh": "可数名词，搭配：show/take/have interest in (对...表现出/产生/有兴趣)",
+      "example": "He has a great interest in science fiction. (他对科幻小说有浓厚的兴趣。)"
     },
     "skill": {
-      "phonetic": "/skill/",
-      "pos": "v./n.",
+      "phonetic": "/skɪl/",
+      "pos": "n.",
       "meaningZh": "技能，技巧，技艺",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a skill yesterday."
+      "usageZh": "可数名词，搭配：acquire/master a skill (掌握/精通一项技能)",
+      "example": "Communication is an important skill in the workplace. (沟通是职场中的一项重要技能。)"
     },
     "text": {
-      "phonetic": "/text/",
-      "pos": "v./n.",
+      "phonetic": "/tekst/",
+      "pos": "n.",
       "meaningZh": "文字材料",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a text yesterday."
+      "usageZh": "可数名词，搭配：read/analyze a text (阅读/分析文字材料)",
+      "example": "Please read the text carefully before answering the questions. (请在回答问题前仔细阅读文字材料。)"
     }
   }
 }

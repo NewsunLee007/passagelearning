@@ -538,109 +538,109 @@
       "meaningZh": "选择；抉择"
     },
     "form": {
-      "phonetic": "/form/",
-      "pos": "v./n.",
+      "phonetic": "/fɔːrm/",
+      "pos": "n.",
       "meaningZh": "形式，方式",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a form yesterday."
+      "usageZh": "常见搭配：in the form of (以...的形式)；take the form of (采取...的形式)",
+      "example": "The application must be submitted in written form. (申请表必须以书面形式提交。)"
     },
     "social": {
-      "phonetic": "/social/",
-      "pos": "v./n.",
+      "phonetic": "/ˈsoʊʃl/",
+      "pos": "adj.",
       "meaningZh": "社交的",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a social yesterday."
+      "usageZh": "常见搭配：social media (社交媒体)；social skills (社交技巧)",
+      "example": "She has good social skills. (她有很好的社交技巧。)"
     },
     "media": {
-      "phonetic": "/media/",
-      "pos": "v./n.",
+      "phonetic": "/ˈmiːdiə/",
+      "pos": "n.",
       "meaningZh": "媒体；传媒",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a media yesterday."
+      "usageZh": "常见搭配：mass media (大众传媒)；social media (社交媒体)",
+      "example": "The news was reported by all major media. (所有主要媒体都报道了这条新闻。)"
     },
     "screen": {
-      "phonetic": "/screen/",
-      "pos": "v./n.",
+      "phonetic": "/skriːn/",
+      "pos": "n.",
       "meaningZh": "屏幕",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a screen yesterday."
+      "usageZh": "常见搭配：computer screen (电脑屏幕)；touch screen (触摸屏)",
+      "example": "Don't sit too close to the TV screen. (不要坐得离电视屏幕太近。)"
     },
     "become": {
-      "phonetic": "/become/",
-      "pos": "v./n.",
+      "phonetic": "/bɪˈkʌm/",
+      "pos": "v.",
       "meaningZh": "变成，变得",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a become yesterday."
+      "usageZh": "语法：become + adj./n. (变得.../成为...)",
+      "example": "He became a doctor after graduation. (他毕业后成为了一名医生。)"
     },
     "couch": {
-      "phonetic": "/couch/",
-      "pos": "v./n.",
+      "phonetic": "/kaʊtʃ/",
+      "pos": "n.",
       "meaningZh": "长沙发",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a couch yesterday."
+      "usageZh": "常见搭配：sofa couch (沙发床)；couch potato (电视迷)",
+      "example": "We bought a new leather couch for the living room. (我们为客厅买了一张新的皮沙发。)"
     },
     "sore": {
-      "phonetic": "/sore/",
-      "pos": "v./n.",
+      "phonetic": "/sɔːr/",
+      "pos": "adj.",
       "meaningZh": "疼痛的；酸痛的",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a sore yesterday."
+      "usageZh": "常见搭配：sore throat (喉咙痛)；sore muscles (肌肉酸痛)",
+      "example": "My legs are sore after the long walk. (长时间走路后我的腿很酸痛。)"
     },
     "neck": {
-      "phonetic": "/neck/",
-      "pos": "v./n.",
+      "phonetic": "/nek/",
+      "pos": "n.",
       "meaningZh": "颈，脖子",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a neck yesterday."
+      "usageZh": "常见搭配：neck pain (脖子痛)；neck and neck (并驾齐驱)",
+      "example": "She wore a beautiful necklace around her neck. (她脖子上戴了一条漂亮的项链。)"
     },
     "moment": {
-      "phonetic": "/moment/",
-      "pos": "v./n.",
+      "phonetic": "/ˈmoʊmənt/",
+      "pos": "n.",
       "meaningZh": "某一时刻",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a moment yesterday."
+      "usageZh": "常见搭配：at the moment (此刻)；wait a moment (稍等片刻)",
+      "example": "I'll be with you in a moment. (我马上就来。)"
     },
     "deaf": {
-      "phonetic": "/deaf/",
-      "pos": "v./n.",
+      "phonetic": "/def/",
+      "pos": "adj.",
       "meaningZh": "耳聋的，失聪的",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a deaf yesterday."
+      "usageZh": "常见搭配：deaf people (聋人)；turn a deaf ear (充耳不闻)",
+      "example": "He has been deaf since childhood. (他从小就失聪了。)"
     },
     "dull": {
-      "phonetic": "/dull/",
-      "pos": "v./n.",
+      "phonetic": "/dʌl/",
+      "pos": "adj.",
       "meaningZh": "愚笨的，迟钝的",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a dull yesterday."
+      "usageZh": "常见搭配：dull student (迟钝的学生)；dull pain (隐痛)",
+      "example": "The lecture was so dull that many students fell asleep. (讲座太无聊了，很多学生都睡着了。)"
     },
     "jog": {
-      "phonetic": "/jog/",
-      "pos": "v./n.",
+      "phonetic": "/dʒɑːɡ/",
+      "pos": "v.",
       "meaningZh": "慢跑",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a jog yesterday."
+      "usageZh": "常见搭配：go jogging (去慢跑)；jog one's memory (唤起某人的记忆)",
+      "example": "He jogs in the park every morning. (他每天早上在公园慢跑。)"
     },
     "fresh": {
-      "phonetic": "/fresh/",
-      "pos": "v./n.",
+      "phonetic": "/freʃ/",
+      "pos": "adj.",
       "meaningZh": "新鲜的",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a fresh yesterday."
+      "usageZh": "常见搭配：fresh fruit (新鲜水果)；fresh air (新鲜空气)",
+      "example": "We need to buy some fresh vegetables. (我们需要买些新鲜蔬菜。)"
     },
     "tennis": {
-      "phonetic": "/tennis/",
-      "pos": "v./n.",
+      "phonetic": "/ˈtenɪs/",
+      "pos": "n.",
       "meaningZh": "网球（运动）",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a tennis yesterday."
+      "usageZh": "常见搭配：play tennis (打网球)；tennis court (网球场)",
+      "example": "They play tennis every weekend. (他们每个周末都打网球。)"
     },
     "ours": {
-      "phonetic": "/ours/",
-      "pos": "v./n.",
+      "phonetic": "/ˈaʊərz/",
+      "pos": "pron.",
       "meaningZh": "（属于）我们的",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a ours yesterday."
+      "usageZh": "语法：名词性物主代词，相当于our + n.",
+      "example": "This house is ours. (这房子是我们的。)"
     }
   }
 }

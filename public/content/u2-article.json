@@ -231,39 +231,39 @@
   ],
   "lexicon": {
     "having fun": {
-      "phonetic": "/having fun/",
-      "pos": "v./n.",
+      "phonetic": "/ˈhævɪŋ fʌn/",
+      "pos": "phr.",
       "meaningZh": "玩得开心",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a having fun yesterday."
+      "usageZh": "常用进行时态：having fun；搭配：have fun doing sth (做某事很开心)",
+      "example": "We are having fun at the party. (我们在派对上玩得很开心。)"
     },
     "playing games": {
-      "phonetic": "/playing games/",
-      "pos": "v./n.",
+      "phonetic": "/ˈpleɪɪŋ ɡeɪmz/",
+      "pos": "phr.",
       "meaningZh": "玩游戏",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a playing games yesterday."
+      "usageZh": "常用进行时态：playing games；搭配：play video/board games (玩电子/棋盘游戏)",
+      "example": "The children are playing games in the yard. (孩子们正在院子里玩游戏。)"
     },
     "birthday presents": {
-      "phonetic": "/birthday presents/",
-      "pos": "v./n.",
+      "phonetic": "/ˈbɜːθdeɪ ˈprezənts/",
+      "pos": "n. phr.",
       "meaningZh": "生日礼物",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a birthday presents yesterday."
+      "usageZh": "复数形式；搭配：open birthday presents (拆生日礼物)",
+      "example": "She received many birthday presents. (她收到了很多生日礼物。)"
     },
     "starting out": {
-      "phonetic": "/starting out/",
-      "pos": "v./n.",
+      "phonetic": "/ˈstɑːtɪŋ aʊt/",
+      "pos": "phr.",
       "meaningZh": "开始",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a starting out yesterday."
+      "usageZh": "常用进行时态：starting out；搭配：start out as... (以...身份开始)",
+      "example": "He is starting out as a junior employee. (他正从初级员工开始做起。)"
     },
     "present": {
-      "phonetic": "/present/",
-      "pos": "v./n.",
+      "phonetic": "/ˈprezənt/",
+      "pos": "n.",
       "meaningZh": "礼物，赠品",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a present yesterday."
+      "usageZh": "可数名词；搭配：give/receive a present (送/收到礼物)",
+      "example": "This watch is a birthday present from my parents. (这块手表是我父母送的生日礼物。)"
     }
   }
 }

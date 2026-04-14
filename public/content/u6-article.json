@@ -1489,25 +1489,25 @@
       "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/ujfdnkumRJXNPBLEjXUrNJ.mp3"
     },
     "cheer": {
-      "phonetic": "/cheer/",
-      "pos": "v./n.",
+      "phonetic": "/tʃɪər/",
+      "pos": "v.",
       "meaningZh": "（为……）欢呼，喝彩；（为……）加油",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a cheer yesterday."
+      "usageZh": "常见搭配：cheer for (为……加油)；cheer up (振作起来)；语法：可作及物或不及物动词",
+      "example": "The crowd cheered loudly when the team scored. (当队伍得分时，人群大声欢呼。)"
     },
     "cross": {
-      "phonetic": "/cross/",
-      "pos": "v./n.",
+      "phonetic": "/krɒs/",
+      "pos": "v.",
       "meaningZh": "穿过，越过，跑过（终点线、小径等）",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a cross yesterday."
+      "usageZh": "常见搭配：cross the road (过马路)；cross the finish line (冲过终点线)；语法：及物动词，需接宾语",
+      "example": "Be careful when you cross the street. (过马路时要小心。)"
     },
     "record": {
-      "phonetic": "/record/",
-      "pos": "v./n.",
+      "phonetic": "/ˈrekɔːd/",
+      "pos": "n.",
       "meaningZh": "记录",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a record yesterday."
+      "usageZh": "常见搭配：break a record (打破纪录)；keep a record (保持记录)；set a record (创纪录)；语法：可数名词",
+      "example": "She set a new world record in swimming. (她创下了游泳的新世界纪录。)"
     }
   }
 }

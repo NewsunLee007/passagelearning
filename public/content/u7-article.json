@@ -800,32 +800,32 @@
       "example": ""
     },
     "none": {
-      "phonetic": "/none/",
-      "pos": "v./n.",
+      "phonetic": "/nʌn/",
+      "pos": "pron.",
       "meaningZh": "全无，没有一点",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a none yesterday."
+      "usageZh": "与of连用：none of them (他们中没有一个)；作主语时谓语动词可用单数或复数",
+      "example": "None of the students were late. (没有一个学生迟到。)"
     },
     "both": {
-      "phonetic": "/both/",
-      "pos": "v./n.",
+      "phonetic": "/bəʊθ/",
+      "pos": "pron./adj.",
       "meaningZh": "两者，双方，两个都",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a both yesterday."
+      "usageZh": "与and连用：both...and... (既...又...)；常位于be动词后或实义动词前",
+      "example": "Both of my parents are teachers. (我的父母都是老师。)"
     },
     "however": {
-      "phonetic": "/however/",
-      "pos": "v./n.",
+      "phonetic": "/haʊˈevə(r)/",
+      "pos": "adv./conj.",
       "meaningZh": "然而，不过，但是",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a however yesterday."
+      "usageZh": "表示转折，可位于句首、句中或句末，用逗号隔开",
+      "example": "It was raining; however, we still went out. (下雨了，不过我们还是出去了。)"
     },
     "wonder": {
-      "phonetic": "/wonder/",
-      "pos": "v./n.",
+      "phonetic": "/ˈwʌndə(r)/",
+      "pos": "v.",
       "meaningZh": "想要知道",
-      "usageZh": "常见搭配：暂无（AI自动生成）",
-      "example": "I saw a wonder yesterday."
+      "usageZh": "后接if/whether从句或疑问词引导的从句：I wonder if... (我想知道是否...)",
+      "example": "I wonder what time the movie starts. (我想知道电影什么时候开始。)"
     }
   }
 }
