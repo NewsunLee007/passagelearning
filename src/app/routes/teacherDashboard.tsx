@@ -85,8 +85,8 @@ export function TeacherDashboardRoute() {
     <div className="space-y-6 pb-10 animate-fade-in max-w-5xl mx-auto pt-6 px-4">
       <div className="flex items-center justify-between pb-4 border-b border-slate-200">
         <div className="flex items-center gap-4">
-          <Link to="/login" className="text-sm font-semibold text-slate-500 hover:text-secondary transition">
-            ← 返回学生端
+          <Link to="/" className="text-sm font-semibold text-slate-500 hover:text-secondary transition">
+            ← 返回主页
           </Link>
           <div className="h-4 w-px bg-slate-300"></div>
           <div className="text-sm font-bold text-secondary">教师端统计</div>

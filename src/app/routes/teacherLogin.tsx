@@ -6,19 +6,22 @@ import { loginTeacherWithCode } from "../../features/auth/teacherSession";
 export function TeacherLoginRoute() {
   const nav = useNavigate();
   const [mode, setMode] = useState<"login" | "register">("login");
-  const [code, setCode] = useState("");
-  const [err, setErr] = useState<string | null>(null);
-  const [submitting, setSubmitting] = useState(false);
+  const [loginForm, setLoginForm] = useState({
+    username: "",
+    password: ""
+  });
 
   const [regForm, setRegForm] = useState({
-    school: "",
     name: "",
     phone: "",
     password: ""
   });
 
-  const canSubmitLogin = useMemo(() => code.trim().length > 0, [code]);
-  const canSubmitReg = useMemo(() => regForm.school.trim() && regForm.name.trim() && regForm.phone.trim() && regForm.password.trim(), [regForm]);
+  const [err, setErr] = useState<string | null>(null);
+  const [submitting, setSubmitting] = useState(false);
+
+  const canSubmitLogin = useMemo(() => loginForm.username.trim() && loginForm.password.trim(), [loginForm]);
+  const canSubmitReg = useMemo(() => regForm.name.trim() && regForm.phone.trim() && regForm.password.trim(), [regForm]);
 
   async function onLogin(event: FormEvent) {
     event.preventDefault();
@@ -27,7 +30,10 @@ export function TeacherLoginRoute() {
     setSubmitting(true);
     setErr(null);
     try {
-      await loginTeacherWithCode(code);
+      // 现在的 loginTeacherWithCode 函数在底层暂时还是只接收一个参数（密码/口令），
+      // 但为了满足您的需求，我们这里已经把前端改为了用户名+密码的结构。
+      // 在后期对接真实后端时，直接把 loginForm.username 传过去即可。
+      await loginTeacherWithCode(loginForm.password);
       nav("/t/dashboard");
     } catch (error) {
       setErr(error instanceof Error ? error.message : "教师登录失败。");
@@ -98,73 +104,73 @@ export function TeacherLoginRoute() {
               onClick={() => setMode('login')}
               type="button"
             >
-              教师登录
+              登录
             </button>
             <button 
-              className={`flex-1 py-5 text-base font-bold transition-colors ${mode === 'register' ? 'text-primary border-b-2 border-primary' : 'text-slate-500 hover:text-slate-700'}`}
-              onClick={() => setMode('register')}
-              type="button"
-            >
-              机构入驻注册
-            </button>
-          </div>
-
-          {mode === 'login' ? (
-            <form onSubmit={onLogin} className="p-8 sm:p-10 space-y-5">
-              <label className="block">
-                <div className="text-sm font-bold text-slate-700 mb-2">登录账号 / 教师口令</div>
-                <input
-                  className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-5 py-4 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
-                  value={code}
-                  onChange={(event) => setCode(event.target.value)}
-                  placeholder="输入密码或 TEACHER_CODE"
-                  type="password"
-                />
-              </label>
-
-              <button
-                type="submit"
-                className="mt-4 w-full rounded-full bg-secondary px-6 py-4 text-base font-bold text-white shadow-md transition hover:bg-secondary/90 disabled:cursor-not-allowed disabled:opacity-50 disabled:shadow-none"
-                disabled={!canSubmitLogin || submitting}
+                className={`flex-1 py-5 text-base font-bold transition-colors ${mode === 'register' ? 'text-primary border-b-2 border-primary' : 'text-slate-500 hover:text-slate-700'}`}
+                onClick={() => setMode('register')}
+                type="button"
               >
-                {submitting ? "验证中…" : "进入工作台"}
+                教师注册
               </button>
-
-              {err && <div className="rounded-[1rem] border border-red-200 bg-red-50 px-5 py-4 text-sm text-red-700">{err}</div>}
-            </form>
-          ) : (
-            <form onSubmit={onRegister} className="p-8 sm:p-10 space-y-5 animate-fade-in">
+            </div>
+  
+            {mode === 'login' ? (
+              <form onSubmit={onLogin} className="p-8 sm:p-10 space-y-5">
+                <label className="block">
+                  <div className="text-sm font-bold text-slate-700 mb-2">用户名 / 手机号</div>
+                  <input
+                    className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-5 py-4 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
+                    value={loginForm.username}
+                    onChange={(event) => setLoginForm({ ...loginForm, username: event.target.value })}
+                    placeholder="请输入您的账号"
+                    type="text"
+                  />
+                </label>
+                
+                <label className="block mt-4">
+                  <div className="text-sm font-bold text-slate-700 mb-2">密码 / 教师口令</div>
+                  <input
+                    className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-5 py-4 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
+                    value={loginForm.password}
+                    onChange={(event) => setLoginForm({ ...loginForm, password: event.target.value })}
+                    placeholder="输入密码或 TEACHER_CODE"
+                    type="password"
+                  />
+                </label>
+  
+                <button
+                  type="submit"
+                  className="mt-6 w-full rounded-full bg-secondary px-6 py-4 text-base font-bold text-white shadow-md transition hover:bg-secondary/90 disabled:cursor-not-allowed disabled:opacity-50 disabled:shadow-none"
+                  disabled={!canSubmitLogin || submitting}
+                >
+                  {submitting ? "验证中…" : "进入工作台"}
+                </button>
+  
+                {err && <div className="mt-4 rounded-[1rem] border border-red-200 bg-red-50 px-5 py-4 text-sm text-red-700">{err}</div>}
+              </form>
+            ) : (
+              <form onSubmit={onRegister} className="p-8 sm:p-10 space-y-5 animate-fade-in">
               <label className="block">
-                <div className="text-sm font-bold text-slate-700 mb-1.5">学校 / 机构名称</div>
+                <div className="text-sm font-bold text-slate-700 mb-1.5">教师姓名</div>
                 <input
                   className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-3 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
-                  value={regForm.school}
-                  onChange={(e) => setRegForm({...regForm, school: e.target.value})}
-                  placeholder="如：新日中学"
+                  value={regForm.name}
+                  onChange={(e) => setRegForm({...regForm, name: e.target.value})}
+                  placeholder="如：李老师"
                 />
               </label>
 
-              <div className="grid grid-cols-2 gap-4">
-                <label className="block">
-                  <div className="text-sm font-bold text-slate-700 mb-1.5">教师姓名</div>
-                  <input
-                    className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-3 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
-                    value={regForm.name}
-                    onChange={(e) => setRegForm({...regForm, name: e.target.value})}
-                    placeholder="如：李老师"
-                  />
-                </label>
-                <label className="block">
-                  <div className="text-sm font-bold text-slate-700 mb-1.5">手机号码</div>
-                  <input
-                    type="tel"
-                    className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-3 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
-                    value={regForm.phone}
-                    onChange={(e) => setRegForm({...regForm, phone: e.target.value})}
-                    placeholder="用于登录"
-                  />
-                </label>
-              </div>
+              <label className="block">
+                <div className="text-sm font-bold text-slate-700 mb-1.5">手机号码</div>
+                <input
+                  type="tel"
+                  className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-3 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
+                  value={regForm.phone}
+                  onChange={(e) => setRegForm({...regForm, phone: e.target.value})}
+                  placeholder="作为登录账号"
+                />
+              </label>
 
               <label className="block">
                 <div className="text-sm font-bold text-slate-700 mb-1.5">设置密码</div>
@@ -182,7 +188,7 @@ export function TeacherLoginRoute() {
                 className="mt-4 w-full rounded-full bg-primary px-6 py-4 text-base font-bold text-white shadow-[0_8px_20px_rgba(47,110,99,0.2)] transition hover:bg-primary/90 disabled:cursor-not-allowed disabled:opacity-50 disabled:shadow-none"
                 disabled={!canSubmitReg || submitting}
               >
-                {submitting ? "正在提交…" : "免费注册并入驻"}
+                {submitting ? "正在提交…" : "免费注册"}
               </button>
 
               {err && <div className="rounded-[1rem] border border-red-200 bg-red-50 px-5 py-3 text-sm text-red-700">{err}</div>}
