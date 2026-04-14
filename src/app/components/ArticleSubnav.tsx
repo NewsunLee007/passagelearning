@@ -4,6 +4,7 @@ import type { TextbookArticleMeta } from "../../features/content/catalog";
 const items = [
   { label: "概览", to: "" },
   { label: "阅读", to: "read" },
+  { label: "跟读挑战", to: "pronunciation" },
   { label: "词句", to: "sentence" },
   { label: "练习", to: "reading" },
   { label: "收藏", to: "quotes" }

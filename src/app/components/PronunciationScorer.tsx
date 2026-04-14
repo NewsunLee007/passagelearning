@@ -1,7 +1,15 @@
+import { useEffect } from "react";
 import { usePronunciation } from "../../features/audio/usePronunciation";
 
-export function PronunciationScorer({ referenceText, onClose }: { referenceText: string; onClose?: () => void }) {
+export function PronunciationScorer({ referenceText, onClose, onScoreSaved }: { referenceText: string; onClose?: () => void; onScoreSaved?: (score: number) => void }) {
   const { state, result, errorMsg, startRecording, stopRecording, cancelRecording } = usePronunciation();
+
+  useEffect(() => {
+    if (state === "done" && result && onScoreSaved) {
+      // result.accuracyScore 已经是百分制 (0-100)，为了跟其他得分保持一致，我们将其除以100存为小数
+      onScoreSaved(result.accuracyScore / 100);
+    }
+  }, [state, result, onScoreSaved]);
 
   const handleStart = () => {
     startRecording(referenceText);

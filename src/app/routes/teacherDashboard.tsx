@@ -75,6 +75,7 @@ export function TeacherDashboardRoute() {
       totalAttempts: attempts.length,
       vocabRate: rate(byPrefix("vocab:")),
       sentenceRate: rate(byPrefix("sentence:")),
+      pronunciationRate: rate(byPrefix("pronunciation:")),
       readingRate: rate([...byPrefix("reading:"), ...byPrefix("reading-drawer:")])
     };
   }, [attempts]);
@@ -131,12 +132,13 @@ export function TeacherDashboardRoute() {
 
         {err && <div className="mt-6 rounded-[1rem] border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700">{err}</div>}
 
-        <div className="mt-6 grid gap-4 sm:grid-cols-2">
+        <div className="mt-6 grid gap-4 sm:grid-cols-2 md:grid-cols-3">
           <Stat label="学生数" value={studentsCount == null ? "—" : String(studentsCount)} />
           <Stat label="最近 500 次提交" value={String(stats.totalAttempts)} />
+          <Stat label="跟读得分" value={stats.pronunciationRate == null ? "—" : `${stats.pronunciationRate}`} />
           <Stat label="词汇正确率" value={stats.vocabRate == null ? "—" : `${stats.vocabRate}%`} />
           <Stat label="拆句正确率" value={stats.sentenceRate == null ? "—" : `${stats.sentenceRate}%`} />
-          <Stat label="阅读正确率" value={stats.readingRate == null ? "—" : `${stats.readingRate}%`} className="sm:col-span-2" />
+          <Stat label="阅读正确率" value={stats.readingRate == null ? "—" : `${stats.readingRate}%`} />
         </div>
       </div>
     </div>

@@ -1,9 +1,8 @@
-import { useMemo, useState } from "react";
+import { useMemo } from "react";
 import { useParams } from "react-router-dom";
 import { useArticleDemo } from "../../features/content/useArticleDemo";
 import { getSession } from "../../features/auth/session";
 import { saveAttempt } from "../../features/storage/attempts";
-import { PronunciationScorer } from "../components/PronunciationScorer";
 
 type LexiconItem = {
   phonetic?: string;
@@ -28,7 +27,6 @@ function normalizeWord(token: string) {
 export function SentenceRoute() {
   const { articleId } = useParams();
   const { data, loading, error, supportLoading, supportError } = useArticleDemo(articleId);
-  const [activeScorerId, setActiveScorerId] = useState<string | null>(null);
 
   const vocabEntries = useMemo(() => {
     const lexicon = data?.lexicon ?? {};
@@ -194,13 +192,6 @@ export function SentenceRoute() {
                 <div className="flex gap-2">
                   <button
                     type="button"
-                    onClick={() => setActiveScorerId(sentence.id)}
-                    className="rounded-full bg-orange-100 px-4 py-2 text-sm font-semibold text-orange-700 shadow-sm transition hover:bg-orange-200"
-                  >
-                    跟读评测
-                  </button>
-                  <button
-                    type="button"
                     onClick={() => {
                       const url = sentence.audioUrl;
                       if (url) {
@@ -230,13 +221,6 @@ export function SentenceRoute() {
                   </button>
                 </div>
               </div>
-
-              {activeScorerId === sentence.id && (
-                <PronunciationScorer 
-                  referenceText={sentence.text} 
-                  onClose={() => setActiveScorerId(null)} 
-                />
-              )}
 
               <div className="mt-4 grid gap-3 md:grid-cols-3">
                 <SentenceBlock title="译文" tone="blue">

@@ -24,6 +24,7 @@ export function MeReportRoute() {
 
   const vocab = byType("vocab:");
   const sentence = byType("sentence:");
+  const pronunciation = byType("pronunciation:");
   const reading = byType("reading:");
 
   return (
@@ -40,9 +41,10 @@ export function MeReportRoute() {
         <div className="mt-3 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           <Stat label="总提交次数" value={String(attempts.length)} />
           <Stat label="总收藏句子数" value={String(quotes.length)} />
+          <Stat label="跟读平均分" value={rate(pronunciation) == null ? "—" : `${rate(pronunciation)}`} />
           <Stat label="词汇总体正确率" value={rate(vocab) == null ? "—" : `${rate(vocab)}%`} />
-          <Stat label="阅读总体正确率" value={rate(reading) == null ? "—" : `${rate(reading)}%`} />
           <Stat label="拆句总体正确率" value={rate(sentence) == null ? "—" : `${rate(sentence)}%`} />
+          <Stat label="阅读总体正确率" value={rate(reading) == null ? "—" : `${rate(reading)}%`} />
           <Stat label="当前身份" value={[session.className, session.studentName].filter(Boolean).join(" · ") || "—"} />
         </div>
         <p className="mt-4 text-sm text-slate-600">
@@ -74,9 +76,15 @@ export function MeReportRoute() {
                       <td className="py-2 pr-3 text-slate-700">{articlesMap.get(a.articleId) || a.articleId}</td>
                       <td className="py-2 pr-3 font-mono text-xs">{a.taskKey}</td>
                       <td className="py-2 pr-3">
-                        <span className={a.score === 1 ? "text-emerald-600" : "text-red-600"}>
-                          {a.score}
-                        </span>
+                        {a.taskKey.startsWith("pronunciation:") ? (
+                          <span className={a.score >= 0.8 ? "text-emerald-600" : a.score >= 0.6 ? "text-amber-600" : "text-rose-600"}>
+                            {Math.round(Number(a.score) * 100)} 分
+                          </span>
+                        ) : (
+                          <span className={a.score === 1 ? "text-emerald-600" : "text-red-600"}>
+                            {a.score}
+                          </span>
+                        )}
                       </td>
                     </tr>
                   ))}

@@ -6,6 +6,7 @@ import { getAdjacentArticles, getTextbookArticle } from "../../features/content/
 import { useArticleDemo } from "../../features/content/useArticleDemo";
 import { loadQuotes, toggleQuote } from "../../features/storage/quotes";
 import { loadWordFavs, toggleWordFav } from "../../features/storage/wordFavorites";
+import { saveAttempt } from "../../features/storage/attempts";
 import { PronunciationScorer } from "../components/PronunciationScorer";
 
 type LexiconItem = {
@@ -440,7 +441,7 @@ export function ReadingMainRoute() {
 
               <button
                 type="button"
-                onClick={() => nav(`/a/${data.article.id}/sentence`)}
+                onClick={() => nav(`/a/${data.article.id}/pronunciation`)}
                 className="ml-2 rounded-full bg-emerald-600 px-5 py-2.5 text-sm font-semibold text-white shadow-[0_12px_24px_rgba(5,150,105,0.22)] transition hover:bg-emerald-700"
               >
                 跟读挑战
@@ -570,6 +571,19 @@ export function ReadingMainRoute() {
               setPaused(false);
               playSentenceById(sid);
             }}
+            onScoreSaved={(score) => {
+              saveAttempt({
+                id: crypto.randomUUID(),
+                userId: session.userId,
+                classId: session.classId,
+                articleId: data.article.id,
+                taskKey: `pronunciation:${grammarModal.sid}`,
+                answer: { action: "pronunciation_score" },
+                score,
+                durationMs: 0,
+                createdAt: new Date().toISOString()
+              }).catch(() => {});
+            }}
             supportLoading={supportLoading}
             supportError={supportError}
           />
@@ -697,10 +711,11 @@ function GrammarModalBody(params: {
   isFav: boolean;
   onToggleFav: () => void;
   onPlay: (sid: string) => void;
+  onScoreSaved?: (score: number) => void;
   supportLoading: boolean;
   supportError: string | null;
 }) {
-  const { sentence, taskHint, quoteReason, isFav, onToggleFav, onPlay, supportLoading, supportError } = params;
+  const { sentence, taskHint, quoteReason, isFav, onToggleFav, onPlay, onScoreSaved, supportLoading, supportError } = params;
   const detail = sentence.d ?? quoteReason ?? taskHint?.focusPointsZh?.join("；") ?? "";
   const structure = sentence.g ?? taskHint?.promptZh ?? "";
   const [showScorer, setShowScorer] = useState(false);
@@ -732,6 +747,7 @@ function GrammarModalBody(params: {
           <PronunciationScorer 
             referenceText={sentence.text} 
             onClose={() => setShowScorer(false)} 
+            onScoreSaved={onScoreSaved}
           />
         )}
 

@@ -8,6 +8,7 @@ import { VocabRoute } from "./routes/vocab";
 import { SentenceRoute } from "./routes/sentence";
 import { ReadingRoute } from "./routes/reading";
 import { QuotesRoute } from "./routes/quotes";
+import { PronunciationRoute } from "./routes/pronunciation";
 import { MeReportRoute } from "./routes/meReport";
 import { TeacherLoginRoute } from "./routes/teacherLogin";
 import { TeacherDashboardRoute } from "./routes/teacherDashboard";
@@ -24,6 +25,7 @@ export function App() {
         <Route path="/a/:articleId/read" element={<ReadingMainRoute />} />
         <Route path="/a/:articleId/vocab" element={<VocabRoute />} />
         <Route path="/a/:articleId/sentence" element={<SentenceRoute />} />
+        <Route path="/a/:articleId/pronunciation" element={<PronunciationRoute />} />
         <Route path="/a/:articleId/reading" element={<ReadingRoute />} />
         <Route path="/a/:articleId/quotes" element={<QuotesRoute />} />
         <Route path="/me/report" element={<MeReportRoute />} />
