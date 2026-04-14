@@ -1,8 +1,9 @@
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
 import { useParams } from "react-router-dom";
 import { useArticleDemo } from "../../features/content/useArticleDemo";
 import { getSession } from "../../features/auth/session";
 import { saveAttempt } from "../../features/storage/attempts";
+import { PronunciationScorer } from "../components/PronunciationScorer";
 
 type LexiconItem = {
   phonetic?: string;
@@ -27,6 +28,7 @@ function normalizeWord(token: string) {
 export function SentenceRoute() {
   const { articleId } = useParams();
   const { data, loading, error, supportLoading, supportError } = useArticleDemo(articleId);
+  const [activeScorerId, setActiveScorerId] = useState<string | null>(null);
 
   const vocabEntries = useMemo(() => {
     const lexicon = data?.lexicon ?? {};
@@ -189,36 +191,52 @@ export function SentenceRoute() {
                   <div className="text-xs font-semibold uppercase tracking-[0.16em] text-slate-400">Sentence {index + 1}</div>
                   <div className="mt-2 text-base leading-8 text-secondary sm:text-lg">{sentence.text}</div>
                 </div>
-                <button
-                  type="button"
-                  onClick={() => {
-                    const url = sentence.audioUrl;
-                    if (url) {
-                      new Audio(url).play().catch(() => {});
-                    } else {
-                      const utterance = new SpeechSynthesisUtterance(sentence.text);
-                      window.speechSynthesis.cancel();
-                      window.speechSynthesis.speak(utterance);
-                    }
-                    
-                    const { userId, classId } = getSession();
-                    saveAttempt({
-                      id: crypto.randomUUID(),
-                      userId,
-                      classId,
-                      articleId: data!.article.id,
-                      taskKey: `sentence:${sentence.id}`,
-                      answer: { action: "play_audio" },
-                      score: 1,
-                      durationMs: 0,
-                      createdAt: new Date().toISOString()
-                    }).catch(() => {});
-                  }}
-                  className="rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white shadow-[0_12px_28px_rgba(47,110,99,0.22)] transition hover:bg-primary/92"
-                >
-                  朗读
-                </button>
+                <div className="flex gap-2">
+                  <button
+                    type="button"
+                    onClick={() => setActiveScorerId(sentence.id)}
+                    className="rounded-full bg-orange-100 px-4 py-2 text-sm font-semibold text-orange-700 shadow-sm transition hover:bg-orange-200"
+                  >
+                    跟读评测
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      const url = sentence.audioUrl;
+                      if (url) {
+                        new Audio(url).play().catch(() => {});
+                      } else {
+                        const utterance = new SpeechSynthesisUtterance(sentence.text);
+                        window.speechSynthesis.cancel();
+                        window.speechSynthesis.speak(utterance);
+                      }
+                      
+                      const { userId, classId } = getSession();
+                      saveAttempt({
+                        id: crypto.randomUUID(),
+                        userId,
+                        classId,
+                        articleId: data!.article.id,
+                        taskKey: `sentence:${sentence.id}`,
+                        answer: { action: "play_audio" },
+                        score: 1,
+                        durationMs: 0,
+                        createdAt: new Date().toISOString()
+                      }).catch(() => {});
+                    }}
+                    className="rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white shadow-[0_12px_28px_rgba(47,110,99,0.22)] transition hover:bg-primary/92"
+                  >
+                    朗读
+                  </button>
+                </div>
               </div>
+
+              {activeScorerId === sentence.id && (
+                <PronunciationScorer 
+                  referenceText={sentence.text} 
+                  onClose={() => setActiveScorerId(null)} 
+                />
+              )}
 
               <div className="mt-4 grid gap-3 md:grid-cols-3">
                 <SentenceBlock title="译文" tone="blue">

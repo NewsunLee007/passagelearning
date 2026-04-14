@@ -6,6 +6,7 @@ import { getAdjacentArticles, getTextbookArticle } from "../../features/content/
 import { useArticleDemo } from "../../features/content/useArticleDemo";
 import { loadQuotes, toggleQuote } from "../../features/storage/quotes";
 import { loadWordFavs, toggleWordFav } from "../../features/storage/wordFavorites";
+import { PronunciationScorer } from "../components/PronunciationScorer";
 
 type LexiconItem = {
   phonetic?: string;
@@ -694,6 +695,7 @@ function GrammarModalBody(params: {
   const { sentence, taskHint, quoteReason, isFav, onToggleFav, onPlay, supportLoading, supportError } = params;
   const detail = sentence.d ?? quoteReason ?? taskHint?.focusPointsZh?.join("；") ?? "";
   const structure = sentence.g ?? taskHint?.promptZh ?? "";
+  const [showScorer, setShowScorer] = useState(false);
 
   return (
     <div className="p-6">
@@ -708,10 +710,22 @@ function GrammarModalBody(params: {
         <div className="relative rounded-xl bg-green-50 p-4">
           <div className="text-xs font-bold uppercase text-green-600">原文</div>
           <div className="mt-1 pr-10 text-sm font-medium text-slate-900">{sentence.text}</div>
-          <button type="button" onClick={() => onPlay(sentence.id)} className="absolute right-4 top-8 text-xl">
-            🔊
-          </button>
+          <div className="absolute right-4 top-4 flex flex-col gap-2">
+            <button type="button" onClick={() => onPlay(sentence.id)} className="text-xl" title="播放原音">
+              🔊
+            </button>
+            <button type="button" onClick={() => setShowScorer(true)} className="text-xl" title="跟读评测">
+              🎤
+            </button>
+          </div>
         </div>
+
+        {showScorer && (
+          <PronunciationScorer 
+            referenceText={sentence.text} 
+            onClose={() => setShowScorer(false)} 
+          />
+        )}
 
         <div className="rounded-xl bg-blue-50 p-4">
           <div className="text-xs font-bold uppercase text-blue-600">译文</div>
