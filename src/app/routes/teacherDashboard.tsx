@@ -82,33 +82,34 @@ export function TeacherDashboardRoute() {
   if (!authed) return <Navigate to="/t/login" replace />;
 
   return (
-    <div className="space-y-4">
-      <div className="flex items-center justify-between">
-        <div className="flex items-center gap-3">
-          <Link to="/login" className="text-sm underline">
-            返回学生端
+    <div className="space-y-6 pb-10 animate-fade-in max-w-5xl mx-auto pt-6 px-4">
+      <div className="flex items-center justify-between pb-4 border-b border-slate-200">
+        <div className="flex items-center gap-4">
+          <Link to="/login" className="text-sm font-semibold text-slate-500 hover:text-secondary transition">
+            ← 返回学生端
           </Link>
-          <div className="text-sm text-slate-600">教师端统计</div>
+          <div className="h-4 w-px bg-slate-300"></div>
+          <div className="text-sm font-bold text-secondary">教师端统计</div>
         </div>
         <div className="flex items-center gap-3">
-          <Link to="/t/articles" className="rounded-full bg-emerald-600 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-700">
+          <Link to="/t/articles" className="rounded-full bg-primary px-5 py-2.5 text-sm font-bold text-white shadow-md hover:bg-primary/90 transition">
             进入文章管理
           </Link>
           <button
             type="button"
             onClick={logoutTeacher}
-            className="rounded-full border px-4 py-2 text-sm font-medium text-slate-600 hover:bg-slate-50"
+            className="rounded-full border border-slate-200 px-5 py-2.5 text-sm font-semibold text-slate-600 hover:bg-slate-50 transition"
           >
             退出
           </button>
         </div>
       </div>
 
-      <div className="rounded-xl border bg-white p-5">
-        <div className="flex flex-wrap items-center gap-3">
-          <div className="text-sm font-semibold">选择班级</div>
+      <div className="rounded-[2rem] border border-white/80 bg-white/90 p-6 sm:p-8 shadow-[0_20px_60px_rgba(15,23,42,0.06)]">
+        <div className="flex flex-wrap items-center gap-4 border-b border-slate-100 pb-6">
+          <div className="text-base font-bold text-secondary">选择班级</div>
           <select
-            className="rounded-md border px-3 py-2 text-sm"
+            className="rounded-xl border border-slate-200 bg-slate-50 px-4 py-2.5 text-sm font-medium text-slate-700 outline-none focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10 transition"
             value={classId}
             onChange={(event) => {
               setLoading(true);
@@ -122,28 +123,28 @@ export function TeacherDashboardRoute() {
               </option>
             ))}
           </select>
-          {loading && <div className="text-sm text-slate-500">加载中…</div>}
+          {loading && <div className="text-sm font-medium text-slate-500 animate-pulse">正在同步数据…</div>}
         </div>
 
-        {err && <div className="mt-3 rounded-md border border-red-200 bg-red-50 px-3 py-2 text-sm text-red-700">{err}</div>}
+        {err && <div className="mt-6 rounded-[1rem] border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700">{err}</div>}
 
-        <div className="mt-4 grid gap-3 sm:grid-cols-2">
+        <div className="mt-6 grid gap-4 sm:grid-cols-2">
           <Stat label="学生数" value={studentsCount == null ? "—" : String(studentsCount)} />
           <Stat label="最近 500 次提交" value={String(stats.totalAttempts)} />
           <Stat label="词汇正确率" value={stats.vocabRate == null ? "—" : `${stats.vocabRate}%`} />
           <Stat label="拆句正确率" value={stats.sentenceRate == null ? "—" : `${stats.sentenceRate}%`} />
-          <Stat label="阅读正确率" value={stats.readingRate == null ? "—" : `${stats.readingRate}%`} />
+          <Stat label="阅读正确率" value={stats.readingRate == null ? "—" : `${stats.readingRate}%`} className="sm:col-span-2" />
         </div>
       </div>
     </div>
   );
 }
 
-function Stat({ label, value }: { label: string; value: string }) {
+function Stat({ label, value, className = "" }: { label: string; value: string; className?: string }) {
   return (
-    <div className="rounded-lg border p-4">
-      <div className="text-xs font-medium text-slate-500">{label}</div>
-      <div className="mt-1 text-lg font-semibold">{value}</div>
+    <div className={`rounded-[1.5rem] border border-slate-100 bg-white p-5 shadow-sm ${className}`}>
+      <div className="text-xs font-bold uppercase tracking-widest text-slate-400">{label}</div>
+      <div className="mt-2 text-2xl font-black text-secondary">{value}</div>
     </div>
   );
 }

@@ -1376,6 +1376,34 @@
       "meaningZh": "adv. 也",
       "usageZh": "",
       "example": ""
+    },
+    "tool": {
+      "phonetic": "/tool/",
+      "pos": "v./n.",
+      "meaningZh": "工具",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a tool yesterday."
+    },
+    "spirit": {
+      "phonetic": "/spirit/",
+      "pos": "v./n.",
+      "meaningZh": "（某一特定历史时期、地方或群体的）精神，风气",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a spirit yesterday."
+    },
+    "become": {
+      "phonetic": "/become/",
+      "pos": "v./n.",
+      "meaningZh": "变成，变得",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a become yesterday."
+    },
+    "other": {
+      "phonetic": "/other/",
+      "pos": "v./n.",
+      "meaningZh": "另外的，其他的",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a other yesterday."
     }
   }
 }

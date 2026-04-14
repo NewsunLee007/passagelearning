@@ -798,6 +798,34 @@
       "meaningZh": "机会；可能性",
       "usageZh": "",
       "example": ""
+    },
+    "none": {
+      "phonetic": "/none/",
+      "pos": "v./n.",
+      "meaningZh": "全无，没有一点",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a none yesterday."
+    },
+    "both": {
+      "phonetic": "/both/",
+      "pos": "v./n.",
+      "meaningZh": "两者，双方，两个都",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a both yesterday."
+    },
+    "however": {
+      "phonetic": "/however/",
+      "pos": "v./n.",
+      "meaningZh": "然而，不过，但是",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a however yesterday."
+    },
+    "wonder": {
+      "phonetic": "/wonder/",
+      "pos": "v./n.",
+      "meaningZh": "想要知道",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a wonder yesterday."
     }
   }
 }

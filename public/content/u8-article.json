@@ -1377,6 +1377,34 @@
       "usageZh": "",
       "example": "",
       "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/XBtqS9URuv5eQS3V8C2Hob.mp3"
+    },
+    "carrot": {
+      "phonetic": "/carrot/",
+      "pos": "v./n.",
+      "meaningZh": "胡萝卜",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a carrot yesterday."
+    },
+    "onion": {
+      "phonetic": "/onion/",
+      "pos": "v./n.",
+      "meaningZh": "洋葱（头）",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a onion yesterday."
+    },
+    "pancake": {
+      "phonetic": "/pancake/",
+      "pos": "v./n.",
+      "meaningZh": "薄煎（烤，烙）饼",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a pancake yesterday."
+    },
+    "remain": {
+      "phonetic": "/remain/",
+      "pos": "v./n.",
+      "meaningZh": "继续，依然（保持某种状态）",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a remain yesterday."
     }
   }
 }

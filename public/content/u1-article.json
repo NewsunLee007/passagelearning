@@ -202,5 +202,42 @@
       "sentenceId": "s5",
       "reasonZh": "这句话简洁地表达了互动学习的积极效果，语言优美且鼓舞人心。"
     }
-  ]
+  ],
+  "lexicon": {
+    "reading skills": {
+      "phonetic": "/reading skills/",
+      "pos": "v./n.",
+      "meaningZh": "阅读技能",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a reading skills yesterday."
+    },
+    "comprehension abilities": {
+      "phonetic": "/comprehension abilities/",
+      "pos": "v./n.",
+      "meaningZh": "理解能力",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a comprehension abilities yesterday."
+    },
+    "interest": {
+      "phonetic": "/interest/",
+      "pos": "v./n.",
+      "meaningZh": "兴趣",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a interest yesterday."
+    },
+    "skill": {
+      "phonetic": "/skill/",
+      "pos": "v./n.",
+      "meaningZh": "技能，技巧，技艺",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a skill yesterday."
+    },
+    "text": {
+      "phonetic": "/text/",
+      "pos": "v./n.",
+      "meaningZh": "文字材料",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a text yesterday."
+    }
+  }
 }

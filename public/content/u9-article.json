@@ -1266,6 +1266,41 @@
       "meaningZh": "发生",
       "usageZh": "",
       "example": ""
+    },
+    "tale": {
+      "phonetic": "/tale/",
+      "pos": "v./n.",
+      "meaningZh": "故事",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a tale yesterday."
+    },
+    "taste": {
+      "phonetic": "/taste/",
+      "pos": "v./n.",
+      "meaningZh": "味道；有……的味道",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a taste yesterday."
+    },
+    "iranian": {
+      "phonetic": "/iranian/",
+      "pos": "v./n.",
+      "meaningZh": "伊朗人",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a iranian yesterday."
+    },
+    "pancake": {
+      "phonetic": "/pancake/",
+      "pos": "v./n.",
+      "meaningZh": "薄煎（烤，烙）饼",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a pancake yesterday."
+    },
+    "border": {
+      "phonetic": "/border/",
+      "pos": "v./n.",
+      "meaningZh": "边界；边境",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a border yesterday."
     }
   }
 }

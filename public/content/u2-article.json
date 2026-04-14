@@ -228,5 +228,42 @@
       "sentenceId": "u2-s2",
       "reasonZh": "描绘了宁静愉快的午后公园时光，语言优美且意境轻松。"
     }
-  ]
+  ],
+  "lexicon": {
+    "having fun": {
+      "phonetic": "/having fun/",
+      "pos": "v./n.",
+      "meaningZh": "玩得开心",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a having fun yesterday."
+    },
+    "playing games": {
+      "phonetic": "/playing games/",
+      "pos": "v./n.",
+      "meaningZh": "玩游戏",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a playing games yesterday."
+    },
+    "birthday presents": {
+      "phonetic": "/birthday presents/",
+      "pos": "v./n.",
+      "meaningZh": "生日礼物",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a birthday presents yesterday."
+    },
+    "starting out": {
+      "phonetic": "/starting out/",
+      "pos": "v./n.",
+      "meaningZh": "开始",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a starting out yesterday."
+    },
+    "present": {
+      "phonetic": "/present/",
+      "pos": "v./n.",
+      "meaningZh": "礼物，赠品",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a present yesterday."
+    }
+  }
 }

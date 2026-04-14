@@ -328,5 +328,84 @@
       "sentenceId": "u5-s7",
       "reasonZh": "这句话以生动的隐喻'grow happiness'结尾，情感积极，鼓励读者反思和实践助人为乐。"
     }
-  ]
+  ],
+  "lexicon": {
+    "helping kids with cancer": {
+      "phonetic": "/helping kids with cancer/",
+      "pos": "v./n.",
+      "meaningZh": "帮助患癌症的孩子们",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a helping kids with cancer yesterday."
+    },
+    "enough hair for three wigs": {
+      "phonetic": "/enough hair for three wigs/",
+      "pos": "v./n.",
+      "meaningZh": "足够做三顶假发的头发",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a enough hair for three wigs yesterday."
+    },
+    "looked at the smart young man in the mirror": {
+      "phonetic": "/looked at the smart young man in the mirror/",
+      "pos": "v./n.",
+      "meaningZh": "看着镜子中聪明的年轻人",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a looked at the smart young man in the mirror yesterday."
+    },
+    "remembered the words of Plato": {
+      "phonetic": "/remembered the words of Plato/",
+      "pos": "v./n.",
+      "meaningZh": "记起柏拉图的话",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a remembered the words of Plato yesterday."
+    },
+    "Happiness springs from doing good and helping others": {
+      "phonetic": "/Happiness springs from doing good and helping others/",
+      "pos": "v./n.",
+      "meaningZh": "幸福源于行善和帮助他人",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a Happiness springs from doing good and helping others yesterday."
+    },
+    "grow happiness again": {
+      "phonetic": "/grow happiness again/",
+      "pos": "v./n.",
+      "meaningZh": "再次培育幸福",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a grow happiness again yesterday."
+    },
+    "cancer": {
+      "phonetic": "/cancer/",
+      "pos": "v./n.",
+      "meaningZh": "癌（症）",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a cancer yesterday."
+    },
+    "wig": {
+      "phonetic": "/wig/",
+      "pos": "v./n.",
+      "meaningZh": "假发",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a wig yesterday."
+    },
+    "smart": {
+      "phonetic": "/smart/",
+      "pos": "v./n.",
+      "meaningZh": "聪颖的，机灵的；明智的",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a smart yesterday."
+    },
+    "other": {
+      "phonetic": "/other/",
+      "pos": "v./n.",
+      "meaningZh": "另外的，其他的",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a other yesterday."
+    },
+    "himself": {
+      "phonetic": "/himself/",
+      "pos": "v./n.",
+      "meaningZh": "他自己",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a himself yesterday."
+    }
+  }
 }

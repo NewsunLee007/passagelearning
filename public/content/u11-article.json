@@ -536,6 +536,111 @@
       "phonetic": "/tʃɔɪs/",
       "pos": "n.",
       "meaningZh": "选择；抉择"
+    },
+    "form": {
+      "phonetic": "/form/",
+      "pos": "v./n.",
+      "meaningZh": "形式，方式",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a form yesterday."
+    },
+    "social": {
+      "phonetic": "/social/",
+      "pos": "v./n.",
+      "meaningZh": "社交的",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a social yesterday."
+    },
+    "media": {
+      "phonetic": "/media/",
+      "pos": "v./n.",
+      "meaningZh": "媒体；传媒",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a media yesterday."
+    },
+    "screen": {
+      "phonetic": "/screen/",
+      "pos": "v./n.",
+      "meaningZh": "屏幕",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a screen yesterday."
+    },
+    "become": {
+      "phonetic": "/become/",
+      "pos": "v./n.",
+      "meaningZh": "变成，变得",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a become yesterday."
+    },
+    "couch": {
+      "phonetic": "/couch/",
+      "pos": "v./n.",
+      "meaningZh": "长沙发",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a couch yesterday."
+    },
+    "sore": {
+      "phonetic": "/sore/",
+      "pos": "v./n.",
+      "meaningZh": "疼痛的；酸痛的",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a sore yesterday."
+    },
+    "neck": {
+      "phonetic": "/neck/",
+      "pos": "v./n.",
+      "meaningZh": "颈，脖子",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a neck yesterday."
+    },
+    "moment": {
+      "phonetic": "/moment/",
+      "pos": "v./n.",
+      "meaningZh": "某一时刻",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a moment yesterday."
+    },
+    "deaf": {
+      "phonetic": "/deaf/",
+      "pos": "v./n.",
+      "meaningZh": "耳聋的，失聪的",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a deaf yesterday."
+    },
+    "dull": {
+      "phonetic": "/dull/",
+      "pos": "v./n.",
+      "meaningZh": "愚笨的，迟钝的",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a dull yesterday."
+    },
+    "jog": {
+      "phonetic": "/jog/",
+      "pos": "v./n.",
+      "meaningZh": "慢跑",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a jog yesterday."
+    },
+    "fresh": {
+      "phonetic": "/fresh/",
+      "pos": "v./n.",
+      "meaningZh": "新鲜的",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a fresh yesterday."
+    },
+    "tennis": {
+      "phonetic": "/tennis/",
+      "pos": "v./n.",
+      "meaningZh": "网球（运动）",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a tennis yesterday."
+    },
+    "ours": {
+      "phonetic": "/ours/",
+      "pos": "v./n.",
+      "meaningZh": "（属于）我们的",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a ours yesterday."
     }
   }
 }

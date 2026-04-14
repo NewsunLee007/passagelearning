@@ -1252,6 +1252,41 @@
       "meaningZh": "世界",
       "usageZh": "",
       "example": ""
+    },
+    "cloud": {
+      "phonetic": "/cloud/",
+      "pos": "v./n.",
+      "meaningZh": "云",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a cloud yesterday."
+    },
+    "grassland": {
+      "phonetic": "/grassland/",
+      "pos": "v./n.",
+      "meaningZh": "草原",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a grassland yesterday."
+    },
+    "field": {
+      "phonetic": "/field/",
+      "pos": "v./n.",
+      "meaningZh": "田地，田野",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a field yesterday."
+    },
+    "restaurant": {
+      "phonetic": "/restaurant/",
+      "pos": "v./n.",
+      "meaningZh": "饭店，餐馆",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a restaurant yesterday."
+    },
+    "present": {
+      "phonetic": "/present/",
+      "pos": "v./n.",
+      "meaningZh": "礼物，赠品",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a present yesterday."
     }
   }
 }

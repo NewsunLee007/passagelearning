@@ -1369,6 +1369,27 @@
       "meaningZh": "再一次",
       "usageZh": "",
       "example": ""
+    },
+    "shoulder": {
+      "phonetic": "/shoulder/",
+      "pos": "v./n.",
+      "meaningZh": "肩膀",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a shoulder yesterday."
+    },
+    "customer": {
+      "phonetic": "/customer/",
+      "pos": "v./n.",
+      "meaningZh": "顾客，客户",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a customer yesterday."
+    },
+    "wig": {
+      "phonetic": "/wig/",
+      "pos": "v./n.",
+      "meaningZh": "假发",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a wig yesterday."
     }
   }
 }

@@ -132,7 +132,7 @@ export function SentenceRoute() {
                         createdAt: new Date().toISOString()
                       }).catch(() => {});
                     }}
-                    className="rounded-full bg-primary/8 px-3 py-1.5 text-sm font-semibold text-primary"
+                    className="rounded-full bg-primary/8 px-3 py-1.5 text-sm font-semibold text-primary transition hover:bg-primary/15"
                   >
                     发音
                   </button>

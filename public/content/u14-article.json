@@ -1231,6 +1231,27 @@
       "meaningZh": "地方",
       "usageZh": "",
       "example": ""
+    },
+    "expect": {
+      "phonetic": "/expect/",
+      "pos": "v./n.",
+      "meaningZh": "预料，预期，预计",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a expect yesterday."
+    },
+    "mask": {
+      "phonetic": "/mask/",
+      "pos": "v./n.",
+      "meaningZh": "假面具，假面",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a mask yesterday."
+    },
+    "wonder": {
+      "phonetic": "/wonder/",
+      "pos": "v./n.",
+      "meaningZh": "想要知道",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a wonder yesterday."
     }
   }
 }

@@ -1415,6 +1415,13 @@
       "usageZh": "",
       "example": "",
       "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/aCwgUx6s5exWqJw3qLTxu4.mp3"
+    },
+    "reason": {
+      "phonetic": "/reason/",
+      "pos": "v./n.",
+      "meaningZh": "原因，理由",
+      "usageZh": "常见搭配：暂无（AI自动生成）",
+      "example": "I saw a reason yesterday."
     }
   }
 }
