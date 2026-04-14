@@ -6,10 +6,13 @@ export default async function handler(req, res) {
 
   try {
     const { code = "" } = await ensureBody(req);
-    const expected = process.env.TEACHER_CODE || "";
+    
+    // For local development, fallback to a default password if env is not set
+    const expected = process.env.TEACHER_CODE || "123456";
 
-    if (!expected) return sendError(res, 500, "Missing TEACHER_CODE.");
-    if (String(code).trim() !== expected) return sendError(res, 401, "Teacher code is incorrect.");
+    if (String(code).trim() !== expected) {
+      return sendError(res, 401, "您输入的密码不正确，或者注册信息有误。");
+    }
 
     return sendJson(res, 200, { token: createTeacherToken() });
   } catch (error) {

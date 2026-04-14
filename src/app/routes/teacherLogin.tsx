@@ -6,6 +6,9 @@ import { loginTeacherWithCode } from "../../features/auth/teacherSession";
 export function TeacherLoginRoute() {
   const nav = useNavigate();
   const [mode, setMode] = useState<"login" | "register">("login");
+  const [err, setErr] = useState<string | null>(null);
+  const [submitting, setSubmitting] = useState(false);
+  const [showPassword, setShowPassword] = useState(false);
   const [loginForm, setLoginForm] = useState({
     username: "",
     password: ""
@@ -14,14 +17,12 @@ export function TeacherLoginRoute() {
   const [regForm, setRegForm] = useState({
     name: "",
     phone: "",
-    password: ""
+    password: "",
+    passwordConfirm: ""
   });
 
-  const [err, setErr] = useState<string | null>(null);
-  const [submitting, setSubmitting] = useState(false);
-
   const canSubmitLogin = useMemo(() => loginForm.username.trim() && loginForm.password.trim(), [loginForm]);
-  const canSubmitReg = useMemo(() => regForm.name.trim() && regForm.phone.trim() && regForm.password.trim(), [regForm]);
+  const canSubmitReg = useMemo(() => regForm.name.trim() && regForm.phone.trim() && regForm.password.trim() && regForm.passwordConfirm.trim(), [regForm]);
 
   async function onLogin(event: FormEvent) {
     event.preventDefault();
@@ -49,17 +50,21 @@ export function TeacherLoginRoute() {
     setSubmitting(true);
     setErr(null);
     
-    // Mock registration logic: simply log them in with their chosen password as the TEACHER_CODE
-    setTimeout(async () => {
-      try {
-        await loginTeacherWithCode(regForm.password);
-        nav("/t/dashboard");
-      } catch (error) {
-        setErr("注册成功，但自动登录失败：" + (error instanceof Error ? error.message : "未知错误"));
-      } finally {
-        setSubmitting(false);
-      }
-    }, 1000);
+    if (regForm.password !== regForm.passwordConfirm) {
+      setErr("两次输入的密码不一致，请重新检查。");
+      setSubmitting(false);
+      return;
+    }
+
+    // Check if the input password matches the TEACHER_CODE
+    try {
+      await loginTeacherWithCode(regForm.password);
+      nav("/t/dashboard");
+    } catch (error) {
+      setErr("注册验证失败：" + (error instanceof Error ? error.message : "未知错误"));
+    } finally {
+      setSubmitting(false);
+    }
   }
 
   return (
@@ -173,13 +178,33 @@ export function TeacherLoginRoute() {
               </label>
 
               <label className="block">
-                <div className="text-sm font-bold text-slate-700 mb-1.5">设置密码</div>
+                <div className="flex justify-between items-center mb-1.5">
+                  <div className="text-sm font-bold text-slate-700">设置密码</div>
+                  <button 
+                    type="button" 
+                    onClick={() => setShowPassword(!showPassword)}
+                    className="text-xs font-semibold text-primary hover:text-primary/80"
+                  >
+                    {showPassword ? "隐藏" : "显示"}
+                  </button>
+                </div>
                 <input
-                  type="password"
+                  type={showPassword ? "text" : "password"}
                   className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-3 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
                   value={regForm.password}
                   onChange={(e) => setRegForm({...regForm, password: e.target.value})}
                   placeholder="至少 6 位"
+                />
+              </label>
+
+              <label className="block">
+                <div className="text-sm font-bold text-slate-700 mb-1.5">确认密码</div>
+                <input
+                  type={showPassword ? "text" : "password"}
+                  className="w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-3 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
+                  value={regForm.passwordConfirm}
+                  onChange={(e) => setRegForm({...regForm, passwordConfirm: e.target.value})}
+                  placeholder="请再次输入密码"
                 />
               </label>
 
