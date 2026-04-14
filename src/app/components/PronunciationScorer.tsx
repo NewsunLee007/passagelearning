@@ -1,7 +1,7 @@
 import { usePronunciation } from "../../features/audio/usePronunciation";
 
 export function PronunciationScorer({ referenceText, onClose }: { referenceText: string; onClose?: () => void }) {
-  const { state, result, errorMsg, startRecording, cancelRecording } = usePronunciation();
+  const { state, result, errorMsg, startRecording, stopRecording, cancelRecording } = usePronunciation();
 
   const handleStart = () => {
     startRecording(referenceText);
@@ -51,14 +51,22 @@ export function PronunciationScorer({ referenceText, onClose }: { referenceText:
       )}
 
       {state === "recording" && (
-        <div className="flex flex-col items-center gap-3 py-4">
+        <div className="flex flex-col items-center gap-4 py-4">
           <div className="relative flex h-16 w-16 items-center justify-center rounded-full bg-rose-100">
             <div className="absolute h-full w-full animate-ping rounded-full bg-rose-200 opacity-75"></div>
             <svg className="relative h-8 w-8 text-rose-600 animate-pulse" fill="currentColor" viewBox="0 0 24 24">
               <path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm5.91-3c-.49 0-.9.39-.9.89 0 2.76-2.24 5-5.01 5s-5-.24-5.01-5c0-.5-.41-.89-.9-.89s-.9.39-.9.89c0 3.16 2.39 5.76 5.41 6.22V20h-3c-.55 0-1 .45-1 1s.45 1 1 1h8c.55 0 1-.45 1-1s-.45-1-1-1h-3v-1.78c3.02-.46 5.41-3.06 5.41-6.22 0-.5-.41-.89-.9-.89z" />
             </svg>
           </div>
-          <p className="text-sm font-semibold text-rose-600">正在聆听中... 读完后请等待</p>
+          <div className="text-center">
+            <p className="text-sm font-semibold text-rose-600">正在聆听中... 读完后请点击下方按钮</p>
+          </div>
+          <button
+            onClick={() => stopRecording()}
+            className="mt-2 rounded-full border-2 border-rose-200 bg-white px-6 py-2.5 text-sm font-bold text-rose-600 shadow-sm transition hover:bg-rose-50"
+          >
+            停止录音并评测
+          </button>
         </div>
       )}
 

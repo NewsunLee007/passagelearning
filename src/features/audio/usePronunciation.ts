@@ -112,13 +112,14 @@ export function usePronunciation() {
 
   const stopRecording = useCallback(() => {
     if (recognizerRef.current && state === "recording") {
+      // 通过关闭流或停止识别来触发完成事件
+      try {
+        recognizerRef.current.stopContinuousRecognitionAsync();
+      } catch (e) {
+        // 如果是 recognizeOnceAsync，可以直接关闭，它会自动结算
+        recognizerRef.current.close();
+      }
       setState("analyzing");
-      // stopContinuousRecognitionAsync is for continuous.
-      // For recognizeOnceAsync, it stops automatically after a pause. 
-      // But we can force stop the audio stream if needed.
-      // Since recognizeOnceAsync stops on silence, we usually just wait for it.
-      // Alternatively, we can stop the microphone but the SDK handles recognizeOnceAsync gracefully.
-      // Let's just let it auto-stop for simplicity, or we can instruct users to stop speaking.
     }
   }, [state]);
 

@@ -440,6 +440,14 @@ export function ReadingMainRoute() {
 
               <button
                 type="button"
+                onClick={() => nav(`/a/${data.article.id}/sentence`)}
+                className="ml-2 rounded-full bg-emerald-600 px-5 py-2.5 text-sm font-semibold text-white shadow-[0_12px_24px_rgba(5,150,105,0.22)] transition hover:bg-emerald-700"
+              >
+                跟读挑战
+              </button>
+
+              <button
+                type="button"
                 onClick={() => nav(`/a/${data.article.id}/reading`)}
                 className="ml-2 rounded-full bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-[0_12px_24px_rgba(217,130,76,0.22)] transition hover:bg-accent/92"
               >
