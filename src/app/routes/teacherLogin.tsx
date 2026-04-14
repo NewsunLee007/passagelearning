@@ -46,7 +46,7 @@ export function TeacherLoginRoute() {
     // Mock registration logic: simply log them in with their chosen password as the TEACHER_CODE
     setTimeout(async () => {
       try {
-        await loginTeacher(regForm.password);
+        await loginTeacherWithCode(regForm.password);
         nav("/t/dashboard");
       } catch (error) {
         setErr("注册成功，但自动登录失败：" + (error instanceof Error ? error.message : "未知错误"));
