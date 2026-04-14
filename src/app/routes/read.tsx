@@ -80,7 +80,6 @@ export function ReadingMainRoute() {
     sid: null
   }));
   const [favModalOpen, setFavModalOpen] = useState(false);
-  const [exerciseOpen, setExerciseOpen] = useState(false);
   const [refreshFavs, setRefreshFavs] = useState(0);
 
   const sentences = useMemo(() => (data?.sentences ?? []) as Sentence[], [data?.sentences]);
@@ -465,6 +464,14 @@ export function ReadingMainRoute() {
                 <option value="1.2">1.2x</option>
               </select>
 
+              <button
+                type="button"
+                onClick={() => nav(`/a/${data.article.id}/reading`)}
+                className="ml-2 rounded-full bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-[0_12px_24px_rgba(217,130,76,0.22)] transition hover:bg-accent/92"
+              >
+                读后练习
+              </button>
+
               <div className="ml-auto flex items-center rounded-full border border-slate-200 bg-white">
                 <button
                   type="button"
@@ -551,48 +558,6 @@ export function ReadingMainRoute() {
         ))}
       </main>
 
-      <div className="fixed bottom-0 left-0 right-0 z-20 border-t border-white/70 bg-[rgba(244,247,247,0.94)] backdrop-blur-xl">
-        <div className="mx-auto flex h-[78px] max-w-6xl items-center justify-between gap-4 px-4 sm:px-6">
-          <div className="flex min-w-0 flex-1 items-center gap-3 overflow-hidden">
-            <button
-              type="button"
-              onClick={() => setFavModalOpen(true)}
-              className="rounded-full border border-slate-200 bg-white/80 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-slate-300"
-            >
-              打开收藏夹
-            </button>
-            <div className="hidden text-sm text-slate-500 md:block">最近收藏</div>
-            <div className="hidden gap-2 overflow-x-auto md:flex">
-              {favPreview.length ? favPreview.map((f) => (
-                <div
-                  key={`${f.type}:${f.createdAt}:${f.text}`}
-                  className="flex items-center gap-1 whitespace-nowrap rounded-full bg-white/80 px-3 py-1.5 text-xs text-slate-700 ring-1 ring-slate-200/70"
-                >
-                  <span className="font-medium">{clipText(f.text, 18)}</span>
-                </div>
-              )) : (
-                  <div className="whitespace-nowrap text-sm text-slate-400">还没有收藏内容</div>
-              )}
-            </div>
-            <button
-              type="button"
-              onClick={clearFavs}
-              className="ml-1 hidden rounded-full px-3 py-2 text-sm text-slate-400 transition hover:bg-white/70 hover:text-slate-600 md:block"
-              title="清空收藏"
-            >
-              清空
-            </button>
-          </div>
-          <button
-            type="button"
-            onClick={() => setExerciseOpen(true)}
-            className="whitespace-nowrap rounded-full bg-accent px-5 py-3 text-sm font-semibold text-white shadow-lg transition hover:bg-accent/92"
-          >
-            打开读后练习
-          </button>
-        </div>
-      </div>
-
       {wordModal.open && (
         <Modal onClose={() => setWordModal({ open: false, token: "", word: "" })}>
           <WordModalBody
@@ -641,31 +606,6 @@ export function ReadingMainRoute() {
             onRemoveSentence={(sid) => onToggleSentenceFav(sid)}
           />
         </Modal>
-      )}
-
-      {exerciseOpen && (
-        <ExerciseDrawer
-          onClose={() => setExerciseOpen(false)}
-          questions={questions}
-          evidenceText={(ids) => ids.map((id) => byId.get(id)?.text ?? "").filter(Boolean).join(" ")}
-          onSubmit={async (answers) => {
-            for (const q of questions) {
-              const selected = answers[q.id];
-              if (!selected) continue;
-              await saveAttempt({
-                id: crypto.randomUUID(),
-                userId: session.userId,
-                classId: session.classId,
-                articleId: data.article.id,
-                taskKey: `reading:${q.id}`,
-                answer: { selected },
-                score: selected === q.answer ? 1 : 0,
-                durationMs: 0,
-                createdAt: new Date().toISOString()
-              });
-            }
-          }}
-        />
       )}
     </div>
   );
@@ -912,127 +852,6 @@ function FavsModalBody(params: {
             )}
           </div>
         </div>
-      </div>
-    </div>
-  );
-}
-
-function ExerciseDrawer(params: {
-  onClose: () => void;
-  questions: ReadingQuestion[];
-  evidenceText: (ids: string[]) => string;
-  onSubmit: (answers: Record<string, string>) => Promise<void>;
-}) {
-  const { onClose, questions, evidenceText, onSubmit } = params;
-  const [answers, setAnswers] = useState<Record<string, string>>({});
-  const [submitted, setSubmitted] = useState(false);
-
-  const score = useMemo(() => {
-    if (!submitted) return null;
-    let s = 0;
-    for (const q of questions) if (answers[q.id] === q.answer) s += 1;
-    return s;
-  }, [answers, questions, submitted]);
-
-  async function submit() {
-    if (!questions.length) return;
-    setSubmitted(true);
-    await onSubmit(answers);
-  }
-
-  function retry() {
-    setAnswers({});
-    setSubmitted(false);
-  }
-
-  return (
-    <div className="fixed inset-0 z-40">
-      <div className="absolute inset-0 bg-black/40" onClick={onClose} />
-      <div className="absolute bottom-0 left-0 right-0 max-h-[75vh] overflow-y-auto rounded-t-3xl bg-white p-6 shadow-2xl">
-        <div className="sticky top-0 z-10 flex items-center justify-between bg-white pb-4">
-          <div className="text-2xl font-black text-secondary">阅读理解练习</div>
-          <button type="button" onClick={onClose} className="text-3xl">
-            ✕
-          </button>
-        </div>
-
-        {!questions.length ? (
-          <div className="rounded-xl border bg-slate-50 p-4 text-sm text-slate-600">此文章暂未配置阅读理解题。</div>
-        ) : (
-          <div className="space-y-8">
-            {questions.map((q, qi) => {
-              const selected = answers[q.id];
-              return (
-                <div key={q.id} className="rounded-3xl border-2 border-slate-100 bg-white p-6">
-                  <div className="mb-5 text-lg font-bold">
-                    {qi + 1}. {q.stem}
-                  </div>
-                  <div className="space-y-3">
-                    {q.options.map((opt) => {
-                      const active = selected === opt;
-                      const isCorrect = submitted && opt === q.answer;
-                      const isWrong = submitted && active && opt !== q.answer;
-                      return (
-                        <button
-                          key={opt}
-                          type="button"
-                          onClick={() => !submitted && setAnswers((a) => ({ ...a, [q.id]: opt }))}
-                          className={[
-                            "w-full rounded-2xl border-2 px-4 py-3 text-left text-sm font-medium transition",
-                            active ? "border-primary bg-primary/5" : "border-slate-100 hover:bg-slate-50",
-                            isCorrect ? "border-emerald-300 bg-emerald-50 text-emerald-900" : "",
-                            isWrong ? "border-red-300 bg-red-50 text-red-900" : ""
-                          ].join(" ")}
-                        >
-                          {opt}
-                        </button>
-                      );
-                    })}
-                  </div>
-
-                  {submitted && (
-                    <div className="mt-5 rounded-2xl border-l-4 border-primary bg-green-50 p-5 text-sm">
-                      <div className="font-bold text-primary">正确答案：{q.answer}</div>
-                      {q.rationaleZh && (
-                        <div className="mt-2">
-                          <div className="font-bold text-primary">解析：</div>
-                          <div className="mt-1 text-slate-700">{q.rationaleZh}</div>
-                        </div>
-                      )}
-                      {!!q.evidenceSentenceIds?.length && (
-                        <div className="mt-2">
-                          <div className="font-bold text-primary">原文依据：</div>
-                          <div className="mt-1 text-slate-700">{evidenceText(q.evidenceSentenceIds)}</div>
-                        </div>
-                      )}
-                    </div>
-                  )}
-                </div>
-              );
-            })}
-
-            {submitted && score != null && (
-              <div className="rounded-3xl bg-primary p-8 text-center text-white">
-                <div className="text-5xl font-black">
-                  {score}/{questions.length}
-                </div>
-                <div className="mt-2 text-xl font-bold">正确率: {Math.round((score / questions.length) * 100)}%</div>
-              </div>
-            )}
-
-            <div className="mt-4 flex gap-4">
-              {!submitted ? (
-                <button type="button" onClick={submit} className="flex-1 rounded-2xl bg-primary py-4 text-lg font-bold text-white shadow-xl active:scale-[0.99]">
-                  提交答案
-                </button>
-              ) : (
-                <button type="button" onClick={retry} className="flex-1 rounded-2xl bg-secondary py-4 text-lg font-bold text-white shadow-xl active:scale-[0.99]">
-                  重新练习
-                </button>
-              )}
-            </div>
-          </div>
-        )}
       </div>
     </div>
   );

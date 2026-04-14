@@ -1,6 +1,8 @@
 import { useMemo } from "react";
 import { useParams } from "react-router-dom";
 import { useArticleDemo } from "../../features/content/useArticleDemo";
+import { getSession } from "../../features/auth/session";
+import { saveAttempt } from "../../features/storage/attempts";
 
 type LexiconItem = {
   phonetic?: string;
@@ -110,13 +112,26 @@ export function SentenceRoute() {
                   </div>
                   <button
                     type="button"
-                    onClick={() =>
+                    onClick={() => {
                       new Audio(
                         entry.audioUrlOverride ?? `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(entry.term)}&type=2`
                       )
                         .play()
-                        .catch(() => {})
-                    }
+                        .catch(() => {});
+                      
+                      const { userId, classId } = getSession();
+                      saveAttempt({
+                        id: crypto.randomUUID(),
+                        userId,
+                        classId,
+                        articleId: data!.article.id,
+                        taskKey: `vocab:${entry.term}`,
+                        answer: { action: "play_audio" },
+                        score: 1,
+                        durationMs: 0,
+                        createdAt: new Date().toISOString()
+                      }).catch(() => {});
+                    }}
                     className="rounded-full bg-primary/8 px-3 py-1.5 text-sm font-semibold text-primary"
                   >
                     发音
@@ -180,11 +195,24 @@ export function SentenceRoute() {
                     const url = sentence.audioUrl;
                     if (url) {
                       new Audio(url).play().catch(() => {});
-                      return;
+                    } else {
+                      const utterance = new SpeechSynthesisUtterance(sentence.text);
+                      window.speechSynthesis.cancel();
+                      window.speechSynthesis.speak(utterance);
                     }
-                    const utterance = new SpeechSynthesisUtterance(sentence.text);
-                    window.speechSynthesis.cancel();
-                    window.speechSynthesis.speak(utterance);
+                    
+                    const { userId, classId } = getSession();
+                    saveAttempt({
+                      id: crypto.randomUUID(),
+                      userId,
+                      classId,
+                      articleId: data!.article.id,
+                      taskKey: `sentence:${sentence.id}`,
+                      answer: { action: "play_audio" },
+                      score: 1,
+                      durationMs: 0,
+                      createdAt: new Date().toISOString()
+                    }).catch(() => {});
                   }}
                   className="rounded-full bg-primary px-4 py-2 text-sm font-semibold text-white shadow-[0_12px_28px_rgba(47,110,99,0.22)] transition hover:bg-primary/92"
                 >

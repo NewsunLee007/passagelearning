@@ -32,17 +32,44 @@ export function LoginRoute() {
   return (
     <div className="grid min-h-[calc(100dvh-8rem)] items-start gap-8 py-6 lg:grid-cols-[minmax(0,1fr)_360px]">
       <section className="space-y-6">
+        <div className="relative overflow-hidden rounded-[2.2rem] border border-white/70 bg-[linear-gradient(135deg,rgba(47,110,99,0.14),rgba(217,130,76,0.16),rgba(59,130,246,0.12))] shadow-[0_20px_60px_rgba(15,23,42,0.06)]">
+          <div 
+            className="absolute inset-y-0 right-0 w-[60%] pointer-events-none"
+            style={{
+              maskImage: 'linear-gradient(to left, black 40%, transparent)',
+              WebkitMaskImage: 'linear-gradient(to left, black 40%, transparent)',
+            }}
+          >
+            <img
+              alt="互动阅读插画"
+              className="h-full w-full object-cover opacity-95 mix-blend-multiply"
+              src="https://p.ipic.vip/7hrt3q.png"
+            />
+          </div>
+
+          <div className="relative z-10 p-6 sm:p-10 flex flex-col justify-center min-h-[220px]">
+            <div className="space-y-4 max-w-xl">
+              <h1 
+                className="text-4xl sm:text-[2.8rem] leading-[1.2] drop-shadow-md font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-indigo-900 to-primary"
+                style={{ fontFamily: '"YouYuan", "STXingkai", "FZShuTi", "KaiTi", cursive' }}
+              >
+                欢迎来到互动阅读
+              </h1>
+            </div>
+          </div>
+        </div>
+
         <TextbookDirectory books={TEXTBOOK_BOOKS} interactive={false} />
       </section>
 
       <section className="rounded-[2rem] border border-white/80 bg-white/92 p-6 shadow-[0_24px_80px_rgba(15,23,42,0.08)] sm:p-7 lg:sticky lg:top-8 lg:max-w-[360px]">
         <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">学生登录</div>
 
-        <form onSubmit={onSubmit} className="mt-6 space-y-5">
+        <form onSubmit={onSubmit} className="mt-5 space-y-4">
           <label className="block">
             <div className="text-sm font-medium text-slate-700">班级名称</div>
             <input
-              className="mt-2 w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-3 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
+              className="mt-1.5 w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-2.5 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
               value={className}
               onChange={(e) => setClassName(e.target.value)}
               placeholder="例如：七（14）班"
@@ -53,7 +80,7 @@ export function LoginRoute() {
           <label className="block">
             <div className="text-sm font-medium text-slate-700">学生姓名</div>
             <input
-              className="mt-2 w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-3 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
+              className="mt-1.5 w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-2.5 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
               value={studentName}
               onChange={(e) => setStudentName(e.target.value)}
               placeholder="例如：李明"
@@ -63,7 +90,7 @@ export function LoginRoute() {
 
           <button
             type="submit"
-            className="w-full rounded-full bg-secondary px-5 py-3 text-sm font-semibold text-white transition hover:bg-secondary/92 disabled:cursor-not-allowed disabled:opacity-55"
+            className="mt-2 w-full rounded-full bg-secondary px-5 py-3 text-sm font-semibold text-white transition hover:bg-secondary/92 disabled:cursor-not-allowed disabled:opacity-55"
             disabled={!canSubmit || submitting}
           >
             {submitting ? "正在进入学习大厅…" : "进入学习大厅"}

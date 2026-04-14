@@ -29,8 +29,9 @@
   h3,
   h4,
   .font-display {
-    font-family: Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, "Noto Serif SC", "Source Han Serif SC", serif;
-    letter-spacing: -0.02em;
+    font-family: "Avenir Next", "Nunito", "PingFang SC", "Microsoft YaHei", sans-serif;
+    font-weight: 800;
+    letter-spacing: -0.01em;
   }
 
   ::selection {

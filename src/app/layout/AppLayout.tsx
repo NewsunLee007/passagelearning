@@ -174,7 +174,7 @@ export function AppLayout() {
                   onClick={switchAccount}
                   className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white"
                 >
-                  切换账号
+                  退出
                 </button>
               ) : null}
             </div>

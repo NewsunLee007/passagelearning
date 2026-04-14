@@ -40,8 +40,8 @@ export function DashboardRoute() {
               <span>{[className, studentName].filter(Boolean).join(" · ")}</span>
             </div>
             <h1 
-              className="text-4xl sm:text-[2.8rem] leading-[1.2] drop-shadow-sm font-bold tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-indigo-800 to-primary"
-              style={{ fontFamily: '"STKaiti", "KaiTi", "Georgia", serif' }}
+              className="text-4xl sm:text-[2.8rem] leading-[1.2] drop-shadow-md font-black tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-indigo-900 to-primary"
+              style={{ fontFamily: '"YouYuan", "STXingkai", "FZShuTi", "KaiTi", cursive' }}
             >
               欢迎来到互动阅读
             </h1>

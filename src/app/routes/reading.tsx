@@ -19,10 +19,14 @@ export function ReadingRoute() {
   const { data, loading, error } = useArticleDemo(articleId);
   const questions = (data?.readingQuestions ?? []) as ReadingQuestion[];
   const [idx, setIdx] = useState(0);
-  const q = questions[idx];
+  
+  const [answers, setAnswers] = useState<Record<string, string>>({});
+  const [submittedFlags, setSubmittedFlags] = useState<Record<string, boolean>>({});
+  const [showSummary, setShowSummary] = useState(false);
 
-  const [selected, setSelected] = useState<string | null>(null);
-  const [checked, setChecked] = useState(false);
+  const q = questions[idx];
+  const selected = q ? answers[q.id] || null : null;
+  const checked = q ? !!submittedFlags[q.id] : false;
 
   const correct = checked && selected === q?.answer;
 
@@ -34,7 +38,7 @@ export function ReadingRoute() {
 
   async function onCheck() {
     if (!q || !selected) return;
-    setChecked(true);
+    setSubmittedFlags((prev) => ({ ...prev, [q.id]: true }));
     const { userId, classId } = getSession();
     await saveAttempt({
       id: crypto.randomUUID(),
@@ -47,18 +51,32 @@ export function ReadingRoute() {
       durationMs: 0,
       createdAt: new Date().toISOString()
     });
+    
+    // Check if all questions are submitted
+    if (Object.keys(submittedFlags).length + 1 >= questions.length) {
+      setTimeout(() => setShowSummary(true), 1500); // show summary after a short delay
+    }
   }
 
   function next() {
-    setSelected(null);
-    setChecked(false);
     setIdx((i) => Math.min(i + 1, questions.length - 1));
   }
 
   function prev() {
-    setSelected(null);
-    setChecked(false);
     setIdx((i) => Math.max(i - 1, 0));
+  }
+
+  function handleSelect(opt: string) {
+    if (!checked && q) {
+      setAnswers((prev) => ({ ...prev, [q.id]: opt }));
+    }
+  }
+
+  function resetPractice() {
+    setAnswers({});
+    setSubmittedFlags({});
+    setShowSummary(false);
+    setIdx(0);
   }
 
   if (loading) return <div className="text-sm text-slate-600">正在加载…</div>;
@@ -68,6 +86,57 @@ export function ReadingRoute() {
     return (
       <div className="rounded-[1.6rem] border border-dashed border-slate-200 bg-white/82 p-6 text-sm text-slate-500">
         此文章暂未配置阅读理解题。
+      </div>
+    );
+  }
+
+  if (showSummary) {
+    let score = 0;
+    for (const quest of questions) {
+      if (answers[quest.id] === quest.answer) {
+        score++;
+      }
+    }
+    const percent = Math.round((score / questions.length) * 100);
+    
+    return (
+      <div className="mx-auto max-w-2xl py-12 px-4 sm:px-6">
+        <div className="overflow-hidden rounded-[2rem] border border-white/70 bg-white/90 shadow-[0_20px_60px_rgba(15,23,42,0.08)]">
+          <div className="bg-gradient-to-br from-primary to-emerald-600 p-10 text-center text-white">
+            <div className="text-6xl mb-4">🏆</div>
+            <h2 className="font-display text-4xl mb-2">练习完成！</h2>
+            <p className="text-lg opacity-90">你已经完成了所有的阅读理解题目</p>
+          </div>
+          
+          <div className="p-8 sm:p-12 text-center space-y-8">
+            <div className="flex justify-center gap-8">
+              <div>
+                <div className="text-sm font-semibold uppercase tracking-widest text-slate-400">答对题目</div>
+                <div className="mt-2 text-4xl font-black text-secondary">{score} <span className="text-2xl text-slate-400">/ {questions.length}</span></div>
+              </div>
+              <div>
+                <div className="text-sm font-semibold uppercase tracking-widest text-slate-400">正确率</div>
+                <div className="mt-2 text-4xl font-black text-secondary">{percent}%</div>
+              </div>
+            </div>
+            
+            <div className="text-lg text-slate-600 font-medium">
+              {percent === 100 ? "太棒了！完全正确，你的阅读理解能力非常出色！" : 
+               percent >= 80 ? "很不错！大部分题目都答对了，继续保持！" :
+               percent >= 60 ? "做得好！但还有提升空间，可以再回顾一下原文。" : 
+               "再接再厉！多读几遍原文，仔细体会句子之间的逻辑关系。"}
+            </div>
+            
+            <div className="pt-4 flex justify-center gap-4">
+              <button onClick={() => setShowSummary(false)} className="rounded-full border border-slate-200 bg-white px-6 py-3 text-sm font-semibold text-slate-700 transition hover:bg-slate-50">
+                查看答题解析
+              </button>
+              <button onClick={resetPractice} className="rounded-full bg-primary px-6 py-3 text-sm font-semibold text-white shadow-lg transition hover:bg-primary/90">
+                重新挑战
+              </button>
+            </div>
+          </div>
+        </div>
       </div>
     );
   }
@@ -100,7 +169,7 @@ export function ReadingRoute() {
               <button
                 key={opt}
                 type="button"
-                onClick={() => !checked && setSelected(opt)}
+                onClick={() => handleSelect(opt)}
                 className={[
                   "rounded-lg border px-3 py-2 text-left text-sm",
                   active ? "border-slate-900" : "hover:bg-slate-50",
@@ -114,34 +183,39 @@ export function ReadingRoute() {
           })}
         </div>
 
-        <div className="mt-4 flex flex-wrap items-center gap-2">
-          {!checked ? (
-            <button
-              type="button"
-              disabled={!selected}
-              onClick={onCheck}
-              className="rounded-md bg-slate-900 px-4 py-2 text-sm font-semibold text-white disabled:opacity-50"
-            >
-              提交
-            </button>
-          ) : (
-            <div className={correct ? "text-sm font-semibold text-emerald-700" : "text-sm font-semibold text-red-700"}>
-              {correct ? "正确！" : `正确答案：${q.answer}`}
-            </div>
-          )}
+        <div className="mt-6 flex flex-wrap items-center justify-between gap-4">
+          <div className={checked ? (correct ? "text-base font-bold text-emerald-600" : "text-base font-bold text-red-600") : ""}>
+            {checked ? (correct ? "正确！" : `回答错误。正确答案：${q.answer}`) : ""}
+          </div>
 
-          <div className="ml-auto flex items-center gap-2">
-            <button type="button" onClick={prev} disabled={idx === 0} className="rounded-md border px-3 py-2 text-sm disabled:opacity-40">
+          <div className="flex items-center gap-3">
+            <button 
+              type="button" 
+              onClick={prev} 
+              disabled={idx === 0} 
+              className="rounded-xl border border-slate-200 bg-white px-5 py-2.5 text-sm font-semibold text-slate-600 transition hover:bg-slate-50 disabled:opacity-40"
+            >
               上一题
             </button>
-            <button
-              type="button"
-              onClick={next}
-              disabled={idx >= questions.length - 1}
-              className="rounded-md border px-3 py-2 text-sm disabled:opacity-40"
-            >
-              下一题
-            </button>
+            {!checked ? (
+              <button
+                type="button"
+                disabled={!selected}
+                onClick={onCheck}
+                className="rounded-xl bg-primary px-6 py-2.5 text-sm font-bold text-white shadow-md transition hover:bg-primary/90 disabled:opacity-50 disabled:shadow-none"
+              >
+                提交
+              </button>
+            ) : (
+              <button
+                type="button"
+                onClick={next}
+                disabled={idx >= questions.length - 1}
+                className="rounded-xl border border-slate-200 bg-white px-5 py-2.5 text-sm font-semibold text-slate-600 transition hover:bg-slate-50 disabled:opacity-40"
+              >
+                下一题
+              </button>
+            )}
           </div>
         </div>
 
