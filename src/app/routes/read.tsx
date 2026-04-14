@@ -513,17 +513,17 @@ export function ReadingMainRoute() {
                       })}
                     </span>
                     <button
-                      type="button"
-                      className="ml-1 inline-block align-middle text-base opacity-60 transition hover:opacity-100"
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        stopPlayback();
-                        setGrammarModal({ open: true, sid: s!.id });
-                      }}
-                      title="句子解析"
-                    >
-                      📖
-                    </button>
+              type="button"
+              className="ml-1 inline-block align-middle text-base opacity-60 transition hover:opacity-100"
+              onClick={(e) => {
+                e.stopPropagation();
+                stopPlayback();
+                setGrammarModal({ open: true, sid: s!.id });
+              }}
+              title="句子解析与跟读"
+            >
+              📖
+            </button>
                     {isBilingual && <div className="mt-2 border-l-2 border-primary/20 pl-3 text-[0.82em] leading-7 text-slate-500">{s!.tr ?? "（暂无译文）"}</div>}
                   </div>
                 ))}
