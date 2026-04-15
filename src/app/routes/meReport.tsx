@@ -1,5 +1,4 @@
 import { useMemo } from "react";
-import { Link } from "react-router-dom";
 import { getSession } from "../../features/auth/session";
 import { TEXTBOOK_ARTICLES } from "../../features/content/catalog";
 import { loadAllAttempts, type Attempt } from "../../features/storage/attempts";
@@ -30,9 +29,6 @@ export function MeReportRoute() {
   return (
     <div className="mx-auto max-w-3xl space-y-6">
       <div className="flex items-center gap-3">
-        <Link to="/dashboard" className="text-sm underline">
-          ← 回学习大厅
-        </Link>
         <div className="text-sm text-slate-600">我的学习报告 (全记录)</div>
       </div>
 

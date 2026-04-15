@@ -108,12 +108,6 @@ export function ArticleHomeRoute() {
             ))}
           </div>
         </div>
-
-        <div>
-          <Link to="/dashboard" className="inline-flex items-center gap-2 text-sm font-medium text-slate-600 hover:text-secondary bg-white/60 px-5 py-3 rounded-2xl border border-white/80 shadow-sm transition hover:bg-white/80">
-            ← 返回学习大厅
-          </Link>
-        </div>
       </section>
     </div>
   );
