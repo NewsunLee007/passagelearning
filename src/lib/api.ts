@@ -26,6 +26,10 @@ async function requestJson<T>(path: string, options: FetchOptions = {}): Promise
   });
 
   const text = await response.text();
+  const contentType = response.headers.get("content-type") ?? "";
+  if (text && !contentType.includes("application/json")) {
+    throw new Error(`接口返回非 JSON（${response.status}）。请检查部署的 rewrites 是否把 /api 重写到了 index.html。`);
+  }
   const data = text ? JSON.parse(text) : {};
   if (!response.ok) {
     throw new Error(String(data?.error ?? `HTTP ${response.status}`));
@@ -56,4 +60,3 @@ export async function apiGet<T>(path: string, teacher = false) {
 export async function apiPost<T>(path: string, body: unknown, teacher = false) {
   return requestJson<T>(path, { method: "POST", body, teacher });
 }
-

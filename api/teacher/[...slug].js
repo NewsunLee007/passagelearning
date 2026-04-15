@@ -13,6 +13,16 @@ function normalizeUsername(value) {
   return String(value || "").trim().toLowerCase();
 }
 
+function normalizeSchoolCode(value) {
+  return String(value || "").trim().toLowerCase();
+}
+
+function buildStudentId(className, studentName, schoolCode) {
+  const school = normalizeSchoolCode(schoolCode);
+  const prefix = school ? `student:${school}:` : "student:";
+  return `${prefix}${className.trim()}:${studentName.trim()}`.toLowerCase();
+}
+
 function buildPasswordHash(password) {
   const salt = randomBytes(16);
   const hash = scryptSync(String(password || ""), salt, 64);
@@ -120,11 +130,29 @@ async function handleTeacherRegister(req, res) {
 }
 
 async function handleTeacherClasses(req, res) {
-  if (req.method !== "GET") return methodNotAllowed(res, ["GET"]);
   if (!requireTeacher(req, res)) return;
 
   const classId = String(req.query.classId || "").trim();
   const sql = getSql();
+
+  if (req.method === "POST") {
+    const body = await ensureBody(req);
+    const className = String(body.className || "").trim();
+    const schoolCode = normalizeSchoolCode(body.schoolCode || "");
+    if (!className) return sendError(res, 400, "Class name is required.");
+
+    const classKey = schoolCode ? `${schoolCode}:${className}` : className;
+    const rows = await sql`
+      insert into classes (name)
+      values (${classKey})
+      on conflict (name) do update
+      set name = excluded.name
+      returning id, name
+    `;
+    return sendJson(res, 200, rows[0]);
+  }
+
+  if (req.method !== "GET") return methodNotAllowed(res, ["GET", "POST"]);
 
   if (!classId) {
     const rows = await sql`
@@ -154,6 +182,66 @@ async function handleTeacherClasses(req, res) {
     studentsCount: profiles[0]?.count || 0,
     attempts
   });
+}
+
+async function handleTeacherStudents(req, res) {
+  if (!requireTeacher(req, res)) return;
+
+  const sql = getSql();
+
+  if (req.method === "GET") {
+    const classId = String(req.query.classId || "").trim();
+    if (!classId) return sendError(res, 400, "classId is required.");
+
+    const rows = await sql`
+      select id, name, created_at
+      from profiles
+      where class_id = ${classId}
+        and role = 'student'
+      order by created_at asc
+      limit 5000
+    `;
+    return sendJson(res, 200, rows);
+  }
+
+  if (req.method === "POST") {
+    const body = await ensureBody(req);
+    const classId = String(body.classId || "").trim();
+    const studentName = String(body.studentName || "").trim();
+    if (!classId || !studentName) return sendError(res, 400, "classId and studentName are required.");
+
+    const classRows = await sql`
+      select id, name
+      from classes
+      where id = ${classId}
+      limit 1
+    `;
+    const classRow = classRows[0];
+    if (!classRow) return sendError(res, 404, "Class not found.");
+
+    const rawName = String(classRow.name || "");
+    const hasSchool = rawName.includes(":");
+    const schoolCode = hasSchool ? rawName.split(":")[0] : "";
+    const className = hasSchool ? rawName.split(":").slice(1).join(":") : rawName;
+    const userId = buildStudentId(className, studentName, schoolCode);
+
+    const rows = await sql`
+      insert into profiles (id, class_id, name, role)
+      values (${userId}, ${classId}, ${studentName}, 'student')
+      on conflict (id) do update
+      set class_id = excluded.class_id,
+          name = excluded.name
+      returning id, name, created_at
+    `;
+
+    return sendJson(res, 200, {
+      ...rows[0],
+      className,
+      schoolCode
+    });
+  }
+
+  return methodNotAllowed(res, ["GET", "POST"]);
 }
 
 async function handleTeacherArticles(req, res, parts) {
@@ -316,6 +404,7 @@ export default async function handler(req, res) {
     if (route === "login") return await handleTeacherLogin(req, res);
     if (route === "register") return await handleTeacherRegister(req, res);
     if (route === "classes") return await handleTeacherClasses(req, res);
+    if (route === "students") return await handleTeacherStudents(req, res);
     if (route === "articles") return await handleTeacherArticles(req, res, parts);
     if (route === "generate-article") return await handleTeacherGenerateArticle(req, res);
 

@@ -93,6 +93,9 @@ export function TeacherDashboardRoute() {
           <div className="text-sm font-bold text-secondary">教师端统计</div>
         </div>
         <div className="flex items-center gap-3">
+          <Link to="/t/manage" className="rounded-full border border-primary/20 bg-primary/10 px-5 py-2.5 text-sm font-bold text-primary hover:bg-primary/15 transition">
+            班级/学生管理
+          </Link>
           <Link to="/t/articles" className="rounded-full bg-primary px-5 py-2.5 text-sm font-bold text-white shadow-md hover:bg-primary/90 transition">
             进入文章管理
           </Link>

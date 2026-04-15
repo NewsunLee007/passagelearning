@@ -16,6 +16,7 @@ import { TeacherLoginRoute } from "./routes/teacherLogin";
 import { TeacherDashboardRoute } from "./routes/teacherDashboard";
 import { TeacherArticlesRoute } from "./routes/teacherArticles";
 import { TeacherArticleEditRoute } from "./routes/teacherArticleEdit";
+import { TeacherManageRoute } from "./routes/teacherManage";
 
 export function App() {
   return (
@@ -35,6 +36,7 @@ export function App() {
         <Route path="/me/report" element={<MeReportRoute />} />
         <Route path="/t/login" element={<TeacherLoginRoute />} />
         <Route path="/t/dashboard" element={<TeacherDashboardRoute />} />
+        <Route path="/t/manage" element={<TeacherManageRoute />} />
         <Route path="/t/articles" element={<TeacherArticlesRoute />} />
         <Route path="/t/articles/:articleId/edit" element={<TeacherArticleEditRoute />} />
         <Route path="/" element={<Navigate to="/login" replace />} />
