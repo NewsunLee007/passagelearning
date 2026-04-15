@@ -12,6 +12,10 @@ export type Attempt = {
   createdAt: string;
 };
 
+function isLocalIdentity(value: string) {
+  return value.startsWith("local:");
+}
+
 function lsKey(userId: string, articleId: string) {
   return `attempts:${userId}:${articleId}`;
 }
@@ -65,6 +69,7 @@ export async function fetchAttemptsFromServer(params: {
   taskPrefix?: string;
   limit?: number;
 }) {
+  if (isLocalIdentity(params.userId)) return [];
   const query = new URLSearchParams();
   query.set("userId", params.userId);
   if (params.articleId) query.set("articleId", params.articleId);
@@ -78,6 +83,7 @@ export async function saveAttempt(attempt: Attempt) {
   attempts.push(attempt);
   window.localStorage.setItem(lsKey(attempt.userId, attempt.articleId), JSON.stringify(attempts));
 
+  if (isLocalIdentity(attempt.userId) || isLocalIdentity(attempt.classId)) return;
   try {
     await apiPost("/api/attempts", attempt);
   } catch {

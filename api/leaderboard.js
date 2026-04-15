@@ -4,6 +4,10 @@ function normalizeSchoolCode(value) {
   return String(value || "").trim().toLowerCase();
 }
 
+function isUuid(value) {
+  return /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i.test(String(value || "").trim());
+}
+
 export default async function handler(req, res) {
   if (req.method !== "GET") return methodNotAllowed(res, ["GET"]);
 
@@ -17,6 +21,7 @@ export default async function handler(req, res) {
     if (period !== "month" && period !== "all") return sendError(res, 400, "period must be month or all.");
     if (scope === "class" && !classId) return sendError(res, 400, "classId is required for class scope.");
     if (scope === "school" && !schoolCode) return sendError(res, 400, "schoolCode is required for school scope.");
+    if (scope === "class" && !isUuid(classId)) return sendError(res, 400, "classId must be a UUID.");
 
     const sql = getSql();
 
@@ -84,4 +89,3 @@ export default async function handler(req, res) {
     return sendError(res, 500, error instanceof Error ? error.message : "Leaderboard failed.");
   }
 }
-

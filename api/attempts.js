@@ -1,6 +1,10 @@
 import { randomUUID } from "node:crypto";
 import { getSql, ensureBody, methodNotAllowed, sendError, sendJson } from "./_lib/db.js";
 
+function isUuid(value) {
+  return /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i.test(String(value || "").trim());
+}
+
 export default async function handler(req, res) {
   if (req.method === "GET") {
     try {
@@ -92,19 +96,29 @@ export default async function handler(req, res) {
       return sendError(res, 400, "Attempt payload is incomplete.");
     }
 
+    const trimmedClassId = String(classId || "").trim();
+    if (!isUuid(trimmedClassId)) {
+      return sendError(res, 400, "classId must be a UUID.");
+    }
+
+    const trimmedId = String(id || "").trim();
+    const attemptId = isUuid(trimmedId) ? trimmedId : randomUUID();
+    const date = createdAt ? new Date(createdAt) : new Date();
+    const createdAtIso = Number.isFinite(date.getTime()) ? date.toISOString() : new Date().toISOString();
+
     const sql = getSql();
     await sql`
       insert into attempts (id, user_id, class_id, article_id, task_key, answer_json, score, duration_ms, created_at)
       values (
-        ${String(id || "").trim() || randomUUID()},
+        ${attemptId},
         ${userId},
-        ${classId},
+        ${trimmedClassId},
         ${articleId},
         ${taskKey},
         ${JSON.stringify(answer)},
         ${Number(score) || 0},
         ${Number(durationMs) || 0},
-        ${createdAt ? new Date(createdAt).toISOString() : new Date().toISOString()}
+        ${createdAtIso}
       )
     `;
 

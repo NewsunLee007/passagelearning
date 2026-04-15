@@ -23,9 +23,15 @@ export function LeaderboardRoute() {
 
   const authed = useMemo(() => session.className.trim() && session.studentName.trim(), [session.className, session.studentName]);
   const canSchool = Boolean(session.schoolCode.trim());
+  const localMode = useMemo(() => session.classId.startsWith("local:") || session.userId.startsWith("local:"), [session.classId, session.userId]);
 
   useEffect(() => {
     if (!authed) return;
+    if (localMode) {
+      setRows([]);
+      setErr("离线模式下无法加载云端积分榜。");
+      return;
+    }
     if (scope === "school" && !canSchool) return;
 
     const query = new URLSearchParams();
@@ -52,7 +58,7 @@ export function LeaderboardRoute() {
     return () => {
       cancelled = true;
     };
-  }, [authed, canSchool, period, scope, session.classId, session.schoolCode]);
+  }, [authed, canSchool, localMode, period, scope, session.classId, session.schoolCode]);
 
   if (!authed) return <Navigate to="/login" replace />;
 
@@ -164,4 +170,3 @@ export function LeaderboardRoute() {
     </div>
   );
 }
-
