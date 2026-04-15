@@ -3,6 +3,12 @@ import { mergeArticleContent } from "../_lib/articles.js";
 import { createTeacherTokenWithPayload, requireTeacher } from "../_lib/teacherAuth.js";
 import { ensureBody, getSql, methodNotAllowed, sendError, sendJson } from "../_lib/db.js";
 
+function applyCors(res) {
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Access-Control-Allow-Methods", "GET,POST,OPTIONS");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type, Authorization");
+}
+
 function normalizeUsername(value) {
   return String(value || "").trim().toLowerCase();
 }
@@ -296,6 +302,12 @@ Keep IDs stable and references valid. Include 5-10 lexicon entries and 3-5 readi
 }
 
 export default async function handler(req, res) {
+  applyCors(res);
+  if (req.method === "OPTIONS") {
+    res.status(204).send("");
+    return;
+  }
+
   try {
     const slug = req.query.slug;
     const parts = Array.isArray(slug) ? slug.map((part) => String(part || "").trim()).filter(Boolean) : (typeof slug === "string" ? slug.split("/").filter(Boolean) : []);

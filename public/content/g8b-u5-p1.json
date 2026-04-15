@@ -3,7 +3,7 @@
     "schemaVersion": "2.0",
     "source": "八年级下册互动课文",
     "importedFrom": "Unit 5 Passage 1 Secrets caught in time（互动课文教学动画）英语新教材外研版八年级下册.html",
-    "importedAt": "2026-04-13T04:50:28.109Z"
+    "importedAt": "2026-04-15T05:40:35.231Z"
   },
   "article": {
     "id": "g8b-u5-p1",
@@ -300,150 +300,968 @@
   ],
   "vocabItems": [
     {
+      "id": "g8b-u5-p1-v1",
+      "term": "13",
+      "meaningZh": "十三",
+      "exampleSentenceId": "g8b-u5-p1-s17"
+    },
+    {
+      "id": "g8b-u5-p1-v2",
+      "term": "35",
+      "meaningZh": "三十五",
+      "exampleSentenceId": "g8b-u5-p1-s14"
+    },
+    {
+      "id": "g8b-u5-p1-v3",
+      "term": "300",
+      "meaningZh": "三百",
+      "exampleSentenceId": "g8b-u5-p1-s16"
+    },
+    {
+      "id": "g8b-u5-p1-v4",
+      "term": "the",
+      "meaningZh": "这；那",
+      "exampleSentenceId": "g8b-u5-p1-s3"
+    },
+    {
+      "id": "g8b-u5-p1-v5",
+      "term": "the_vowel_special",
+      "meaningZh": "这；那 (在元音前特殊发音)"
+    },
+    {
+      "id": "g8b-u5-p1-v6",
+      "term": "a_special",
+      "meaningZh": "一个"
+    },
+    {
+      "id": "g8b-u5-p1-v7",
+      "term": "has",
+      "meaningZh": "有；吃；持有 (have的第三人称单数)",
+      "exampleSentenceId": "g8b-u5-p1-s11"
+    },
+    {
+      "id": "g8b-u5-p1-v8",
+      "term": "are",
+      "meaningZh": "是 (be的第二人称单复数、第一三人称复数)",
+      "exampleSentenceId": "g8b-u5-p1-s13"
+    },
+    {
+      "id": "g8b-u5-p1-v9",
+      "term": "old",
+      "meaningZh": "老的；旧的",
+      "exampleSentenceId": "g8b-u5-p1-s9"
+    },
+    {
+      "id": "g8b-u5-p1-v10",
+      "term": "will",
+      "meaningZh": "将；将会",
+      "exampleSentenceId": "g8b-u5-p1-s21"
+    },
+    {
+      "id": "g8b-u5-p1-v11",
+      "term": "have",
+      "meaningZh": "有；吃；持有",
+      "exampleSentenceId": "g8b-u5-p1-s15"
+    },
+    {
+      "id": "g8b-u5-p1-v12",
+      "term": "it's",
+      "meaningZh": "它是 (it is 的缩写)",
+      "exampleSentenceId": "g8b-u5-p1-s23"
+    },
+    {
+      "id": "g8b-u5-p1-v13",
+      "term": "that's",
+      "meaningZh": "那是 (that is 的缩写)",
+      "exampleSentenceId": "g8b-u5-p1-s10"
+    },
+    {
+      "id": "g8b-u5-p1-v14",
+      "term": "imagine",
+      "meaningZh": "想象",
+      "exampleSentenceId": "g8b-u5-p1-s1"
+    },
+    {
+      "id": "g8b-u5-p1-v15",
+      "term": "a",
+      "meaningZh": "一个",
+      "exampleSentenceId": "g8b-u5-p1-s1"
+    },
+    {
+      "id": "g8b-u5-p1-v16",
+      "term": "dinosaur",
+      "meaningZh": "恐龙",
+      "exampleSentenceId": "g8b-u5-p1-s1"
+    },
+    {
+      "id": "g8b-u5-p1-v17",
+      "term": "in",
+      "meaningZh": "在...里面",
+      "exampleSentenceId": "g8b-u5-p1-s1"
+    },
+    {
+      "id": "g8b-u5-p1-v18",
+      "term": "an",
+      "meaningZh": "一个",
+      "exampleSentenceId": "g8b-u5-p1-s1"
+    },
+    {
+      "id": "g8b-u5-p1-v19",
+      "term": "ancient",
+      "meaningZh": "古老的",
+      "exampleSentenceId": "g8b-u5-p1-s1"
+    },
+    {
+      "id": "g8b-u5-p1-v20",
+      "term": "forest",
+      "meaningZh": "森林",
+      "exampleSentenceId": "g8b-u5-p1-s1"
+    },
+    {
+      "id": "g8b-u5-p1-v21",
+      "term": "it",
+      "meaningZh": "它",
+      "exampleSentenceId": "g8b-u5-p1-s2"
+    },
+    {
+      "id": "g8b-u5-p1-v22",
+      "term": "is",
+      "meaningZh": "是",
+      "exampleSentenceId": "g8b-u5-p1-s2"
+    },
+    {
+      "id": "g8b-u5-p1-v23",
+      "term": "running",
+      "meaningZh": "跑 (run的现在分词)",
+      "exampleSentenceId": "g8b-u5-p1-s2"
+    },
+    {
+      "id": "g8b-u5-p1-v24",
+      "term": "around",
+      "meaningZh": "到处；围绕",
+      "exampleSentenceId": "g8b-u5-p1-s2"
+    },
+    {
+      "id": "g8b-u5-p1-v25",
+      "term": "looking",
+      "meaningZh": "寻找 (look的现在分词)",
+      "exampleSentenceId": "g8b-u5-p1-s2"
+    },
+    {
+      "id": "g8b-u5-p1-v26",
+      "term": "for",
+      "meaningZh": "寻找；为了",
+      "exampleSentenceId": "g8b-u5-p1-s1"
+    },
+    {
+      "id": "g8b-u5-p1-v27",
+      "term": "its",
+      "meaningZh": "它的",
+      "exampleSentenceId": "g8b-u5-p1-s2"
+    },
+    {
+      "id": "g8b-u5-p1-v28",
+      "term": "next",
+      "meaningZh": "下一个的",
+      "exampleSentenceId": "g8b-u5-p1-s2"
+    },
+    {
+      "id": "g8b-u5-p1-v29",
+      "term": "meal",
+      "meaningZh": "餐；饭",
+      "exampleSentenceId": "g8b-u5-p1-s2"
+    },
+    {
+      "id": "g8b-u5-p1-v30",
+      "term": "with",
+      "meaningZh": "带有；随着",
+      "exampleSentenceId": "g8b-u5-p1-s3"
+    },
+    {
+      "id": "g8b-u5-p1-v31",
+      "term": "angry",
+      "meaningZh": "愤怒的",
+      "exampleSentenceId": "g8b-u5-p1-s3"
+    },
+    {
+      "id": "g8b-u5-p1-v32",
+      "term": "cry",
+      "meaningZh": "叫喊",
+      "exampleSentenceId": "g8b-u5-p1-s3"
+    },
+    {
+      "id": "g8b-u5-p1-v33",
+      "term": "opens",
+      "meaningZh": "张开 (open的第三人称单数)",
+      "exampleSentenceId": "g8b-u5-p1-s3"
+    },
+    {
+      "id": "g8b-u5-p1-v34",
+      "term": "mouth",
+      "meaningZh": "嘴",
+      "exampleSentenceId": "g8b-u5-p1-s3"
+    },
+    {
+      "id": "g8b-u5-p1-v35",
+      "term": "raises",
+      "meaningZh": "举起 (raise的第三人称单数)",
+      "exampleSentenceId": "g8b-u5-p1-s3"
+    },
+    {
+      "id": "g8b-u5-p1-v36",
+      "term": "beautiful",
+      "meaningZh": "美丽的",
+      "exampleSentenceId": "g8b-u5-p1-s3"
+    },
+    {
       "id": "g8b-u5-p1-v37",
       "term": "feather-covered",
       "meaningZh": "覆盖着羽毛的",
       "exampleSentenceId": "g8b-u5-p1-s3"
     },
     {
-      "term": "imagine",
-      "meaningZh": "想象",
-      "exampleSentenceId": "g8b-u5-p1-s1"
+      "id": "g8b-u5-p1-v38",
+      "term": "arms",
+      "meaningZh": "手臂 (复数)",
+      "exampleSentenceId": "g8b-u5-p1-s3"
     },
     {
-      "term": "dinosaur",
-      "meaningZh": "恐龙",
-      "exampleSentenceId": "g8b-u5-p1-s1"
+      "id": "g8b-u5-p1-v39",
+      "term": "and",
+      "meaningZh": "和；然后",
+      "exampleSentenceId": "g8b-u5-p1-s3"
     },
     {
-      "term": "ancient",
-      "meaningZh": "古老的",
-      "exampleSentenceId": "g8b-u5-p1-s1"
-    },
-    {
-      "term": "feather",
-      "meaningZh": "羽毛，翎",
+      "id": "g8b-u5-p1-v40",
+      "term": "wait",
+      "meaningZh": "等等；等待",
       "exampleSentenceId": "g8b-u5-p1-s4"
     },
     {
+      "id": "g8b-u5-p1-v41",
+      "term": "feathers",
+      "meaningZh": "羽毛 (复数)",
+      "exampleSentenceId": "g8b-u5-p1-s4"
+    },
+    {
+      "id": "g8b-u5-p1-v42",
+      "term": "on",
+      "meaningZh": "在...上面",
+      "exampleSentenceId": "g8b-u5-p1-s4"
+    },
+    {
+      "id": "g8b-u5-p1-v43",
+      "term": "hundreds",
+      "meaningZh": "数百",
+      "exampleSentenceId": "g8b-u5-p1-s5"
+    },
+    {
+      "id": "g8b-u5-p1-v44",
+      "term": "of",
+      "meaningZh": "...的",
+      "exampleSentenceId": "g8b-u5-p1-s5"
+    },
+    {
+      "id": "g8b-u5-p1-v45",
+      "term": "years",
+      "meaningZh": "年 (复数)",
+      "exampleSentenceId": "g8b-u5-p1-s5"
+    },
+    {
+      "id": "g8b-u5-p1-v46",
+      "term": "people",
+      "meaningZh": "人们",
+      "exampleSentenceId": "g8b-u5-p1-s5"
+    },
+    {
+      "id": "g8b-u5-p1-v47",
+      "term": "believed",
+      "meaningZh": "相信 (believe的过去式)",
+      "exampleSentenceId": "g8b-u5-p1-s5"
+    },
+    {
+      "id": "g8b-u5-p1-v48",
+      "term": "that",
+      "meaningZh": "那个；(引导从句)",
+      "exampleSentenceId": "g8b-u5-p1-s5"
+    },
+    {
+      "id": "g8b-u5-p1-v49",
+      "term": "dinosaurs",
+      "meaningZh": "恐龙 (复数)",
+      "exampleSentenceId": "g8b-u5-p1-s5"
+    },
+    {
+      "id": "g8b-u5-p1-v50",
+      "term": "looked",
+      "meaningZh": "看起来 (look的过去式)",
+      "exampleSentenceId": "g8b-u5-p1-s5"
+    },
+    {
+      "id": "g8b-u5-p1-v51",
+      "term": "like",
+      "meaningZh": "像",
+      "exampleSentenceId": "g8b-u5-p1-s5"
+    },
+    {
+      "id": "g8b-u5-p1-v52",
       "term": "huge",
       "meaningZh": "巨大的",
       "exampleSentenceId": "g8b-u5-p1-s5"
     },
     {
-      "term": "lizard",
-      "meaningZh": "蜥蜴",
+      "id": "g8b-u5-p1-v53",
+      "term": "lizards",
+      "meaningZh": "蜥蜴 (复数)",
       "exampleSentenceId": "g8b-u5-p1-s5"
     },
     {
+      "id": "g8b-u5-p1-v54",
+      "term": "just",
+      "meaningZh": "仅仅；只是",
+      "exampleSentenceId": "g8b-u5-p1-s6"
+    },
+    {
+      "id": "g8b-u5-p1-v55",
+      "term": "look",
+      "meaningZh": "看",
+      "exampleSentenceId": "g8b-u5-p1-s2"
+    },
+    {
+      "id": "g8b-u5-p1-v56",
+      "term": "at",
+      "meaningZh": "在；向",
+      "exampleSentenceId": "g8b-u5-p1-s3"
+    },
+    {
+      "id": "g8b-u5-p1-v57",
+      "term": "all",
+      "meaningZh": "所有的",
+      "exampleSentenceId": "g8b-u5-p1-s6"
+    },
+    {
+      "id": "g8b-u5-p1-v58",
+      "term": "those",
+      "meaningZh": "那些",
+      "exampleSentenceId": "g8b-u5-p1-s6"
+    },
+    {
+      "id": "g8b-u5-p1-v59",
+      "term": "books",
+      "meaningZh": "书 (复数)",
+      "exampleSentenceId": "g8b-u5-p1-s6"
+    },
+    {
+      "id": "g8b-u5-p1-v60",
+      "term": "films",
+      "meaningZh": "电影 (复数)",
+      "exampleSentenceId": "g8b-u5-p1-s6"
+    },
+    {
+      "id": "g8b-u5-p1-v61",
+      "term": "tv",
+      "meaningZh": "电视",
+      "exampleSentenceId": "g8b-u5-p1-s6"
+    },
+    {
+      "id": "g8b-u5-p1-v62",
+      "term": "shows",
+      "meaningZh": "节目 (复数)",
+      "exampleSentenceId": "g8b-u5-p1-s6"
+    },
+    {
+      "id": "g8b-u5-p1-v63",
       "term": "however",
       "meaningZh": "然而",
       "exampleSentenceId": "g8b-u5-p1-s7"
     },
     {
+      "id": "g8b-u5-p1-v64",
+      "term": "thanks",
+      "meaningZh": "感谢",
+      "exampleSentenceId": "g8b-u5-p1-s7"
+    },
+    {
+      "id": "g8b-u5-p1-v65",
+      "term": "to",
+      "meaningZh": "向；到",
+      "exampleSentenceId": "g8b-u5-p1-s7"
+    },
+    {
+      "id": "g8b-u5-p1-v66",
+      "term": "piece",
+      "meaningZh": "一块；一件",
+      "exampleSentenceId": "g8b-u5-p1-s7"
+    },
+    {
+      "id": "g8b-u5-p1-v67",
       "term": "amber",
       "meaningZh": "琥珀",
       "exampleSentenceId": "g8b-u5-p1-s7"
     },
     {
-      "term": "scientist",
-      "meaningZh": "科学家",
+      "id": "g8b-u5-p1-v68",
+      "term": "scientists",
+      "meaningZh": "科学家 (复数)",
       "exampleSentenceId": "g8b-u5-p1-s7"
     },
     {
+      "id": "g8b-u5-p1-v69",
+      "term": "now",
+      "meaningZh": "现在",
+      "exampleSentenceId": "g8b-u5-p1-s7"
+    },
+    {
+      "id": "g8b-u5-p1-v70",
+      "term": "know",
+      "meaningZh": "知道",
+      "exampleSentenceId": "g8b-u5-p1-s7"
+    },
+    {
+      "id": "g8b-u5-p1-v71",
+      "term": "knows",
+      "meaningZh": "知道 (know的第三人称单数)",
+      "exampleSentenceId": "g8b-u5-p1-s21"
+    },
+    {
+      "id": "g8b-u5-p1-v72",
+      "term": "this",
+      "meaningZh": "这个",
+      "exampleSentenceId": "g8b-u5-p1-s7"
+    },
+    {
+      "id": "g8b-u5-p1-v73",
+      "term": "idea",
+      "meaningZh": "想法",
+      "exampleSentenceId": "g8b-u5-p1-s7"
+    },
+    {
+      "id": "g8b-u5-p1-v74",
+      "term": "wrong",
+      "meaningZh": "错误的",
+      "exampleSentenceId": "g8b-u5-p1-s7"
+    },
+    {
+      "id": "g8b-u5-p1-v75",
+      "term": "southeast",
+      "meaningZh": "东南",
+      "exampleSentenceId": "g8b-u5-p1-s8"
+    },
+    {
+      "id": "g8b-u5-p1-v76",
+      "term": "asia",
+      "meaningZh": "亚洲",
+      "exampleSentenceId": "g8b-u5-p1-s8"
+    },
+    {
+      "id": "g8b-u5-p1-v77",
+      "term": "they",
+      "meaningZh": "他们",
+      "exampleSentenceId": "g8b-u5-p1-s8"
+    },
+    {
+      "id": "g8b-u5-p1-v78",
+      "term": "found",
+      "meaningZh": "发现 (find的过去式)",
+      "exampleSentenceId": "g8b-u5-p1-s8"
+    },
+    {
+      "id": "g8b-u5-p1-v79",
+      "term": "tail",
+      "meaningZh": "尾巴",
+      "exampleSentenceId": "g8b-u5-p1-s8"
+    },
+    {
+      "id": "g8b-u5-p1-v80",
+      "term": "these",
+      "meaningZh": "这些",
+      "exampleSentenceId": "g8b-u5-p1-s9"
+    },
+    {
+      "id": "g8b-u5-p1-v81",
+      "term": "golden",
+      "meaningZh": "金色的",
+      "exampleSentenceId": "g8b-u5-p1-s9"
+    },
+    {
+      "id": "g8b-u5-p1-v82",
+      "term": "stones",
+      "meaningZh": "石头 (复数)",
+      "exampleSentenceId": "g8b-u5-p1-s9"
+    },
+    {
+      "id": "g8b-u5-p1-v83",
+      "term": "quietly",
+      "meaningZh": "安静地",
+      "exampleSentenceId": "g8b-u5-p1-s9"
+    },
+    {
+      "id": "g8b-u5-p1-v84",
+      "term": "keep",
+      "meaningZh": "保存；保持",
+      "exampleSentenceId": "g8b-u5-p1-s9"
+    },
+    {
+      "id": "g8b-u5-p1-v85",
+      "term": "pieces",
+      "meaningZh": "碎片 (复数)",
+      "exampleSentenceId": "g8b-u5-p1-s9"
+    },
+    {
+      "id": "g8b-u5-p1-v86",
+      "term": "past",
+      "meaningZh": "过去",
+      "exampleSentenceId": "g8b-u5-p1-s9"
+    },
+    {
+      "id": "g8b-u5-p1-v87",
+      "term": "can",
+      "meaningZh": "能；可以",
+      "exampleSentenceId": "g8b-u5-p1-s10"
+    },
+    {
+      "id": "g8b-u5-p1-v88",
+      "term": "tell",
+      "meaningZh": "告诉",
+      "exampleSentenceId": "g8b-u5-p1-s10"
+    },
+    {
+      "id": "g8b-u5-p1-v89",
+      "term": "us",
+      "meaningZh": "我们 (宾格)",
+      "exampleSentenceId": "g8b-u5-p1-s6"
+    },
+    {
+      "id": "g8b-u5-p1-v90",
       "term": "whether",
       "meaningZh": "是否",
       "exampleSentenceId": "g8b-u5-p1-s10"
     },
     {
+      "id": "g8b-u5-p1-v91",
+      "term": "had",
+      "meaningZh": "有 (have的过去式)",
+      "exampleSentenceId": "g8b-u5-p1-s10"
+    },
+    {
+      "id": "g8b-u5-p1-v92",
+      "term": "but",
+      "meaningZh": "但是",
+      "exampleSentenceId": "g8b-u5-p1-s10"
+    },
+    {
+      "id": "g8b-u5-p1-v93",
+      "term": "not",
+      "meaningZh": "不",
+      "exampleSentenceId": "g8b-u5-p1-s10"
+    },
+    {
+      "id": "g8b-u5-p1-v94",
+      "term": "also",
+      "meaningZh": "也",
+      "exampleSentenceId": "g8b-u5-p1-s11"
+    },
+    {
+      "id": "g8b-u5-p1-v95",
+      "term": "help",
+      "meaningZh": "帮助",
+      "exampleSentenceId": "g8b-u5-p1-s11"
+    },
+    {
+      "id": "g8b-u5-p1-v96",
       "term": "understand",
       "meaningZh": "理解",
       "exampleSentenceId": "g8b-u5-p1-s11"
     },
     {
+      "id": "g8b-u5-p1-v97",
+      "term": "life",
+      "meaningZh": "生命",
+      "exampleSentenceId": "g8b-u5-p1-s11"
+    },
+    {
+      "id": "g8b-u5-p1-v98",
+      "term": "earth",
+      "meaningZh": "地球",
+      "exampleSentenceId": "g8b-u5-p1-s11"
+    },
+    {
+      "id": "g8b-u5-p1-v99",
+      "term": "always",
+      "meaningZh": "总是",
+      "exampleSentenceId": "g8b-u5-p1-s11"
+    },
+    {
+      "id": "g8b-u5-p1-v100",
+      "term": "changed",
+      "meaningZh": "改变 (change的过去式/过去分词)",
+      "exampleSentenceId": "g8b-u5-p1-s11"
+    },
+    {
+      "id": "g8b-u5-p1-v101",
       "term": "northern",
       "meaningZh": "北方的",
       "exampleSentenceId": "g8b-u5-p1-s12"
     },
     {
+      "id": "g8b-u5-p1-v102",
+      "term": "europe",
+      "meaningZh": "欧洲",
+      "exampleSentenceId": "g8b-u5-p1-s12"
+    },
+    {
+      "id": "g8b-u5-p1-v103",
       "term": "example",
       "meaningZh": "例子",
       "exampleSentenceId": "g8b-u5-p1-s12"
     },
     {
+      "id": "g8b-u5-p1-v104",
+      "term": "holds",
+      "meaningZh": "持有；包含 (hold的第三人称单数)",
+      "exampleSentenceId": "g8b-u5-p1-s12"
+    },
+    {
+      "id": "g8b-u5-p1-v105",
+      "term": "flower",
+      "meaningZh": "花",
+      "exampleSentenceId": "g8b-u5-p1-s12"
+    },
+    {
+      "id": "g8b-u5-p1-v106",
       "term": "species",
       "meaningZh": "物种",
       "exampleSentenceId": "g8b-u5-p1-s13"
     },
     {
+      "id": "g8b-u5-p1-v107",
+      "term": "no",
+      "meaningZh": "不；没有",
+      "exampleSentenceId": "g8b-u5-p1-s1"
+    },
+    {
+      "id": "g8b-u5-p1-v108",
+      "term": "longer",
+      "meaningZh": "更长 (long的比较级)",
+      "exampleSentenceId": "g8b-u5-p1-s13"
+    },
+    {
+      "id": "g8b-u5-p1-v109",
+      "term": "grows",
+      "meaningZh": "生长 (grow的第三人称单数)",
+      "exampleSentenceId": "g8b-u5-p1-s13"
+    },
+    {
+      "id": "g8b-u5-p1-v110",
+      "term": "area",
+      "meaningZh": "地区",
+      "exampleSentenceId": "g8b-u5-p1-s13"
+    },
+    {
+      "id": "g8b-u5-p1-v111",
+      "term": "find",
+      "meaningZh": "发现",
+      "exampleSentenceId": "g8b-u5-p1-s14"
+    },
+    {
+      "id": "g8b-u5-p1-v112",
+      "term": "proves",
+      "meaningZh": "证明 (prove的第三人称单数)",
+      "exampleSentenceId": "g8b-u5-p1-s14"
+    },
+    {
+      "id": "g8b-u5-p1-v113",
+      "term": "did",
+      "meaningZh": "做 (do的过去式)",
+      "exampleSentenceId": "g8b-u5-p1-s14"
+    },
+    {
+      "id": "g8b-u5-p1-v114",
+      "term": "million",
+      "meaningZh": "百万",
+      "exampleSentenceId": "g8b-u5-p1-s14"
+    },
+    {
+      "id": "g8b-u5-p1-v115",
+      "term": "ago",
+      "meaningZh": "以前",
+      "exampleSentenceId": "g8b-u5-p1-s14"
+    },
+    {
+      "id": "g8b-u5-p1-v116",
+      "term": "future",
+      "meaningZh": "未来",
+      "exampleSentenceId": "g8b-u5-p1-s15"
+    },
+    {
+      "id": "g8b-u5-p1-v117",
+      "term": "may",
+      "meaningZh": "可能",
+      "exampleSentenceId": "g8b-u5-p1-s15"
+    },
+    {
+      "id": "g8b-u5-p1-v118",
       "term": "discover",
       "meaningZh": "发现",
       "exampleSentenceId": "g8b-u5-p1-s15"
     },
     {
+      "id": "g8b-u5-p1-v119",
       "term": "if",
       "meaningZh": "如果；是否",
       "exampleSentenceId": "g8b-u5-p1-s3"
     },
     {
+      "id": "g8b-u5-p1-v120",
       "term": "other",
       "meaningZh": "其他的",
       "exampleSentenceId": "g8b-u5-p1-s15"
     },
     {
+      "id": "g8b-u5-p1-v121",
+      "term": "over",
+      "meaningZh": "在...之上；经过",
+      "exampleSentenceId": "g8b-u5-p1-s3"
+    },
+    {
+      "id": "g8b-u5-p1-v122",
+      "term": "time",
+      "meaningZh": "时间",
+      "exampleSentenceId": "g8b-u5-p1-s15"
+    },
+    {
+      "id": "g8b-u5-p1-v123",
+      "term": "more",
+      "meaningZh": "更多",
+      "exampleSentenceId": "g8b-u5-p1-s16"
+    },
+    {
+      "id": "g8b-u5-p1-v124",
       "term": "than",
       "meaningZh": "比",
       "exampleSentenceId": "g8b-u5-p1-s7"
     },
     {
+      "id": "g8b-u5-p1-v125",
       "term": "unknown",
       "meaningZh": "未知的",
       "exampleSentenceId": "g8b-u5-p1-s16"
     },
     {
-      "term": "ant",
-      "meaningZh": "蚂蚁",
+      "id": "g8b-u5-p1-v126",
+      "term": "been",
+      "meaningZh": "是 (be的过去分词)",
+      "exampleSentenceId": "g8b-u5-p1-s16"
+    },
+    {
+      "id": "g8b-u5-p1-v127",
+      "term": "discovered",
+      "meaningZh": "发现 (discover的过去式/过去分词)",
+      "exampleSentenceId": "g8b-u5-p1-s16"
+    },
+    {
+      "id": "g8b-u5-p1-v128",
+      "term": "africa",
+      "meaningZh": "非洲",
       "exampleSentenceId": "g8b-u5-p1-s17"
     },
     {
+      "id": "g8b-u5-p1-v129",
+      "term": "ants",
+      "meaningZh": "蚂蚁 (复数)",
+      "exampleSentenceId": "g8b-u5-p1-s17"
+    },
+    {
+      "id": "g8b-u5-p1-v130",
+      "term": "research",
+      "meaningZh": "研究",
+      "exampleSentenceId": "g8b-u5-p1-s18"
+    },
+    {
+      "id": "g8b-u5-p1-v131",
       "term": "completely",
       "meaningZh": "完全地",
       "exampleSentenceId": "g8b-u5-p1-s18"
     },
     {
+      "id": "g8b-u5-p1-v132",
+      "term": "new",
+      "meaningZh": "新的",
+      "exampleSentenceId": "g8b-u5-p1-s18"
+    },
+    {
+      "id": "g8b-u5-p1-v133",
+      "term": "used",
+      "meaningZh": "习惯于；使用过的",
+      "exampleSentenceId": "g8b-u5-p1-s19"
+    },
+    {
+      "id": "g8b-u5-p1-v134",
       "term": "believe",
       "meaningZh": "相信",
       "exampleSentenceId": "g8b-u5-p1-s5"
     },
     {
+      "id": "g8b-u5-p1-v135",
+      "term": "came",
+      "meaningZh": "来 (come的过去式)",
+      "exampleSentenceId": "g8b-u5-p1-s19"
+    },
+    {
+      "id": "g8b-u5-p1-v136",
+      "term": "from",
+      "meaningZh": "来自",
+      "exampleSentenceId": "g8b-u5-p1-s8"
+    },
+    {
+      "id": "g8b-u5-p1-v137",
+      "term": "half",
+      "meaningZh": "一半",
+      "exampleSentenceId": "g8b-u5-p1-s19"
+    },
+    {
+      "id": "g8b-u5-p1-v138",
       "term": "discovery",
       "meaningZh": "发现",
       "exampleSentenceId": "g8b-u5-p1-s20"
     },
     {
+      "id": "g8b-u5-p1-v139",
       "term": "african",
       "meaningZh": "非洲的",
       "exampleSentenceId": "g8b-u5-p1-s20"
     },
     {
-      "term": "belief",
-      "meaningZh": "观点",
+      "id": "g8b-u5-p1-v140",
+      "term": "beliefs",
+      "meaningZh": "信念；观念 (复数)",
       "exampleSentenceId": "g8b-u5-p1-s20"
     },
     {
+      "id": "g8b-u5-p1-v141",
+      "term": "about",
+      "meaningZh": "关于",
+      "exampleSentenceId": "g8b-u5-p1-s20"
+    },
+    {
+      "id": "g8b-u5-p1-v142",
+      "term": "history",
+      "meaningZh": "历史",
+      "exampleSentenceId": "g8b-u5-p1-s20"
+    },
+    {
+      "id": "g8b-u5-p1-v143",
+      "term": "who",
+      "meaningZh": "谁",
+      "exampleSentenceId": "g8b-u5-p1-s21"
+    },
+    {
+      "id": "g8b-u5-p1-v144",
+      "term": "secrets",
+      "meaningZh": "秘密 (复数)",
+      "exampleSentenceId": "g8b-u5-p1-s21"
+    },
+    {
+      "id": "g8b-u5-p1-v145",
+      "term": "as",
+      "meaningZh": "作为；当...时",
+      "exampleSentenceId": "g8b-u5-p1-s8"
+    },
+    {
+      "id": "g8b-u5-p1-v146",
+      "term": "window",
+      "meaningZh": "窗户",
+      "exampleSentenceId": "g8b-u5-p1-s22"
+    },
+    {
+      "id": "g8b-u5-p1-v147",
+      "term": "studied",
+      "meaningZh": "研究 (study的过去式/过去分词)",
+      "exampleSentenceId": "g8b-u5-p1-s22"
+    },
+    {
+      "id": "g8b-u5-p1-v148",
+      "term": "still",
+      "meaningZh": "仍然",
+      "exampleSentenceId": "g8b-u5-p1-s23"
+    },
+    {
+      "id": "g8b-u5-p1-v149",
       "term": "fully",
       "meaningZh": "完全地",
       "exampleSentenceId": "g8b-u5-p1-s23"
     },
     {
+      "id": "g8b-u5-p1-v150",
+      "term": "understood",
+      "meaningZh": "理解 (understand的过去式/过去分词)",
+      "exampleSentenceId": "g8b-u5-p1-s23"
+    },
+    {
+      "id": "g8b-u5-p1-v151",
+      "term": "we",
+      "meaningZh": "我们",
+      "exampleSentenceId": "g8b-u5-p1-s7"
+    },
+    {
+      "id": "g8b-u5-p1-v152",
+      "term": "should",
+      "meaningZh": "应该",
+      "exampleSentenceId": "g8b-u5-p1-s24"
+    },
+    {
+      "id": "g8b-u5-p1-v153",
+      "term": "put",
+      "meaningZh": "放；投入",
+      "exampleSentenceId": "g8b-u5-p1-s24"
+    },
+    {
+      "id": "g8b-u5-p1-v154",
       "term": "effort",
       "meaningZh": "努力；精力",
       "exampleSentenceId": "g8b-u5-p1-s24"
     },
     {
+      "id": "g8b-u5-p1-v155",
+      "term": "into",
+      "meaningZh": "进入；到...里",
+      "exampleSentenceId": "g8b-u5-p1-s24"
+    },
+    {
+      "id": "g8b-u5-p1-v156",
+      "term": "then",
+      "meaningZh": "然后",
+      "exampleSentenceId": "g8b-u5-p1-s25"
+    },
+    {
+      "id": "g8b-u5-p1-v157",
+      "term": "use",
+      "meaningZh": "使用",
+      "exampleSentenceId": "g8b-u5-p1-s19"
+    },
+    {
+      "id": "g8b-u5-p1-v158",
+      "term": "key",
+      "meaningZh": "钥匙；关键",
+      "exampleSentenceId": "g8b-u5-p1-s25"
+    },
+    {
+      "id": "g8b-u5-p1-v159",
       "term": "unlock",
       "meaningZh": "开启；解锁",
       "exampleSentenceId": "g8b-u5-p1-s25"
+    },
+    {
+      "id": "g8b-u5-p1-v160",
+      "term": "nature",
+      "meaningZh": "大自然",
+      "exampleSentenceId": "g8b-u5-p1-s25"
+    },
+    {
+      "id": "g8b-u5-p1-v161",
+      "term": "much",
+      "meaningZh": "很多；非常；大量地",
+      "exampleSentenceId": "g8b-u5-p1-s22"
     }
   ],
   "sentenceTasks": [],
@@ -1645,41 +2463,6 @@
       "meaningZh": "很多；非常；大量地",
       "usageZh": "",
       "example": ""
-    },
-    "feather": {
-      "phonetic": "/ˈfeðər/",
-      "pos": "n.",
-      "meaningZh": "羽毛，翎",
-      "usageZh": "常见搭配：as light as a feather (轻如鸿毛)；birds of a feather (一丘之貉)",
-      "example": "The bird lost a feather during its flight. (那只鸟在飞行中掉了一根羽毛。)"
-    },
-    "lizard": {
-      "phonetic": "/ˈlɪzərd/",
-      "pos": "n.",
-      "meaningZh": "蜥蜴",
-      "usageZh": "常见搭配：a green lizard (一只绿蜥蜴)；lizard skin (蜥蜴皮)",
-      "example": "We saw a lizard basking in the sun on the rock. (我们看到一只蜥蜴在岩石上晒太阳。)"
-    },
-    "scientist": {
-      "phonetic": "/ˈsaɪəntɪst/",
-      "pos": "n.",
-      "meaningZh": "科学家",
-      "usageZh": "常见搭配：a famous scientist (一位著名科学家)；scientist's discovery (科学家的发现)",
-      "example": "The scientist conducted experiments in the laboratory. (那位科学家在实验室里做实验。)"
-    },
-    "ant": {
-      "phonetic": "/ænt/",
-      "pos": "n.",
-      "meaningZh": "蚂蚁",
-      "usageZh": "常见搭配：an ant colony (一个蚁群)；as busy as an ant (像蚂蚁一样忙碌)",
-      "example": "The ant carried a crumb back to its nest. (那只蚂蚁把一块面包屑搬回了巢穴。)"
-    },
-    "belief": {
-      "phonetic": "/bɪˈliːf/",
-      "pos": "n.",
-      "meaningZh": "观点",
-      "usageZh": "常见搭配：strong belief (坚定的信念)；beyond belief (难以置信)",
-      "example": "It is my belief that honesty is the best policy. (我的观点是诚实是最好的策略。)"
     }
   }
 }

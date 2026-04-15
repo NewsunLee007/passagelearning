@@ -520,7 +520,7 @@ function buildParagraphGroups(source, sentenceCount, rawSentences, articleData, 
 
 function normalizeSentence(raw) {
   return {
-    text: raw.text ?? raw.en ?? "",
+    text: raw.text ?? raw.en ?? raw.t ?? "",
     tr: raw.translation ?? raw.tr ?? raw.cn ?? "",
     g: raw.grammar?.structure ?? raw.g ?? "",
     d: raw.grammar?.explanation ?? raw.grammar?.analysis ?? raw.d ?? "",
@@ -585,6 +585,7 @@ function parseHtmlArticle(source) {
   const specialOverrides = parseSpecialWordAudio(source);
   const vocabulary =
     articleData.vocabulary ??
+    articleData.words ??
     extractAssignment(source, "const vocabulary", context) ??
     {};
   const rawQuestions =

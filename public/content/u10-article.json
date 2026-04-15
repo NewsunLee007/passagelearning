@@ -3,7 +3,7 @@
     "schemaVersion": "2.0",
     "source": "七年级下册互动课文",
     "importedFrom": "Unit 4 Passage 1 All work and no play makes Jack a dull boy（互动课文教学动画）英语新教材外研版七年级下册.html",
-    "importedAt": "2026-04-13T04:50:28.069Z"
+    "importedAt": "2026-04-15T05:40:35.197Z"
   },
   "article": {
     "id": "u10-article",
@@ -250,129 +250,802 @@
   ],
   "vocabItems": [
     {
-      "term": "imagine",
-      "meaningZh": "想象",
-      "exampleSentenceId": "u10-article-s1"
+      "id": "u10-article-v1",
+      "term": "we",
+      "meaningZh": "pron. 我们（主格）",
+      "exampleSentenceId": "u10-article-s12"
     },
     {
-      "term": "alone",
-      "meaningZh": "单独，独自",
-      "exampleSentenceId": "u10-article-s1"
-    },
-    {
-      "term": "only",
-      "meaningZh": "唯一的，仅有的",
-      "exampleSentenceId": "u10-article-s2"
-    },
-    {
-      "term": "might",
-      "meaningZh": "也许，可能，大概",
-      "exampleSentenceId": "u10-article-s3"
-    },
-    {
-      "term": "tool",
-      "meaningZh": "工具",
-      "exampleSentenceId": "u10-article-s3"
-    },
-    {
-      "term": "list",
-      "meaningZh": "名单，清单，目录",
-      "exampleSentenceId": "u10-article-s3"
-    },
-    {
-      "term": "most",
-      "meaningZh": "最",
-      "exampleSentenceId": "u10-article-s5"
-    },
-    {
-      "term": "choose",
-      "meaningZh": "挑选，选择",
-      "exampleSentenceId": "u10-article-s5"
-    },
-    {
-      "term": "novel",
-      "meaningZh": "（长篇）小说",
-      "exampleSentenceId": "u10-article-s5"
-    },
-    {
-      "term": "magazine",
-      "meaningZh": "杂志，期刊",
-      "exampleSentenceId": "u10-article-s5"
-    },
-    {
-      "term": "solar",
-      "meaningZh": "利用太阳能的",
-      "exampleSentenceId": "u10-article-s5"
-    },
-    {
-      "term": "media",
-      "meaningZh": "媒体；传媒",
-      "exampleSentenceId": "u10-article-s5"
-    },
-    {
-      "term": "bored",
-      "meaningZh": "厌烦的，不感兴趣的；烦闷的",
-      "exampleSentenceId": "u10-article-s6"
-    },
-    {
-      "term": "feeling",
-      "meaningZh": "感觉",
-      "exampleSentenceId": "u10-article-s7"
-    },
-    {
-      "term": "lift",
-      "meaningZh": "使（情况）改善；使（某人）更快乐",
-      "exampleSentenceId": "u10-article-s7"
-    },
-    {
-      "term": "spirit",
-      "meaningZh": "（某一特定历史时期、地方或群体的）精神，风气",
-      "exampleSentenceId": "u10-article-s7"
-    },
-    {
-      "term": "funny",
-      "meaningZh": "使人发笑的，有趣的；滑稽的",
-      "exampleSentenceId": "u10-article-s8"
-    },
-    {
-      "term": "become",
-      "meaningZh": "变成，变得",
-      "exampleSentenceId": "u10-article-s10"
-    },
-    {
-      "term": "moment",
-      "meaningZh": "某一时刻",
-      "exampleSentenceId": "u10-article-s10"
-    },
-    {
-      "term": "youthful",
-      "meaningZh": "年轻的",
-      "exampleSentenceId": "u10-article-s11"
-    },
-    {
-      "term": "other",
-      "meaningZh": "另外的，其他的",
+      "id": "u10-article-v2",
+      "term": "having",
+      "meaningZh": "v. 有；吃；进行（have的动名词）",
       "exampleSentenceId": "u10-article-s15"
     },
     {
-      "term": "invite",
-      "meaningZh": "邀请",
+      "id": "u10-article-v3",
+      "term": "have",
+      "meaningZh": "v. 有；吃；进行",
+      "exampleSentenceId": "u10-article-s19"
+    },
+    {
+      "id": "u10-article-v4",
+      "term": "play",
+      "meaningZh": "v. 玩耍；演奏；播放",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v5",
+      "term": "of",
+      "meaningZh": "prep. ...的",
+      "exampleSentenceId": "u10-article-s10"
+    },
+    {
+      "id": "u10-article-v6",
+      "term": "the",
+      "meaningZh": "art. 这，那",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v7",
+      "term": "a",
+      "meaningZh": "art. 一个",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v8",
+      "term": "in",
+      "meaningZh": "prep. 在...里面",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v9",
+      "term": "us",
+      "meaningZh": "pron. 我们（宾格）",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v10",
+      "term": "with",
+      "meaningZh": "prep. 具有；用；和...一起",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v11",
+      "term": "imagine",
+      "meaningZh": "v. 想象，设想",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v12",
+      "term": "staying",
+      "meaningZh": "v. 停留，保持（stay的动名词）",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v13",
+      "term": "on",
+      "meaningZh": "prep. 在...之上",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v14",
+      "term": "an",
+      "meaningZh": "art. 一个",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v15",
+      "term": "island",
+      "meaningZh": "n. 岛，岛屿",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v16",
+      "term": "alone",
+      "meaningZh": "adj. 独自的，单独的",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v17",
+      "term": "you",
+      "meaningZh": "pron. 你，你们",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v18",
+      "term": "can",
+      "meaningZh": "v. 能，可以",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v19",
+      "term": "only",
+      "meaningZh": "adv. 只有，仅仅",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v20",
+      "term": "take",
+      "meaningZh": "v. 携带，拿走",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v21",
+      "term": "five",
+      "meaningZh": "num. 五",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v22",
+      "term": "things",
+      "meaningZh": "n. 事情，东西（thing的复数形式）",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v23",
+      "term": "might",
+      "meaningZh": "v. 可能",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v24",
+      "term": "put",
+      "meaningZh": "v. 放，安置",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v25",
+      "term": "food",
+      "meaningZh": "n. 食物",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v26",
+      "term": "water",
+      "meaningZh": "n. 水",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v27",
+      "term": "tools",
+      "meaningZh": "n. 工具（tool的复数形式）",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v28",
+      "term": "and",
+      "meaningZh": "conj. 和，而且",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v29",
+      "term": "clothes",
+      "meaningZh": "n. 衣服（常以复数形式出现）",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v30",
+      "term": "your",
+      "meaningZh": "pron. 你的",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v31",
+      "term": "list",
+      "meaningZh": "n. 清单",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v32",
+      "term": "but",
+      "meaningZh": "conj. 但是",
+      "exampleSentenceId": "u10-article-s4"
+    },
+    {
+      "id": "u10-article-v33",
+      "term": "what",
+      "meaningZh": "pron. 什么",
+      "exampleSentenceId": "u10-article-s4"
+    },
+    {
+      "id": "u10-article-v34",
+      "term": "about",
+      "meaningZh": "prep. 关于",
+      "exampleSentenceId": "u10-article-s4"
+    },
+    {
+      "id": "u10-article-v35",
+      "term": "fifth",
+      "meaningZh": "num. 第五",
+      "exampleSentenceId": "u10-article-s4"
+    },
+    {
+      "id": "u10-article-v36",
+      "term": "one",
+      "meaningZh": "num. 一",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v37",
+      "term": "most",
+      "meaningZh": "adj. 大部分的",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v38",
+      "term": "people",
+      "meaningZh": "n. 人们",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v39",
+      "term": "would",
+      "meaningZh": "v. 将，愿意",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v40",
+      "term": "choose",
+      "meaningZh": "v. 选择",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v41",
+      "term": "something",
+      "meaningZh": "pron. 某事",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v42",
+      "term": "for",
+      "meaningZh": "prep. 为了",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v43",
+      "term": "fun",
+      "meaningZh": "n. 乐趣",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v44",
+      "term": "like",
+      "meaningZh": "prep. 像，比如",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v45",
+      "term": "novel",
+      "meaningZh": "n. 小说",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v46",
+      "term": "magazine",
+      "meaningZh": "n. 杂志",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v47",
+      "term": "or",
+      "meaningZh": "conj. 或者",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v48",
+      "term": "solar",
+      "meaningZh": "adj. 太阳的",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v49",
+      "term": "media",
+      "meaningZh": "n. 媒体",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v50",
+      "term": "player",
+      "meaningZh": "n. 播放器",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v51",
+      "term": "after",
+      "meaningZh": "prep. 在...之后",
+      "exampleSentenceId": "u10-article-s6"
+    },
+    {
+      "id": "u10-article-v52",
+      "term": "all",
+      "meaningZh": "adj. 全部的",
+      "exampleSentenceId": "u10-article-s6"
+    },
+    {
+      "id": "u10-article-v53",
+      "term": "no",
+      "meaningZh": "adv. 不",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v54",
+      "term": "wants",
+      "meaningZh": "v. 想要（want的第三人称单数）",
+      "exampleSentenceId": "u10-article-s6"
+    },
+    {
+      "id": "u10-article-v55",
+      "term": "to",
+      "meaningZh": "prep. 到，向",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v56",
+      "term": "get",
+      "meaningZh": "v. 得到，变得",
+      "exampleSentenceId": "u10-article-s6"
+    },
+    {
+      "id": "u10-article-v57",
+      "term": "bored",
+      "meaningZh": "adj. 无聊的",
+      "exampleSentenceId": "u10-article-s6"
+    },
+    {
+      "id": "u10-article-v58",
+      "term": "do",
+      "meaningZh": "v. 做",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v59",
+      "term": "away",
+      "meaningZh": "adv. 离开",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v60",
+      "term": "bad",
+      "meaningZh": "adj. 坏的",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v61",
+      "term": "feelings",
+      "meaningZh": "n. 感觉，情绪（feeling的复数形式）",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v62",
+      "term": "lift",
+      "meaningZh": "v. 举起，提升",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v63",
+      "term": "our",
+      "meaningZh": "pron. 我们的",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v64",
+      "term": "spirits",
+      "meaningZh": "n. 精神，灵魂（spirit的复数形式）",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v65",
+      "term": "just",
+      "meaningZh": "adv. 仅仅，刚才",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v66",
+      "term": "picture",
+      "meaningZh": "v. 想象，画",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v67",
+      "term": "yourself",
+      "meaningZh": "pron. 你自己",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v68",
+      "term": "watching",
+      "meaningZh": "v. 观看（watch的现在分词）",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v69",
+      "term": "funny",
+      "meaningZh": "adj. 有趣的",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v70",
+      "term": "film",
+      "meaningZh": "n. 电影",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v71",
+      "term": "that",
+      "meaningZh": "pron. 那，那个",
+      "exampleSentenceId": "u10-article-s8"
+    },
+    {
+      "id": "u10-article-v72",
+      "term": "sitting",
+      "meaningZh": "v. 坐（sit的动名词）",
+      "exampleSentenceId": "u10-article-s9"
+    },
+    {
+      "id": "u10-article-v73",
+      "term": "under",
+      "meaningZh": "prep. 在...之下",
+      "exampleSentenceId": "u10-article-s9"
+    },
+    {
+      "id": "u10-article-v74",
+      "term": "trees",
+      "meaningZh": "n. 树木（tree的复数形式）",
+      "exampleSentenceId": "u10-article-s9"
+    },
+    {
+      "id": "u10-article-v75",
+      "term": "will",
+      "meaningZh": "v. 将",
+      "exampleSentenceId": "u10-article-s9"
+    },
+    {
+      "id": "u10-article-v76",
+      "term": "not",
+      "meaningZh": "adv. 不",
+      "exampleSentenceId": "u10-article-s9"
+    },
+    {
+      "id": "u10-article-v77",
+      "term": "be",
+      "meaningZh": "v. 是",
+      "exampleSentenceId": "u10-article-s9"
+    },
+    {
+      "id": "u10-article-v78",
+      "term": "boring",
+      "meaningZh": "adj. 无聊的",
+      "exampleSentenceId": "u10-article-s9"
+    },
+    {
+      "id": "u10-article-v79",
+      "term": "at",
+      "meaningZh": "prep. 在",
+      "exampleSentenceId": "u10-article-s3"
+    },
+    {
+      "id": "u10-article-v80",
+      "term": "it",
+      "meaningZh": "pron. 它",
+      "exampleSentenceId": "u10-article-s2"
+    },
+    {
+      "id": "u10-article-v81",
+      "term": "becomes",
+      "meaningZh": "v. 变成（become的第三人称单数）",
+      "exampleSentenceId": "u10-article-s10"
+    },
+    {
+      "id": "u10-article-v82",
+      "term": "moment",
+      "meaningZh": "n. 时刻",
+      "exampleSentenceId": "u10-article-s10"
+    },
+    {
+      "id": "u10-article-v83",
+      "term": "joy",
+      "meaningZh": "n. 欢乐",
+      "exampleSentenceId": "u10-article-s10"
+    },
+    {
+      "id": "u10-article-v84",
+      "term": "also",
+      "meaningZh": "adv. 也",
+      "exampleSentenceId": "u10-article-s11"
+    },
+    {
+      "id": "u10-article-v85",
+      "term": "keeps",
+      "meaningZh": "v. 保持（keep的第三人称单数）",
+      "exampleSentenceId": "u10-article-s11"
+    },
+    {
+      "id": "u10-article-v86",
+      "term": "feeling",
+      "meaningZh": "v. 感觉（feel的现在分词）",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v87",
+      "term": "youthful",
+      "meaningZh": "adj. 年轻的",
+      "exampleSentenceId": "u10-article-s11"
+    },
+    {
+      "id": "u10-article-v88",
+      "term": "as",
+      "meaningZh": "conj. 正如，当...时",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v89",
+      "term": "george",
+      "meaningZh": "n. 乔治",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v90",
+      "term": "bernard",
+      "meaningZh": "n. 伯纳德",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v91",
+      "term": "shaw",
+      "meaningZh": "n. 萧",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v92",
+      "term": "once",
+      "meaningZh": "adv. 曾经",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v93",
+      "term": "said",
+      "meaningZh": "v. 说（say的过去式）",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v94",
+      "term": "don't",
+      "meaningZh": "v. 不（还原：do not）",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v95",
+      "term": "stop",
+      "meaningZh": "v. 停止",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v96",
+      "term": "playing",
+      "meaningZh": "v. 玩耍（play的动名词）",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v97",
+      "term": "because",
+      "meaningZh": "conj. 因为",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v98",
+      "term": "grow",
+      "meaningZh": "v. 生长，变得",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v99",
+      "term": "old",
+      "meaningZh": "adj. 老的",
+      "exampleSentenceId": "u10-article-s12"
+    },
+    {
+      "id": "u10-article-v100",
+      "term": "research",
+      "meaningZh": "n. 研究",
+      "exampleSentenceId": "u10-article-s13"
+    },
+    {
+      "id": "u10-article-v101",
+      "term": "shows",
+      "meaningZh": "v. 展示（show的第三人称单数）",
+      "exampleSentenceId": "u10-article-s13"
+    },
+    {
+      "id": "u10-article-v102",
+      "term": "brings",
+      "meaningZh": "v. 带来（bring的第三人称单数）",
+      "exampleSentenceId": "u10-article-s13"
+    },
+    {
+      "id": "u10-article-v103",
+      "term": "closer",
+      "meaningZh": "adj. 更近的",
+      "exampleSentenceId": "u10-article-s13"
+    },
+    {
+      "id": "u10-article-v104",
+      "term": "is",
+      "meaningZh": "v. 是",
+      "exampleSentenceId": "u10-article-s1"
+    },
+    {
+      "id": "u10-article-v105",
+      "term": "good",
+      "meaningZh": "adj. 好的",
+      "exampleSentenceId": "u10-article-s15"
+    },
+    {
+      "id": "u10-article-v106",
+      "term": "way",
+      "meaningZh": "n. 方式",
+      "exampleSentenceId": "u10-article-s7"
+    },
+    {
+      "id": "u10-article-v107",
+      "term": "connect",
+      "meaningZh": "v. 连接",
+      "exampleSentenceId": "u10-article-s15"
+    },
+    {
+      "id": "u10-article-v108",
+      "term": "others",
+      "meaningZh": "pron. 其他人（other的复数形式）",
+      "exampleSentenceId": "u10-article-s15"
+    },
+    {
+      "id": "u10-article-v109",
+      "term": "so",
+      "meaningZh": "adv. 所以",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v110",
+      "term": "next",
+      "meaningZh": "adj. 下一个",
       "exampleSentenceId": "u10-article-s16"
     },
     {
-      "term": "experience",
-      "meaningZh": "经验；经历",
+      "id": "u10-article-v111",
+      "term": "time",
+      "meaningZh": "n. 时间",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v112",
+      "term": "invite",
+      "meaningZh": "v. 邀请",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v113",
+      "term": "friends",
+      "meaningZh": "n. 朋友（friend的复数形式）",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v114",
+      "term": "enjoy",
+      "meaningZh": "v. 享受",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v115",
+      "term": "live",
+      "meaningZh": "adj. 现场的；活的",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v116",
+      "term": "music",
+      "meaningZh": "n. 音乐",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v117",
+      "term": "together",
+      "meaningZh": "adv. 一起",
+      "exampleSentenceId": "u10-article-s16"
+    },
+    {
+      "id": "u10-article-v118",
+      "term": "it's",
+      "meaningZh": "v. 它是（还原：it is）",
       "exampleSentenceId": "u10-article-s17"
     },
     {
-      "term": "number",
-      "meaningZh": "数目；数量",
+      "id": "u10-article-v119",
+      "term": "shared",
+      "meaningZh": "adj. 共享的（share的过去分词）",
+      "exampleSentenceId": "u10-article-s17"
+    },
+    {
+      "id": "u10-article-v120",
+      "term": "experience",
+      "meaningZh": "n. 经验，经历",
+      "exampleSentenceId": "u10-article-s17"
+    },
+    {
+      "id": "u10-article-v121",
+      "term": "important",
+      "meaningZh": "adj. 重要的",
       "exampleSentenceId": "u10-article-s18"
     },
     {
-      "term": "able",
-      "meaningZh": "有能力做……的，会做……的",
+      "id": "u10-article-v122",
+      "term": "number",
+      "meaningZh": "n. 数字，许多",
+      "exampleSentenceId": "u10-article-s18"
+    },
+    {
+      "id": "u10-article-v123",
+      "term": "ways",
+      "meaningZh": "n. 方式（way的复数形式）",
+      "exampleSentenceId": "u10-article-s18"
+    },
+    {
+      "id": "u10-article-v124",
+      "term": "forget",
+      "meaningZh": "v. 忘记",
+      "exampleSentenceId": "u10-article-s19"
+    },
+    {
+      "id": "u10-article-v125",
+      "term": "some",
+      "meaningZh": "adj. 一些",
+      "exampleSentenceId": "u10-article-s5"
+    },
+    {
+      "id": "u10-article-v126",
+      "term": "out",
+      "meaningZh": "adv. 出去",
+      "exampleSentenceId": "u10-article-s4"
+    },
+    {
+      "id": "u10-article-v127",
+      "term": "life",
+      "meaningZh": "n. 生活",
+      "exampleSentenceId": "u10-article-s19"
+    },
+    {
+      "id": "u10-article-v128",
+      "term": "need",
+      "meaningZh": "v. 需要",
       "exampleSentenceId": "u10-article-s20"
+    },
+    {
+      "id": "u10-article-v129",
+      "term": "work",
+      "meaningZh": "v. 工作",
+      "exampleSentenceId": "u10-article-s20"
+    },
+    {
+      "id": "u10-article-v130",
+      "term": "hard",
+      "meaningZh": "adv. 努力地",
+      "exampleSentenceId": "u10-article-s20"
+    },
+    {
+      "id": "u10-article-v131",
+      "term": "should",
+      "meaningZh": "v. 应该",
+      "exampleSentenceId": "u10-article-s20"
+    },
+    {
+      "id": "u10-article-v132",
+      "term": "able",
+      "meaningZh": "adj. 能够",
+      "exampleSentenceId": "u10-article-s20"
+    },
+    {
+      "id": "u10-article-v133",
+      "term": "too",
+      "meaningZh": "adv. 也",
+      "exampleSentenceId": "u10-article-s3"
     }
   ],
   "sentenceTasks": [],
@@ -1376,34 +2049,6 @@
       "meaningZh": "adv. 也",
       "usageZh": "",
       "example": ""
-    },
-    "tool": {
-      "phonetic": "/tuːl/",
-      "pos": "n.",
-      "meaningZh": "工具",
-      "usageZh": "可数名词；常见搭配：a set of tools (一套工具), power tool (电动工具)",
-      "example": "A hammer is a useful tool for building. (锤子是建筑用的有用工具。)"
-    },
-    "spirit": {
-      "phonetic": "/ˈspɪrɪt/",
-      "pos": "n.",
-      "meaningZh": "（某一特定历史时期、地方或群体的）精神，风气",
-      "usageZh": "可数名词；常见搭配：team spirit (团队精神), in good spirit (情绪良好)",
-      "example": "The Olympic spirit brings people together. (奥林匹克精神将人们团结在一起。)"
-    },
-    "become": {
-      "phonetic": "/bɪˈkʌm/",
-      "pos": "v.",
-      "meaningZh": "变成，变得",
-      "usageZh": "系动词，后接形容词或名词作表语；过去式：became，过去分词：become",
-      "example": "She wants to become a doctor when she grows up. (她长大后想成为一名医生。)"
-    },
-    "other": {
-      "phonetic": "/ˈʌðə(r)/",
-      "pos": "adj./pron.",
-      "meaningZh": "另外的，其他的",
-      "usageZh": "形容词修饰名词：other people；代词：the other (两者中的另一个), others (其他人/物)",
-      "example": "Do you have any other questions? (你还有其他问题吗？)"
     }
   }
 }

@@ -3,7 +3,7 @@
     "schemaVersion": "2.0",
     "source": "八年级下册互动课文",
     "importedFrom": "Unit 4 Passage 1 Adding some colour（互动课文教学动画）英语新教材外研版八年级下册.html",
-    "importedAt": "2026-04-13T04:50:28.104Z"
+    "importedAt": "2026-04-15T05:40:35.227Z"
   },
   "article": {
     "id": "g8b-u4-p1",
@@ -350,61 +350,209 @@
   ],
   "vocabItems": [
     {
-      "term": "if",
-      "meaningZh": "假若，要是，如果",
+      "id": "g8b-u4-p1-v1",
+      "term": "nature",
+      "meaningZh": "n. 大自然",
+      "exampleSentenceId": "g8b-u4-p1-s17"
+    },
+    {
+      "id": "g8b-u4-p1-v2",
+      "term": "presents",
+      "meaningZh": "v. 呈现，展示（present的三单形式）",
+      "exampleSentenceId": "g8b-u4-p1-s18"
+    },
+    {
+      "id": "g8b-u4-p1-v3",
+      "term": "us",
+      "meaningZh": "pron. 我们（宾格）",
       "exampleSentenceId": "g8b-u4-p1-s3"
     },
     {
+      "id": "g8b-u4-p1-v4",
+      "term": "endless",
+      "meaningZh": "adj. 无尽的"
+    },
+    {
+      "id": "g8b-u4-p1-v5",
+      "term": "wonders",
+      "meaningZh": "n. 奇迹（wonder的复数）"
+    },
+    {
+      "id": "g8b-u4-p1-v6",
+      "term": "active",
+      "meaningZh": "adj. 积极的；活跃的",
+      "exampleSentenceId": "g8b-u4-p1-s3"
+    },
+    {
+      "id": "g8b-u4-p1-v7",
+      "term": "enjoys",
+      "meaningZh": "v. 享受；喜爱（enjoy的三单形式）",
+      "exampleSentenceId": "g8b-u4-p1-s3"
+    },
+    {
+      "id": "g8b-u4-p1-v8",
       "term": "probably",
       "meaningZh": "adv. 可能；大概",
       "exampleSentenceId": "g8b-u4-p1-s5"
     },
     {
+      "id": "g8b-u4-p1-v9",
+      "term": "quiet",
+      "meaningZh": "adj. 安静的",
+      "exampleSentenceId": "g8b-u4-p1-s5"
+    },
+    {
+      "id": "g8b-u4-p1-v10",
       "term": "shy",
       "meaningZh": "adj. 害羞的",
       "exampleSentenceId": "g8b-u4-p1-s5"
     },
     {
-      "term": "feeling",
-      "meaningZh": "感觉",
+      "id": "g8b-u4-p1-v11",
+      "term": "sad",
+      "meaningZh": "adj. 悲伤的",
+      "exampleSentenceId": "g8b-u4-p1-s5"
+    },
+    {
+      "id": "g8b-u4-p1-v12",
+      "term": "feelings",
+      "meaningZh": "n. 感觉；感情（feeling的复数）",
       "exampleSentenceId": "g8b-u4-p1-s7"
     },
     {
-      "term": "restaurant",
-      "meaningZh": "饭店，餐馆",
+      "id": "g8b-u4-p1-v13",
+      "term": "moods",
+      "meaningZh": "n. 情绪；心情（mood的复数）",
+      "exampleSentenceId": "g8b-u4-p1-s7"
+    },
+    {
+      "id": "g8b-u4-p1-v14",
+      "term": "affect",
+      "meaningZh": "v. 影响",
+      "exampleSentenceId": "g8b-u4-p1-s8"
+    },
+    {
+      "id": "g8b-u4-p1-v15",
+      "term": "restaurants",
+      "meaningZh": "n. 餐馆（restaurant的复数）",
       "exampleSentenceId": "g8b-u4-p1-s9"
     },
     {
-      "term": "customer",
-      "meaningZh": "顾客，客户",
+      "id": "g8b-u4-p1-v16",
+      "term": "customers",
+      "meaningZh": "n. 顾客（customer的复数）",
       "exampleSentenceId": "g8b-u4-p1-s9"
     },
     {
-      "term": "scientist",
-      "meaningZh": "科学家",
+      "id": "g8b-u4-p1-v17",
+      "term": "habits",
+      "meaningZh": "n. 习惯（habit的复数）",
       "exampleSentenceId": "g8b-u4-p1-s10"
     },
     {
+      "id": "g8b-u4-p1-v18",
+      "term": "thin",
+      "meaningZh": "adj. 瘦的；薄的",
+      "exampleSentenceId": "g8b-u4-p1-s11"
+    },
+    {
+      "id": "g8b-u4-p1-v19",
       "term": "calm",
       "meaningZh": "adj. 冷静的；平静的",
       "exampleSentenceId": "g8b-u4-p1-s13"
     },
     {
+      "id": "g8b-u4-p1-v20",
+      "term": "peaceful",
+      "meaningZh": "adj. 和平的；安宁的",
+      "exampleSentenceId": "g8b-u4-p1-s13"
+    },
+    {
+      "id": "g8b-u4-p1-v21",
+      "term": "mind",
+      "meaningZh": "n. 头脑；精神",
+      "exampleSentenceId": "g8b-u4-p1-s14"
+    },
+    {
+      "id": "g8b-u4-p1-v22",
+      "term": "body",
+      "meaningZh": "n. 身体",
+      "exampleSentenceId": "g8b-u4-p1-s14"
+    },
+    {
+      "id": "g8b-u4-p1-v23",
+      "term": "stressed",
+      "meaningZh": "adj. 紧张的；有压力的",
+      "exampleSentenceId": "g8b-u4-p1-s15"
+    },
+    {
+      "id": "g8b-u4-p1-v24",
+      "term": "relaxed",
+      "meaningZh": "adj. 放松的",
+      "exampleSentenceId": "g8b-u4-p1-s16"
+    },
+    {
+      "id": "g8b-u4-p1-v25",
+      "term": "represents",
+      "meaningZh": "v. 代表；象征（represent的三单形式）",
+      "exampleSentenceId": "g8b-u4-p1-s18"
+    },
+    {
+      "id": "g8b-u4-p1-v26",
+      "term": "growth",
+      "meaningZh": "n. 生长；增长",
+      "exampleSentenceId": "g8b-u4-p1-s18"
+    },
+    {
+      "id": "g8b-u4-p1-v27",
+      "term": "envy",
+      "meaningZh": "n. 嫉妒；羡慕",
+      "exampleSentenceId": "g8b-u4-p1-s19"
+    },
+    {
+      "id": "g8b-u4-p1-v28",
+      "term": "friendly",
+      "meaningZh": "adj. 友好的",
+      "exampleSentenceId": "g8b-u4-p1-s20"
+    },
+    {
+      "id": "g8b-u4-p1-v29",
+      "term": "helpful",
+      "meaningZh": "adj. 有帮助的；乐于助人的",
+      "exampleSentenceId": "g8b-u4-p1-s20"
+    },
+    {
+      "id": "g8b-u4-p1-v30",
+      "term": "joy",
+      "meaningZh": "n. 欢乐；喜悦",
+      "exampleSentenceId": "g8b-u4-p1-s3"
+    },
+    {
+      "id": "g8b-u4-p1-v31",
       "term": "success",
       "meaningZh": "n. 成功",
       "exampleSentenceId": "g8b-u4-p1-s23"
     },
     {
+      "id": "g8b-u4-p1-v32",
       "term": "cheer",
       "meaningZh": "v. 欢呼；喝彩",
       "exampleSentenceId": "g8b-u4-p1-s23"
     },
     {
+      "id": "g8b-u4-p1-v33",
       "term": "wisdom",
       "meaningZh": "n. 智慧",
       "exampleSentenceId": "g8b-u4-p1-s25"
     },
     {
+      "id": "g8b-u4-p1-v34",
+      "term": "study",
+      "meaningZh": "v. 学习；研究",
+      "exampleSentenceId": "g8b-u4-p1-s26"
+    },
+    {
+      "id": "g8b-u4-p1-v35",
       "term": "better",
       "meaningZh": "adv. 更好地（well的比较级）",
       "exampleSentenceId": "g8b-u4-p1-s26"
@@ -759,41 +907,6 @@
       "usageZh": "",
       "example": "",
       "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/better.mp3"
-    },
-    "if": {
-      "phonetic": "/ɪf/",
-      "pos": "conj.",
-      "meaningZh": "假若，要是，如果",
-      "usageZh": "引导条件状语从句，如：If it rains, we'll stay home. (如果下雨，我们就待在家里。)",
-      "example": "If you study hard, you will pass the exam. (如果你努力学习，你会通过考试的。)"
-    },
-    "feeling": {
-      "phonetic": "/ˈfiːlɪŋ/",
-      "pos": "n.",
-      "meaningZh": "感觉",
-      "usageZh": "常用搭配：have a feeling (有预感)，mixed feelings (复杂的心情)",
-      "example": "I have a strange feeling about this place. (我对这个地方有种奇怪的感觉。)"
-    },
-    "restaurant": {
-      "phonetic": "/ˈrestrɒnt/",
-      "pos": "n.",
-      "meaningZh": "饭店，餐馆",
-      "usageZh": "常用搭配：go to a restaurant (去餐馆)，Chinese restaurant (中餐馆)",
-      "example": "We had dinner at a nice Italian restaurant. (我们在一家不错的意大利餐馆吃了晚餐。)"
-    },
-    "customer": {
-      "phonetic": "/ˈkʌstəmə(r)/",
-      "pos": "n.",
-      "meaningZh": "顾客，客户",
-      "usageZh": "常用搭配：regular customer (常客)，customer service (客户服务)",
-      "example": "The customer complained about the slow service. (顾客抱怨服务太慢。)"
-    },
-    "scientist": {
-      "phonetic": "/ˈsaɪəntɪst/",
-      "pos": "n.",
-      "meaningZh": "科学家",
-      "usageZh": "常用搭配：famous scientist (著名科学家)，research scientist (研究科学家)",
-      "example": "Marie Curie was a famous scientist. (居里夫人是一位著名的科学家。)"
     }
   }
 }

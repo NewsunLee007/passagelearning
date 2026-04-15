@@ -3,7 +3,7 @@
     "schemaVersion": "2.0",
     "source": "七年级下册互动课文",
     "importedFrom": "Unit 2 Passage 2 The Steel Roses of China（互动课文教学动画）英语新教材外研版七年级下册.html",
-    "importedAt": "2026-04-13T04:50:28.060Z"
+    "importedAt": "2026-04-15T05:40:35.189Z"
   },
   "article": {
     "id": "u7-article",
@@ -245,75 +245,358 @@
   ],
   "vocabItems": [
     {
+      "id": "u7-article-v1",
+      "term": "difficult",
+      "meaningZh": "困难的",
+      "exampleSentenceId": "u7-article-s1"
+    },
+    {
+      "id": "u7-article-v2",
+      "term": "match",
+      "meaningZh": "比赛",
+      "exampleSentenceId": "u7-article-s1"
+    },
+    {
       "id": "u7-article-v3",
       "term": "half-time",
       "meaningZh": "中场休息",
       "exampleSentenceId": "u7-article-s2"
     },
     {
-      "term": "final",
-      "meaningZh": "决赛",
-      "exampleSentenceId": "u7-article-s1"
-    },
-    {
-      "term": "match",
-      "meaningZh": "体育比赛，竞赛",
-      "exampleSentenceId": "u7-article-s1"
-    },
-    {
-      "term": "attention",
-      "meaningZh": "注意，专心，留心",
+      "id": "u7-article-v4",
+      "term": "paid",
+      "meaningZh": "支付；付出 (pay的过去式)",
       "exampleSentenceId": "u7-article-s4"
     },
     {
-      "term": "none",
-      "meaningZh": "全无，没有一点",
+      "id": "u7-article-v5",
+      "term": "best",
+      "meaningZh": "最好的",
+      "exampleSentenceId": "u7-article-s3"
+    },
+    {
+      "id": "u7-article-v6",
+      "term": "play",
+      "meaningZh": "玩；比赛；播放",
+      "exampleSentenceId": "u7-article-s3"
+    },
+    {
+      "id": "u7-article-v7",
+      "term": "great",
+      "meaningZh": "伟大的；巨大的",
+      "exampleSentenceId": "u7-article-s9"
+    },
+    {
+      "id": "u7-article-v8",
+      "term": "key",
+      "meaningZh": "关键；钥匙；关键的",
+      "exampleSentenceId": "u7-article-s15"
+    },
+    {
+      "id": "u7-article-v9",
+      "term": "losing",
+      "meaningZh": "输掉 (lose的现在分词)",
+      "exampleSentenceId": "u7-article-s2"
+    },
+    {
+      "id": "u7-article-v10",
+      "term": "worse",
+      "meaningZh": "更糟的",
+      "exampleSentenceId": "u7-article-s3"
+    },
+    {
+      "id": "u7-article-v11",
+      "term": "hurt",
+      "meaningZh": "受伤",
+      "exampleSentenceId": "u7-article-s3"
+    },
+    {
+      "id": "u7-article-v12",
+      "term": "badly",
+      "meaningZh": "严重地",
+      "exampleSentenceId": "u7-article-s3"
+    },
+    {
+      "id": "u7-article-v13",
+      "term": "attention",
+      "meaningZh": "注意力",
+      "exampleSentenceId": "u7-article-s4"
+    },
+    {
+      "id": "u7-article-v14",
+      "term": "pain",
+      "meaningZh": "疼痛",
+      "exampleSentenceId": "u7-article-s4"
+    },
+    {
+      "id": "u7-article-v15",
+      "term": "continued",
+      "meaningZh": "继续 (continue的过去式)",
+      "exampleSentenceId": "u7-article-s4"
+    },
+    {
+      "id": "u7-article-v16",
+      "term": "brave",
+      "meaningZh": "勇敢的",
+      "exampleSentenceId": "u7-article-s5"
+    },
+    {
+      "id": "u7-article-v17",
+      "term": "actions",
+      "meaningZh": "行为 (action的名词复数)",
+      "exampleSentenceId": "u7-article-s5"
+    },
+    {
+      "id": "u7-article-v18",
+      "term": "encouraged",
+      "meaningZh": "鼓励 (encourage的过去式)",
+      "exampleSentenceId": "u7-article-s5"
+    },
+    {
+      "id": "u7-article-v19",
+      "term": "heart",
+      "meaningZh": "心，信心",
       "exampleSentenceId": "u7-article-s6"
     },
     {
-      "term": "goal",
-      "meaningZh": "进球；进球得分；目标",
+      "id": "u7-article-v20",
+      "term": "fought",
+      "meaningZh": "战斗 (fight的过去式)",
       "exampleSentenceId": "u7-article-s7"
     },
     {
+      "id": "u7-article-v21",
+      "term": "scored",
+      "meaningZh": "得分 (score的过去式)",
+      "exampleSentenceId": "u7-article-s7"
+    },
+    {
+      "id": "u7-article-v22",
       "term": "victory",
-      "meaningZh": "胜利，成功，赢",
+      "meaningZh": "胜利",
       "exampleSentenceId": "u7-article-s8"
     },
     {
-      "term": "both",
-      "meaningZh": "两者，双方，两个都",
-      "exampleSentenceId": "u7-article-s11"
+      "id": "u7-article-v23",
+      "term": "challenges",
+      "meaningZh": "挑战 (challenge的名词复数)",
+      "exampleSentenceId": "u7-article-s9"
     },
     {
-      "term": "however",
-      "meaningZh": "然而，不过，但是",
-      "exampleSentenceId": "u7-article-s12"
+      "id": "u7-article-v24",
+      "term": "international",
+      "meaningZh": "国际的",
+      "exampleSentenceId": "u7-article-s10"
     },
     {
-      "term": "chance",
-      "meaningZh": "机会",
+      "id": "u7-article-v25",
+      "term": "improve",
+      "meaningZh": "提高",
       "exampleSentenceId": "u7-article-s13"
     },
     {
-      "term": "wonder",
-      "meaningZh": "想要知道",
-      "exampleSentenceId": "u7-article-s15"
-    },
-    {
+      "id": "u7-article-v26",
       "term": "success",
-      "meaningZh": "成功，胜利，成就",
+      "meaningZh": "成功",
       "exampleSentenceId": "u7-article-s15"
     },
     {
+      "id": "u7-article-v27",
       "term": "courage",
-      "meaningZh": "勇气，胆量，勇敢",
-      "exampleSentenceId": "u7-article-s18"
+      "meaningZh": "勇气",
+      "exampleSentenceId": "u7-article-s5"
     },
     {
+      "id": "u7-article-v28",
       "term": "spirit",
-      "meaningZh": "（某一特定历史时期、地方或群体的）精神，风气",
+      "meaningZh": "精神",
       "exampleSentenceId": "u7-article-s20"
+    },
+    {
+      "id": "u7-article-v29",
+      "term": "final",
+      "meaningZh": "决赛；最终的",
+      "exampleSentenceId": "u7-article-s1"
+    },
+    {
+      "id": "u7-article-v30",
+      "term": "player",
+      "meaningZh": "球员；选手",
+      "exampleSentenceId": "u7-article-s3"
+    },
+    {
+      "id": "u7-article-v31",
+      "term": "foot",
+      "meaningZh": "脚",
+      "exampleSentenceId": "u7-article-s3"
+    },
+    {
+      "id": "u7-article-v32",
+      "term": "whole",
+      "meaningZh": "整个的；全部的",
+      "exampleSentenceId": "u7-article-s5"
+    },
+    {
+      "id": "u7-article-v33",
+      "term": "goals",
+      "meaningZh": "进球；目标 (goal的名词复数)",
+      "exampleSentenceId": "u7-article-s7"
+    },
+    {
+      "id": "u7-article-v34",
+      "term": "minutes",
+      "meaningZh": "分钟 (minute的名词复数)",
+      "exampleSentenceId": "u7-article-s7"
+    },
+    {
+      "id": "u7-article-v35",
+      "term": "amazing",
+      "meaningZh": "惊人的；了不起的",
+      "exampleSentenceId": "u7-article-s8"
+    },
+    {
+      "id": "u7-article-v36",
+      "term": "early",
+      "meaningZh": "早期的；早",
+      "exampleSentenceId": "u7-article-s8"
+    },
+    {
+      "id": "u7-article-v37",
+      "term": "history",
+      "meaningZh": "历史",
+      "exampleSentenceId": "u7-article-s14"
+    },
+    {
+      "id": "u7-article-v38",
+      "term": "sporting",
+      "meaningZh": "体育的；运动的",
+      "exampleSentenceId": "u7-article-s14"
+    },
+    {
+      "id": "u7-article-v39",
+      "term": "wondered",
+      "meaningZh": "想知道；纳闷 (wonder的过去式)",
+      "exampleSentenceId": "u7-article-s15"
+    },
+    {
+      "id": "u7-article-v40",
+      "term": "explained",
+      "meaningZh": "解释 (explain的过去式)",
+      "exampleSentenceId": "u7-article-s16"
+    },
+    {
+      "id": "u7-article-v41",
+      "term": "simple",
+      "meaningZh": "简单的",
+      "exampleSentenceId": "u7-article-s16"
+    },
+    {
+      "id": "u7-article-v42",
+      "term": "goal",
+      "meaningZh": "目标；进球",
+      "exampleSentenceId": "u7-article-s7"
+    },
+    {
+      "id": "u7-article-v43",
+      "term": "shining",
+      "meaningZh": "闪耀的；光辉的 (shine的现在分词)",
+      "exampleSentenceId": "u7-article-s20"
+    },
+    {
+      "id": "u7-article-v44",
+      "term": "difficulties",
+      "meaningZh": "困难 (difficulty的名词复数)",
+      "exampleSentenceId": "u7-article-s19"
+    },
+    {
+      "id": "u7-article-v45",
+      "term": "rise",
+      "meaningZh": "上升；迎接(挑战)",
+      "exampleSentenceId": "u7-article-s20"
+    },
+    {
+      "id": "u7-article-v46",
+      "term": "asian",
+      "meaningZh": "亚洲的；亚洲人",
+      "exampleSentenceId": "u7-article-s1"
+    },
+    {
+      "id": "u7-article-v47",
+      "term": "teams",
+      "meaningZh": "团队；队伍 (team的名词复数)",
+      "exampleSentenceId": "u7-article-s11"
+    },
+    {
+      "id": "u7-article-v48",
+      "term": "hearts",
+      "meaningZh": "心；信心 (heart的名词复数)",
+      "exampleSentenceId": "u7-article-s17"
+    },
+    {
+      "id": "u7-article-v49",
+      "term": "same",
+      "meaningZh": "相同的",
+      "exampleSentenceId": "u7-article-s16"
+    },
+    {
+      "id": "u7-article-v50",
+      "term": "created",
+      "meaningZh": "创造 (create的过去式)",
+      "exampleSentenceId": "u7-article-s14"
+    },
+    {
+      "id": "u7-article-v51",
+      "term": "close",
+      "meaningZh": "亲近的；近地；(close to) 深受...喜爱",
+      "exampleSentenceId": "u7-article-s17"
+    },
+    {
+      "id": "u7-article-v52",
+      "term": "hard",
+      "meaningZh": "努力的；辛苦的；猛烈地",
+      "exampleSentenceId": "u7-article-s11"
+    },
+    {
+      "id": "u7-article-v53",
+      "term": "known",
+      "meaningZh": "出名的；众所周知的；(known as) 以...著称",
+      "exampleSentenceId": "u7-article-s17"
+    },
+    {
+      "id": "u7-article-v54",
+      "term": "as",
+      "meaningZh": "作为；当...时；像...一样",
+      "exampleSentenceId": "u7-article-s1"
+    },
+    {
+      "id": "u7-article-v55",
+      "term": "lost",
+      "meaningZh": "丢失；输掉 (lose的过去式)",
+      "exampleSentenceId": "u7-article-s6"
+    },
+    {
+      "id": "u7-article-v56",
+      "term": "led",
+      "meaningZh": "引导；导致 (lead的过去式)",
+      "exampleSentenceId": "u7-article-s8"
+    },
+    {
+      "id": "u7-article-v57",
+      "term": "look",
+      "meaningZh": "看；显得；(look back at) 回顾",
+      "exampleSentenceId": "u7-article-s8"
+    },
+    {
+      "id": "u7-article-v58",
+      "term": "played",
+      "meaningZh": "参加(比赛)；演奏；播放 (play的过去式)",
+      "exampleSentenceId": "u7-article-s10"
+    },
+    {
+      "id": "u7-article-v59",
+      "term": "chance",
+      "meaningZh": "机会；可能性",
+      "exampleSentenceId": "u7-article-s13"
     }
   ],
   "sentenceTasks": [],
@@ -798,34 +1081,6 @@
       "meaningZh": "机会；可能性",
       "usageZh": "",
       "example": ""
-    },
-    "none": {
-      "phonetic": "/nʌn/",
-      "pos": "pron.",
-      "meaningZh": "全无，没有一点",
-      "usageZh": "与of连用：none of them (他们中没有一个)；作主语时谓语动词可用单数或复数",
-      "example": "None of the students were late. (没有一个学生迟到。)"
-    },
-    "both": {
-      "phonetic": "/bəʊθ/",
-      "pos": "pron./adj.",
-      "meaningZh": "两者，双方，两个都",
-      "usageZh": "与and连用：both...and... (既...又...)；常位于be动词后或实义动词前",
-      "example": "Both of my parents are teachers. (我的父母都是老师。)"
-    },
-    "however": {
-      "phonetic": "/haʊˈevə(r)/",
-      "pos": "adv./conj.",
-      "meaningZh": "然而，不过，但是",
-      "usageZh": "表示转折，可位于句首、句中或句末，用逗号隔开",
-      "example": "It was raining; however, we still went out. (下雨了，不过我们还是出去了。)"
-    },
-    "wonder": {
-      "phonetic": "/ˈwʌndə(r)/",
-      "pos": "v.",
-      "meaningZh": "想要知道",
-      "usageZh": "后接if/whether从句或疑问词引导的从句：I wonder if... (我想知道是否...)",
-      "example": "I wonder what time the movie starts. (我想知道电影什么时候开始。)"
     }
   }
 }

@@ -485,13 +485,13 @@ export function ReadingMainRoute() {
       </section>
 
       <main className="mx-auto mt-8 w-full max-w-6xl space-y-6 px-4 sm:px-6 lg:px-8" style={{ fontSize }}>
-        {data.article.paragraphs.map((p) => (
+        {data.article.paragraphs.map((p, idx) => (
           <div
             key={p.id}
             className="space-y-3 rounded-[2rem] border border-white/80 bg-white p-6 shadow-[0_22px_60px_rgba(15,23,42,0.08)] ring-1 ring-slate-100/70 sm:p-8"
           >
             <div className="inline-flex rounded-full bg-primary/8 px-3 py-1 text-xs font-semibold uppercase tracking-[0.16em] text-primary">
-              Paragraph {p.id.split("-p")[1] ?? p.id}
+              Paragraph {idx + 1}
             </div>
             <div className="space-y-3 leading-[2.05] text-secondary">
               {p.sentenceIds

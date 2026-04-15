@@ -3,7 +3,7 @@
     "schemaVersion": "2.0",
     "source": "七年级下册互动课文",
     "importedFrom": "Unit 5 Passage 2 Natural wonders crying aloud for help（互动课文教学动画）英语新教材外研版七年级下册.html",
-    "importedAt": "2026-04-13T04:50:28.076Z"
+    "importedAt": "2026-04-15T05:40:35.204Z"
   },
   "article": {
     "id": "u13-article",
@@ -63,7 +63,7 @@
   "sentences": [
     {
       "id": "u13-article-s1",
-      "text": "",
+      "text": "I’m not a sea but a lake.",
       "paragraphId": "u13-article-p1",
       "tr": "我不是海，而是一个湖。",
       "g": "主语 + 系动词 + 表语",
@@ -72,7 +72,7 @@
     },
     {
       "id": "u13-article-s2",
-      "text": "",
+      "text": "And I’m not dead.",
       "paragraphId": "u13-article-p1",
       "tr": "而且我并没有死。",
       "g": "主语 + 系动词 + 表语",
@@ -81,7 +81,7 @@
     },
     {
       "id": "u13-article-s3",
-      "text": "",
+      "text": "In fact, I’ve got many plants and animals.",
       "paragraphId": "u13-article-p1",
       "tr": "事实上，我有许多植物和动物。",
       "g": "现在完成时",
@@ -90,7 +90,7 @@
     },
     {
       "id": "u13-article-s4",
-      "text": "",
+      "text": "I’m saltier than any sea, so people can lie on my surface.",
       "paragraphId": "u13-article-p1",
       "tr": "我比任何海洋都咸，所以人们可以躺在我的水面上。",
       "g": "比较级",
@@ -99,7 +99,7 @@
     },
     {
       "id": "u13-article-s5",
-      "text": "",
+      "text": "Rivers flow into me.",
       "paragraphId": "u13-article-p1",
       "tr": "河流汇入我的怀抱。",
       "g": "主语 + 谓语",
@@ -108,7 +108,7 @@
     },
     {
       "id": "u13-article-s6",
-      "text": "",
+      "text": "But now people take too much water from them.",
       "paragraphId": "u13-article-p1",
       "tr": "但现在人们从这些河流中抽取了太多的水。",
       "g": "主语 + 谓语 + 宾语",
@@ -117,7 +117,7 @@
     },
     {
       "id": "u13-article-s7",
-      "text": "",
+      "text": "My water level is going down.",
       "paragraphId": "u13-article-p1",
       "tr": "我的水位正在下降。",
       "g": "现在进行时",
@@ -126,7 +126,7 @@
     },
     {
       "id": "u13-article-s8",
-      "text": "",
+      "text": "I am becoming smaller year by year.",
       "paragraphId": "u13-article-p1",
       "tr": "我正在一年年变小。",
       "g": "现在进行时",
@@ -135,7 +135,7 @@
     },
     {
       "id": "u13-article-s9",
-      "text": "",
+      "text": "Take less water, or I’ll dry up within the next 100 years.",
       "paragraphId": "u13-article-p1",
       "tr": "少用点水，否则我将在未来100年内干涸。",
       "g": "祈使句 + or",
@@ -144,7 +144,7 @@
     },
     {
       "id": "u13-article-s10",
-      "text": "",
+      "text": "Then I really will be dead!",
       "paragraphId": "u13-article-p1",
       "tr": "到那时我就真的死了！",
       "g": "一般将来时",
@@ -153,7 +153,7 @@
     },
     {
       "id": "u13-article-s11",
-      "text": "",
+      "text": "I’m the rainforest of Madagascar.",
       "paragraphId": "u13-article-p2",
       "tr": "我是马达加斯加的雨林。",
       "g": "主语 + 系动词 + 表语",
@@ -162,7 +162,7 @@
     },
     {
       "id": "u13-article-s12",
-      "text": "",
+      "text": "As my name suggests, I make rain for my plants and animals, such as monkeys, snakes and many kinds of flowers.",
       "paragraphId": "u13-article-p2",
       "tr": "正如我的名字所暗示的，我为我的动植物制造雨水，比如猴子、蛇和许多种花。",
       "g": "复合句",
@@ -171,7 +171,7 @@
     },
     {
       "id": "u13-article-s13",
-      "text": "",
+      "text": "For 80% of them, I’m their only home in the world.",
       "paragraphId": "u13-article-p2",
       "tr": "对于它们中80%的生物来说，我是它们在世界上唯一的家。",
       "g": "主语 + 系动词 + 表语",
@@ -180,7 +180,7 @@
     },
     {
       "id": "u13-article-s14",
-      "text": "",
+      "text": "However, people are cutting down my trees for wood and to make space for farming.",
       "paragraphId": "u13-article-p2",
       "tr": "然而，人们为了木材和开垦农田正在砍伐我的树木。",
       "g": "现在进行时",
@@ -189,7 +189,7 @@
     },
     {
       "id": "u13-article-s15",
-      "text": "",
+      "text": "Please stop it.",
       "paragraphId": "u13-article-p2",
       "tr": "请停止这种行为。",
       "g": "祈使句",
@@ -198,7 +198,7 @@
     },
     {
       "id": "u13-article-s16",
-      "text": "",
+      "text": "I’m disappearing.",
       "paragraphId": "u13-article-p2",
       "tr": "我正在消失。",
       "g": "现在进行时",
@@ -207,7 +207,7 @@
     },
     {
       "id": "u13-article-s17",
-      "text": "",
+      "text": "I’m a glacier at the Glacier National Park in America.",
       "paragraphId": "u13-article-p3",
       "tr": "我是美国冰川国家公园的一座冰川。",
       "g": "主语 + 系动词 + 表语",
@@ -216,7 +216,7 @@
     },
     {
       "id": "u13-article-s18",
-      "text": "",
+      "text": "It’s a land full of ice and snow.",
       "paragraphId": "u13-article-p3",
       "tr": "这是一片充满冰雪的土地。",
       "g": "主语 + 系动词 + 表语",
@@ -225,7 +225,7 @@
     },
     {
       "id": "u13-article-s19",
-      "text": "",
+      "text": "Do you want to explore the white world in the film *Frozen*?",
       "paragraphId": "u13-article-p3",
       "tr": "你想探索电影《冰雪奇缘》中的白色世界吗？",
       "g": "一般疑问句",
@@ -234,7 +234,7 @@
     },
     {
       "id": "u13-article-s20",
-      "text": "",
+      "text": "Then my home is the best choice.",
       "paragraphId": "u13-article-p3",
       "tr": "那么我的家就是最好的选择。",
       "g": "主语 + 系动词 + 表语",
@@ -243,7 +243,7 @@
     },
     {
       "id": "u13-article-s21",
-      "text": "",
+      "text": "Two hundred years ago, there were about 150 glaciers.",
       "paragraphId": "u13-article-p3",
       "tr": "两百年前，大约有150座冰川。",
       "g": "There be 结构",
@@ -252,7 +252,7 @@
     },
     {
       "id": "u13-article-s22",
-      "text": "",
+      "text": "But now, there are around 25.",
       "paragraphId": "u13-article-p3",
       "tr": "但现在，只剩下大约25座了。",
       "g": "There be 结构",
@@ -261,7 +261,7 @@
     },
     {
       "id": "u13-article-s23",
-      "text": "",
+      "text": "Please stop climate change.",
       "paragraphId": "u13-article-p3",
       "tr": "请停止气候变化。",
       "g": "祈使句",
@@ -270,7 +270,7 @@
     },
     {
       "id": "u13-article-s24",
-      "text": "",
+      "text": "I’m turning into *Waterworld*!",
       "paragraphId": "u13-article-p3",
       "tr": "我这儿快成《水世界》了！",
       "g": "现在进行时",
@@ -278,7 +278,756 @@
       "audioUrl": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/UojUeXL3qKVPHgPcU4jZAF.mp3"
     }
   ],
-  "vocabItems": [],
+  "vocabItems": [
+    {
+      "id": "u13-article-v1",
+      "term": "25",
+      "meaningZh": "num. 二十五",
+      "exampleSentenceId": "u13-article-s22"
+    },
+    {
+      "id": "u13-article-v2",
+      "term": "100",
+      "meaningZh": "num. 一百",
+      "exampleSentenceId": "u13-article-s9"
+    },
+    {
+      "id": "u13-article-v3",
+      "term": "150",
+      "meaningZh": "num. 一百五十",
+      "exampleSentenceId": "u13-article-s21"
+    },
+    {
+      "id": "u13-article-v4",
+      "term": "really",
+      "meaningZh": "adv. 真正地，确实",
+      "exampleSentenceId": "u13-article-s10"
+    },
+    {
+      "id": "u13-article-v5",
+      "term": "dead",
+      "meaningZh": "adj. 死的，枯竭的",
+      "exampleSentenceId": "u13-article-s2"
+    },
+    {
+      "id": "u13-article-v6",
+      "term": "sea",
+      "meaningZh": "n. 海，海洋",
+      "exampleSentenceId": "u13-article-s1"
+    },
+    {
+      "id": "u13-article-v7",
+      "term": "lake",
+      "meaningZh": "n. 湖泊",
+      "exampleSentenceId": "u13-article-s1"
+    },
+    {
+      "id": "u13-article-v8",
+      "term": "fact",
+      "meaningZh": "n. 事实",
+      "exampleSentenceId": "u13-article-s3"
+    },
+    {
+      "id": "u13-article-v9",
+      "term": "plants",
+      "meaningZh": "n. 植物 (plant 的复数形式，直接加 -s)",
+      "exampleSentenceId": "u13-article-s3"
+    },
+    {
+      "id": "u13-article-v10",
+      "term": "animals",
+      "meaningZh": "n. 动物 (animal 的复数形式，直接加 -s)",
+      "exampleSentenceId": "u13-article-s3"
+    },
+    {
+      "id": "u13-article-v11",
+      "term": "die",
+      "meaningZh": "v. 死亡，枯竭"
+    },
+    {
+      "id": "u13-article-v12",
+      "term": "got",
+      "meaningZh": "v. 得到 (get的过去分词)",
+      "exampleSentenceId": "u13-article-s3"
+    },
+    {
+      "id": "u13-article-v13",
+      "term": "than",
+      "meaningZh": "prep. 比，比较",
+      "exampleSentenceId": "u13-article-s4"
+    },
+    {
+      "id": "u13-article-v14",
+      "term": "people",
+      "meaningZh": "n. 人，人们",
+      "exampleSentenceId": "u13-article-s4"
+    },
+    {
+      "id": "u13-article-v15",
+      "term": "water",
+      "meaningZh": "n. 水",
+      "exampleSentenceId": "u13-article-s6"
+    },
+    {
+      "id": "u13-article-v16",
+      "term": "by",
+      "meaningZh": "prep. 通过，被",
+      "exampleSentenceId": "u13-article-s8"
+    },
+    {
+      "id": "u13-article-v17",
+      "term": "madagascar",
+      "meaningZh": "n. 马达加斯加",
+      "exampleSentenceId": "u13-article-s11"
+    },
+    {
+      "id": "u13-article-v18",
+      "term": "are",
+      "meaningZh": "v. 是 (be的复数形式)",
+      "exampleSentenceId": "u13-article-s14"
+    },
+    {
+      "id": "u13-article-v19",
+      "term": "please",
+      "meaningZh": "int. 请",
+      "exampleSentenceId": "u13-article-s15"
+    },
+    {
+      "id": "u13-article-v20",
+      "term": "do",
+      "meaningZh": "v. 做，干",
+      "exampleSentenceId": "u13-article-s7"
+    },
+    {
+      "id": "u13-article-v21",
+      "term": "want",
+      "meaningZh": "v. 想要",
+      "exampleSentenceId": "u13-article-s19"
+    },
+    {
+      "id": "u13-article-v22",
+      "term": "about",
+      "meaningZh": "prep. 关于，大约",
+      "exampleSentenceId": "u13-article-s21"
+    },
+    {
+      "id": "u13-article-v23",
+      "term": "around",
+      "meaningZh": "prep. 在...周围，大约",
+      "exampleSentenceId": "u13-article-s22"
+    },
+    {
+      "id": "u13-article-v24",
+      "term": "into",
+      "meaningZh": "prep. 进入...中",
+      "exampleSentenceId": "u13-article-s5"
+    },
+    {
+      "id": "u13-article-v25",
+      "term": "saltier",
+      "meaningZh": "adj. 更咸的",
+      "exampleSentenceId": "u13-article-s4"
+    },
+    {
+      "id": "u13-article-v26",
+      "term": "surface",
+      "meaningZh": "n. 表面",
+      "exampleSentenceId": "u13-article-s4"
+    },
+    {
+      "id": "u13-article-v27",
+      "term": "rivers",
+      "meaningZh": "n. 河流 (river 的复数形式，直接加 -s)",
+      "exampleSentenceId": "u13-article-s5"
+    },
+    {
+      "id": "u13-article-v28",
+      "term": "flow",
+      "meaningZh": "v. 流动",
+      "exampleSentenceId": "u13-article-s5"
+    },
+    {
+      "id": "u13-article-v29",
+      "term": "level",
+      "meaningZh": "n. 水平，高度",
+      "exampleSentenceId": "u13-article-s7"
+    },
+    {
+      "id": "u13-article-v30",
+      "term": "smaller",
+      "meaningZh": "adj. 更小的 (small的比较级)",
+      "exampleSentenceId": "u13-article-s8"
+    },
+    {
+      "id": "u13-article-v31",
+      "term": "dry",
+      "meaningZh": "v. 变干",
+      "exampleSentenceId": "u13-article-s9"
+    },
+    {
+      "id": "u13-article-v32",
+      "term": "within",
+      "meaningZh": "prep. 在...之内",
+      "exampleSentenceId": "u13-article-s9"
+    },
+    {
+      "id": "u13-article-v33",
+      "term": "rainforest",
+      "meaningZh": "n. 雨林",
+      "exampleSentenceId": "u13-article-s11"
+    },
+    {
+      "id": "u13-article-v34",
+      "term": "suggests",
+      "meaningZh": "v. 暗示，表明 (suggest 的第三人称单数形式，直接加 -s)",
+      "exampleSentenceId": "u13-article-s12"
+    },
+    {
+      "id": "u13-article-v35",
+      "term": "monkeys",
+      "meaningZh": "n. 猴子 (monkey 的复数形式，直接加 -s)",
+      "exampleSentenceId": "u13-article-s12"
+    },
+    {
+      "id": "u13-article-v36",
+      "term": "snakes",
+      "meaningZh": "n. 蛇 (snake 的复数形式，直接加 -s)",
+      "exampleSentenceId": "u13-article-s12"
+    },
+    {
+      "id": "u13-article-v37",
+      "term": "flowers",
+      "meaningZh": "n. 花 (flower 的复数形式，直接加 -s)",
+      "exampleSentenceId": "u13-article-s12"
+    },
+    {
+      "id": "u13-article-v38",
+      "term": "world",
+      "meaningZh": "n. 世界",
+      "exampleSentenceId": "u13-article-s13"
+    },
+    {
+      "id": "u13-article-v39",
+      "term": "however",
+      "meaningZh": "adv. 然而",
+      "exampleSentenceId": "u13-article-s14"
+    },
+    {
+      "id": "u13-article-v40",
+      "term": "cutting",
+      "meaningZh": "v. 砍伐 (cut 的现在分词，双写 t 加 -ing)",
+      "exampleSentenceId": "u13-article-s14"
+    },
+    {
+      "id": "u13-article-v41",
+      "term": "wood",
+      "meaningZh": "n. 木材",
+      "exampleSentenceId": "u13-article-s14"
+    },
+    {
+      "id": "u13-article-v42",
+      "term": "space",
+      "meaningZh": "n. 空间",
+      "exampleSentenceId": "u13-article-s14"
+    },
+    {
+      "id": "u13-article-v43",
+      "term": "farming",
+      "meaningZh": "n. 务农，耕作",
+      "exampleSentenceId": "u13-article-s14"
+    },
+    {
+      "id": "u13-article-v44",
+      "term": "disappearing",
+      "meaningZh": "v. 消失 (disappear 的现在分词，直接加 -ing)",
+      "exampleSentenceId": "u13-article-s16"
+    },
+    {
+      "id": "u13-article-v45",
+      "term": "glacier",
+      "meaningZh": "n. 冰川",
+      "exampleSentenceId": "u13-article-s17"
+    },
+    {
+      "id": "u13-article-v46",
+      "term": "glaciers",
+      "meaningZh": "n. 冰川 (glacier 的复数形式，直接加 -s)",
+      "exampleSentenceId": "u13-article-s21"
+    },
+    {
+      "id": "u13-article-v47",
+      "term": "explore",
+      "meaningZh": "v. 探索",
+      "exampleSentenceId": "u13-article-s19"
+    },
+    {
+      "id": "u13-article-v48",
+      "term": "choice",
+      "meaningZh": "n. 选择",
+      "exampleSentenceId": "u13-article-s20"
+    },
+    {
+      "id": "u13-article-v49",
+      "term": "climate",
+      "meaningZh": "n. 气候",
+      "exampleSentenceId": "u13-article-s23"
+    },
+    {
+      "id": "u13-article-v50",
+      "term": "change",
+      "meaningZh": "n. 变化",
+      "exampleSentenceId": "u13-article-s23"
+    },
+    {
+      "id": "u13-article-v51",
+      "term": "i",
+      "meaningZh": "pron. 我",
+      "exampleSentenceId": "u13-article-s1"
+    },
+    {
+      "id": "u13-article-v52",
+      "term": "me",
+      "meaningZh": "pron. 我 (宾格)",
+      "exampleSentenceId": "u13-article-s5"
+    },
+    {
+      "id": "u13-article-v53",
+      "term": "my",
+      "meaningZh": "pron. 我的",
+      "exampleSentenceId": "u13-article-s4"
+    },
+    {
+      "id": "u13-article-v54",
+      "term": "you",
+      "meaningZh": "pron. 你，你们",
+      "exampleSentenceId": "u13-article-s19"
+    },
+    {
+      "id": "u13-article-v55",
+      "term": "them",
+      "meaningZh": "pron. 他们 (宾格)",
+      "exampleSentenceId": "u13-article-s6"
+    },
+    {
+      "id": "u13-article-v56",
+      "term": "their",
+      "meaningZh": "pron. 他们的",
+      "exampleSentenceId": "u13-article-s13"
+    },
+    {
+      "id": "u13-article-v57",
+      "term": "it",
+      "meaningZh": "pron. 它",
+      "exampleSentenceId": "u13-article-s9"
+    },
+    {
+      "id": "u13-article-v58",
+      "term": "could",
+      "meaningZh": "v.aux. 能够，可能"
+    },
+    {
+      "id": "u13-article-v59",
+      "term": "not",
+      "meaningZh": "adv. 不",
+      "exampleSentenceId": "u13-article-s1"
+    },
+    {
+      "id": "u13-article-v60",
+      "term": "but",
+      "meaningZh": "conj. 但是",
+      "exampleSentenceId": "u13-article-s1"
+    },
+    {
+      "id": "u13-article-v61",
+      "term": "and",
+      "meaningZh": "conj. 和",
+      "exampleSentenceId": "u13-article-s2"
+    },
+    {
+      "id": "u13-article-v62",
+      "term": "in",
+      "meaningZh": "prep. 在...里",
+      "exampleSentenceId": "u13-article-s3"
+    },
+    {
+      "id": "u13-article-v63",
+      "term": "many",
+      "meaningZh": "adj. 许多的",
+      "exampleSentenceId": "u13-article-s3"
+    },
+    {
+      "id": "u13-article-v64",
+      "term": "any",
+      "meaningZh": "adj. 任何的",
+      "exampleSentenceId": "u13-article-s3"
+    },
+    {
+      "id": "u13-article-v65",
+      "term": "so",
+      "meaningZh": "conj. 所以",
+      "exampleSentenceId": "u13-article-s4"
+    },
+    {
+      "id": "u13-article-v66",
+      "term": "can",
+      "meaningZh": "v.aux. 能",
+      "exampleSentenceId": "u13-article-s4"
+    },
+    {
+      "id": "u13-article-v67",
+      "term": "lie",
+      "meaningZh": "v. 躺",
+      "exampleSentenceId": "u13-article-s4"
+    },
+    {
+      "id": "u13-article-v68",
+      "term": "on",
+      "meaningZh": "prep. 在...上",
+      "exampleSentenceId": "u13-article-s4"
+    },
+    {
+      "id": "u13-article-v69",
+      "term": "now",
+      "meaningZh": "adv. 现在",
+      "exampleSentenceId": "u13-article-s6"
+    },
+    {
+      "id": "u13-article-v70",
+      "term": "take",
+      "meaningZh": "v. 拿，取",
+      "exampleSentenceId": "u13-article-s6"
+    },
+    {
+      "id": "u13-article-v71",
+      "term": "too",
+      "meaningZh": "adv. 太",
+      "exampleSentenceId": "u13-article-s6"
+    },
+    {
+      "id": "u13-article-v72",
+      "term": "much",
+      "meaningZh": "adj. 许多的",
+      "exampleSentenceId": "u13-article-s6"
+    },
+    {
+      "id": "u13-article-v73",
+      "term": "from",
+      "meaningZh": "prep. 从...",
+      "exampleSentenceId": "u13-article-s6"
+    },
+    {
+      "id": "u13-article-v74",
+      "term": "is",
+      "meaningZh": "v. 是",
+      "exampleSentenceId": "u13-article-s7"
+    },
+    {
+      "id": "u13-article-v75",
+      "term": "going",
+      "meaningZh": "v. 进行 (go 的现在分词，直接加 -ing)",
+      "exampleSentenceId": "u13-article-s7"
+    },
+    {
+      "id": "u13-article-v76",
+      "term": "down",
+      "meaningZh": "adv. 向下",
+      "exampleSentenceId": "u13-article-s7"
+    },
+    {
+      "id": "u13-article-v77",
+      "term": "am",
+      "meaningZh": "v. 是",
+      "exampleSentenceId": "u13-article-s8"
+    },
+    {
+      "id": "u13-article-v78",
+      "term": "becoming",
+      "meaningZh": "v. 变成 (become 的现在分词，去掉末尾不发音的 e 加 -ing)",
+      "exampleSentenceId": "u13-article-s8"
+    },
+    {
+      "id": "u13-article-v79",
+      "term": "year",
+      "meaningZh": "n. 年",
+      "exampleSentenceId": "u13-article-s8"
+    },
+    {
+      "id": "u13-article-v80",
+      "term": "less",
+      "meaningZh": "adj. 较少的",
+      "exampleSentenceId": "u13-article-s9"
+    },
+    {
+      "id": "u13-article-v81",
+      "term": "or",
+      "meaningZh": "conj. 或者，否则",
+      "exampleSentenceId": "u13-article-s9"
+    },
+    {
+      "id": "u13-article-v82",
+      "term": "up",
+      "meaningZh": "adv. 向上",
+      "exampleSentenceId": "u13-article-s9"
+    },
+    {
+      "id": "u13-article-v83",
+      "term": "next",
+      "meaningZh": "adj. 下一个的",
+      "exampleSentenceId": "u13-article-s9"
+    },
+    {
+      "id": "u13-article-v84",
+      "term": "then",
+      "meaningZh": "adv. 然后，那么",
+      "exampleSentenceId": "u13-article-s10"
+    },
+    {
+      "id": "u13-article-v85",
+      "term": "will",
+      "meaningZh": "v.aux. 将要",
+      "exampleSentenceId": "u13-article-s10"
+    },
+    {
+      "id": "u13-article-v86",
+      "term": "be",
+      "meaningZh": "v. 是",
+      "exampleSentenceId": "u13-article-s8"
+    },
+    {
+      "id": "u13-article-v87",
+      "term": "as",
+      "meaningZh": "conj. 正如",
+      "exampleSentenceId": "u13-article-s11"
+    },
+    {
+      "id": "u13-article-v88",
+      "term": "name",
+      "meaningZh": "n. 名字",
+      "exampleSentenceId": "u13-article-s12"
+    },
+    {
+      "id": "u13-article-v89",
+      "term": "make",
+      "meaningZh": "v. 制造",
+      "exampleSentenceId": "u13-article-s12"
+    },
+    {
+      "id": "u13-article-v90",
+      "term": "rain",
+      "meaningZh": "n. 雨",
+      "exampleSentenceId": "u13-article-s11"
+    },
+    {
+      "id": "u13-article-v91",
+      "term": "such",
+      "meaningZh": "adj. 这样的",
+      "exampleSentenceId": "u13-article-s12"
+    },
+    {
+      "id": "u13-article-v92",
+      "term": "kinds",
+      "meaningZh": "n. 种类 (kind 的复数形式，直接加 -s)",
+      "exampleSentenceId": "u13-article-s12"
+    },
+    {
+      "id": "u13-article-v93",
+      "term": "80%",
+      "meaningZh": "num. 百分之八十",
+      "exampleSentenceId": "u13-article-s13"
+    },
+    {
+      "id": "u13-article-v94",
+      "term": "only",
+      "meaningZh": "adj. 唯一的",
+      "exampleSentenceId": "u13-article-s13"
+    },
+    {
+      "id": "u13-article-v95",
+      "term": "home",
+      "meaningZh": "n. 家",
+      "exampleSentenceId": "u13-article-s13"
+    },
+    {
+      "id": "u13-article-v96",
+      "term": "trees",
+      "meaningZh": "n. 树木 (tree 的复数形式，直接加 -s)",
+      "exampleSentenceId": "u13-article-s14"
+    },
+    {
+      "id": "u13-article-v97",
+      "term": "stop",
+      "meaningZh": "v. 停止",
+      "exampleSentenceId": "u13-article-s15"
+    },
+    {
+      "id": "u13-article-v98",
+      "term": "national",
+      "meaningZh": "adj. 国家的",
+      "exampleSentenceId": "u13-article-s17"
+    },
+    {
+      "id": "u13-article-v99",
+      "term": "park",
+      "meaningZh": "n. 公园",
+      "exampleSentenceId": "u13-article-s17"
+    },
+    {
+      "id": "u13-article-v100",
+      "term": "america",
+      "meaningZh": "n. 美国",
+      "exampleSentenceId": "u13-article-s17"
+    },
+    {
+      "id": "u13-article-v101",
+      "term": "land",
+      "meaningZh": "n. 土地",
+      "exampleSentenceId": "u13-article-s18"
+    },
+    {
+      "id": "u13-article-v102",
+      "term": "full",
+      "meaningZh": "adj. 充满的",
+      "exampleSentenceId": "u13-article-s18"
+    },
+    {
+      "id": "u13-article-v103",
+      "term": "ice",
+      "meaningZh": "n. 冰",
+      "exampleSentenceId": "u13-article-s18"
+    },
+    {
+      "id": "u13-article-v104",
+      "term": "snow",
+      "meaningZh": "n. 雪",
+      "exampleSentenceId": "u13-article-s18"
+    },
+    {
+      "id": "u13-article-v105",
+      "term": "white",
+      "meaningZh": "adj. 白色的",
+      "exampleSentenceId": "u13-article-s19"
+    },
+    {
+      "id": "u13-article-v106",
+      "term": "film",
+      "meaningZh": "n. 电影",
+      "exampleSentenceId": "u13-article-s19"
+    },
+    {
+      "id": "u13-article-v107",
+      "term": "frozen",
+      "meaningZh": "adj. 冰冻的",
+      "exampleSentenceId": "u13-article-s19"
+    },
+    {
+      "id": "u13-article-v108",
+      "term": "best",
+      "meaningZh": "adj. 最好的",
+      "exampleSentenceId": "u13-article-s20"
+    },
+    {
+      "id": "u13-article-v109",
+      "term": "two",
+      "meaningZh": "num. 二",
+      "exampleSentenceId": "u13-article-s21"
+    },
+    {
+      "id": "u13-article-v110",
+      "term": "hundred",
+      "meaningZh": "num. 百",
+      "exampleSentenceId": "u13-article-s21"
+    },
+    {
+      "id": "u13-article-v111",
+      "term": "years",
+      "meaningZh": "n. 年 (year 的复数形式，直接加 -s)",
+      "exampleSentenceId": "u13-article-s9"
+    },
+    {
+      "id": "u13-article-v112",
+      "term": "ago",
+      "meaningZh": "adv. 以前",
+      "exampleSentenceId": "u13-article-s21"
+    },
+    {
+      "id": "u13-article-v113",
+      "term": "there",
+      "meaningZh": "adv. 那里",
+      "exampleSentenceId": "u13-article-s21"
+    },
+    {
+      "id": "u13-article-v114",
+      "term": "were",
+      "meaningZh": "v. 是 (are的过去式)",
+      "exampleSentenceId": "u13-article-s21"
+    },
+    {
+      "id": "u13-article-v115",
+      "term": "turning",
+      "meaningZh": "v. 变成 (turn 的现在分词，直接加 -ing)",
+      "exampleSentenceId": "u13-article-s24"
+    },
+    {
+      "id": "u13-article-v116",
+      "term": "waterworld",
+      "meaningZh": "n. 水世界",
+      "exampleSentenceId": "u13-article-s24"
+    },
+    {
+      "id": "u13-article-v117",
+      "term": "i'm",
+      "meaningZh": "v. 我是 (还原：I am)",
+      "exampleSentenceId": "u13-article-s1"
+    },
+    {
+      "id": "u13-article-v118",
+      "term": "i've",
+      "meaningZh": "v. 我有 (还原：I have)",
+      "exampleSentenceId": "u13-article-s3"
+    },
+    {
+      "id": "u13-article-v119",
+      "term": "i'll",
+      "meaningZh": "v. 我将 (还原：I will)",
+      "exampleSentenceId": "u13-article-s9"
+    },
+    {
+      "id": "u13-article-v120",
+      "term": "it's",
+      "meaningZh": "v. 它是 (还原：it is)",
+      "exampleSentenceId": "u13-article-s18"
+    },
+    {
+      "id": "u13-article-v121",
+      "term": "the",
+      "meaningZh": "art. 这，那",
+      "exampleSentenceId": "u13-article-s6"
+    },
+    {
+      "id": "u13-article-v122",
+      "term": "a",
+      "meaningZh": "art. 一个",
+      "exampleSentenceId": "u13-article-s1"
+    },
+    {
+      "id": "u13-article-v123",
+      "term": "of",
+      "meaningZh": "prep. ...的",
+      "exampleSentenceId": "u13-article-s11"
+    },
+    {
+      "id": "u13-article-v124",
+      "term": "to",
+      "meaningZh": "prep. 到，向",
+      "exampleSentenceId": "u13-article-s5"
+    },
+    {
+      "id": "u13-article-v125",
+      "term": "for",
+      "meaningZh": "prep. 为了，对于",
+      "exampleSentenceId": "u13-article-s11"
+    }
+  ],
   "sentenceTasks": [],
   "readingQuestions": [
     {
@@ -348,5 +1097,885 @@
     }
   ],
   "quoteCandidates": [],
-  "lexicon": {}
+  "lexicon": {
+    "25": {
+      "phonetic": "/ˈtwenti faɪv/",
+      "pos": "num.",
+      "meaningZh": "num. 二十五",
+      "usageZh": "",
+      "example": ""
+    },
+    "100": {
+      "phonetic": "/wʌn ˈhʌndrəd/",
+      "pos": "num.",
+      "meaningZh": "num. 一百",
+      "usageZh": "",
+      "example": ""
+    },
+    "150": {
+      "phonetic": "/wʌn ˈhʌndrəd ænd ˈfɪfti/",
+      "pos": "num.",
+      "meaningZh": "num. 一百五十",
+      "usageZh": "",
+      "example": ""
+    },
+    "really": {
+      "phonetic": "/ˈrɪəli/",
+      "pos": "adv.",
+      "meaningZh": "adv. 真正地，确实",
+      "usageZh": "",
+      "example": ""
+    },
+    "dead": {
+      "phonetic": "/ded/",
+      "pos": "adj.",
+      "meaningZh": "adj. 死的，枯竭的",
+      "usageZh": "",
+      "example": ""
+    },
+    "sea": {
+      "phonetic": "/siː/",
+      "pos": "n.",
+      "meaningZh": "n. 海，海洋",
+      "usageZh": "",
+      "example": ""
+    },
+    "lake": {
+      "phonetic": "/leɪk/",
+      "pos": "n.",
+      "meaningZh": "n. 湖泊",
+      "usageZh": "",
+      "example": ""
+    },
+    "fact": {
+      "phonetic": "/fækt/",
+      "pos": "n.",
+      "meaningZh": "n. 事实",
+      "usageZh": "",
+      "example": ""
+    },
+    "plants": {
+      "phonetic": "/plɑːnts/",
+      "pos": "n.",
+      "meaningZh": "n. 植物 (plant 的复数形式，直接加 -s)",
+      "usageZh": "",
+      "example": ""
+    },
+    "animals": {
+      "phonetic": "/ˈænɪmlz/",
+      "pos": "n.",
+      "meaningZh": "n. 动物 (animal 的复数形式，直接加 -s)",
+      "usageZh": "",
+      "example": ""
+    },
+    "die": {
+      "phonetic": "/daɪ/",
+      "pos": "v.",
+      "meaningZh": "v. 死亡，枯竭",
+      "usageZh": "",
+      "example": ""
+    },
+    "got": {
+      "phonetic": "/ɡɒt/",
+      "pos": "v.",
+      "meaningZh": "v. 得到 (get的过去分词)",
+      "usageZh": "",
+      "example": ""
+    },
+    "than": {
+      "phonetic": "/ðæn/",
+      "pos": "prep.",
+      "meaningZh": "prep. 比，比较",
+      "usageZh": "",
+      "example": ""
+    },
+    "people": {
+      "phonetic": "/ˈpiːpl/",
+      "pos": "n.",
+      "meaningZh": "n. 人，人们",
+      "usageZh": "",
+      "example": ""
+    },
+    "water": {
+      "phonetic": "/ˈwɔːtə/",
+      "pos": "n.",
+      "meaningZh": "n. 水",
+      "usageZh": "",
+      "example": ""
+    },
+    "by": {
+      "phonetic": "/baɪ/",
+      "pos": "prep.",
+      "meaningZh": "prep. 通过，被",
+      "usageZh": "",
+      "example": ""
+    },
+    "madagascar": {
+      "phonetic": "/ˌmædəˈɡæskə/",
+      "pos": "n.",
+      "meaningZh": "n. 马达加斯加",
+      "usageZh": "",
+      "example": ""
+    },
+    "are": {
+      "phonetic": "/ɑː/",
+      "pos": "v.",
+      "meaningZh": "v. 是 (be的复数形式)",
+      "usageZh": "",
+      "example": ""
+    },
+    "please": {
+      "phonetic": "/pliːz/",
+      "pos": "int.",
+      "meaningZh": "int. 请",
+      "usageZh": "",
+      "example": ""
+    },
+    "do": {
+      "phonetic": "/duː/",
+      "pos": "v.",
+      "meaningZh": "v. 做，干",
+      "usageZh": "",
+      "example": ""
+    },
+    "want": {
+      "phonetic": "/wɒnt/",
+      "pos": "v.",
+      "meaningZh": "v. 想要",
+      "usageZh": "",
+      "example": ""
+    },
+    "about": {
+      "phonetic": "/əˈbaʊt/",
+      "pos": "prep.",
+      "meaningZh": "prep. 关于，大约",
+      "usageZh": "",
+      "example": ""
+    },
+    "around": {
+      "phonetic": "/əˈraʊnd/",
+      "pos": "prep.",
+      "meaningZh": "prep. 在...周围，大约",
+      "usageZh": "",
+      "example": ""
+    },
+    "into": {
+      "phonetic": "/ˈɪntu/",
+      "pos": "prep.",
+      "meaningZh": "prep. 进入...中",
+      "usageZh": "",
+      "example": ""
+    },
+    "saltier": {
+      "phonetic": "/ˈsɔːltiə/",
+      "pos": "adj.",
+      "meaningZh": "adj. 更咸的",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/DfaikKfYk7uVekUB2iGfWX.mp3"
+    },
+    "surface": {
+      "phonetic": "/ˈsɜːfɪs/",
+      "pos": "n.",
+      "meaningZh": "n. 表面",
+      "usageZh": "",
+      "example": ""
+    },
+    "rivers": {
+      "phonetic": "/ˈrɪvəz/",
+      "pos": "n.",
+      "meaningZh": "n. 河流 (river 的复数形式，直接加 -s)",
+      "usageZh": "",
+      "example": ""
+    },
+    "flow": {
+      "phonetic": "/fləʊ/",
+      "pos": "v.",
+      "meaningZh": "v. 流动",
+      "usageZh": "",
+      "example": ""
+    },
+    "level": {
+      "phonetic": "/ˈlevl/",
+      "pos": "n.",
+      "meaningZh": "n. 水平，高度",
+      "usageZh": "",
+      "example": ""
+    },
+    "smaller": {
+      "phonetic": "/ˈsmɔːlə/",
+      "pos": "adj.",
+      "meaningZh": "adj. 更小的 (small的比较级)",
+      "usageZh": "",
+      "example": ""
+    },
+    "dry": {
+      "phonetic": "/draɪ/",
+      "pos": "v.",
+      "meaningZh": "v. 变干",
+      "usageZh": "",
+      "example": ""
+    },
+    "within": {
+      "phonetic": "/wɪˈðɪn/",
+      "pos": "prep.",
+      "meaningZh": "prep. 在...之内",
+      "usageZh": "",
+      "example": ""
+    },
+    "rainforest": {
+      "phonetic": "/ˈreɪnfɒrɪst/",
+      "pos": "n.",
+      "meaningZh": "n. 雨林",
+      "usageZh": "",
+      "example": ""
+    },
+    "suggests": {
+      "phonetic": "/səˈdʒests/",
+      "pos": "v.",
+      "meaningZh": "v. 暗示，表明 (suggest 的第三人称单数形式，直接加 -s)",
+      "usageZh": "",
+      "example": ""
+    },
+    "monkeys": {
+      "phonetic": "/ˈmʌŋkiz/",
+      "pos": "n.",
+      "meaningZh": "n. 猴子 (monkey 的复数形式，直接加 -s)",
+      "usageZh": "",
+      "example": ""
+    },
+    "snakes": {
+      "phonetic": "/sneɪks/",
+      "pos": "n.",
+      "meaningZh": "n. 蛇 (snake 的复数形式，直接加 -s)",
+      "usageZh": "",
+      "example": ""
+    },
+    "flowers": {
+      "phonetic": "/ˈflaʊəz/",
+      "pos": "n.",
+      "meaningZh": "n. 花 (flower 的复数形式，直接加 -s)",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/Hu7uWAaWSq3x4tHWSjthGJ.mp3"
+    },
+    "world": {
+      "phonetic": "/wɜːld/",
+      "pos": "n.",
+      "meaningZh": "n. 世界",
+      "usageZh": "",
+      "example": ""
+    },
+    "however": {
+      "phonetic": "/haʊˈevə/",
+      "pos": "adv.",
+      "meaningZh": "adv. 然而",
+      "usageZh": "",
+      "example": ""
+    },
+    "cutting": {
+      "phonetic": "/ˈkʌtɪŋ/",
+      "pos": "v.",
+      "meaningZh": "v. 砍伐 (cut 的现在分词，双写 t 加 -ing)",
+      "usageZh": "",
+      "example": ""
+    },
+    "wood": {
+      "phonetic": "/wʊd/",
+      "pos": "n.",
+      "meaningZh": "n. 木材",
+      "usageZh": "",
+      "example": ""
+    },
+    "space": {
+      "phonetic": "/speɪs/",
+      "pos": "n.",
+      "meaningZh": "n. 空间",
+      "usageZh": "",
+      "example": ""
+    },
+    "farming": {
+      "phonetic": "/ˈfɑːmɪŋ/",
+      "pos": "n.",
+      "meaningZh": "n. 务农，耕作",
+      "usageZh": "",
+      "example": ""
+    },
+    "disappearing": {
+      "phonetic": "/ˌdɪsəˈpɪərɪŋ/",
+      "pos": "v.",
+      "meaningZh": "v. 消失 (disappear 的现在分词，直接加 -ing)",
+      "usageZh": "",
+      "example": ""
+    },
+    "glacier": {
+      "phonetic": "/ˈɡlæsiə/",
+      "pos": "n.",
+      "meaningZh": "n. 冰川",
+      "usageZh": "",
+      "example": ""
+    },
+    "glaciers": {
+      "phonetic": "/ˈɡlæsiəz/",
+      "pos": "n.",
+      "meaningZh": "n. 冰川 (glacier 的复数形式，直接加 -s)",
+      "usageZh": "",
+      "example": ""
+    },
+    "explore": {
+      "phonetic": "/ɪkˈsplɔː/",
+      "pos": "v.",
+      "meaningZh": "v. 探索",
+      "usageZh": "",
+      "example": ""
+    },
+    "choice": {
+      "phonetic": "/tʃɔɪs/",
+      "pos": "n.",
+      "meaningZh": "n. 选择",
+      "usageZh": "",
+      "example": ""
+    },
+    "climate": {
+      "phonetic": "/ˈklaɪmət/",
+      "pos": "n.",
+      "meaningZh": "n. 气候",
+      "usageZh": "",
+      "example": ""
+    },
+    "change": {
+      "phonetic": "/tʃeɪndʒ/",
+      "pos": "n.",
+      "meaningZh": "n. 变化",
+      "usageZh": "",
+      "example": ""
+    },
+    "i": {
+      "phonetic": "/aɪ/",
+      "pos": "pron.",
+      "meaningZh": "pron. 我",
+      "usageZh": "",
+      "example": ""
+    },
+    "me": {
+      "phonetic": "/miː/",
+      "pos": "pron.",
+      "meaningZh": "pron. 我 (宾格)",
+      "usageZh": "",
+      "example": ""
+    },
+    "my": {
+      "phonetic": "/maɪ/",
+      "pos": "pron.",
+      "meaningZh": "pron. 我的",
+      "usageZh": "",
+      "example": ""
+    },
+    "you": {
+      "phonetic": "/juː/",
+      "pos": "pron.",
+      "meaningZh": "pron. 你，你们",
+      "usageZh": "",
+      "example": ""
+    },
+    "them": {
+      "phonetic": "/ðem/",
+      "pos": "pron.",
+      "meaningZh": "pron. 他们 (宾格)",
+      "usageZh": "",
+      "example": ""
+    },
+    "their": {
+      "phonetic": "/ðeə/",
+      "pos": "pron.",
+      "meaningZh": "pron. 他们的",
+      "usageZh": "",
+      "example": ""
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "pos": "pron.",
+      "meaningZh": "pron. 它",
+      "usageZh": "",
+      "example": ""
+    },
+    "could": {
+      "phonetic": "/kʊd/",
+      "pos": "v.aux.",
+      "meaningZh": "v.aux. 能够，可能",
+      "usageZh": "",
+      "example": ""
+    },
+    "not": {
+      "phonetic": "/nɒt/",
+      "pos": "adv.",
+      "meaningZh": "adv. 不",
+      "usageZh": "",
+      "example": ""
+    },
+    "but": {
+      "phonetic": "/bʌt/",
+      "pos": "conj.",
+      "meaningZh": "conj. 但是",
+      "usageZh": "",
+      "example": ""
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "pos": "conj.",
+      "meaningZh": "conj. 和",
+      "usageZh": "",
+      "example": ""
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "pos": "prep.",
+      "meaningZh": "prep. 在...里",
+      "usageZh": "",
+      "example": ""
+    },
+    "many": {
+      "phonetic": "/ˈmeni/",
+      "pos": "adj.",
+      "meaningZh": "adj. 许多的",
+      "usageZh": "",
+      "example": ""
+    },
+    "any": {
+      "phonetic": "/ˈeni/",
+      "pos": "adj.",
+      "meaningZh": "adj. 任何的",
+      "usageZh": "",
+      "example": ""
+    },
+    "so": {
+      "phonetic": "/səʊ/",
+      "pos": "conj.",
+      "meaningZh": "conj. 所以",
+      "usageZh": "",
+      "example": ""
+    },
+    "can": {
+      "phonetic": "/kæn/",
+      "pos": "v.aux.",
+      "meaningZh": "v.aux. 能",
+      "usageZh": "",
+      "example": ""
+    },
+    "lie": {
+      "phonetic": "/laɪ/",
+      "pos": "v.",
+      "meaningZh": "v. 躺",
+      "usageZh": "",
+      "example": ""
+    },
+    "on": {
+      "phonetic": "/ɒn/",
+      "pos": "prep.",
+      "meaningZh": "prep. 在...上",
+      "usageZh": "",
+      "example": ""
+    },
+    "now": {
+      "phonetic": "/naʊ/",
+      "pos": "adv.",
+      "meaningZh": "adv. 现在",
+      "usageZh": "",
+      "example": ""
+    },
+    "take": {
+      "phonetic": "/teɪk/",
+      "pos": "v.",
+      "meaningZh": "v. 拿，取",
+      "usageZh": "",
+      "example": ""
+    },
+    "too": {
+      "phonetic": "/tuː/",
+      "pos": "adv.",
+      "meaningZh": "adv. 太",
+      "usageZh": "",
+      "example": ""
+    },
+    "much": {
+      "phonetic": "/mʌtʃ/",
+      "pos": "adj.",
+      "meaningZh": "adj. 许多的",
+      "usageZh": "",
+      "example": ""
+    },
+    "from": {
+      "phonetic": "/frɒm/",
+      "pos": "prep.",
+      "meaningZh": "prep. 从...",
+      "usageZh": "",
+      "example": ""
+    },
+    "is": {
+      "phonetic": "/ɪz/",
+      "pos": "v.",
+      "meaningZh": "v. 是",
+      "usageZh": "",
+      "example": ""
+    },
+    "going": {
+      "phonetic": "/ˈɡəʊɪŋ/",
+      "pos": "v.",
+      "meaningZh": "v. 进行 (go 的现在分词，直接加 -ing)",
+      "usageZh": "",
+      "example": ""
+    },
+    "down": {
+      "phonetic": "/daʊn/",
+      "pos": "adv.",
+      "meaningZh": "adv. 向下",
+      "usageZh": "",
+      "example": ""
+    },
+    "am": {
+      "phonetic": "/æm/",
+      "pos": "v.",
+      "meaningZh": "v. 是",
+      "usageZh": "",
+      "example": ""
+    },
+    "becoming": {
+      "phonetic": "/bɪˈkʌmɪŋ/",
+      "pos": "v.",
+      "meaningZh": "v. 变成 (become 的现在分词，去掉末尾不发音的 e 加 -ing)",
+      "usageZh": "",
+      "example": ""
+    },
+    "year": {
+      "phonetic": "/jɪə/",
+      "pos": "n.",
+      "meaningZh": "n. 年",
+      "usageZh": "",
+      "example": ""
+    },
+    "less": {
+      "phonetic": "/les/",
+      "pos": "adj.",
+      "meaningZh": "adj. 较少的",
+      "usageZh": "",
+      "example": ""
+    },
+    "or": {
+      "phonetic": "/ɔː/",
+      "pos": "conj.",
+      "meaningZh": "conj. 或者，否则",
+      "usageZh": "",
+      "example": ""
+    },
+    "up": {
+      "phonetic": "/ʌp/",
+      "pos": "adv.",
+      "meaningZh": "adv. 向上",
+      "usageZh": "",
+      "example": ""
+    },
+    "next": {
+      "phonetic": "/nekst/",
+      "pos": "adj.",
+      "meaningZh": "adj. 下一个的",
+      "usageZh": "",
+      "example": ""
+    },
+    "then": {
+      "phonetic": "/ðen/",
+      "pos": "adv.",
+      "meaningZh": "adv. 然后，那么",
+      "usageZh": "",
+      "example": ""
+    },
+    "will": {
+      "phonetic": "/wɪl/",
+      "pos": "v.aux.",
+      "meaningZh": "v.aux. 将要",
+      "usageZh": "",
+      "example": ""
+    },
+    "be": {
+      "phonetic": "/biː/",
+      "pos": "v.",
+      "meaningZh": "v. 是",
+      "usageZh": "",
+      "example": ""
+    },
+    "as": {
+      "phonetic": "/æz/",
+      "pos": "conj.",
+      "meaningZh": "conj. 正如",
+      "usageZh": "",
+      "example": ""
+    },
+    "name": {
+      "phonetic": "/neɪm/",
+      "pos": "n.",
+      "meaningZh": "n. 名字",
+      "usageZh": "",
+      "example": ""
+    },
+    "make": {
+      "phonetic": "/meɪk/",
+      "pos": "v.",
+      "meaningZh": "v. 制造",
+      "usageZh": "",
+      "example": ""
+    },
+    "rain": {
+      "phonetic": "/reɪn/",
+      "pos": "n.",
+      "meaningZh": "n. 雨",
+      "usageZh": "",
+      "example": ""
+    },
+    "such": {
+      "phonetic": "/sʌtʃ/",
+      "pos": "adj.",
+      "meaningZh": "adj. 这样的",
+      "usageZh": "",
+      "example": ""
+    },
+    "kinds": {
+      "phonetic": "/kaɪndz/",
+      "pos": "n.",
+      "meaningZh": "n. 种类 (kind 的复数形式，直接加 -s)",
+      "usageZh": "",
+      "example": ""
+    },
+    "80%": {
+      "phonetic": "/ˈeɪti pəˈsent/",
+      "pos": "num.",
+      "meaningZh": "num. 百分之八十",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/nrRHSKEnY3Jh52qRZv2DsX.mp3"
+    },
+    "only": {
+      "phonetic": "/ˈəʊnli/",
+      "pos": "adj.",
+      "meaningZh": "adj. 唯一的",
+      "usageZh": "",
+      "example": ""
+    },
+    "home": {
+      "phonetic": "/həʊm/",
+      "pos": "n.",
+      "meaningZh": "n. 家",
+      "usageZh": "",
+      "example": ""
+    },
+    "trees": {
+      "phonetic": "/triːz/",
+      "pos": "n.",
+      "meaningZh": "n. 树木 (tree 的复数形式，直接加 -s)",
+      "usageZh": "",
+      "example": ""
+    },
+    "stop": {
+      "phonetic": "/stɒp/",
+      "pos": "v.",
+      "meaningZh": "v. 停止",
+      "usageZh": "",
+      "example": ""
+    },
+    "national": {
+      "phonetic": "/ˈnæʃnəl/",
+      "pos": "adj.",
+      "meaningZh": "adj. 国家的",
+      "usageZh": "",
+      "example": ""
+    },
+    "park": {
+      "phonetic": "/pɑːk/",
+      "pos": "n.",
+      "meaningZh": "n. 公园",
+      "usageZh": "",
+      "example": ""
+    },
+    "america": {
+      "phonetic": "/əˈmerɪkə/",
+      "pos": "n.",
+      "meaningZh": "n. 美国",
+      "usageZh": "",
+      "example": ""
+    },
+    "land": {
+      "phonetic": "/lænd/",
+      "pos": "n.",
+      "meaningZh": "n. 土地",
+      "usageZh": "",
+      "example": ""
+    },
+    "full": {
+      "phonetic": "/fʊl/",
+      "pos": "adj.",
+      "meaningZh": "adj. 充满的",
+      "usageZh": "",
+      "example": ""
+    },
+    "ice": {
+      "phonetic": "/aɪs/",
+      "pos": "n.",
+      "meaningZh": "n. 冰",
+      "usageZh": "",
+      "example": ""
+    },
+    "snow": {
+      "phonetic": "/snəʊ/",
+      "pos": "n.",
+      "meaningZh": "n. 雪",
+      "usageZh": "",
+      "example": ""
+    },
+    "white": {
+      "phonetic": "/waɪt/",
+      "pos": "adj.",
+      "meaningZh": "adj. 白色的",
+      "usageZh": "",
+      "example": ""
+    },
+    "film": {
+      "phonetic": "/fɪlm/",
+      "pos": "n.",
+      "meaningZh": "n. 电影",
+      "usageZh": "",
+      "example": ""
+    },
+    "frozen": {
+      "phonetic": "/ˈfrəʊzn/",
+      "pos": "adj.",
+      "meaningZh": "adj. 冰冻的",
+      "usageZh": "",
+      "example": ""
+    },
+    "best": {
+      "phonetic": "/best/",
+      "pos": "adj.",
+      "meaningZh": "adj. 最好的",
+      "usageZh": "",
+      "example": ""
+    },
+    "two": {
+      "phonetic": "/tuː/",
+      "pos": "num.",
+      "meaningZh": "num. 二",
+      "usageZh": "",
+      "example": ""
+    },
+    "hundred": {
+      "phonetic": "/ˈhʌndrəd/",
+      "pos": "num.",
+      "meaningZh": "num. 百",
+      "usageZh": "",
+      "example": ""
+    },
+    "years": {
+      "phonetic": "/jɪəz/",
+      "pos": "n.",
+      "meaningZh": "n. 年 (year 的复数形式，直接加 -s)",
+      "usageZh": "",
+      "example": ""
+    },
+    "ago": {
+      "phonetic": "/əˈɡəʊ/",
+      "pos": "adv.",
+      "meaningZh": "adv. 以前",
+      "usageZh": "",
+      "example": ""
+    },
+    "there": {
+      "phonetic": "/ðeə/",
+      "pos": "adv.",
+      "meaningZh": "adv. 那里",
+      "usageZh": "",
+      "example": ""
+    },
+    "were": {
+      "phonetic": "/wɜː/",
+      "pos": "v.",
+      "meaningZh": "v. 是 (are的过去式)",
+      "usageZh": "",
+      "example": ""
+    },
+    "turning": {
+      "phonetic": "/ˈtɜːnɪŋ/",
+      "pos": "v.",
+      "meaningZh": "v. 变成 (turn 的现在分词，直接加 -ing)",
+      "usageZh": "",
+      "example": ""
+    },
+    "waterworld": {
+      "phonetic": "/ˈwɔːtəwɜːld/",
+      "pos": "n.",
+      "meaningZh": "n. 水世界",
+      "usageZh": "",
+      "example": "",
+      "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/3BxtGYq4RZp2VWa9XCvbuU.mp3"
+    },
+    "i'm": {
+      "phonetic": "/aɪm/",
+      "pos": "abbr.",
+      "meaningZh": "v. 我是 (还原：I am)",
+      "usageZh": "",
+      "example": ""
+    },
+    "i've": {
+      "phonetic": "/aɪv/",
+      "pos": "abbr.",
+      "meaningZh": "v. 我有 (还原：I have)",
+      "usageZh": "",
+      "example": ""
+    },
+    "i'll": {
+      "phonetic": "/aɪl/",
+      "pos": "abbr.",
+      "meaningZh": "v. 我将 (还原：I will)",
+      "usageZh": "",
+      "example": ""
+    },
+    "it's": {
+      "phonetic": "/ɪts/",
+      "pos": "abbr.",
+      "meaningZh": "v. 它是 (还原：it is)",
+      "usageZh": "",
+      "example": ""
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "pos": "art.",
+      "meaningZh": "art. 这，那",
+      "usageZh": "",
+      "example": ""
+    },
+    "a": {
+      "phonetic": "/ə/",
+      "pos": "art.",
+      "meaningZh": "art. 一个",
+      "usageZh": "",
+      "example": ""
+    },
+    "of": {
+      "phonetic": "/əv/",
+      "pos": "prep.",
+      "meaningZh": "prep. ...的",
+      "usageZh": "",
+      "example": ""
+    },
+    "to": {
+      "phonetic": "/tu/",
+      "pos": "prep.",
+      "meaningZh": "prep. 到，向",
+      "usageZh": "",
+      "example": ""
+    },
+    "for": {
+      "phonetic": "/fɔː/",
+      "pos": "prep.",
+      "meaningZh": "prep. 为了，对于",
+      "usageZh": "",
+      "example": ""
+    }
+  }
 }

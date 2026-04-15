@@ -3,7 +3,7 @@
     "schemaVersion": "2.0",
     "source": "七年级下册互动课文",
     "importedFrom": "Unit 4 Passage 2 The time-eating monster（互动课文教学动画）英语新教材外研版七年级下册.html",
-    "importedAt": "2026-04-13T04:50:28.072Z"
+    "importedAt": "2026-04-15T05:40:35.199Z"
   },
   "article": {
     "id": "u11-article",
@@ -280,138 +280,812 @@
   ],
   "vocabItems": [
     {
-      "term": "social media",
-      "meaningZh": "社交媒体",
-      "exampleSentenceId": "u11-article-s3"
-    },
-    {
-      "term": "take over",
-      "meaningZh": "接管；控制",
-      "exampleSentenceId": "u11-article-s8"
-    },
-    {
-      "term": "eat away",
-      "meaningZh": "逐渐吞噬；消耗",
-      "exampleSentenceId": "u11-article-s9"
-    },
-    {
-      "term": "minute by minute",
-      "meaningZh": "一分钟一分钟地；逐渐地",
-      "exampleSentenceId": "u11-article-s9"
-    },
-    {
-      "term": "get lost",
-      "meaningZh": "迷失；沉迷",
-      "exampleSentenceId": "u11-article-s11"
-    },
-    {
-      "term": "couch potato",
-      "meaningZh": "电视迷；整天窝在沙发上看电视的人",
-      "exampleSentenceId": "u11-article-s12"
-    },
-    {
-      "term": "miss out on",
-      "meaningZh": "错过（机会/体验）",
-      "exampleSentenceId": "u11-article-s13"
-    },
-    {
-      "term": "be deaf to",
-      "meaningZh": "对……充耳不闻",
-      "exampleSentenceId": "u11-article-s14"
-    },
-    {
-      "term": "monster",
-      "meaningZh": "妖怪；怪兽；怪物",
+      "id": "u11-article-v1",
+      "term": "have",
+      "meaningZh": "v. 有，已经",
       "exampleSentenceId": "u11-article-s1"
     },
     {
-      "term": "dangerous",
-      "meaningZh": "危险的，有危害的",
+      "id": "u11-article-v2",
+      "term": "you",
+      "meaningZh": "pron. 你，你们",
+      "exampleSentenceId": "u11-article-s1"
+    },
+    {
+      "id": "u11-article-v3",
+      "term": "ever",
+      "meaningZh": "adv. 曾经",
+      "exampleSentenceId": "u11-article-s1"
+    },
+    {
+      "id": "u11-article-v4",
+      "term": "noticed",
+      "meaningZh": "v. 注意到(notice的过去分词)",
+      "exampleSentenceId": "u11-article-s1"
+    },
+    {
+      "id": "u11-article-v5",
+      "term": "a",
+      "meaningZh": "art. 一个",
+      "exampleSentenceId": "u11-article-s1"
+    },
+    {
+      "id": "u11-article-v6",
+      "term": "monster",
+      "meaningZh": "n. 怪兽，怪物",
+      "exampleSentenceId": "u11-article-s1"
+    },
+    {
+      "id": "u11-article-v7",
+      "term": "around",
+      "meaningZh": "prep. 在...周围",
+      "exampleSentenceId": "u11-article-s1"
+    },
+    {
+      "id": "u11-article-v8",
+      "term": "us",
+      "meaningZh": "pron. 我们（宾格）",
+      "exampleSentenceId": "u11-article-s1"
+    },
+    {
+      "id": "u11-article-v9",
+      "term": "it's",
+      "meaningZh": "v. 它是 (it is的缩略词)",
       "exampleSentenceId": "u11-article-s2"
     },
     {
-      "term": "form",
-      "meaningZh": "形式，方式",
+      "id": "u11-article-v10",
+      "term": "not",
+      "meaningZh": "adv. 不",
+      "exampleSentenceId": "u11-article-s1"
+    },
+    {
+      "id": "u11-article-v11",
+      "term": "big",
+      "meaningZh": "adj. 大的",
+      "exampleSentenceId": "u11-article-s2"
+    },
+    {
+      "id": "u11-article-v12",
+      "term": "or",
+      "meaningZh": "conj. 或者",
+      "exampleSentenceId": "u11-article-s2"
+    },
+    {
+      "id": "u11-article-v13",
+      "term": "scary",
+      "meaningZh": "adj. 可怕的",
+      "exampleSentenceId": "u11-article-s2"
+    },
+    {
+      "id": "u11-article-v14",
+      "term": "but",
+      "meaningZh": "conj. 但是",
+      "exampleSentenceId": "u11-article-s2"
+    },
+    {
+      "id": "u11-article-v15",
+      "term": "very",
+      "meaningZh": "adv. 非常",
+      "exampleSentenceId": "u11-article-s2"
+    },
+    {
+      "id": "u11-article-v16",
+      "term": "dangerous",
+      "meaningZh": "adj. 危险的",
+      "exampleSentenceId": "u11-article-s2"
+    },
+    {
+      "id": "u11-article-v17",
+      "term": "this",
+      "meaningZh": "pron. 这个",
       "exampleSentenceId": "u11-article-s3"
     },
     {
+      "id": "u11-article-v18",
+      "term": "comes",
+      "meaningZh": "v. 来，出现(come的三单)",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "id": "u11-article-v19",
+      "term": "in",
+      "meaningZh": "prep. 在...里面",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "id": "u11-article-v20",
+      "term": "many",
+      "meaningZh": "adj. 许多的",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "id": "u11-article-v21",
+      "term": "forms",
+      "meaningZh": "n. 形式，形状(form的名词复数)",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "id": "u11-article-v22",
+      "term": "games",
+      "meaningZh": "n. 游戏(game的名词复数)",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "id": "u11-article-v23",
       "term": "social",
-      "meaningZh": "社交的",
+      "meaningZh": "adj. 社交的",
       "exampleSentenceId": "u11-article-s3"
     },
     {
+      "id": "u11-article-v24",
       "term": "media",
-      "meaningZh": "媒体；传媒",
+      "meaningZh": "n. 媒体",
       "exampleSentenceId": "u11-article-s3"
     },
     {
-      "term": "screen",
-      "meaningZh": "屏幕",
+      "id": "u11-article-v25",
+      "term": "and",
+      "meaningZh": "conj. 和，而且",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "id": "u11-article-v26",
+      "term": "tv",
+      "meaningZh": "n. 电视",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "id": "u11-article-v27",
+      "term": "shows",
+      "meaningZh": "n. 节目(show的名词复数)",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "id": "u11-article-v28",
+      "term": "may",
+      "meaningZh": "v. 可能",
+      "exampleSentenceId": "u11-article-s4"
+    },
+    {
+      "id": "u11-article-v29",
+      "term": "ask",
+      "meaningZh": "v. 询问",
+      "exampleSentenceId": "u11-article-s4"
+    },
+    {
+      "id": "u11-article-v30",
+      "term": "brings",
+      "meaningZh": "v. 带来(bring的三单)",
+      "exampleSentenceId": "u11-article-s4"
+    },
+    {
+      "id": "u11-article-v31",
+      "term": "so",
+      "meaningZh": "adv. 所以",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "id": "u11-article-v32",
+      "term": "much",
+      "meaningZh": "adj. 许多的",
+      "exampleSentenceId": "u11-article-s4"
+    },
+    {
+      "id": "u11-article-v33",
+      "term": "fun",
+      "meaningZh": "n. 乐趣",
+      "exampleSentenceId": "u11-article-s4"
+    },
+    {
+      "id": "u11-article-v34",
+      "term": "why",
+      "meaningZh": "adv. 为什么",
+      "exampleSentenceId": "u11-article-s5"
+    },
+    {
+      "id": "u11-article-v35",
+      "term": "do",
+      "meaningZh": "v. 做",
+      "exampleSentenceId": "u11-article-s5"
+    },
+    {
+      "id": "u11-article-v36",
+      "term": "say",
+      "meaningZh": "v. 说",
+      "exampleSentenceId": "u11-article-s5"
+    },
+    {
+      "id": "u11-article-v37",
+      "term": "at",
+      "meaningZh": "prep. 在",
+      "exampleSentenceId": "u11-article-s6"
+    },
+    {
+      "id": "u11-article-v38",
+      "term": "first",
+      "meaningZh": "adv. 首先",
+      "exampleSentenceId": "u11-article-s6"
+    },
+    {
+      "id": "u11-article-v39",
+      "term": "we",
+      "meaningZh": "pron. 我们",
+      "exampleSentenceId": "u11-article-s6"
+    },
+    {
+      "id": "u11-article-v40",
+      "term": "all",
+      "meaningZh": "adj. 全部的",
+      "exampleSentenceId": "u11-article-s6"
+    },
+    {
+      "id": "u11-article-v41",
+      "term": "think",
+      "meaningZh": "v. 思考，认为",
+      "exampleSentenceId": "u11-article-s6"
+    },
+    {
+      "id": "u11-article-v42",
+      "term": "i'll",
+      "meaningZh": "v. 我将 (I will的缩略词)",
+      "exampleSentenceId": "u11-article-s6"
+    },
+    {
+      "id": "u11-article-v43",
+      "term": "just",
+      "meaningZh": "adv. 仅仅",
+      "exampleSentenceId": "u11-article-s6"
+    },
+    {
+      "id": "u11-article-v44",
+      "term": "little",
+      "meaningZh": "adj. 小的",
+      "exampleSentenceId": "u11-article-s6"
+    },
+    {
+      "id": "u11-article-v45",
+      "term": "turn",
+      "meaningZh": "v. 转向，打开",
+      "exampleSentenceId": "u11-article-s7"
+    },
+    {
+      "id": "u11-article-v46",
+      "term": "on",
+      "meaningZh": "prep. 在...之上",
+      "exampleSentenceId": "u11-article-s1"
+    },
+    {
+      "id": "u11-article-v47",
+      "term": "the",
+      "meaningZh": "art. 这，那",
+      "exampleSentenceId": "u11-article-s7"
+    },
+    {
+      "id": "u11-article-v48",
+      "term": "computer",
+      "meaningZh": "n. 电脑",
+      "exampleSentenceId": "u11-article-s7"
+    },
+    {
+      "id": "u11-article-v49",
+      "term": "start",
+      "meaningZh": "v. 开始",
+      "exampleSentenceId": "u11-article-s7"
+    },
+    {
+      "id": "u11-article-v50",
+      "term": "game",
+      "meaningZh": "n. 游戏",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "id": "u11-article-v51",
+      "term": "soon",
+      "meaningZh": "adv. 很快",
+      "exampleSentenceId": "u11-article-s8"
+    },
+    {
+      "id": "u11-article-v52",
+      "term": "takes",
+      "meaningZh": "v. 拿走，接管(take的三单)",
+      "exampleSentenceId": "u11-article-s8"
+    },
+    {
+      "id": "u11-article-v53",
+      "term": "over",
+      "meaningZh": "adv. 结束，越过",
+      "exampleSentenceId": "u11-article-s8"
+    },
+    {
+      "id": "u11-article-v54",
+      "term": "starts",
+      "meaningZh": "v. 开始(start的三单)",
+      "exampleSentenceId": "u11-article-s9"
+    },
+    {
+      "id": "u11-article-v55",
+      "term": "to",
+      "meaningZh": "prep. 到，向",
+      "exampleSentenceId": "u11-article-s9"
+    },
+    {
+      "id": "u11-article-v56",
+      "term": "eat",
+      "meaningZh": "v. 吃",
+      "exampleSentenceId": "u11-article-s9"
+    },
+    {
+      "id": "u11-article-v57",
+      "term": "away",
+      "meaningZh": "adv. 离开",
+      "exampleSentenceId": "u11-article-s9"
+    },
+    {
+      "id": "u11-article-v58",
+      "term": "our",
+      "meaningZh": "pron. 我们的",
+      "exampleSentenceId": "u11-article-s9"
+    },
+    {
+      "id": "u11-article-v59",
+      "term": "time",
+      "meaningZh": "n. 时间",
+      "exampleSentenceId": "u11-article-s9"
+    },
+    {
+      "id": "u11-article-v60",
+      "term": "minute",
+      "meaningZh": "n. 分钟",
+      "exampleSentenceId": "u11-article-s9"
+    },
+    {
+      "id": "u11-article-v61",
+      "term": "by",
+      "meaningZh": "prep. 通过，被",
+      "exampleSentenceId": "u11-article-s9"
+    },
+    {
+      "id": "u11-article-v62",
+      "term": "sit",
+      "meaningZh": "v. 坐",
       "exampleSentenceId": "u11-article-s10"
     },
     {
+      "id": "u11-article-v63",
+      "term": "there",
+      "meaningZh": "adv. 那里",
+      "exampleSentenceId": "u11-article-s10"
+    },
+    {
+      "id": "u11-article-v64",
+      "term": "look",
+      "meaningZh": "v. 看",
+      "exampleSentenceId": "u11-article-s10"
+    },
+    {
+      "id": "u11-article-v65",
+      "term": "screen",
+      "meaningZh": "n. 屏幕",
+      "exampleSentenceId": "u11-article-s10"
+    },
+    {
+      "id": "u11-article-v66",
+      "term": "without",
+      "meaningZh": "prep. 没有",
+      "exampleSentenceId": "u11-article-s10"
+    },
+    {
+      "id": "u11-article-v67",
+      "term": "noticing",
+      "meaningZh": "v. 注意到(notice的动名词)",
+      "exampleSentenceId": "u11-article-s10"
+    },
+    {
+      "id": "u11-article-v68",
+      "term": "often",
+      "meaningZh": "adv. 经常",
+      "exampleSentenceId": "u11-article-s11"
+    },
+    {
+      "id": "u11-article-v69",
+      "term": "get",
+      "meaningZh": "v. 得到，变得",
+      "exampleSentenceId": "u11-article-s11"
+    },
+    {
+      "id": "u11-article-v70",
+      "term": "lost",
+      "meaningZh": "adj. 迷失的(lose的过去分词)",
+      "exampleSentenceId": "u11-article-s11"
+    },
+    {
+      "id": "u11-article-v71",
+      "term": "world",
+      "meaningZh": "n. 世界",
+      "exampleSentenceId": "u11-article-s11"
+    },
+    {
+      "id": "u11-article-v72",
+      "term": "like",
+      "meaningZh": "prep. 像",
+      "exampleSentenceId": "u11-article-s11"
+    },
+    {
+      "id": "u11-article-v73",
       "term": "become",
-      "meaningZh": "变成，变得",
+      "meaningZh": "v. 变成",
       "exampleSentenceId": "u11-article-s12"
     },
     {
+      "id": "u11-article-v74",
       "term": "couch",
-      "meaningZh": "长沙发",
+      "meaningZh": "n. 长沙发",
       "exampleSentenceId": "u11-article-s12"
     },
     {
+      "id": "u11-article-v75",
+      "term": "potatoes",
+      "meaningZh": "n. 土豆(potato的名词复数)",
+      "exampleSentenceId": "u11-article-s12"
+    },
+    {
+      "id": "u11-article-v76",
       "term": "sore",
-      "meaningZh": "疼痛的；酸痛的",
+      "meaningZh": "adj. 酸痛的",
       "exampleSentenceId": "u11-article-s12"
     },
     {
-      "term": "neck",
-      "meaningZh": "颈，脖子",
+      "id": "u11-article-v77",
+      "term": "necks",
+      "meaningZh": "n. 脖子(neck的名词复数)",
       "exampleSentenceId": "u11-article-s12"
     },
     {
-      "term": "moment",
-      "meaningZh": "某一时刻",
+      "id": "u11-article-v78",
+      "term": "dry",
+      "meaningZh": "adj. 干的，干涩的",
+      "exampleSentenceId": "u11-article-s12"
+    },
+    {
+      "id": "u11-article-v79",
+      "term": "eyes",
+      "meaningZh": "n. 眼睛(eye的名词复数)",
+      "exampleSentenceId": "u11-article-s12"
+    },
+    {
+      "id": "u11-article-v80",
+      "term": "miss",
+      "meaningZh": "v. 错过，想念",
       "exampleSentenceId": "u11-article-s13"
     },
     {
-      "term": "deaf",
-      "meaningZh": "耳聋的，失聪的",
+      "id": "u11-article-v81",
+      "term": "out",
+      "meaningZh": "adv. 出去",
+      "exampleSentenceId": "u11-article-s10"
+    },
+    {
+      "id": "u11-article-v82",
+      "term": "sweet",
+      "meaningZh": "adj. 甜的，美好的",
+      "exampleSentenceId": "u11-article-s13"
+    },
+    {
+      "id": "u11-article-v83",
+      "term": "moments",
+      "meaningZh": "n. 时刻(moment的名词复数)",
+      "exampleSentenceId": "u11-article-s13"
+    },
+    {
+      "id": "u11-article-v84",
+      "term": "loved",
+      "meaningZh": "adj. 被爱的(love的过去分词)",
+      "exampleSentenceId": "u11-article-s13"
+    },
+    {
+      "id": "u11-article-v85",
+      "term": "ones",
+      "meaningZh": "pron. 人，物(one的名词复数)",
+      "exampleSentenceId": "u11-article-s13"
+    },
+    {
+      "id": "u11-article-v86",
+      "term": "are",
+      "meaningZh": "v. 是",
       "exampleSentenceId": "u11-article-s14"
     },
     {
-      "term": "dull",
-      "meaningZh": "愚笨的，迟钝的",
+      "id": "u11-article-v87",
+      "term": "deaf",
+      "meaningZh": "adj. 聋的，充耳不闻的",
+      "exampleSentenceId": "u11-article-s14"
+    },
+    {
+      "id": "u11-article-v88",
+      "term": "real",
+      "meaningZh": "adj. 真实的",
+      "exampleSentenceId": "u11-article-s14"
+    },
+    {
+      "id": "u11-article-v89",
+      "term": "remember",
+      "meaningZh": "v. 记住",
       "exampleSentenceId": "u11-article-s15"
     },
     {
-      "term": "balanced",
-      "meaningZh": "均衡的",
+      "id": "u11-article-v90",
+      "term": "too",
+      "meaningZh": "adv. 也",
+      "exampleSentenceId": "u11-article-s15"
+    },
+    {
+      "id": "u11-article-v91",
+      "term": "makes",
+      "meaningZh": "v. 使得(make的三单)",
+      "exampleSentenceId": "u11-article-s15"
+    },
+    {
+      "id": "u11-article-v92",
+      "term": "jack",
+      "meaningZh": "n. 杰克",
+      "exampleSentenceId": "u11-article-s15"
+    },
+    {
+      "id": "u11-article-v93",
+      "term": "dull",
+      "meaningZh": "adj. 迟钝的，无聊的",
+      "exampleSentenceId": "u11-article-s15"
+    },
+    {
+      "id": "u11-article-v94",
+      "term": "boy",
+      "meaningZh": "n. 男孩",
+      "exampleSentenceId": "u11-article-s15"
+    },
+    {
+      "id": "u11-article-v95",
+      "term": "will",
+      "meaningZh": "v. 将",
+      "exampleSentenceId": "u11-article-s16"
+    },
+    {
+      "id": "u11-article-v96",
+      "term": "always",
+      "meaningZh": "adv. 总是",
+      "exampleSentenceId": "u11-article-s16"
+    },
+    {
+      "id": "u11-article-v97",
+      "term": "be",
+      "meaningZh": "v. 是",
+      "exampleSentenceId": "u11-article-s12"
+    },
+    {
+      "id": "u11-article-v98",
+      "term": "keep",
+      "meaningZh": "v. 保持",
       "exampleSentenceId": "u11-article-s17"
     },
     {
+      "id": "u11-article-v99",
+      "term": "having",
+      "meaningZh": "v. 具有(have的动名词)",
+      "exampleSentenceId": "u11-article-s17"
+    },
+    {
+      "id": "u11-article-v100",
+      "term": "balanced",
+      "meaningZh": "adj. 平衡的(balance的过去分词)",
+      "exampleSentenceId": "u11-article-s17"
+    },
+    {
+      "id": "u11-article-v101",
+      "term": "way",
+      "meaningZh": "n. 方式",
+      "exampleSentenceId": "u11-article-s9"
+    },
+    {
+      "id": "u11-article-v102",
+      "term": "stand",
+      "meaningZh": "v. 站立",
+      "exampleSentenceId": "u11-article-s18"
+    },
+    {
+      "id": "u11-article-v103",
+      "term": "up",
+      "meaningZh": "adv. 向上",
+      "exampleSentenceId": "u11-article-s18"
+    },
+    {
+      "id": "u11-article-v104",
+      "term": "leave",
+      "meaningZh": "v. 离开",
+      "exampleSentenceId": "u11-article-s18"
+    },
+    {
+      "id": "u11-article-v105",
+      "term": "screens",
+      "meaningZh": "n. 屏幕(screen的名词复数)",
+      "exampleSentenceId": "u11-article-s18"
+    },
+    {
+      "id": "u11-article-v106",
+      "term": "go",
+      "meaningZh": "v. 去",
+      "exampleSentenceId": "u11-article-s19"
+    },
+    {
+      "id": "u11-article-v107",
+      "term": "outside",
+      "meaningZh": "adv. 在户外",
+      "exampleSentenceId": "u11-article-s19"
+    },
+    {
+      "id": "u11-article-v108",
+      "term": "feel",
+      "meaningZh": "v. 感觉",
+      "exampleSentenceId": "u11-article-s19"
+    },
+    {
+      "id": "u11-article-v109",
+      "term": "sun",
+      "meaningZh": "n. 太阳",
+      "exampleSentenceId": "u11-article-s19"
+    },
+    {
+      "id": "u11-article-v110",
+      "term": "face",
+      "meaningZh": "n. 脸",
+      "exampleSentenceId": "u11-article-s19"
+    },
+    {
+      "id": "u11-article-v111",
       "term": "jog",
-      "meaningZh": "慢跑",
+      "meaningZh": "v. 慢跑",
       "exampleSentenceId": "u11-article-s19"
     },
     {
+      "id": "u11-article-v112",
       "term": "fresh",
-      "meaningZh": "新鲜的",
+      "meaningZh": "adj. 清新的",
       "exampleSentenceId": "u11-article-s19"
     },
     {
-      "term": "tennis",
-      "meaningZh": "网球（运动）",
+      "id": "u11-article-v113",
+      "term": "air",
+      "meaningZh": "n. 空气",
+      "exampleSentenceId": "u11-article-s19"
+    },
+    {
+      "id": "u11-article-v114",
+      "term": "play",
+      "meaningZh": "v. 玩耍，打球",
       "exampleSentenceId": "u11-article-s20"
     },
     {
-      "term": "choice",
-      "meaningZh": "选择；选择权",
+      "id": "u11-article-v115",
+      "term": "tennis",
+      "meaningZh": "n. 网球",
+      "exampleSentenceId": "u11-article-s20"
+    },
+    {
+      "id": "u11-article-v116",
+      "term": "hiking",
+      "meaningZh": "n. 徒步旅行(hike的动名词)",
+      "exampleSentenceId": "u11-article-s20"
+    },
+    {
+      "id": "u11-article-v117",
+      "term": "talk",
+      "meaningZh": "v. 谈论",
+      "exampleSentenceId": "u11-article-s21"
+    },
+    {
+      "id": "u11-article-v118",
+      "term": "day",
+      "meaningZh": "n. 一天",
+      "exampleSentenceId": "u11-article-s21"
+    },
+    {
+      "id": "u11-article-v119",
+      "term": "family",
+      "meaningZh": "n. 家庭",
+      "exampleSentenceId": "u11-article-s21"
+    },
+    {
+      "id": "u11-article-v120",
+      "term": "is",
+      "meaningZh": "v. 是",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "id": "u11-article-v121",
+      "term": "ours",
+      "meaningZh": "pron. 我们的",
       "exampleSentenceId": "u11-article-s23"
     },
     {
-      "term": "ours",
-      "meaningZh": "（属于）我们的",
+      "id": "u11-article-v122",
+      "term": "don't",
+      "meaningZh": "v. 不要 (do not的缩略词)"
+    },
+    {
+      "id": "u11-article-v123",
+      "term": "of",
+      "meaningZh": "prep. ...的",
+      "exampleSentenceId": "u11-article-s11"
+    },
+    {
+      "id": "u11-article-v124",
+      "term": "with",
+      "meaningZh": "prep. 具有；用；和...一起",
+      "exampleSentenceId": "u11-article-s10"
+    },
+    {
+      "id": "u11-article-v125",
+      "term": "an",
+      "meaningZh": "art. 一个",
+      "exampleSentenceId": "u11-article-s2"
+    },
+    {
+      "id": "u11-article-v126",
+      "term": "monster's",
+      "meaningZh": "n. 怪兽的(monster的缩略词)",
+      "exampleSentenceId": "u11-article-s11"
+    },
+    {
+      "id": "u11-article-v127",
+      "term": "for",
+      "meaningZh": "prep. 为了；给；对于",
+      "exampleSentenceId": "u11-article-s3"
+    },
+    {
+      "id": "u11-article-v128",
+      "term": "about",
+      "meaningZh": "prep. 关于；大约",
+      "exampleSentenceId": "u11-article-s21"
+    },
+    {
+      "id": "u11-article-v129",
+      "term": "time-eating",
+      "meaningZh": "adj. 吞噬时间的，耗时的",
+      "exampleSentenceId": "u11-article-s16"
+    },
+    {
+      "id": "u11-article-v130",
+      "term": "it",
+      "meaningZh": "pron. 它",
+      "exampleSentenceId": "u11-article-s2"
+    },
+    {
+      "id": "u11-article-v131",
+      "term": "also",
+      "meaningZh": "adv. 也，而且",
+      "exampleSentenceId": "u11-article-s15"
+    },
+    {
+      "id": "u11-article-v132",
+      "term": "can",
+      "meaningZh": "v. aux. 能，可以",
+      "exampleSentenceId": "u11-article-s17"
+    },
+    {
+      "id": "u11-article-v133",
+      "term": "your",
+      "meaningZh": "pron. 你的，你们的",
+      "exampleSentenceId": "u11-article-s19"
+    },
+    {
+      "id": "u11-article-v134",
+      "term": "friends",
+      "meaningZh": "n. 朋友（friend的复数形式）",
+      "exampleSentenceId": "u11-article-s20"
+    },
+    {
+      "id": "u11-article-v135",
+      "term": "choice",
+      "meaningZh": "n. 选择",
       "exampleSentenceId": "u11-article-s23"
     }
   ],
@@ -485,162 +1159,950 @@
   ],
   "quoteCandidates": [],
   "lexicon": {
+    "have": {
+      "phonetic": "/hæv/",
+      "pos": "v.",
+      "meaningZh": "v. 有，已经",
+      "usageZh": "",
+      "example": ""
+    },
+    "you": {
+      "phonetic": "/ju/",
+      "pos": "pron.",
+      "meaningZh": "pron. 你，你们",
+      "usageZh": "",
+      "example": ""
+    },
+    "ever": {
+      "phonetic": "/ˈevə/",
+      "pos": "adv.",
+      "meaningZh": "adv. 曾经",
+      "usageZh": "",
+      "example": ""
+    },
+    "noticed": {
+      "phonetic": "/ˈnəʊtɪst/",
+      "pos": "v.",
+      "meaningZh": "v. 注意到(notice的过去分词)",
+      "usageZh": "",
+      "example": ""
+    },
+    "a": {
+      "phonetic": "/ə, eɪ/",
+      "pos": "art.",
+      "meaningZh": "art. 一个",
+      "usageZh": "",
+      "example": ""
+    },
     "monster": {
       "phonetic": "/ˈmɒnstə/",
       "pos": "n.",
-      "meaningZh": "怪兽；怪物"
+      "meaningZh": "n. 怪兽，怪物",
+      "usageZh": "",
+      "example": ""
+    },
+    "around": {
+      "phonetic": "/əˈraʊnd/",
+      "pos": "prep.",
+      "meaningZh": "prep. 在...周围",
+      "usageZh": "",
+      "example": ""
+    },
+    "us": {
+      "phonetic": "/ʌs/",
+      "pos": "pron.",
+      "meaningZh": "pron. 我们（宾格）",
+      "usageZh": "",
+      "example": ""
+    },
+    "it's": {
+      "phonetic": "/ɪts/",
+      "pos": "abbr.",
+      "meaningZh": "v. 它是 (it is的缩略词)",
+      "usageZh": "",
+      "example": ""
+    },
+    "not": {
+      "phonetic": "/nɒt/",
+      "pos": "adv.",
+      "meaningZh": "adv. 不",
+      "usageZh": "",
+      "example": ""
+    },
+    "big": {
+      "phonetic": "/bɪɡ/",
+      "pos": "adj.",
+      "meaningZh": "adj. 大的",
+      "usageZh": "",
+      "example": ""
+    },
+    "or": {
+      "phonetic": "/ɔː/",
+      "pos": "conj.",
+      "meaningZh": "conj. 或者",
+      "usageZh": "",
+      "example": ""
+    },
+    "scary": {
+      "phonetic": "/ˈskeəri/",
+      "pos": "adj.",
+      "meaningZh": "adj. 可怕的",
+      "usageZh": "",
+      "example": ""
+    },
+    "but": {
+      "phonetic": "/bʌt/",
+      "pos": "conj.",
+      "meaningZh": "conj. 但是",
+      "usageZh": "",
+      "example": ""
+    },
+    "very": {
+      "phonetic": "/ˈveri/",
+      "pos": "adv.",
+      "meaningZh": "adv. 非常",
+      "usageZh": "",
+      "example": ""
     },
     "dangerous": {
       "phonetic": "/ˈdeɪndʒərəs/",
       "pos": "adj.",
-      "meaningZh": "危险的"
+      "meaningZh": "adj. 危险的",
+      "usageZh": "",
+      "example": ""
     },
-    "social media": {
-      "pos": "n.",
-      "meaningZh": "社交媒体"
+    "this": {
+      "phonetic": "/ðɪs/",
+      "pos": "pron.",
+      "meaningZh": "pron. 这个",
+      "usageZh": "",
+      "example": ""
     },
-    "take over": {
+    "comes": {
+      "phonetic": "/kʌmz/",
       "pos": "v.",
-      "meaningZh": "接管；控制"
+      "meaningZh": "v. 来，出现(come的三单)",
+      "usageZh": "",
+      "example": ""
     },
-    "eat away": {
-      "pos": "v.",
-      "meaningZh": "逐渐吞噬；消耗"
+    "in": {
+      "phonetic": "/ɪn/",
+      "pos": "prep.",
+      "meaningZh": "prep. 在...里面",
+      "usageZh": "",
+      "example": ""
     },
-    "minute by minute": {
-      "pos": "phr.",
-      "meaningZh": "一分钟一分钟地；逐渐地"
-    },
-    "get lost": {
-      "pos": "v.",
-      "meaningZh": "迷失；沉迷"
-    },
-    "couch potato": {
-      "pos": "n.",
-      "meaningZh": "电视迷；整天窝在沙发上看电视的人"
-    },
-    "miss out on": {
-      "pos": "v.",
-      "meaningZh": "错过（机会/体验）"
-    },
-    "be deaf to": {
-      "pos": "phr.",
-      "meaningZh": "对……充耳不闻"
-    },
-    "balanced": {
-      "phonetic": "/ˈbælənst/",
+    "many": {
+      "phonetic": "/ˈmeni/",
       "pos": "adj.",
-      "meaningZh": "平衡的；均衡的"
+      "meaningZh": "adj. 许多的",
+      "usageZh": "",
+      "example": ""
     },
-    "choice": {
-      "phonetic": "/tʃɔɪs/",
+    "forms": {
+      "phonetic": "/fɔːmz/",
       "pos": "n.",
-      "meaningZh": "选择；抉择"
+      "meaningZh": "n. 形式，形状(form的名词复数)",
+      "usageZh": "",
+      "example": ""
     },
-    "form": {
-      "phonetic": "/fɔːrm/",
+    "games": {
+      "phonetic": "/ɡeɪmz/",
       "pos": "n.",
-      "meaningZh": "形式，方式",
-      "usageZh": "常见搭配：in the form of (以...的形式)；take the form of (采取...的形式)",
-      "example": "The application must be submitted in written form. (申请表必须以书面形式提交。)"
+      "meaningZh": "n. 游戏(game的名词复数)",
+      "usageZh": "",
+      "example": ""
     },
     "social": {
-      "phonetic": "/ˈsoʊʃl/",
+      "phonetic": "/ˈsəʊʃl/",
       "pos": "adj.",
-      "meaningZh": "社交的",
-      "usageZh": "常见搭配：social media (社交媒体)；social skills (社交技巧)",
-      "example": "She has good social skills. (她有很好的社交技巧。)"
+      "meaningZh": "adj. 社交的",
+      "usageZh": "",
+      "example": ""
     },
     "media": {
       "phonetic": "/ˈmiːdiə/",
       "pos": "n.",
-      "meaningZh": "媒体；传媒",
-      "usageZh": "常见搭配：mass media (大众传媒)；social media (社交媒体)",
-      "example": "The news was reported by all major media. (所有主要媒体都报道了这条新闻。)"
+      "meaningZh": "n. 媒体",
+      "usageZh": "",
+      "example": ""
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "pos": "conj.",
+      "meaningZh": "conj. 和，而且",
+      "usageZh": "",
+      "example": ""
+    },
+    "tv": {
+      "phonetic": "/ˌtiː ˈviː/",
+      "pos": "n.",
+      "meaningZh": "n. 电视",
+      "usageZh": "",
+      "example": ""
+    },
+    "shows": {
+      "phonetic": "/ʃəʊz/",
+      "pos": "n.",
+      "meaningZh": "n. 节目(show的名词复数)",
+      "usageZh": "",
+      "example": ""
+    },
+    "may": {
+      "phonetic": "/meɪ/",
+      "pos": "v.",
+      "meaningZh": "v. 可能",
+      "usageZh": "",
+      "example": ""
+    },
+    "ask": {
+      "phonetic": "/ɑːsk/",
+      "pos": "v.",
+      "meaningZh": "v. 询问",
+      "usageZh": "",
+      "example": ""
+    },
+    "brings": {
+      "phonetic": "/brɪŋz/",
+      "pos": "v.",
+      "meaningZh": "v. 带来(bring的三单)",
+      "usageZh": "",
+      "example": ""
+    },
+    "so": {
+      "phonetic": "/səʊ/",
+      "pos": "adv.",
+      "meaningZh": "adv. 所以",
+      "usageZh": "",
+      "example": ""
+    },
+    "much": {
+      "phonetic": "/mʌtʃ/",
+      "pos": "adj.",
+      "meaningZh": "adj. 许多的",
+      "usageZh": "",
+      "example": ""
+    },
+    "fun": {
+      "phonetic": "/fʌn/",
+      "pos": "n.",
+      "meaningZh": "n. 乐趣",
+      "usageZh": "",
+      "example": ""
+    },
+    "why": {
+      "phonetic": "/waɪ/",
+      "pos": "adv.",
+      "meaningZh": "adv. 为什么",
+      "usageZh": "",
+      "example": ""
+    },
+    "do": {
+      "phonetic": "/du/",
+      "pos": "v.",
+      "meaningZh": "v. 做",
+      "usageZh": "",
+      "example": ""
+    },
+    "say": {
+      "phonetic": "/seɪ/",
+      "pos": "v.",
+      "meaningZh": "v. 说",
+      "usageZh": "",
+      "example": ""
+    },
+    "at": {
+      "phonetic": "/æt/",
+      "pos": "prep.",
+      "meaningZh": "prep. 在",
+      "usageZh": "",
+      "example": ""
+    },
+    "first": {
+      "phonetic": "/fɜːst/",
+      "pos": "adv.",
+      "meaningZh": "adv. 首先",
+      "usageZh": "",
+      "example": ""
+    },
+    "we": {
+      "phonetic": "/wi/",
+      "pos": "pron.",
+      "meaningZh": "pron. 我们",
+      "usageZh": "",
+      "example": ""
+    },
+    "all": {
+      "phonetic": "/ɔːl/",
+      "pos": "adj.",
+      "meaningZh": "adj. 全部的",
+      "usageZh": "",
+      "example": ""
+    },
+    "think": {
+      "phonetic": "/θɪŋk/",
+      "pos": "v.",
+      "meaningZh": "v. 思考，认为",
+      "usageZh": "",
+      "example": ""
+    },
+    "i'll": {
+      "phonetic": "/aɪl/",
+      "pos": "abbr.",
+      "meaningZh": "v. 我将 (I will的缩略词)",
+      "usageZh": "",
+      "example": ""
+    },
+    "just": {
+      "phonetic": "/dʒʌst/",
+      "pos": "adv.",
+      "meaningZh": "adv. 仅仅",
+      "usageZh": "",
+      "example": ""
+    },
+    "little": {
+      "phonetic": "/ˈlɪtl/",
+      "pos": "adj.",
+      "meaningZh": "adj. 小的",
+      "usageZh": "",
+      "example": ""
+    },
+    "turn": {
+      "phonetic": "/tɜːn/",
+      "pos": "v.",
+      "meaningZh": "v. 转向，打开",
+      "usageZh": "",
+      "example": ""
+    },
+    "on": {
+      "phonetic": "/ɒn/",
+      "pos": "prep.",
+      "meaningZh": "prep. 在...之上",
+      "usageZh": "",
+      "example": ""
+    },
+    "the": {
+      "phonetic": "/ðə, ði/",
+      "pos": "art.",
+      "meaningZh": "art. 这，那",
+      "usageZh": "",
+      "example": ""
+    },
+    "computer": {
+      "phonetic": "/kəmˈpjuːtə/",
+      "pos": "n.",
+      "meaningZh": "n. 电脑",
+      "usageZh": "",
+      "example": ""
+    },
+    "start": {
+      "phonetic": "/stɑːt/",
+      "pos": "v.",
+      "meaningZh": "v. 开始",
+      "usageZh": "",
+      "example": ""
+    },
+    "game": {
+      "phonetic": "/ɡeɪm/",
+      "pos": "n.",
+      "meaningZh": "n. 游戏",
+      "usageZh": "",
+      "example": ""
+    },
+    "soon": {
+      "phonetic": "/suːn/",
+      "pos": "adv.",
+      "meaningZh": "adv. 很快",
+      "usageZh": "",
+      "example": ""
+    },
+    "takes": {
+      "phonetic": "/teɪks/",
+      "pos": "v.",
+      "meaningZh": "v. 拿走，接管(take的三单)",
+      "usageZh": "",
+      "example": ""
+    },
+    "over": {
+      "phonetic": "/ˈəʊvə/",
+      "pos": "adv.",
+      "meaningZh": "adv. 结束，越过",
+      "usageZh": "",
+      "example": ""
+    },
+    "starts": {
+      "phonetic": "/stɑːts/",
+      "pos": "v.",
+      "meaningZh": "v. 开始(start的三单)",
+      "usageZh": "",
+      "example": ""
+    },
+    "to": {
+      "phonetic": "/tu/",
+      "pos": "prep.",
+      "meaningZh": "prep. 到，向",
+      "usageZh": "",
+      "example": ""
+    },
+    "eat": {
+      "phonetic": "/iːt/",
+      "pos": "v.",
+      "meaningZh": "v. 吃",
+      "usageZh": "",
+      "example": ""
+    },
+    "away": {
+      "phonetic": "/əˈweɪ/",
+      "pos": "adv.",
+      "meaningZh": "adv. 离开",
+      "usageZh": "",
+      "example": ""
+    },
+    "our": {
+      "phonetic": "/ˈaʊə/",
+      "pos": "pron.",
+      "meaningZh": "pron. 我们的",
+      "usageZh": "",
+      "example": ""
+    },
+    "time": {
+      "phonetic": "/taɪm/",
+      "pos": "n.",
+      "meaningZh": "n. 时间",
+      "usageZh": "",
+      "example": ""
+    },
+    "minute": {
+      "phonetic": "/ˈmɪnɪt/",
+      "pos": "n.",
+      "meaningZh": "n. 分钟",
+      "usageZh": "",
+      "example": ""
+    },
+    "by": {
+      "phonetic": "/baɪ/",
+      "pos": "prep.",
+      "meaningZh": "prep. 通过，被",
+      "usageZh": "",
+      "example": ""
+    },
+    "sit": {
+      "phonetic": "/sɪt/",
+      "pos": "v.",
+      "meaningZh": "v. 坐",
+      "usageZh": "",
+      "example": ""
+    },
+    "there": {
+      "phonetic": "/ðeə/",
+      "pos": "adv.",
+      "meaningZh": "adv. 那里",
+      "usageZh": "",
+      "example": ""
+    },
+    "look": {
+      "phonetic": "/lʊk/",
+      "pos": "v.",
+      "meaningZh": "v. 看",
+      "usageZh": "",
+      "example": ""
     },
     "screen": {
       "phonetic": "/skriːn/",
       "pos": "n.",
-      "meaningZh": "屏幕",
-      "usageZh": "常见搭配：computer screen (电脑屏幕)；touch screen (触摸屏)",
-      "example": "Don't sit too close to the TV screen. (不要坐得离电视屏幕太近。)"
+      "meaningZh": "n. 屏幕",
+      "usageZh": "",
+      "example": ""
+    },
+    "without": {
+      "phonetic": "/wɪˈðaʊt/",
+      "pos": "prep.",
+      "meaningZh": "prep. 没有",
+      "usageZh": "",
+      "example": ""
+    },
+    "noticing": {
+      "phonetic": "/ˈnəʊtɪsɪŋ/",
+      "pos": "v.",
+      "meaningZh": "v. 注意到(notice的动名词)",
+      "usageZh": "",
+      "example": ""
+    },
+    "often": {
+      "phonetic": "/ˈɒfn/",
+      "pos": "adv.",
+      "meaningZh": "adv. 经常",
+      "usageZh": "",
+      "example": ""
+    },
+    "get": {
+      "phonetic": "/ɡet/",
+      "pos": "v.",
+      "meaningZh": "v. 得到，变得",
+      "usageZh": "",
+      "example": ""
+    },
+    "lost": {
+      "phonetic": "/lɒst/",
+      "pos": "adj.",
+      "meaningZh": "adj. 迷失的(lose的过去分词)",
+      "usageZh": "",
+      "example": ""
+    },
+    "world": {
+      "phonetic": "/wɜːld/",
+      "pos": "n.",
+      "meaningZh": "n. 世界",
+      "usageZh": "",
+      "example": ""
+    },
+    "like": {
+      "phonetic": "/laɪk/",
+      "pos": "prep.",
+      "meaningZh": "prep. 像",
+      "usageZh": "",
+      "example": ""
     },
     "become": {
       "phonetic": "/bɪˈkʌm/",
       "pos": "v.",
-      "meaningZh": "变成，变得",
-      "usageZh": "语法：become + adj./n. (变得.../成为...)",
-      "example": "He became a doctor after graduation. (他毕业后成为了一名医生。)"
+      "meaningZh": "v. 变成",
+      "usageZh": "",
+      "example": ""
     },
     "couch": {
       "phonetic": "/kaʊtʃ/",
       "pos": "n.",
-      "meaningZh": "长沙发",
-      "usageZh": "常见搭配：sofa couch (沙发床)；couch potato (电视迷)",
-      "example": "We bought a new leather couch for the living room. (我们为客厅买了一张新的皮沙发。)"
+      "meaningZh": "n. 长沙发",
+      "usageZh": "",
+      "example": ""
+    },
+    "potatoes": {
+      "phonetic": "/pəˈteɪtəʊz/",
+      "pos": "n.",
+      "meaningZh": "n. 土豆(potato的名词复数)",
+      "usageZh": "",
+      "example": ""
     },
     "sore": {
-      "phonetic": "/sɔːr/",
+      "phonetic": "/sɔː/",
       "pos": "adj.",
-      "meaningZh": "疼痛的；酸痛的",
-      "usageZh": "常见搭配：sore throat (喉咙痛)；sore muscles (肌肉酸痛)",
-      "example": "My legs are sore after the long walk. (长时间走路后我的腿很酸痛。)"
+      "meaningZh": "adj. 酸痛的",
+      "usageZh": "",
+      "example": ""
     },
-    "neck": {
-      "phonetic": "/nek/",
+    "necks": {
+      "phonetic": "/neks/",
       "pos": "n.",
-      "meaningZh": "颈，脖子",
-      "usageZh": "常见搭配：neck pain (脖子痛)；neck and neck (并驾齐驱)",
-      "example": "She wore a beautiful necklace around her neck. (她脖子上戴了一条漂亮的项链。)"
+      "meaningZh": "n. 脖子(neck的名词复数)",
+      "usageZh": "",
+      "example": ""
     },
-    "moment": {
-      "phonetic": "/ˈmoʊmənt/",
+    "dry": {
+      "phonetic": "/draɪ/",
+      "pos": "adj.",
+      "meaningZh": "adj. 干的，干涩的",
+      "usageZh": "",
+      "example": ""
+    },
+    "eyes": {
+      "phonetic": "/aɪz/",
       "pos": "n.",
-      "meaningZh": "某一时刻",
-      "usageZh": "常见搭配：at the moment (此刻)；wait a moment (稍等片刻)",
-      "example": "I'll be with you in a moment. (我马上就来。)"
+      "meaningZh": "n. 眼睛(eye的名词复数)",
+      "usageZh": "",
+      "example": ""
+    },
+    "miss": {
+      "phonetic": "/mɪs/",
+      "pos": "v.",
+      "meaningZh": "v. 错过，想念",
+      "usageZh": "",
+      "example": ""
+    },
+    "out": {
+      "phonetic": "/aʊt/",
+      "pos": "adv.",
+      "meaningZh": "adv. 出去",
+      "usageZh": "",
+      "example": ""
+    },
+    "sweet": {
+      "phonetic": "/swiːt/",
+      "pos": "adj.",
+      "meaningZh": "adj. 甜的，美好的",
+      "usageZh": "",
+      "example": ""
+    },
+    "moments": {
+      "phonetic": "/ˈməʊmənts/",
+      "pos": "n.",
+      "meaningZh": "n. 时刻(moment的名词复数)",
+      "usageZh": "",
+      "example": ""
+    },
+    "loved": {
+      "phonetic": "/lʌvd/",
+      "pos": "adj.",
+      "meaningZh": "adj. 被爱的(love的过去分词)",
+      "usageZh": "",
+      "example": ""
+    },
+    "ones": {
+      "phonetic": "/wʌnz/",
+      "pos": "pron.",
+      "meaningZh": "pron. 人，物(one的名词复数)",
+      "usageZh": "",
+      "example": ""
+    },
+    "are": {
+      "phonetic": "/ɑː/",
+      "pos": "v.",
+      "meaningZh": "v. 是",
+      "usageZh": "",
+      "example": ""
     },
     "deaf": {
       "phonetic": "/def/",
       "pos": "adj.",
-      "meaningZh": "耳聋的，失聪的",
-      "usageZh": "常见搭配：deaf people (聋人)；turn a deaf ear (充耳不闻)",
-      "example": "He has been deaf since childhood. (他从小就失聪了。)"
+      "meaningZh": "adj. 聋的，充耳不闻的",
+      "usageZh": "",
+      "example": ""
+    },
+    "real": {
+      "phonetic": "/rɪəl/",
+      "pos": "adj.",
+      "meaningZh": "adj. 真实的",
+      "usageZh": "",
+      "example": ""
+    },
+    "remember": {
+      "phonetic": "/rɪˈmembə/",
+      "pos": "v.",
+      "meaningZh": "v. 记住",
+      "usageZh": "",
+      "example": ""
+    },
+    "too": {
+      "phonetic": "/tuː/",
+      "pos": "adv.",
+      "meaningZh": "adv. 也",
+      "usageZh": "",
+      "example": ""
+    },
+    "makes": {
+      "phonetic": "/meɪks/",
+      "pos": "v.",
+      "meaningZh": "v. 使得(make的三单)",
+      "usageZh": "",
+      "example": ""
+    },
+    "jack": {
+      "phonetic": "/dʒæk/",
+      "pos": "n.",
+      "meaningZh": "n. 杰克",
+      "usageZh": "",
+      "example": ""
     },
     "dull": {
       "phonetic": "/dʌl/",
       "pos": "adj.",
-      "meaningZh": "愚笨的，迟钝的",
-      "usageZh": "常见搭配：dull student (迟钝的学生)；dull pain (隐痛)",
-      "example": "The lecture was so dull that many students fell asleep. (讲座太无聊了，很多学生都睡着了。)"
+      "meaningZh": "adj. 迟钝的，无聊的",
+      "usageZh": "",
+      "example": ""
+    },
+    "boy": {
+      "phonetic": "/bɔɪ/",
+      "pos": "n.",
+      "meaningZh": "n. 男孩",
+      "usageZh": "",
+      "example": ""
+    },
+    "will": {
+      "phonetic": "/wɪl/",
+      "pos": "v.",
+      "meaningZh": "v. 将",
+      "usageZh": "",
+      "example": ""
+    },
+    "always": {
+      "phonetic": "/ˈɔːlweɪz/",
+      "pos": "adv.",
+      "meaningZh": "adv. 总是",
+      "usageZh": "",
+      "example": ""
+    },
+    "be": {
+      "phonetic": "/bi/",
+      "pos": "v.",
+      "meaningZh": "v. 是",
+      "usageZh": "",
+      "example": ""
+    },
+    "keep": {
+      "phonetic": "/kiːp/",
+      "pos": "v.",
+      "meaningZh": "v. 保持",
+      "usageZh": "",
+      "example": ""
+    },
+    "having": {
+      "phonetic": "/ˈhævɪŋ/",
+      "pos": "v.",
+      "meaningZh": "v. 具有(have的动名词)",
+      "usageZh": "",
+      "example": ""
+    },
+    "balanced": {
+      "phonetic": "/ˈbælənst/",
+      "pos": "adj.",
+      "meaningZh": "adj. 平衡的(balance的过去分词)",
+      "usageZh": "",
+      "example": ""
+    },
+    "way": {
+      "phonetic": "/weɪ/",
+      "pos": "n.",
+      "meaningZh": "n. 方式",
+      "usageZh": "",
+      "example": ""
+    },
+    "stand": {
+      "phonetic": "/stænd/",
+      "pos": "v.",
+      "meaningZh": "v. 站立",
+      "usageZh": "",
+      "example": ""
+    },
+    "up": {
+      "phonetic": "/ʌp/",
+      "pos": "adv.",
+      "meaningZh": "adv. 向上",
+      "usageZh": "",
+      "example": ""
+    },
+    "leave": {
+      "phonetic": "/liːv/",
+      "pos": "v.",
+      "meaningZh": "v. 离开",
+      "usageZh": "",
+      "example": ""
+    },
+    "screens": {
+      "phonetic": "/skriːnz/",
+      "pos": "n.",
+      "meaningZh": "n. 屏幕(screen的名词复数)",
+      "usageZh": "",
+      "example": ""
+    },
+    "go": {
+      "phonetic": "/ɡəʊ/",
+      "pos": "v.",
+      "meaningZh": "v. 去",
+      "usageZh": "",
+      "example": ""
+    },
+    "outside": {
+      "phonetic": "/ˌaʊtˈsaɪd/",
+      "pos": "adv.",
+      "meaningZh": "adv. 在户外",
+      "usageZh": "",
+      "example": ""
+    },
+    "feel": {
+      "phonetic": "/fiːl/",
+      "pos": "v.",
+      "meaningZh": "v. 感觉",
+      "usageZh": "",
+      "example": ""
+    },
+    "sun": {
+      "phonetic": "/sʌn/",
+      "pos": "n.",
+      "meaningZh": "n. 太阳",
+      "usageZh": "",
+      "example": ""
+    },
+    "face": {
+      "phonetic": "/feɪs/",
+      "pos": "n.",
+      "meaningZh": "n. 脸",
+      "usageZh": "",
+      "example": ""
     },
     "jog": {
-      "phonetic": "/dʒɑːɡ/",
+      "phonetic": "/dʒɒɡ/",
       "pos": "v.",
-      "meaningZh": "慢跑",
-      "usageZh": "常见搭配：go jogging (去慢跑)；jog one's memory (唤起某人的记忆)",
-      "example": "He jogs in the park every morning. (他每天早上在公园慢跑。)"
+      "meaningZh": "v. 慢跑",
+      "usageZh": "",
+      "example": ""
     },
     "fresh": {
       "phonetic": "/freʃ/",
       "pos": "adj.",
-      "meaningZh": "新鲜的",
-      "usageZh": "常见搭配：fresh fruit (新鲜水果)；fresh air (新鲜空气)",
-      "example": "We need to buy some fresh vegetables. (我们需要买些新鲜蔬菜。)"
+      "meaningZh": "adj. 清新的",
+      "usageZh": "",
+      "example": ""
+    },
+    "air": {
+      "phonetic": "/eə/",
+      "pos": "n.",
+      "meaningZh": "n. 空气",
+      "usageZh": "",
+      "example": ""
+    },
+    "play": {
+      "phonetic": "/pleɪ/",
+      "pos": "v.",
+      "meaningZh": "v. 玩耍，打球",
+      "usageZh": "",
+      "example": ""
     },
     "tennis": {
       "phonetic": "/ˈtenɪs/",
       "pos": "n.",
-      "meaningZh": "网球（运动）",
-      "usageZh": "常见搭配：play tennis (打网球)；tennis court (网球场)",
-      "example": "They play tennis every weekend. (他们每个周末都打网球。)"
+      "meaningZh": "n. 网球",
+      "usageZh": "",
+      "example": ""
+    },
+    "hiking": {
+      "phonetic": "/ˈhaɪkɪŋ/",
+      "pos": "n.",
+      "meaningZh": "n. 徒步旅行(hike的动名词)",
+      "usageZh": "",
+      "example": ""
+    },
+    "talk": {
+      "phonetic": "/tɔːk/",
+      "pos": "v.",
+      "meaningZh": "v. 谈论",
+      "usageZh": "",
+      "example": ""
+    },
+    "day": {
+      "phonetic": "/deɪ/",
+      "pos": "n.",
+      "meaningZh": "n. 一天",
+      "usageZh": "",
+      "example": ""
+    },
+    "family": {
+      "phonetic": "/ˈfæməli/",
+      "pos": "n.",
+      "meaningZh": "n. 家庭",
+      "usageZh": "",
+      "example": ""
+    },
+    "is": {
+      "phonetic": "/ɪz/",
+      "pos": "v.",
+      "meaningZh": "v. 是",
+      "usageZh": "",
+      "example": ""
     },
     "ours": {
-      "phonetic": "/ˈaʊərz/",
+      "phonetic": "/ˈaʊəz/",
       "pos": "pron.",
-      "meaningZh": "（属于）我们的",
-      "usageZh": "语法：名词性物主代词，相当于our + n.",
-      "example": "This house is ours. (这房子是我们的。)"
+      "meaningZh": "pron. 我们的",
+      "usageZh": "",
+      "example": ""
+    },
+    "don't": {
+      "phonetic": "/dəʊnt/",
+      "pos": "abbr.",
+      "meaningZh": "v. 不要 (do not的缩略词)",
+      "usageZh": "",
+      "example": ""
+    },
+    "of": {
+      "phonetic": "/əv, ɒv/",
+      "pos": "prep.",
+      "meaningZh": "prep. ...的",
+      "usageZh": "",
+      "example": ""
+    },
+    "with": {
+      "phonetic": "/wɪð/",
+      "pos": "prep.",
+      "meaningZh": "prep. 具有；用；和...一起",
+      "usageZh": "",
+      "example": ""
+    },
+    "an": {
+      "phonetic": "/æn/",
+      "pos": "art.",
+      "meaningZh": "art. 一个",
+      "usageZh": "",
+      "example": ""
+    },
+    "monster's": {
+      "phonetic": "/ˈmɒnstəz/",
+      "pos": "n.",
+      "meaningZh": "n. 怪兽的(monster的缩略词)",
+      "usageZh": "",
+      "example": ""
+    },
+    "for": {
+      "phonetic": "/fɔː/",
+      "pos": "prep.",
+      "meaningZh": "prep. 为了；给；对于",
+      "usageZh": "",
+      "example": ""
+    },
+    "about": {
+      "phonetic": "/əˈbaʊt/",
+      "pos": "prep.",
+      "meaningZh": "prep. 关于；大约",
+      "usageZh": "",
+      "example": ""
+    },
+    "time-eating": {
+      "phonetic": "/taɪm-ˈiːtɪŋ/",
+      "pos": "adj.",
+      "meaningZh": "adj. 吞噬时间的，耗时的",
+      "usageZh": "",
+      "example": ""
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "pos": "pron.",
+      "meaningZh": "pron. 它",
+      "usageZh": "",
+      "example": ""
+    },
+    "also": {
+      "phonetic": "/ˈɔːlsəʊ/",
+      "pos": "adv.",
+      "meaningZh": "adv. 也，而且",
+      "usageZh": "",
+      "example": ""
+    },
+    "can": {
+      "phonetic": "/kæn/",
+      "pos": "v. aux.",
+      "meaningZh": "v. aux. 能，可以",
+      "usageZh": "",
+      "example": ""
+    },
+    "your": {
+      "phonetic": "/jɔː/",
+      "pos": "pron.",
+      "meaningZh": "pron. 你的，你们的",
+      "usageZh": "",
+      "example": ""
+    },
+    "friends": {
+      "phonetic": "/frendz/",
+      "pos": "n.",
+      "meaningZh": "n. 朋友（friend的复数形式）",
+      "usageZh": "",
+      "example": ""
+    },
+    "choice": {
+      "phonetic": "/tʃɔɪs/",
+      "pos": "n.",
+      "meaningZh": "n. 选择",
+      "usageZh": "",
+      "example": ""
     }
   }
 }

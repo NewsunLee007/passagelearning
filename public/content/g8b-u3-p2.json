@@ -3,7 +3,7 @@
     "schemaVersion": "2.0",
     "source": "八年级下册互动课文",
     "importedFrom": "Unit 3 Passage 2 No I in team（互动课文教学动画）英语新教材外研版八年级下册.html",
-    "importedAt": "2026-04-13T04:50:28.102Z"
+    "importedAt": "2026-04-15T05:40:35.225Z"
   },
   "article": {
     "id": "g8b-u3-p2",
@@ -315,6 +315,334 @@
   ],
   "vocabItems": [
     {
+      "id": "g8b-u3-p2-v1",
+      "term": "24",
+      "meaningZh": "二十四",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v2",
+      "term": "25",
+      "meaningZh": "二十五",
+      "exampleSentenceId": "g8b-u3-p2-s22"
+    },
+    {
+      "id": "g8b-u3-p2-v3",
+      "term": "1960",
+      "meaningZh": "一九六零年",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v4",
+      "term": "i'm",
+      "meaningZh": "我是（I am的缩写）",
+      "exampleSentenceId": "g8b-u3-p2-s10"
+    },
+    {
+      "id": "g8b-u3-p2-v5",
+      "term": "human",
+      "meaningZh": "人类",
+      "exampleSentenceId": "g8b-u3-p2-s11"
+    },
+    {
+      "id": "g8b-u3-p2-v6",
+      "term": "climb",
+      "meaningZh": "攀登",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v7",
+      "term": "ever",
+      "meaningZh": "曾经",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v8",
+      "term": "4:20",
+      "meaningZh": "四点二十",
+      "exampleSentenceId": "g8b-u3-p2-s22"
+    },
+    {
+      "id": "g8b-u3-p2-v9",
+      "term": "am",
+      "meaningZh": "上午",
+      "exampleSentenceId": "g8b-u3-p2-s11"
+    },
+    {
+      "id": "g8b-u3-p2-v10",
+      "term": "climbers",
+      "meaningZh": "登山者",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v11",
+      "term": "roof",
+      "meaningZh": "屋顶，顶部",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v12",
+      "term": "reach",
+      "meaningZh": "伸手可及的距离",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v13",
+      "term": "ladder",
+      "meaningZh": "梯子",
+      "exampleSentenceId": "g8b-u3-p2-s11"
+    },
+    {
+      "id": "g8b-u3-p2-v14",
+      "term": "lowered",
+      "meaningZh": "降低，放下（lower的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s12"
+    },
+    {
+      "id": "g8b-u3-p2-v15",
+      "term": "shoulders",
+      "meaningZh": "肩膀",
+      "exampleSentenceId": "g8b-u3-p2-s12"
+    },
+    {
+      "id": "g8b-u3-p2-v16",
+      "term": "oxygen",
+      "meaningZh": "氧气",
+      "exampleSentenceId": "g8b-u3-p2-s19"
+    },
+    {
+      "id": "g8b-u3-p2-v17",
+      "term": "dangerous",
+      "meaningZh": "危险的",
+      "exampleSentenceId": "g8b-u3-p2-s20"
+    },
+    {
+      "id": "g8b-u3-p2-v18",
+      "term": "effort",
+      "meaningZh": "努力",
+      "exampleSentenceId": "g8b-u3-p2-s21"
+    },
+    {
+      "id": "g8b-u3-p2-v19",
+      "term": "towering",
+      "meaningZh": "高耸的",
+      "exampleSentenceId": "g8b-u3-p2-s22"
+    },
+    {
+      "id": "g8b-u3-p2-v20",
+      "term": "ridge",
+      "meaningZh": "山脊",
+      "exampleSentenceId": "g8b-u3-p2-s24"
+    },
+    {
+      "id": "g8b-u3-p2-v21",
+      "term": "base",
+      "meaningZh": "基础，基地",
+      "exampleSentenceId": "g8b-u3-p2-s26"
+    },
+    {
+      "id": "g8b-u3-p2-v22",
+      "term": "camp",
+      "meaningZh": "营地",
+      "exampleSentenceId": "g8b-u3-p2-s26"
+    },
+    {
+      "id": "g8b-u3-p2-v23",
+      "term": "history",
+      "meaningZh": "历史",
+      "exampleSentenceId": "g8b-u3-p2-s27"
+    },
+    {
+      "id": "g8b-u3-p2-v24",
+      "term": "qomolangma",
+      "meaningZh": "珠穆朗玛峰",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v25",
+      "term": "shouldered",
+      "meaningZh": "肩负，扛起（shoulder的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s27"
+    },
+    {
+      "id": "g8b-u3-p2-v26",
+      "term": "teammates",
+      "meaningZh": "队友",
+      "exampleSentenceId": "g8b-u3-p2-s11"
+    },
+    {
+      "id": "g8b-u3-p2-v27",
+      "term": "strength",
+      "meaningZh": "力量",
+      "exampleSentenceId": "g8b-u3-p2-s9"
+    },
+    {
+      "id": "g8b-u3-p2-v28",
+      "term": "rope",
+      "meaningZh": "绳索",
+      "exampleSentenceId": "g8b-u3-p2-s16"
+    },
+    {
+      "id": "g8b-u3-p2-v29",
+      "term": "tired",
+      "meaningZh": "疲劳的",
+      "exampleSentenceId": "g8b-u3-p2-s17"
+    },
+    {
+      "id": "g8b-u3-p2-v30",
+      "term": "worried",
+      "meaningZh": "担心的",
+      "exampleSentenceId": "g8b-u3-p2-s18"
+    },
+    {
+      "id": "g8b-u3-p2-v31",
+      "term": "difficult",
+      "meaningZh": "困难的",
+      "exampleSentenceId": "g8b-u3-p2-s24"
+    },
+    {
+      "id": "g8b-u3-p2-v32",
+      "term": "returned",
+      "meaningZh": "返回（return的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s26"
+    },
+    {
+      "id": "g8b-u3-p2-v33",
+      "term": "welcomed",
+      "meaningZh": "受欢迎（welcome的过去分词）",
+      "exampleSentenceId": "g8b-u3-p2-s26"
+    },
+    {
+      "id": "g8b-u3-p2-v34",
+      "term": "cheered",
+      "meaningZh": "欢呼（cheer的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s26"
+    },
+    {
+      "id": "g8b-u3-p2-v35",
+      "term": "mountaineering",
+      "meaningZh": "登山运动",
+      "exampleSentenceId": "g8b-u3-p2-s27"
+    },
+    {
+      "id": "g8b-u3-p2-v36",
+      "term": "noon",
+      "meaningZh": "中午",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v37",
+      "term": "may",
+      "meaningZh": "五月",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v38",
+      "term": "stood",
+      "meaningZh": "站立（stand的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v39",
+      "term": "alone",
+      "meaningZh": "独自的",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v40",
+      "term": "world",
+      "meaningZh": "世界",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v41",
+      "term": "near",
+      "meaningZh": "靠近",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v42",
+      "term": "top",
+      "meaningZh": "顶部",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v43",
+      "term": "wall",
+      "meaningZh": "墙",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v44",
+      "term": "rock",
+      "meaningZh": "岩石",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v45",
+      "term": "called",
+      "meaningZh": "称呼（call的过去分词）",
+      "exampleSentenceId": "g8b-u3-p2-s3"
+    },
+    {
+      "id": "g8b-u3-p2-v46",
+      "term": "wang",
+      "meaningZh": "王（姓氏）",
+      "exampleSentenceId": "g8b-u3-p2-s16"
+    },
+    {
+      "id": "g8b-u3-p2-v47",
+      "term": "fuzhou",
+      "meaningZh": "富洲（名字）",
+      "exampleSentenceId": "g8b-u3-p2-s16"
+    },
+    {
+      "id": "g8b-u3-p2-v48",
+      "term": "liu",
+      "meaningZh": "刘（姓氏）",
+      "exampleSentenceId": "g8b-u3-p2-s6"
+    },
+    {
+      "id": "g8b-u3-p2-v49",
+      "term": "lianman",
+      "meaningZh": "连满（名字）",
+      "exampleSentenceId": "g8b-u3-p2-s6"
+    },
+    {
+      "id": "g8b-u3-p2-v50",
+      "term": "qu",
+      "meaningZh": "屈（姓氏）",
+      "exampleSentenceId": "g8b-u3-p2-s12"
+    },
+    {
+      "id": "g8b-u3-p2-v51",
+      "term": "yinhua",
+      "meaningZh": "银华（名字）",
+      "exampleSentenceId": "g8b-u3-p2-s12"
+    },
+    {
+      "id": "g8b-u3-p2-v52",
+      "term": "gong",
+      "meaningZh": "贡（姓氏）",
+      "exampleSentenceId": "g8b-u3-p2-s15"
+    },
+    {
+      "id": "g8b-u3-p2-v53",
+      "term": "bu",
+      "meaningZh": "布（名字）",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v54",
+      "term": "qi",
+      "meaningZh": "齐（姓氏）"
+    },
+    {
+      "id": "g8b-u3-p2-v55",
+      "term": "jingxi",
+      "meaningZh": "京西（名字）"
+    },
+    {
       "id": "g8b-u3-p2-v56",
       "term": "thirty-metre-high",
       "meaningZh": "三十米高的",
@@ -336,109 +664,604 @@
       "meaningZh": "大本营"
     },
     {
-      "term": "noon",
-      "meaningZh": "中午",
-      "exampleSentenceId": "g8b-u3-p2-s1"
+      "id": "g8b-u3-p2-v60",
+      "term": "second",
+      "meaningZh": "第二",
+      "exampleSentenceId": "g8b-u3-p2-s3"
     },
     {
-      "term": "climber",
-      "meaningZh": "登山运动员",
-      "exampleSentenceId": "g8b-u3-p2-s1"
+      "id": "g8b-u3-p2-v61",
+      "term": "step",
+      "meaningZh": "台阶",
+      "exampleSentenceId": "g8b-u3-p2-s3"
     },
     {
-      "term": "alone",
-      "meaningZh": "独自的",
-      "exampleSentenceId": "g8b-u3-p2-s1"
+      "id": "g8b-u3-p2-v62",
+      "term": "mount",
+      "meaningZh": "山",
+      "exampleSentenceId": "g8b-u3-p2-s4"
     },
     {
-      "term": "roof",
-      "meaningZh": "屋顶，顶部",
-      "exampleSentenceId": "g8b-u3-p2-s1"
+      "id": "g8b-u3-p2-v63",
+      "term": "seemed",
+      "meaningZh": "似乎（seem的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s4"
     },
     {
-      "term": "climb",
-      "meaningZh": "攀登",
-      "exampleSentenceId": "g8b-u3-p2-s1"
+      "id": "g8b-u3-p2-v64",
+      "term": "right",
+      "meaningZh": "正好",
+      "exampleSentenceId": "g8b-u3-p2-s4"
     },
     {
+      "id": "g8b-u3-p2-v65",
+      "term": "within",
+      "meaningZh": "在...之内",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v66",
+      "term": "climbed",
+      "meaningZh": "攀登（climb的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v67",
+      "term": "last",
+      "meaningZh": "最后的",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v68",
       "term": "few",
       "meaningZh": "很少的",
       "exampleSentenceId": "g8b-u3-p2-s5"
     },
     {
-      "term": "metre",
-      "meaningZh": "米，公尺",
+      "id": "g8b-u3-p2-v69",
+      "term": "metres",
+      "meaningZh": "米",
       "exampleSentenceId": "g8b-u3-p2-s5"
     },
     {
-      "term": "strength",
-      "meaningZh": "力量",
+      "id": "g8b-u3-p2-v70",
+      "term": "before",
+      "meaningZh": "以前",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v71",
+      "term": "led",
+      "meaningZh": "带领（lead的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s3"
+    },
+    {
+      "id": "g8b-u3-p2-v72",
+      "term": "way",
+      "meaningZh": "路",
+      "exampleSentenceId": "g8b-u3-p2-s6"
+    },
+    {
+      "id": "g8b-u3-p2-v73",
+      "term": "tried",
+      "meaningZh": "尝试（try的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s7"
+    },
+    {
+      "id": "g8b-u3-p2-v74",
+      "term": "times",
+      "meaningZh": "次数",
+      "exampleSentenceId": "g8b-u3-p2-s7"
+    },
+    {
+      "id": "g8b-u3-p2-v75",
+      "term": "each",
+      "meaningZh": "每个",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v76",
+      "term": "time",
+      "meaningZh": "时间，次",
+      "exampleSentenceId": "g8b-u3-p2-s7"
+    },
+    {
+      "id": "g8b-u3-p2-v77",
+      "term": "fell",
+      "meaningZh": "跌倒（fall的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s8"
+    },
+    {
+      "id": "g8b-u3-p2-v78",
+      "term": "back",
+      "meaningZh": "向后",
+      "exampleSentenceId": "g8b-u3-p2-s8"
+    },
+    {
+      "id": "g8b-u3-p2-v79",
+      "term": "into",
+      "meaningZh": "进入",
+      "exampleSentenceId": "g8b-u3-p2-s8"
+    },
+    {
+      "id": "g8b-u3-p2-v80",
+      "term": "snow",
+      "meaningZh": "雪",
+      "exampleSentenceId": "g8b-u3-p2-s8"
+    },
+    {
+      "id": "g8b-u3-p2-v81",
+      "term": "thin",
+      "meaningZh": "稀薄的",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v82",
+      "term": "air",
+      "meaningZh": "空气",
       "exampleSentenceId": "g8b-u3-p2-s9"
     },
     {
-      "term": "ladder",
-      "meaningZh": "梯子",
+      "id": "g8b-u3-p2-v83",
+      "term": "took",
+      "meaningZh": "拿走（take的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s9"
+    },
+    {
+      "id": "g8b-u3-p2-v84",
+      "term": "away",
+      "meaningZh": "离开",
+      "exampleSentenceId": "g8b-u3-p2-s9"
+    },
+    {
+      "id": "g8b-u3-p2-v85",
+      "term": "strong",
+      "meaningZh": "强壮的",
+      "exampleSentenceId": "g8b-u3-p2-s10"
+    },
+    {
+      "id": "g8b-u3-p2-v86",
+      "term": "enough",
+      "meaningZh": "足够地",
+      "exampleSentenceId": "g8b-u3-p2-s10"
+    },
+    {
+      "id": "g8b-u3-p2-v87",
+      "term": "try",
+      "meaningZh": "尝试",
+      "exampleSentenceId": "g8b-u3-p2-s10"
+    },
+    {
+      "id": "g8b-u3-p2-v88",
+      "term": "again",
+      "meaningZh": "再一次",
+      "exampleSentenceId": "g8b-u3-p2-s10"
+    },
+    {
+      "id": "g8b-u3-p2-v89",
+      "term": "thought",
+      "meaningZh": "想（think的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s10"
+    },
+    {
+      "id": "g8b-u3-p2-v90",
+      "term": "so",
+      "meaningZh": "所以",
       "exampleSentenceId": "g8b-u3-p2-s11"
     },
     {
-      "term": "teammate",
-      "meaningZh": "队友",
+      "id": "g8b-u3-p2-v91",
+      "term": "chose",
+      "meaningZh": "选择（choose的过去式）",
       "exampleSentenceId": "g8b-u3-p2-s11"
     },
     {
-      "term": "lower",
-      "meaningZh": "把（某物）移低，降下",
+      "id": "g8b-u3-p2-v92",
+      "term": "body",
+      "meaningZh": "身体",
       "exampleSentenceId": "g8b-u3-p2-s12"
     },
     {
-      "term": "shoulder",
-      "meaningZh": "肩膀",
+      "id": "g8b-u3-p2-v93",
+      "term": "let",
+      "meaningZh": "让",
       "exampleSentenceId": "g8b-u3-p2-s12"
     },
     {
+      "id": "g8b-u3-p2-v94",
+      "term": "stand",
+      "meaningZh": "站立",
+      "exampleSentenceId": "g8b-u3-p2-s12"
+    },
+    {
+      "id": "g8b-u3-p2-v95",
+      "term": "slowly",
+      "meaningZh": "慢慢地",
+      "exampleSentenceId": "g8b-u3-p2-s13"
+    },
+    {
+      "id": "g8b-u3-p2-v96",
+      "term": "bit",
+      "meaningZh": "一点",
+      "exampleSentenceId": "g8b-u3-p2-s13"
+    },
+    {
+      "id": "g8b-u3-p2-v97",
+      "term": "up",
+      "meaningZh": "向上",
+      "exampleSentenceId": "g8b-u3-p2-s13"
+    },
+    {
+      "id": "g8b-u3-p2-v98",
+      "term": "helped",
+      "meaningZh": "帮助（help的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s13"
+    },
+    {
+      "id": "g8b-u3-p2-v99",
+      "term": "still",
+      "meaningZh": "静止的",
+      "exampleSentenceId": "g8b-u3-p2-s14"
+    },
+    {
+      "id": "g8b-u3-p2-v100",
+      "term": "did",
+      "meaningZh": "做（do的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s15"
+    },
+    {
+      "id": "g8b-u3-p2-v101",
+      "term": "same",
+      "meaningZh": "相同的",
+      "exampleSentenceId": "g8b-u3-p2-s15"
+    },
+    {
+      "id": "g8b-u3-p2-v102",
+      "term": "then",
+      "meaningZh": "然后",
+      "exampleSentenceId": "g8b-u3-p2-s16"
+    },
+    {
+      "id": "g8b-u3-p2-v103",
+      "term": "with",
+      "meaningZh": "用，随着",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v104",
+      "term": "keep",
+      "meaningZh": "保持",
+      "exampleSentenceId": "g8b-u3-p2-s17"
+    },
+    {
+      "id": "g8b-u3-p2-v105",
+      "term": "going",
+      "meaningZh": "进行",
+      "exampleSentenceId": "g8b-u3-p2-s17"
+    },
+    {
+      "id": "g8b-u3-p2-v106",
+      "term": "team",
+      "meaningZh": "团队",
+      "exampleSentenceId": "g8b-u3-p2-s11"
+    },
+    {
+      "id": "g8b-u3-p2-v107",
+      "term": "had",
+      "meaningZh": "必须（have的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v108",
+      "term": "carry",
+      "meaningZh": "携带，继续",
+      "exampleSentenceId": "g8b-u3-p2-s18"
+    },
+    {
+      "id": "g8b-u3-p2-v109",
+      "term": "on",
+      "meaningZh": "继续",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v110",
+      "term": "gave",
+      "meaningZh": "给（give的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s19"
+    },
+    {
+      "id": "g8b-u3-p2-v111",
+      "term": "all",
+      "meaningZh": "所有的",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v112",
+      "term": "their",
+      "meaningZh": "他们的",
+      "exampleSentenceId": "g8b-u3-p2-s19"
+    },
+    {
+      "id": "g8b-u3-p2-v113",
+      "term": "without",
+      "meaningZh": "没有",
+      "exampleSentenceId": "g8b-u3-p2-s20"
+    },
+    {
+      "id": "g8b-u3-p2-v114",
+      "term": "knew",
+      "meaningZh": "知道（know的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s20"
+    },
+    {
+      "id": "g8b-u3-p2-v115",
+      "term": "needed",
+      "meaningZh": "需要（need的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s20"
+    },
+    {
+      "id": "g8b-u3-p2-v116",
+      "term": "made",
+      "meaningZh": "做（make的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s21"
+    },
+    {
+      "id": "g8b-u3-p2-v117",
+      "term": "every",
+      "meaningZh": "每一个",
+      "exampleSentenceId": "g8b-u3-p2-s14"
+    },
+    {
+      "id": "g8b-u3-p2-v118",
       "term": "painful",
       "meaningZh": "痛苦的",
       "exampleSentenceId": "g8b-u3-p2-s14"
     },
     {
-      "term": "rope",
-      "meaningZh": "绳索",
-      "exampleSentenceId": "g8b-u3-p2-s16"
-    },
-    {
-      "term": "dangerous",
-      "meaningZh": "危险的",
-      "exampleSentenceId": "g8b-u3-p2-s20"
-    },
-    {
-      "term": "effort",
-      "meaningZh": "努力",
+      "id": "g8b-u3-p2-v119",
+      "term": "through",
+      "meaningZh": "穿过",
       "exampleSentenceId": "g8b-u3-p2-s21"
     },
     {
+      "id": "g8b-u3-p2-v120",
+      "term": "cold",
+      "meaningZh": "寒冷的",
+      "exampleSentenceId": "g8b-u3-p2-s21"
+    },
+    {
+      "id": "g8b-u3-p2-v121",
+      "term": "dark",
+      "meaningZh": "黑暗的",
+      "exampleSentenceId": "g8b-u3-p2-s21"
+    },
+    {
+      "id": "g8b-u3-p2-v122",
+      "term": "hours",
+      "meaningZh": "小时",
+      "exampleSentenceId": "g8b-u3-p2-s22"
+    },
+    {
+      "id": "g8b-u3-p2-v123",
+      "term": "later",
+      "meaningZh": "后来",
+      "exampleSentenceId": "g8b-u3-p2-s22"
+    },
+    {
+      "id": "g8b-u3-p2-v124",
+      "term": "reached",
+      "meaningZh": "到达（reach的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s22"
+    },
+    {
+      "id": "g8b-u3-p2-v125",
+      "term": "mountain",
+      "meaningZh": "山",
+      "exampleSentenceId": "g8b-u3-p2-s22"
+    },
+    {
+      "id": "g8b-u3-p2-v126",
+      "term": "first",
+      "meaningZh": "第一",
+      "exampleSentenceId": "g8b-u3-p2-s23"
+    },
+    {
+      "id": "g8b-u3-p2-v127",
+      "term": "chinese",
+      "meaningZh": "中国人",
+      "exampleSentenceId": "g8b-u3-p2-s23"
+    },
+    {
+      "id": "g8b-u3-p2-v128",
+      "term": "do",
+      "meaningZh": "做",
+      "exampleSentenceId": "g8b-u3-p2-s23"
+    },
+    {
+      "id": "g8b-u3-p2-v129",
+      "term": "also",
+      "meaningZh": "也",
+      "exampleSentenceId": "g8b-u3-p2-s24"
+    },
+    {
+      "id": "g8b-u3-p2-v130",
+      "term": "people",
+      "meaningZh": "人们",
+      "exampleSentenceId": "g8b-u3-p2-s24"
+    },
+    {
+      "id": "g8b-u3-p2-v131",
       "term": "north",
       "meaningZh": "北",
       "exampleSentenceId": "g8b-u3-p2-s24"
     },
     {
-      "term": "base",
-      "meaningZh": "基础，基地",
+      "id": "g8b-u3-p2-v132",
+      "term": "what's",
+      "meaningZh": "是什么",
+      "exampleSentenceId": "g8b-u3-p2-s25"
+    },
+    {
+      "id": "g8b-u3-p2-v133",
+      "term": "more",
+      "meaningZh": "更多",
+      "exampleSentenceId": "g8b-u3-p2-s25"
+    },
+    {
+      "id": "g8b-u3-p2-v134",
+      "term": "no",
+      "meaningZh": "没有",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v135",
+      "term": "one",
+      "meaningZh": "一个人",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v136",
+      "term": "done",
+      "meaningZh": "做（do的过去分词）",
+      "exampleSentenceId": "g8b-u3-p2-s25"
+    },
+    {
+      "id": "g8b-u3-p2-v137",
+      "term": "using",
+      "meaningZh": "使用",
+      "exampleSentenceId": "g8b-u3-p2-s25"
+    },
+    {
+      "id": "g8b-u3-p2-v138",
+      "term": "when",
+      "meaningZh": "当...时候",
       "exampleSentenceId": "g8b-u3-p2-s26"
     },
     {
-      "term": "camp",
-      "meaningZh": "营地",
-      "exampleSentenceId": "g8b-u3-p2-s26"
+      "id": "g8b-u3-p2-v139",
+      "term": "by",
+      "meaningZh": "被",
+      "exampleSentenceId": "g8b-u3-p2-s13"
     },
     {
-      "term": "cheer",
-      "meaningZh": "（为……）欢呼，喝彩；（为……）加油",
-      "exampleSentenceId": "g8b-u3-p2-s26"
+      "id": "g8b-u3-p2-v140",
+      "term": "for",
+      "meaningZh": "为了",
+      "exampleSentenceId": "g8b-u3-p2-s5"
     },
     {
-      "term": "mountaineering",
-      "meaningZh": "登山运动",
+      "id": "g8b-u3-p2-v141",
+      "term": "too",
+      "meaningZh": "也",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v142",
+      "term": "not",
+      "meaningZh": "不",
+      "exampleSentenceId": "g8b-u3-p2-s10"
+    },
+    {
+      "id": "g8b-u3-p2-v143",
+      "term": "but",
+      "meaningZh": "但是",
+      "exampleSentenceId": "g8b-u3-p2-s5"
+    },
+    {
+      "id": "g8b-u3-p2-v144",
+      "term": "his",
+      "meaningZh": "他的",
+      "exampleSentenceId": "g8b-u3-p2-s9"
+    },
+    {
+      "id": "g8b-u3-p2-v145",
+      "term": "china's",
+      "meaningZh": "中国的",
       "exampleSentenceId": "g8b-u3-p2-s27"
+    },
+    {
+      "id": "g8b-u3-p2-v146",
+      "term": "at",
+      "meaningZh": "在",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v147",
+      "term": "four",
+      "meaningZh": "四",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v148",
+      "term": "the",
+      "meaningZh": "这，那",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v149",
+      "term": "of",
+      "meaningZh": "...的",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v150",
+      "term": "they",
+      "meaningZh": "他们",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v151",
+      "term": "were",
+      "meaningZh": "是（are的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s2"
+    },
+    {
+      "id": "g8b-u3-p2-v152",
+      "term": "a",
+      "meaningZh": "一个",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v153",
+      "term": "it",
+      "meaningZh": "它",
+      "exampleSentenceId": "g8b-u3-p2-s3"
+    },
+    {
+      "id": "g8b-u3-p2-v154",
+      "term": "was",
+      "meaningZh": "是（is的过去式）",
+      "exampleSentenceId": "g8b-u3-p2-s3"
+    },
+    {
+      "id": "g8b-u3-p2-v155",
+      "term": "he",
+      "meaningZh": "他",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v156",
+      "term": "to",
+      "meaningZh": "去，向",
+      "exampleSentenceId": "g8b-u3-p2-s1"
+    },
+    {
+      "id": "g8b-u3-p2-v157",
+      "term": "and",
+      "meaningZh": "和",
+      "exampleSentenceId": "g8b-u3-p2-s12"
+    },
+    {
+      "id": "g8b-u3-p2-v158",
+      "term": "in",
+      "meaningZh": "在...里面",
+      "exampleSentenceId": "g8b-u3-p2-s4"
+    },
+    {
+      "id": "g8b-u3-p2-v159",
+      "term": "i",
+      "meaningZh": "我",
+      "exampleSentenceId": "g8b-u3-p2-s1"
     }
   ],
   "sentenceTasks": [],
@@ -1782,48 +2605,6 @@
       "usageZh": "",
       "example": "",
       "audioUrlOverride": "https://musk-online.fbcontent.cn/pub-musk-ai-studio/workflow/file/audio/LbMs8Q7oyRXGqAfcdKHc5d.mp3"
-    },
-    "climber": {
-      "phonetic": "/ˈklaɪmər/",
-      "pos": "n.",
-      "meaningZh": "登山运动员",
-      "usageZh": "常见搭配：mountain climber (登山者)",
-      "example": "The climber reached the summit at dawn. (登山运动员在黎明时分登顶。)"
-    },
-    "metre": {
-      "phonetic": "/ˈmiːtər/",
-      "pos": "n.",
-      "meaningZh": "米，公尺",
-      "usageZh": "常用作长度单位，复数形式为metres",
-      "example": "The swimming pool is 25 metres long. (这个游泳池长25米。)"
-    },
-    "teammate": {
-      "phonetic": "/ˈtiːmmeɪt/",
-      "pos": "n.",
-      "meaningZh": "队友",
-      "usageZh": "常见搭配：work with teammates (与队友合作)",
-      "example": "My teammate passed me the ball. (我的队友把球传给了我。)"
-    },
-    "lower": {
-      "phonetic": "/ˈləʊər/",
-      "pos": "v.",
-      "meaningZh": "把（某物）移低，降下",
-      "usageZh": "及物动词，后接宾语",
-      "example": "Please lower your voice in the library. (请在图书馆里降低音量。)"
-    },
-    "shoulder": {
-      "phonetic": "/ˈʃəʊldər/",
-      "pos": "n.",
-      "meaningZh": "肩膀",
-      "usageZh": "常见搭配：shoulder to shoulder (肩并肩)",
-      "example": "He carried the heavy bag on his shoulder. (他把沉重的包扛在肩上。)"
-    },
-    "cheer": {
-      "phonetic": "/tʃɪər/",
-      "pos": "v.",
-      "meaningZh": "（为……）欢呼，喝彩；（为……）加油",
-      "usageZh": "常见搭配：cheer for someone (为某人加油)",
-      "example": "We cheered loudly when our team scored. (当我们队得分时，我们大声欢呼。)"
     }
   }
 }
