@@ -48,6 +48,7 @@ export function AppLayout() {
     window.localStorage.removeItem("studentName");
     window.localStorage.removeItem("classId");
     window.localStorage.removeItem("userId");
+    window.localStorage.removeItem("schoolCode");
     nav("/login");
   }
 
@@ -121,7 +122,7 @@ export function AppLayout() {
               {!isHome && (
                 <Link
                   to={session.studentName ? "/dashboard" : "/login"}
-                  className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white"
+                  className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-3 py-1.5 text-[13px] font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white sm:px-4 sm:py-2 sm:text-sm"
                 >
                   返回主页
                 </Link>
@@ -130,20 +131,46 @@ export function AppLayout() {
                 href="https://wordflow.newsunenglish.com/"
                 target="_blank"
                 rel="noreferrer"
-                className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-semibold text-primary transition hover:border-slate-300 hover:bg-white"
+                className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-3 py-1.5 text-[13px] font-semibold text-primary transition hover:border-slate-300 hover:bg-white sm:px-4 sm:py-2 sm:text-sm"
               >
                 词汇学习
               </a>
               <Link
                 to="/t/login"
-                className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white"
+                className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-3 py-1.5 text-[13px] font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white sm:px-4 sm:py-2 sm:text-sm"
               >
                 教师端口
               </Link>
+              {session.studentName ? (
+                <Link
+                  to="/pronunciation"
+                  className={[
+                    "whitespace-nowrap rounded-full border px-3 py-1.5 text-[13px] font-semibold transition sm:px-4 sm:py-2 sm:text-sm",
+                    location.pathname.startsWith("/pronunciation") || location.pathname.includes("/pronunciation")
+                      ? "border-emerald-600/20 bg-emerald-600 text-white shadow-[0_12px_28px_rgba(5,150,105,0.22)]"
+                      : "border-slate-200 bg-white/86 text-slate-700 hover:border-slate-300 hover:bg-white"
+                  ].join(" ")}
+                >
+                  跟读挑战
+                </Link>
+              ) : null}
+              {session.studentName ? (
+                <Link
+                  to="/leaderboard"
+                  className={[
+                    "whitespace-nowrap rounded-full border px-3 py-1.5 text-[13px] font-semibold transition sm:px-4 sm:py-2 sm:text-sm",
+                    location.pathname.startsWith("/leaderboard")
+                      ? "border-accent/20 bg-accent text-white shadow-[0_12px_28px_rgba(217,130,76,0.22)]"
+                      : "border-slate-200 bg-white/86 text-slate-700 hover:border-slate-300 hover:bg-white"
+                  ].join(" ")}
+                >
+                  积分榜
+                </Link>
+              ) : null}
               <button
                 type="button"
                 className={[
-                  "whitespace-nowrap rounded-full border px-4 py-2 text-sm font-semibold transition",
+                  "whitespace-nowrap rounded-full border px-3 py-1.5 text-[13px] font-semibold transition sm:px-4 sm:py-2 sm:text-sm",
                   mode === "classroom"
                     ? "border-primary/10 bg-primary/10 text-primary shadow-[0_12px_28px_rgba(47,110,99,0.12)]"
                     : "border-slate-200 bg-white/86 text-slate-700 hover:border-slate-300 hover:bg-white"
@@ -154,7 +181,7 @@ export function AppLayout() {
                 大屏展示
               </button>
               {session.studentName ? (
-                <div className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700">
+                <div className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-3 py-1.5 text-[13px] font-semibold text-slate-700 sm:px-4 sm:py-2 sm:text-sm">
                   {[session.className, session.studentName].filter(Boolean).join(" · ")}
                 </div>
               ) : null}
@@ -162,7 +189,7 @@ export function AppLayout() {
                 <Link
                   to="/me/report"
                   className={[
-                    "whitespace-nowrap rounded-full border px-4 py-2 text-sm font-semibold transition",
+                    "whitespace-nowrap rounded-full border px-3 py-1.5 text-[13px] font-semibold transition sm:px-4 sm:py-2 sm:text-sm",
                     location.pathname.startsWith("/me/report")
                       ? "border-primary/10 bg-primary text-white shadow-[0_12px_28px_rgba(47,110,99,0.22)]"
                       : "border-slate-200 bg-white/86 text-slate-700 hover:border-slate-300 hover:bg-white"
@@ -175,7 +202,7 @@ export function AppLayout() {
                 <button
                   type="button"
                   onClick={switchAccount}
-                  className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white"
+                  className="whitespace-nowrap rounded-full border border-slate-200 bg-white/86 px-3 py-1.5 text-[13px] font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white sm:px-4 sm:py-2 sm:text-sm"
                 >
                   退出
                 </button>

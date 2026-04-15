@@ -1,26 +1,34 @@
 import { getSql, ensureBody, methodNotAllowed, sendError, sendJson } from "../_lib/db.js";
 
-function buildStudentId(className, studentName) {
-  return `student:${className.trim()}:${studentName.trim()}`.toLowerCase();
+function normalizeSchoolCode(value) {
+  return String(value || "").trim().toLowerCase();
+}
+
+function buildStudentId(className, studentName, schoolCode) {
+  const school = normalizeSchoolCode(schoolCode);
+  const prefix = school ? `student:${school}:` : "student:";
+  return `${prefix}${className.trim()}:${studentName.trim()}`.toLowerCase();
 }
 
 export default async function handler(req, res) {
   if (req.method !== "POST") return methodNotAllowed(res, ["POST"]);
 
   try {
-    const { className = "", studentName = "" } = await ensureBody(req);
+    const { className = "", studentName = "", schoolCode = "" } = await ensureBody(req);
     const classLabel = className.trim();
     const studentLabel = studentName.trim();
+    const school = normalizeSchoolCode(schoolCode);
 
     if (!classLabel || !studentLabel) {
       return sendError(res, 400, "Class name and student name are required.");
     }
 
+    const classKey = school ? `${school}:${classLabel}` : classLabel;
     const sql = getSql();
     const existingClass = await sql`
       select id, name
       from classes
-      where name = ${classLabel}
+      where name = ${classKey}
       limit 1
     `;
 
@@ -29,12 +37,12 @@ export default async function handler(req, res) {
       (
         await sql`
           insert into classes (name)
-          values (${classLabel})
+          values (${classKey})
           returning id, name
         `
       )[0];
 
-    const userId = buildStudentId(classLabel, studentLabel);
+    const userId = buildStudentId(classLabel, studentLabel, school);
 
     await sql`
       insert into profiles (id, class_id, name, role)
@@ -47,11 +55,11 @@ export default async function handler(req, res) {
     return sendJson(res, 200, {
       userId,
       classId: classRow.id,
-      className: classRow.name,
+      className: classLabel,
+      schoolCode: school,
       studentName: studentLabel
     });
   } catch (error) {
     return sendError(res, 500, error instanceof Error ? error.message : "Student login failed.");
   }
 }
-

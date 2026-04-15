@@ -7,6 +7,7 @@ import { TextbookDirectory } from "../components/TextbookDirectory";
 
 export function LoginRoute() {
   const nav = useNavigate();
+  const [schoolCode, setSchoolCode] = useState(() => window.localStorage.getItem("schoolCode") ?? "");
   const [className, setClassName] = useState(() => window.localStorage.getItem("className") ?? "");
   const [studentName, setStudentName] = useState(() => window.localStorage.getItem("studentName") ?? "");
   const [submitting, setSubmitting] = useState(false);
@@ -20,7 +21,7 @@ export function LoginRoute() {
     setSubmitting(true);
     setErrMsg(null);
     try {
-      await loginWithClassAndName({ className, studentName });
+      await loginWithClassAndName({ className, studentName, schoolCode });
       nav("/dashboard");
     } catch (e: unknown) {
       setErrMsg(String((e as { message?: string })?.message ?? e));
@@ -70,7 +71,10 @@ export function LoginRoute() {
             <div className="text-sm font-medium text-slate-700">学校 / 机构代码 (选填)</div>
             <input
               className="mt-1.5 w-full rounded-[1rem] border border-slate-200 bg-slate-50/80 px-4 py-2.5 text-base outline-none transition focus:border-primary/30 focus:bg-white focus:ring-4 focus:ring-primary/10"
+              value={schoolCode}
+              onChange={(e) => setSchoolCode(e.target.value)}
               placeholder="例如：newsun"
+              autoComplete="organization"
             />
           </label>
 
@@ -109,11 +113,12 @@ export function LoginRoute() {
             <button
               type="button"
               onClick={async () => {
+                setSchoolCode("");
                 setClassName("000");
                 setStudentName("体验用户");
                 setSubmitting(true);
                 try {
-                  await loginWithClassAndName({ className: "000", studentName: "体验用户" });
+                  await loginWithClassAndName({ className: "000", studentName: "体验用户", schoolCode: "" });
                   nav("/dashboard");
                 } catch (e: unknown) {
                   setErrMsg(String((e as { message?: string })?.message ?? e));

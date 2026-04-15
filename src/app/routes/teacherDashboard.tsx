@@ -123,7 +123,7 @@ export function TeacherDashboardRoute() {
           >
             {classes.map((classRow) => (
               <option key={classRow.id} value={classRow.id}>
-                {classRow.name}
+                {classRow.name.includes(":") ? `${classRow.name.split(":")[1]} (${classRow.name.split(":")[0]})` : classRow.name}
               </option>
             ))}
           </select>
@@ -135,7 +135,7 @@ export function TeacherDashboardRoute() {
         <div className="mt-6 grid gap-4 sm:grid-cols-2 md:grid-cols-3">
           <Stat label="学生数" value={studentsCount == null ? "—" : String(studentsCount)} />
           <Stat label="最近 500 次提交" value={String(stats.totalAttempts)} />
-          <Stat label="跟读得分" value={stats.pronunciationRate == null ? "—" : `${stats.pronunciationRate}`} />
+          <Stat label="跟读平均分" value={stats.pronunciationRate == null ? "—" : `${stats.pronunciationRate}分`} />
           <Stat label="词汇正确率" value={stats.vocabRate == null ? "—" : `${stats.vocabRate}%`} />
           <Stat label="拆句正确率" value={stats.sentenceRate == null ? "—" : `${stats.sentenceRate}%`} />
           <Stat label="阅读正确率" value={stats.readingRate == null ? "—" : `${stats.readingRate}%`} />

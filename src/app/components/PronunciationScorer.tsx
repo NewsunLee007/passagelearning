@@ -1,13 +1,25 @@
 import { useEffect } from "react";
-import { usePronunciation } from "../../features/audio/usePronunciation";
+import { usePronunciation, type PronunciationResult } from "../../features/audio/usePronunciation";
 
-export function PronunciationScorer({ referenceText, onClose, onScoreSaved }: { referenceText: string; onClose?: () => void; onScoreSaved?: (score: number) => void }) {
+export type PronunciationScoreSavedPayload = {
+  score: number;
+  result: PronunciationResult;
+};
+
+export function PronunciationScorer({
+  referenceText,
+  onClose,
+  onScoreSaved
+}: {
+  referenceText: string;
+  onClose?: () => void;
+  onScoreSaved?: (payload: PronunciationScoreSavedPayload) => void;
+}) {
   const { state, result, errorMsg, startRecording, stopRecording, cancelRecording } = usePronunciation();
 
   useEffect(() => {
     if (state === "done" && result && onScoreSaved) {
-      // result.accuracyScore 已经是百分制 (0-100)，为了跟其他得分保持一致，我们将其除以100存为小数
-      onScoreSaved(result.accuracyScore / 100);
+      onScoreSaved({ score: result.accuracyScore / 100, result });
     }
   }, [state, result, onScoreSaved]);
 
@@ -20,11 +32,10 @@ export function PronunciationScorer({ referenceText, onClose, onScoreSaved }: { 
     if (onClose) onClose();
   };
 
-  // 映射分数到颜色
   const getScoreColor = (score: number) => {
-    if (score >= 80) return "text-emerald-600 bg-emerald-50"; // 优秀
-    if (score >= 60) return "text-amber-600 bg-amber-50";     // 良好
-    return "text-rose-600 bg-rose-50 underline decoration-rose-300 decoration-wavy"; // 需改进
+    if (score >= 80) return "text-emerald-600 bg-emerald-50";
+    if (score >= 60) return "text-amber-600 bg-amber-50";
+    return "text-rose-600 bg-rose-50 underline decoration-rose-300 decoration-wavy";
   };
 
   return (
@@ -104,16 +115,15 @@ export function PronunciationScorer({ referenceText, onClose, onScoreSaved }: { 
 
       {state === "done" && result && (
         <div className="space-y-4 animate-fade-in">
-          {/* 总分展示 */}
-          <div className="flex items-center justify-center gap-6 rounded-[1.5rem] bg-white p-5 shadow-sm">
+          <div className="flex flex-col items-center justify-center gap-4 rounded-[1.5rem] bg-white p-5 shadow-sm sm:flex-row sm:gap-6">
             <div className="text-center">
               <div className="text-[10px] font-bold uppercase tracking-widest text-slate-400">综合得分</div>
               <div className={`mt-1 font-display text-5xl ${getScoreColor(result.accuracyScore).split(" ")[0]}`}>
                 {Math.round(result.accuracyScore)}
               </div>
             </div>
-            <div className="h-12 w-px bg-slate-100"></div>
-            <div className="grid grid-cols-3 gap-4 text-center">
+            <div className="hidden h-12 w-px bg-slate-100 sm:block"></div>
+            <div className="grid w-full grid-cols-3 gap-3 text-center sm:w-auto sm:gap-4">
               <div>
                 <div className="text-[10px] font-bold uppercase tracking-widest text-slate-400">准确度</div>
                 <div className="mt-1 text-lg font-bold text-slate-700">{Math.round(result.pronScore)}</div>
@@ -129,7 +139,6 @@ export function PronunciationScorer({ referenceText, onClose, onScoreSaved }: { 
             </div>
           </div>
 
-          {/* 单词高亮展示 */}
           <div className="rounded-[1.2rem] bg-white p-4 leading-8 shadow-sm">
             <div className="text-xs font-semibold text-slate-500 mb-2">发音详情（标红单词请注意练习）：</div>
             <div className="flex flex-wrap gap-1 text-lg">

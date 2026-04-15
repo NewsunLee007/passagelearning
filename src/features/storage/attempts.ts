@@ -1,4 +1,4 @@
-import { apiPost } from "../../lib/api";
+import { apiGet, apiPost } from "../../lib/api";
 
 export type Attempt = {
   id: string;
@@ -46,6 +46,33 @@ export function loadAllAttempts(userId: string): Attempt[] {
   return allAttempts;
 }
 
+export function mergeAttempts(userId: string, articleId: string, incoming: Attempt[]) {
+  const attempts = loadAttempts(userId, articleId);
+  const byId = new Map<string, Attempt>();
+  for (const a of attempts) byId.set(a.id, a);
+  for (const a of incoming) {
+    if (!a?.id) continue;
+    byId.set(a.id, a);
+  }
+  const next = Array.from(byId.values()).sort((a, b) => new Date(a.createdAt).getTime() - new Date(b.createdAt).getTime());
+  window.localStorage.setItem(lsKey(userId, articleId), JSON.stringify(next));
+  return next;
+}
+
+export async function fetchAttemptsFromServer(params: {
+  userId: string;
+  articleId?: string;
+  taskPrefix?: string;
+  limit?: number;
+}) {
+  const query = new URLSearchParams();
+  query.set("userId", params.userId);
+  if (params.articleId) query.set("articleId", params.articleId);
+  if (params.taskPrefix) query.set("taskPrefix", params.taskPrefix);
+  if (params.limit) query.set("limit", String(params.limit));
+  return apiGet<Attempt[]>(`/api/attempts?${query.toString()}`);
+}
+
 export async function saveAttempt(attempt: Attempt) {
   const attempts = loadAttempts(attempt.userId, attempt.articleId);
   attempts.push(attempt);
@@ -57,4 +84,3 @@ export async function saveAttempt(attempt: Attempt) {
     // Local-first fallback keeps the learning flow available offline.
   }
 }
-

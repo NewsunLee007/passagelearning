@@ -3,11 +3,14 @@ import type { TextbookBook } from "../../features/content/catalog";
 
 export function TextbookDirectory({
   books,
-  interactive = true
+  interactive = true,
+  buildArticleLink
 }: {
   books: TextbookBook[];
   interactive?: boolean;
+  buildArticleLink?: (articleId: string) => string;
 }) {
+  const linkFor = buildArticleLink ?? ((articleId: string) => `/a/${articleId}`);
   return (
     <div className="overflow-hidden rounded-[2rem] border border-white/70 bg-white/88 shadow-[0_18px_54px_rgba(15,23,42,0.06)]">
       {books.map((book) => {
@@ -38,7 +41,7 @@ export function TextbookDirectory({
               <div className="flex items-center gap-3">
                 {interactive && book.loaded && firstArticle ? (
                   <Link
-                    to={`/a/${firstArticle.id}`}
+                    to={linkFor(firstArticle.id)}
                     onClick={(event) => event.stopPropagation()}
                     className="hidden rounded-full border border-primary/15 bg-primary/10 px-4 py-2 text-sm font-semibold text-primary transition hover:bg-primary/15 sm:inline-flex"
                   >
@@ -70,7 +73,7 @@ export function TextbookDirectory({
                             interactive ? (
                               <Link
                                 key={article.id}
-                                to={`/a/${article.id}`}
+                                to={linkFor(article.id)}
                                 className="flex items-center justify-between gap-4 rounded-[1.1rem] px-3 py-3 transition hover:bg-slate-50"
                               >
                                 <div className="min-w-0">

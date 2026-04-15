@@ -3,6 +3,6 @@ export function getSession() {
   const studentName = (window.localStorage.getItem("studentName") ?? "").trim();
   const classId = (window.localStorage.getItem("classId") ?? "").trim();
   const userId = (window.localStorage.getItem("userId") ?? "").trim();
-  return { className, studentName, classId, userId };
+  const schoolCode = (window.localStorage.getItem("schoolCode") ?? "").trim();
+  return { className, studentName, classId, userId, schoolCode };
 }
-

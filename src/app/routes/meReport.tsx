@@ -41,7 +41,7 @@ export function MeReportRoute() {
         <div className="mt-3 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           <Stat label="总提交次数" value={String(attempts.length)} />
           <Stat label="总收藏句子数" value={String(quotes.length)} />
-          <Stat label="跟读平均分" value={rate(pronunciation) == null ? "—" : `${rate(pronunciation)}`} />
+          <Stat label="跟读平均分" value={rate(pronunciation) == null ? "—" : `${rate(pronunciation)}分`} />
           <Stat label="词汇总体正确率" value={rate(vocab) == null ? "—" : `${rate(vocab)}%`} />
           <Stat label="拆句总体正确率" value={rate(sentence) == null ? "—" : `${rate(sentence)}%`} />
           <Stat label="阅读总体正确率" value={rate(reading) == null ? "—" : `${rate(reading)}%`} />

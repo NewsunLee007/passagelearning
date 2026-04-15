@@ -7,7 +7,7 @@ import { useArticleDemo } from "../../features/content/useArticleDemo";
 import { loadQuotes, toggleQuote } from "../../features/storage/quotes";
 import { loadWordFavs, toggleWordFav } from "../../features/storage/wordFavorites";
 import { saveAttempt } from "../../features/storage/attempts";
-import { PronunciationScorer } from "../components/PronunciationScorer";
+import { PronunciationScorer, type PronunciationScoreSavedPayload } from "../components/PronunciationScorer";
 
 type LexiconItem = {
   phonetic?: string;
@@ -571,15 +571,15 @@ export function ReadingMainRoute() {
               setPaused(false);
               playSentenceById(sid);
             }}
-            onScoreSaved={(score) => {
+            onScoreSaved={(payload) => {
               saveAttempt({
                 id: crypto.randomUUID(),
                 userId: session.userId,
                 classId: session.classId,
                 articleId: data.article.id,
                 taskKey: `pronunciation:${grammarModal.sid}`,
-                answer: { action: "pronunciation_score" },
-                score,
+                answer: { action: "pronunciation_score", result: payload.result, referenceText: byId.get(grammarModal.sid!)?.text ?? "" },
+                score: payload.score,
                 durationMs: 0,
                 createdAt: new Date().toISOString()
               }).catch(() => {});
@@ -711,7 +711,7 @@ function GrammarModalBody(params: {
   isFav: boolean;
   onToggleFav: () => void;
   onPlay: (sid: string) => void;
-  onScoreSaved?: (score: number) => void;
+  onScoreSaved?: (payload: PronunciationScoreSavedPayload) => void;
   supportLoading: boolean;
   supportError: string | null;
 }) {
