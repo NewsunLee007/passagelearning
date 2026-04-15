@@ -139,6 +139,10 @@ export function TeacherManageRoute() {
                 onChange={(event) => setCreateClassForm({ ...createClassForm, schoolCode: event.target.value })}
                 placeholder="如：newsun"
               />
+              <p className="mt-2 text-xs text-slate-500 leading-relaxed">
+                <strong className="text-slate-600">说明：</strong>如果你们学校不同老师创建了同名班级（比如都有“七年级1班”），为了避免数据冲突，建议填入一个本校专用的拼音或英文缩写代码。
+                <br />留空则直接创建“七年级1班”。
+              </p>
             </label>
             <label className="block">
               <div className="text-sm font-semibold text-slate-700 mb-2">班级名称</div>
@@ -169,15 +173,19 @@ export function TeacherManageRoute() {
             >
               {classes.map((row) => (
                 <option key={row.id} value={row.id}>
-                  {row.name}
+                  {row.name.includes(":") ? `${row.name.split(":")[1]} (${row.name.split(":")[0]})` : row.name}
                 </option>
               ))}
             </select>
           </div>
 
           {selectedClass && (
-            <div className="mt-4 rounded-xl border border-slate-100 bg-slate-50 px-4 py-3 text-sm text-slate-700">
-              学生登录填写：学校代码 {selectedMeta.schoolCode || "（留空）"}，班级 {selectedMeta.className}
+            <div className="mt-4 rounded-xl border border-slate-100 bg-amber-50/50 px-4 py-3 text-sm text-slate-700">
+              <strong className="text-amber-800">学生登录填写规范：</strong>
+              <ul className="mt-1 list-disc pl-5 text-amber-700/80 space-y-1">
+                <li>学校代码：<span className="font-mono font-bold text-amber-900">{selectedMeta.schoolCode || "（留空不填）"}</span></li>
+                <li>班级：<span className="font-mono font-bold text-amber-900">{selectedMeta.className}</span></li>
+              </ul>
             </div>
           )}
 
