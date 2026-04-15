@@ -13,8 +13,10 @@
       ]
     }
   ],
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/(.*)", "dest": "/index.html" }
+  "rewrites": [
+    { "source": "/api/teacher/(.*)", "destination": "/api/teacher?slug=$1" },
+    { "source": "/api/articles/(.*)", "destination": "/api/articles?slug=$1" },
+    { "source": "/api/(.*)", "destination": "/api/$1" },
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
