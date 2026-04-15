@@ -12,7 +12,7 @@ export default async function handler(req, res) {
 
   try {
     const slug = req.query.slug;
-    const parts = Array.isArray(slug) ? slug.map((part) => String(part || "").trim()).filter(Boolean) : [];
+    const parts = Array.isArray(slug) ? slug.map((part) => String(part || "").trim()).filter(Boolean) : (typeof slug === "string" ? slug.split("/").filter(Boolean) : []);
     const articleId = String(parts[0] || "").trim();
     const wantsSupport = parts[1] === "support";
     const sql = getSql();
