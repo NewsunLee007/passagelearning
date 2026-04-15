@@ -4,8 +4,8 @@ import {
   mergeArticleContent,
   mergeArticleSupport,
   pickArticleSupport
-} from "../_lib/articles.js";
-import { getSql, methodNotAllowed, sendError, sendJson } from "../_lib/db.js";
+} from "./_lib/articles.js";
+import { getSql, methodNotAllowed, sendError, sendJson } from "./_lib/db.js";
 
 export default async function handler(req, res) {
   if (req.method !== "GET") return methodNotAllowed(res, ["GET"]);

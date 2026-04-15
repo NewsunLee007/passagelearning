@@ -1,7 +1,7 @@
 import { randomBytes, scryptSync, timingSafeEqual } from "node:crypto";
-import { mergeArticleContent } from "../_lib/articles.js";
-import { createTeacherTokenWithPayload, requireTeacher } from "../_lib/teacherAuth.js";
-import { ensureBody, getSql, methodNotAllowed, sendError, sendJson } from "../_lib/db.js";
+import { mergeArticleContent } from "./_lib/articles.js";
+import { createTeacherTokenWithPayload, requireTeacher } from "./_lib/teacherAuth.js";
+import { ensureBody, getSql, methodNotAllowed, sendError, sendJson } from "./_lib/db.js";
 
 function applyCors(res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
